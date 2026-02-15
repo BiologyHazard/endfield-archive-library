@@ -1,0 +1,121 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "cid": "2675",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「全面测试」充值返还查询网页上线",
+        "author": "",
+        "displayTime": 1768728600,
+        "cover": "https://web.hycdn.cn/upload/image/20260117/0dc962d0bcf6bd7b75c352d71ff98821.png",
+        "extraCover": "",
+        "brief": "亲爱的管理员：\n「全面测试」充值返还查询网页已上线。网页地址：https://endfield.hypergryph.com/chargeReward?source_from=official参与过「"
+      },
+      {
+        "cid": "8564",
+        "tab": "news",
+        "sticky": false,
+        "title": "《明日方舟：终末地》「公测前瞻」研发通讯",
+        "author": "",
+        "displayTime": 1768622400,
+        "cover": "https://web.hycdn.cn/upload/image/20260116/16a259f4d95f1cfc1e7fd31dae33c085.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。公测版本将是《明日方舟：终末地》正式旅程的起点。在公测即将到来之际，我们希望通过本期研发通讯，向管理员介绍公测版本的主要优化与调整内容。\n游戏流程与探索"
+      },
+      {
+        "cid": "2676",
+        "tab": "notices",
+        "sticky": false,
+        "title": "《明日方舟：终末地》「全面测试」测试已结束！",
+        "author": "",
+        "displayTime": 1766988000,
+        "cover": "https://web.hycdn.cn/upload/image/20251227/9c6eb4a2e52adb8ed2e7d56cb3d917c0.png",
+        "extraCover": "",
+        "brief": "亲爱的管理员：《明日方舟：终末地》「全面测试」已正式结束，服务器已关闭，管理员将不能登录游戏，本次测试的游戏数据将被清除。感谢所有关注和参与本次测试的管理员。\n更多游戏资讯可关注官方社区和官方自媒体账"
+      },
+      {
+        "cid": "0443",
+        "tab": "news",
+        "sticky": false,
+        "title": "《明日方舟：终末地》「全面测试」测试结束预告！",
+        "author": "",
+        "displayTime": 1765195500,
+        "cover": "https://web.hycdn.cn/upload/image/20251208/96b89764d5d04a253366cbea772fbce2.png",
+        "extraCover": "",
+        "brief": "亲爱的管理员：《明日方舟：终末地》「全面测试」将于2025/12/29 14:00 （UTC+8）结束，届时本次测试的游戏服务器将关闭，管理员将无法登录游戏。\n感谢所有关注与参与测试体验的管理员，测试"
+      },
+      {
+        "cid": "8565",
+        "tab": "news",
+        "sticky": false,
+        "title": "《明日方舟：终末地》「全面测试」研发通讯//03",
+        "author": "",
+        "displayTime": 1765195200,
+        "cover": "https://web.hycdn.cn/upload/image/20251208/2bb97e42c04c905cdaedc2faf8ca9f50.jpg",
+        "extraCover": "",
+        "brief": "尊敬的管理员们：自全面测试开启以来，项目组通过调研问卷、客服反馈、社群讨论等多个渠道，收到了大家对于前期教学引导与流程体验、战斗与数值设计、卡池资源获取、UI与美术表现、多端适配与性能表现等方面的宝贵"
+      },
+      {
+        "cid": "1181",
+        "tab": "notices",
+        "sticky": false,
+        "title": "《明日方舟：终末地》「全面测试」正式开启！",
+        "author": "",
+        "displayTime": 1764298800,
+        "cover": "https://web.hycdn.cn/upload/image/20251126/fa4d951f7288107fbda9666a453290c9.jpg",
+        "extraCover": "",
+        "brief": "「全面测试」已正式开启，塔卫二的一切等待管理员的开拓与探索。\n▼//测试时间2025/11/28 11:00 - 测试结束时间另行通知\n▼//测试信息测试类型：限量计费删档测试测试平台：PC端及移动端"
+      },
+      {
+        "cid": "8566",
+        "tab": "notices",
+        "sticky": false,
+        "title": "《明日方舟：终末地》「全面测试」预下载现已开启！",
+        "author": "",
+        "displayTime": 1764158400,
+        "cover": "https://web.hycdn.cn/upload/image/20251126/2e9c7e6362e6ca4b5cbc8d445ab9f482.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：《明日方舟：终末地》「全面测试」预下载现已开启！测试将于2025/11/28 11:00正式开启！\n1. 管理员可前往「全面测试」资格查询页，使用鹰角网络通行证账号登录，点击【资格查询】"
+      },
+      {
+        "cid": "3823",
+        "tab": "notices",
+        "sticky": false,
+        "title": "《明日方舟：终末地》「全面测试」开始资格发放",
+        "author": "",
+        "displayTime": 1763953200,
+        "cover": "https://web.hycdn.cn/upload/image/20251122/e3f8156715d928ef793269526b3d6efc.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：《明日方舟：终末地》「全面测试」体验资格已开始陆续发放，管理员可通过以下途径确认是否获得体验资格：\n▼//「全面测试」资格查询页进入「全面测试」资格查询页并登录鹰角通行证后，点击【资格查"
+      },
+      {
+        "cid": "2679",
+        "tab": "notices",
+        "sticky": false,
+        "title": "《明日方舟：终末地》「全面测试」招募即将结束",
+        "author": "",
+        "displayTime": 1762916400,
+        "cover": "https://web.hycdn.cn/upload/image/20251111/1191483842720d0b24dae8bfe1323d23.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：《明日方舟：终末地》「全面测试」招募将于2025/11/17 18:00（UTC+8）结束。届时测试招募问卷填写入口将会关闭，我们将结束「全面测试」的招募报名，还请管理员注意截止时间。「"
+      },
+      {
+        "cid": "7235",
+        "tab": "news",
+        "sticky": false,
+        "title": "《明日方舟：终末地》「全面测试」研发通讯//02",
+        "author": "",
+        "displayTime": 1761969600,
+        "cover": "https://web.hycdn.cn/upload/image/20251031/2bb97e42c04c905cdaedc2faf8ca9f50.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：大家好，这里是《明日方舟：终末地》项目组。自「再次测试」一别以来，我们根据各位管理员提供的宝贵建议与反馈，进行了多项优化与调整，同时也基于项目的整体规划，新增了大量内容。在「全面测试」即"
+      }
+    ],
+    "current": 3,
+    "pageSize": 10,
+    "total": 40
+  }
+}

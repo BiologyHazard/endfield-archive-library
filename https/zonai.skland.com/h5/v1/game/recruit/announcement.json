@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1771159471",
+  "data": {
+    "postedAtTs": 1770696000,
+    "description": "更新后，以下干员将加入并常驻【公开招募】\n6★卡涅利安、5★绮良、4★深靛",
+    "characters": [
+      {
+        "charId": "char_426_billro",
+        "tagIds": [
+          6,
+          11,
+          10,
+          21,
+          22
+        ],
+        "name": "卡涅利安",
+        "rarity": 5,
+        "profession": "CASTER"
+      },
+      {
+        "charId": "char_469_indigo",
+        "tagIds": [
+          6,
+          10,
+          19,
+          12
+        ],
+        "name": "深靛",
+        "rarity": 3,
+        "profession": "CASTER"
+      },
+      {
+        "charId": "char_478_kirara",
+        "tagIds": [
+          7,
+          14,
+          9,
+          19,
+          20
+        ],
+        "name": "绮良",
+        "rarity": 4,
+        "profession": "SPECIAL"
+      }
+    ]
+  }
+}

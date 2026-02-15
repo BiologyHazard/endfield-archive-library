@@ -1,0 +1,72 @@
+{
+  "code": 0,
+  "data": {
+    "topicCid": "0092",
+    "type": 1,
+    "platform": "Windows",
+    "server": "#DEFAULT",
+    "channel": "2",
+    "subChannel": "#DEFAULT",
+    "lang": "zh-cn",
+    "key": "1:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
+    "version": "76e2627fbd6f4fc8d097be98f69796c3",
+    "onlineList": [
+      {
+        "cid": "8975",
+        "version": 1769053790,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "2124",
+        "version": 1769054188,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "6452",
+        "version": 1768817243,
+        "needRedDot": true,
+        "needPopup": false
+      }
+    ],
+    "popupVersion": 0,
+    "updatedAt": 1770862200,
+    "list": [
+      {
+        "cid": "8975",
+        "type": 1,
+        "tab": "updates",
+        "orderType": 2,
+        "orderWeight": 5,
+        "displayType": "rich_text",
+        "startAt": 1768838400,
+        "focus": 0,
+        "title": "公平运营声明"
+      },
+      {
+        "cid": "2124",
+        "type": 1,
+        "tab": "updates",
+        "orderType": 2,
+        "orderWeight": 6,
+        "displayType": "rich_text",
+        "startAt": 1768838400,
+        "focus": 0,
+        "title": "未成年人\\n成长护航指引"
+      },
+      {
+        "cid": "6452",
+        "type": 1,
+        "tab": "updates",
+        "orderType": 2,
+        "orderWeight": 7,
+        "displayType": "rich_text",
+        "startAt": 1768838400,
+        "focus": 0,
+        "title": "集成工业\\n使用说明"
+      }
+    ]
+  },
+  "msg": ""
+}

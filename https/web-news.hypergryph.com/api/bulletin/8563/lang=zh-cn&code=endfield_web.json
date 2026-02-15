@@ -1,0 +1,16 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "cid": "8563",
+    "tab": "notices",
+    "sticky": false,
+    "title": "手柄支持与使用常见问题说明",
+    "author": "",
+    "displayTime": 1768903200,
+    "cover": "https://web.hycdn.cn/upload/image/20260120/3e5607d9a378dd1ea4950d53975e8df9.png",
+    "extraCover": "",
+    "brief": "亲爱的管理员：感谢您对游戏的关注与支持。为帮助管理员更顺畅地使用手柄进行游玩，我们整理了当前版本中关于手柄支持范围、连接方式及常见问题的说明。请您在使用前仔细阅读以下内容，以获得更佳的游戏体验。\n当前",
+    "data": "<p>亲爱的管理员：</p><p>感谢您对游戏的关注与支持。为帮助管理员更顺畅地使用手柄进行游玩，我们整理了当前版本中关于手柄支持范围、连接方式及常见问题的说明。请您在使用前仔细阅读以下内容，以获得更佳的游戏体验。</p><p><br></p><h3>当前版本支持的手柄范围</h3><p><strong>PC&amp;移动端设备：</strong></p><ul><li><strong>PlayStation®</strong>：PS5®（DualSense® 无线控制器、DualSense Edge™ 无线控制器）、PS4®（DUALSHOCK®4 无线控制器）</li><li><strong>Xbox</strong>：Xbox 无线控制器、Xbox Elite 无线控制器</li></ul><p>※ 使用其他品牌手柄进行游玩，可能存在部分兼容性问题。</p><p><br></p><p><strong>Q：PC&amp;移动设备如何连接手柄？</strong></p><p>A: PC 与移动设备均支持以下两种连接方式：</p><ol><li><strong>USB 有线连接</strong></li><li> 使用 USB 数据线将手柄直接连接至设备即可。</li><li><strong>蓝牙无线连接</strong></li><li> 对于支持蓝牙的设备，可开启蓝牙并与手柄进行配对；如 PC 本身不支持蓝牙，可外接蓝牙接收器。</li><li> 具体连接方式可参考以下官方指引：</li><li class=\"ql-indent-1\">Xbox无线控制器：<a href=\"https://support.xbox.com/help/hardware-network/controller/connect-xbox-wireless-controller-to-pc\" rel=\"noopener noreferrer\" target=\"_blank\">如何将我的 Xbox 控制器连接到电脑？</a></li><li class=\"ql-indent-1\">DualSense® 无线控制器：<a href=\"https://www.playstation.com/support/hardware/pair-dualsense-controller-bluetooth/\" rel=\"noopener noreferrer\" target=\"_blank\">如何将DualSense无线控制器与PC、Mac和移动设备配对使用</a></li><li class=\"ql-indent-1\">DUALSHOCK®4无线控制器：<a href=\"https://www.playstation.com/support/hardware/ps4-pair-dualshock-4-wireless-with-pc-or-mac/?country-selector=true\" rel=\"noopener noreferrer\" target=\"_blank\">如何将DUALSHOCK 4无线控制器与个人电脑、Mac、Android和iOS设备搭配使用</a></li></ol><p>※ 为保证最佳游玩体验，使用 DualSense® 或 DUALSHOCK®4 无线控制器在 PC 端游玩时，推荐采用有线连接方式。</p><p><br></p><p><strong>Q：在游戏中如何使用手柄？</strong></p><p>A：当设备成功连接手柄并启动游戏后：</p><ul><li>在<strong>登录界面</strong>进行任意手柄操作，即可自动切换至<strong>手柄 UI 布局</strong>。</li><li>在<strong>游戏过程中</strong>，大部分场景下可通过任意手柄按键唤醒手柄操作，系统将弹出是否切换至控制器操作的提示，确认后即可正常使用手柄进行游玩。</li><li>在<strong>手柄 UI 布局</strong>下，按下任意键盘按键或点击触屏，即可触发切换回原操作布局的系统提示。</li></ul><p><br></p><p><strong>以下场景暂不支持操作布局切换：</strong></p><ul><li>管理员角色选择 / 创建名称页面</li><li>教学引导过程中</li><li>角色对话或剧情演出过程中</li><li>部分战斗场景 / 模拟空间中</li></ul><p><br></p><p><strong>Q：使用手柄如何在游戏中进行文字输入？</strong></p><ul><li><strong>PC 设备</strong>：激活输入框后，需要使用键盘进行文字输入</li><li><strong>移动端 / PS 端</strong>：激活输入框后，使用系统唤起的虚拟键盘进行输入</li></ul><p><br></p><p><strong>Q: 除了PlayStation®5，DualSense 无线控制器在其他平台上是否支持完整功能？</strong></p><p>A：在非 PS5 平台上，若希望体验完整的 DualSense® / DualSense Edge™ / DUALSHOCK®4 功能，<strong>推荐使用有线连接方式，</strong>使用蓝牙无线连接时：</p><ul><li>仅支持自适应扳机</li><li>不支持震动功能与手柄扬声器功能</li></ul><p><br></p><p><strong>Xbox 官方手柄</strong>：</p><ul><li>PC 端：蓝牙 / 有线连接均可体验完整功能</li><li>移动端：蓝牙连接下不支持手柄震动与自适应扳机功能</li></ul><p><br></p><p><strong>Q：手柄震动功能可以关闭吗？</strong></p><ul><li>手柄震动与自适应扳机功能可在 <strong>设置 → 操控</strong> 中开启或关闭</li><li>手柄扬声器功能可在 <strong>设置 → 音频</strong> 中进行设置</li></ul><p>※ 在 PC 设备上连接 DualSense® 无线控制器时，系统可能会默认将音频输出设备切换至控制器。若出现该情况，请管理员点击系统扬声器图标，手动切换回所需的音频输出设备</p><p><br></p><p>我们将持续优化手柄相关体验，如在当前版本中遇到任何手柄相关问题，欢迎通过官方客服进行反馈。</p><p><br></p><p>感谢管理员的理解与支持！</p>"
+  }
+}

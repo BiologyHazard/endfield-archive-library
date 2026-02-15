@@ -1,0 +1,16 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "cid": "7239",
+    "tab": "notices",
+    "sticky": false,
+    "title": "使用NVIDIA App优化导致游戏表现异常的问题说明",
+    "author": "",
+    "displayTime": 1770462000,
+    "cover": "",
+    "extraCover": "",
+    "brief": "亲爱的管理员：当您使用安装有NVIDIA显卡的PC端设备体验游戏时，开启 NVIDIA App 相关优化功能后，有概率出现游戏画面模糊、运行卡顿等异常情况。如您遇到该类问题，可通过以下方式尝试解决问题",
+    "data": "<p>亲爱的管理员：</p><p>当您使用<strong>安装有NVIDIA显卡的PC端设备体验游戏时，开启 NVIDIA App 相关优化功能</strong>后，有概率出现<strong>游戏画面模糊、运行卡顿</strong>等异常情况。如您遇到该类问题，可通过以下方式尝试解决问题。</p><p><br></p><p><strong>■在NVIDIA App 中恢复程序设置至未优化状态</strong></p><p>· 打开NVIDIA App -【图形】-【程序设置】-《明日方舟：终末地》</p><p>· 点击【恢复】按钮，将游戏设置调整为【游戏 未优化】状态</p><img src=\"https://web.hycdn.cn/upload/image/20260207/fc89d079c8eda4cad4be5d5b89121586.PNG\" data-width=\"1280\" data-height=\"318\"><img src=\"https://web.hycdn.cn/upload/image/20260207/9cdbd43a76f978bfb2cbe50316fd104d.PNG\" data-width=\"1280\" data-height=\"267\"><p><strong>■关闭NVIDIA App的自动优化功能</strong></p><p>· 打开NVIDIA App - 【设置】 ，找到 【自动优化新添加的游戏及应用程序】选项并将其关闭</p><img src=\"https://web.hycdn.cn/upload/image/20260207/4d494d979b7be308aac4c67307e2bddf.PNG\" data-width=\"1280\" data-height=\"928\"><p><strong>■通过游戏内设置，调整【性能与画面】选项</strong></p><p><strong>· 画面模糊问题调整方式</strong></p><p>方式一：进入《明日方舟：终末地》 - 【设置】-【性能与画面】-【画质提升】，选择【NVIDIA DLSS】，将【DLSS超分辨率模式】调整至适合当前设备负载的选项。</p><p>※ 上述调整适用于支持【NVIDIA DLSS功能】的显卡</p><img src=\"https://web.hycdn.cn/upload/image/20260207/d5c2bee9d493716ae410f5ab35d542cf.JPEG\" data-width=\"1280\" data-height=\"720\"><img src=\"https://web.hycdn.cn/upload/image/20260207/98e9e65e2e7447efb4a8367a1dc0638d.JPEG\" data-width=\"1280\" data-height=\"720\"><p>方式二：进入《明日方舟：终末地》 - 【设置】-【性能与画面】-【画质提升】将选项调整至【TAAU】后，通过【渲染倍率】选项进行画质调整。</p><img src=\"https://web.hycdn.cn/upload/image/20260207/31e6b28e02ef910f697d38bc8ea13e7c.JPEG\" data-width=\"1280\" data-height=\"720\"><img src=\"https://web.hycdn.cn/upload/image/20260207/0c0b1038fb98d97cfa752b5437933d5f.JPEG\" data-width=\"1280\" data-height=\"720\"><p><strong>· 游戏卡顿问题调整方式</strong></p><p>1.进入《明日方舟：终末地》 - 【设置】-【性能与画面】-【画面质量】</p><p>2.将【画面质量】调整至适合当前设备负载的选项</p><p>※ 您也可以通过调节【分辨率】、【各向异性采样】、【DLSS超分辨模式】（适当降低档位，避免使用性能损耗较大的DLAA，选择“平衡”模式）、【帧生成】等选项来进一步平衡设备负载与画面表现。</p><img src=\"https://web.hycdn.cn/upload/image/20260207/0c02b9b338d567364b7cf385086c8914.JPEG\" data-width=\"1280\" data-height=\"719\"><p><br></p><p><strong>上述问题带来的不便，我们深表歉意。再次感谢管理员一直以来对于《明日方舟：终末地》的理解与支持！</strong></p>"
+  }
+}

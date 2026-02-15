@@ -1,0 +1,72 @@
+{
+  "code": 0,
+  "data": {
+    "topicCid": "0092",
+    "type": 1,
+    "platform": "PlayStation",
+    "server": "#DEFAULT",
+    "channel": "1",
+    "subChannel": "#DEFAULT",
+    "lang": "zh-cn",
+    "key": "1:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
+    "version": "95c4ca242184f3c96cd779493a4bb5e9",
+    "onlineList": [
+      {
+        "cid": "2128",
+        "version": 1769053756,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "5543",
+        "version": 1769054164,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "6452",
+        "version": 1768817243,
+        "needRedDot": true,
+        "needPopup": false
+      }
+    ],
+    "popupVersion": 0,
+    "updatedAt": 1770862200,
+    "list": [
+      {
+        "cid": "2128",
+        "type": 1,
+        "tab": "updates",
+        "orderType": 2,
+        "orderWeight": 5,
+        "displayType": "rich_text",
+        "startAt": 1768838400,
+        "focus": 0,
+        "title": "公平运营声明"
+      },
+      {
+        "cid": "5543",
+        "type": 1,
+        "tab": "updates",
+        "orderType": 2,
+        "orderWeight": 6,
+        "displayType": "rich_text",
+        "startAt": 1768838400,
+        "focus": 0,
+        "title": "未成年人\\n成长护航指引"
+      },
+      {
+        "cid": "6452",
+        "type": 1,
+        "tab": "updates",
+        "orderType": 2,
+        "orderWeight": 7,
+        "displayType": "rich_text",
+        "startAt": 1768838400,
+        "focus": 0,
+        "title": "集成工业\\n使用说明"
+      }
+    ]
+  },
+  "msg": ""
+}
