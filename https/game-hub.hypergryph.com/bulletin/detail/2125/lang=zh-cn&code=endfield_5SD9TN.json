@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "2125",
+    "type": 0,
+    "tab": "events",
+    "orderType": 1,
+    "orderWeight": 12,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1769036400,
+    "title": "蚀像寻遗",
+    "header": "「蚀像寻遗」玩法说明",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260117/f37243c321ecfd8676f32adcf6c0b6b5.jpg\" data-width=\"1650\" data-height=\"300\"><p><strong>▼//开放时间</strong></p><p>公测开启后</p><p></p><p><strong>▼//探索奖励</strong></p><p>「蚀像寻遗」开放期间，达到指定行动刻度后，可获得【嵌晶玉】【基础寻访凭证】【培养素材】等奖励。</p><p></p><p><strong>▼//参与条件</strong></p><p>完成主线任务「第一章 - 进程Ⅲ - 诡楼寻踪」</p><p></p><p><strong>▼//玩法说明</strong></p><p>· 「蚀像寻遗」为常驻玩法。该玩法开放期间，可于帝江号进入【谷地像差】进行探索。探索的同时可领取各类委托，完成相应委托后，可解锁多种辅助探测技术，提升在谷地像差中的探索能力，并获取【嵌晶玉】等奖励。</p><p>· 从谷地像差带出【沉积结核】或完成特定委托，可积累行动刻度，达到指定行动刻度即可领取对应奖励。</p><p>※ 更多详细说明，请前往游戏内【蚀像寻遗】界面，点击【玩法导览】查看。</p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1768649579
+  },
+  "msg": ""
+}

@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "3065",
+    "type": 0,
+    "tab": "news",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1769918400,
+    "title": "2月签到开启\\n领取丰厚奖励",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260131/2f7d41c9e1c717f3c9f7e6edd0c536e8.jpg",
+      "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fwww.skland.com%252Fdownload%253Ftype%253DdailySign",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1769851180
+  },
+  "msg": ""
+}

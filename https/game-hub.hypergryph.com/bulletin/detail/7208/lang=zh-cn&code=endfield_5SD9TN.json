@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "7208",
+    "type": 0,
+    "tab": "news",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1770264000,
+    "title": "公测主题画廊\\n现已上线",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260204/811180d9cf15a20aacd9b929ff9078a0.png",
+      "link": "https://endfield.hypergryph.com/special/over-the-frontier?source_from=game",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1770261295
+  },
+  "msg": ""
+}

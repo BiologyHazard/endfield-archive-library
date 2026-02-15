@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "1394",
+    "type": 0,
+    "tab": "events",
+    "orderType": 1,
+    "orderWeight": 4,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1769036400,
+    "title": "唤醒签到",
+    "header": "「唤醒签到」新手活动说明",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260117/4f426f61d79e5eea347048b01c245cd6.png\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//活动时间</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">公测开启后</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//活动奖励</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">活动开放期间，累计完成14日签到可获得6星干员【艾尔黛拉】、6星武器【沧溟星梦（施术单元）】、【特许寻访凭证】等活动奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//参与条件</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">完成主线任务「第一章 - 进程Ⅰ - 基地解围」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//活动说明</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动期间，每日登录游戏即可领取对应累计签到奖励。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 每日登录将于04:00（服务器时间）刷新。所有签到奖励领取完毕后，活动界面将于次日04:00（服务器时间）关闭。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多活动详细说明，请前往游戏内【活动中心】查看。</span></p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1768643471
+  },
+  "msg": ""
+}

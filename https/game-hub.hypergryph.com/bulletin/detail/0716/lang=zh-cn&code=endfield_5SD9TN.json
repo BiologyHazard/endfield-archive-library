@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "0716",
+    "type": 0,
+    "tab": "news",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1769054400,
+    "title": "全球公测开启\\n森空岛福利活动",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260122/9da9271dbe611109485c906b3ccadf96.png",
+      "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fact.skland.com%252Fendfield%252Fob-download%253Fheader%253D0%2526stage%253Ddownload",
+      "linkType": 1
+    },
+    "needRedDot": false,
+    "needPopup": false,
+    "version": 1769050343
+  },
+  "msg": ""
+}

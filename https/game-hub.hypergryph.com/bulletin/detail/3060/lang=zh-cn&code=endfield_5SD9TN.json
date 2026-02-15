@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "3060",
+    "type": 0,
+    "tab": "events",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1769036400,
+    "title": "「零号委托」\\n版本日历",
+    "header": "「零号委托」版本日历",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260120/8e9e29a8e6848b1765ed548ab23af91d.jpg\" data-width=\"1920\" data-height=\"1080\"><img src=\"https://web.hycdn.cn/upload/image/20260120/6f1f5c3a005aad526faf0ccb47965c23.jpg\" data-width=\"1920\" data-height=\"1080\"><p></p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1768907272
+  },
+  "msg": ""
+}

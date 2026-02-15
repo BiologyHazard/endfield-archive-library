@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "0717",
+    "type": 0,
+    "tab": "news",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1769040000,
+    "title": "共赴星海\\n特别活动",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260121/02dedfc5a805b328d66570cd88a3c317.jpg",
+      "link": "https://endfield.hypergryph.com/activity/voyage-to-the-stars",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1768982355
+  },
+  "msg": ""
+}

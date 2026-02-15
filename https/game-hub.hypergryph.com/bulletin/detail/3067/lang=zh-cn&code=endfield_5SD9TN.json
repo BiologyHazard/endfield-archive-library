@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "3067",
+    "type": 0,
+    "tab": "news",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1769234400,
+    "title": "森空岛零号委托\\n创作者激励活动",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260123/4ec2f1b70a44a120dbdfc5598b3b1636.jpg",
+      "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fwww.skland.com%252Fact%252Fendfield%252F091950d66a48-ob-incentive%253Fheader%253D0",
+      "linkType": 1
+    },
+    "needRedDot": false,
+    "needPopup": false,
+    "version": 1769174930
+  },
+  "msg": ""
+}

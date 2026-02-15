@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "8974",
+    "type": 0,
+    "tab": "events",
+    "orderType": 1,
+    "orderWeight": 3,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1769729400,
+    "title": "爱，呐喊\\n和原型机",
+    "header": "「爱，呐喊和原型机」伊冯叙事活动说明",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260129/5b0c58e1bf2fc08593e5dde57d4847ec.png\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">在收到一个迟来的包裹后，伊冯邀请你一起去收集灵感，创作出完美的涂鸦。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//活动时间</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/01/30 12:00（服务器时间） - 版本更新维护前</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//参与条件</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">完成主线任务「第一章 - 进程Ⅳ - 四方会议」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//活动说明</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">· 完成支线任务「爱，呐喊和原型机」，可获得【嵌晶玉】【高级作战记录】【武器检查套组】等奖励。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动页面下线后，若满足任务参与条件，仍可在【任务】中继续体验该支线任务并获得对应奖励。</span></p>",
+      "linkType": 1
+    },
+    "needRedDot": false,
+    "needPopup": false,
+    "version": 1770288401
+  },
+  "msg": ""
+}

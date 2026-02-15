@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "7203",
+    "type": 0,
+    "tab": "events",
+    "orderType": 1,
+    "orderWeight": 10,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1769036400,
+    "title": "燃尽记忆之灰",
+    "header": "「燃尽记忆之灰」莱万汀叙事活动说明",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260120/51a8b2dafab8a20da201a5011387150a.png\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">在发生了这么多事情之后，你需要回一趟帝江号，确认失去的记忆是否有所恢复。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//活动时间</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">「零号委托」版本期间</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//参与条件</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">完成主线任务「第一章 - 进程Ⅲ - 世代摇篮」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//活动说明</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">· 完成支线任务「燃尽记忆之灰」，可获得【嵌晶玉】【高级作战记录】【武器检查套组】等奖励。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动页面下线后，若满足任务参与条件，仍可在【任务】中继续体验该支线任务并获得对应奖励。</span></p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1768909709
+  },
+  "msg": ""
+}

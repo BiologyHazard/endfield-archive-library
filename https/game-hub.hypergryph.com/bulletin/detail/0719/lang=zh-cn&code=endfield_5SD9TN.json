@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "0719",
+    "type": 0,
+    "tab": "events",
+    "orderType": 1,
+    "orderWeight": 5,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1769036400,
+    "title": "权限等阶奖励",
+    "header": "「权限等阶奖励」新手活动说明",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260117/4a82ce180c6ff05106716b13742bd877.png\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//活动时间</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">公测开启后</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//活动奖励</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">活动开放期间，达到指定权限等阶后，累计可获得【臻选武器补给】【星声申领凭证】【基础寻访凭证】【嵌晶玉】等活动奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//参与条件</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">完成主线任务「第一章 - 进程Ⅰ - 基地解围」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//活动说明</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">· 当权限等阶达到8/15/20/30/45级时，可前往【活动中心】领取对应奖励。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 【臻选武器补给】开启后，可从6星武器【J.E.T.（长柄武器）/白夜新星（单手剑）/爆破单元（施术单元）/楔子（手铳）/典范（双手剑）】中任选其一免费获取。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 【星声申领凭证】为特殊武库凭证。在【武库交易所】-「星声申领」中，可使用【星声申领凭证】进行1次申领，可获取10件武器。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 当所有奖励领取后，活动界面将于次日04:00（服务器时间）关闭。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多活动详细说明，请前往游戏内【活动中心】查看。</span></p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1768643478
+  },
+  "msg": ""
+}

@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "0715",
+    "type": 0,
+    "tab": "news",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1769673600,
+    "title": "管理员工作记录\\n网页活动开启",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260128/e6a39310dc12ecb1f65b3e6aa21df233.jpg",
+      "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fact.skland.com%252Fendfield%252Frecordbook%253Fheader%253D0",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1769591245
+  },
+  "msg": ""
+}
