@@ -1,0 +1,432 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1771237400",
+  "data": {
+    "rarities": [
+      {
+        "key": "rarity_6",
+        "value": "6"
+      },
+      {
+        "key": "rarity_5",
+        "value": "5"
+      },
+      {
+        "key": "rarity_4",
+        "value": "4"
+      },
+      {
+        "key": "rarity_3",
+        "value": "3"
+      }
+    ],
+    "professions": [
+      {
+        "key": "profession_defender",
+        "value": "重装"
+      },
+      {
+        "key": "profession_supporter",
+        "value": "辅助"
+      },
+      {
+        "key": "profession_caster",
+        "value": "术师"
+      },
+      {
+        "key": "profession_assault",
+        "value": "突击"
+      },
+      {
+        "key": "profession_vanguard",
+        "value": "先锋"
+      },
+      {
+        "key": "profession_guard",
+        "value": "近卫"
+      }
+    ],
+    "charProperties": [
+      {
+        "key": "char_property_physical",
+        "value": "物理"
+      },
+      {
+        "key": "char_property_natural",
+        "value": "自然"
+      },
+      {
+        "key": "char_property_cryst",
+        "value": "寒冷"
+      },
+      {
+        "key": "char_property_pulse",
+        "value": "电磁"
+      },
+      {
+        "key": "char_property_fire",
+        "value": "灼热"
+      }
+    ],
+    "weaponTypes": [
+      {
+        "key": "weapon_type_pistol",
+        "value": "手铳"
+      },
+      {
+        "key": "weapon_type_claymores",
+        "value": "双手剑"
+      },
+      {
+        "key": "weapon_type_wand",
+        "value": "施术单元"
+      },
+      {
+        "key": "weapon_type_sword",
+        "value": "单手剑"
+      },
+      {
+        "key": "weapon_type_lance",
+        "value": "长柄武器"
+      }
+    ],
+    "skillTypes": [
+      {
+        "key": "skill_type_ultimate_skill",
+        "value": "终结技"
+      },
+      {
+        "key": "skill_type_normal_skill",
+        "value": "战技"
+      },
+      {
+        "key": "skill_type_normal_attack",
+        "value": "普通攻击"
+      },
+      {
+        "key": "skill_type_combo_skill",
+        "value": "连携技"
+      }
+    ],
+    "skillProperties": [
+      {
+        "key": "skill_property_fire",
+        "value": "灼热"
+      },
+      {
+        "key": "skill_property_physical",
+        "value": "物理"
+      },
+      {
+        "key": "skill_property_natural",
+        "value": "自然"
+      },
+      {
+        "key": "skill_property_cryst",
+        "value": "寒冷"
+      },
+      {
+        "key": "skill_property_pulse",
+        "value": "电磁"
+      }
+    ],
+    "labelTypes": [
+      {
+        "key": "label_type_time_limited",
+        "value": "限时"
+      },
+      {
+        "key": "label_type_foresee",
+        "value": "预告"
+      },
+      {
+        "key": "label_type_remake",
+        "value": "复刻"
+      },
+      {
+        "key": "label_type_new",
+        "value": "New"
+      },
+      {
+        "key": "label_type_preview",
+        "value": "前瞻"
+      },
+      {
+        "key": "label_type_up",
+        "value": "Up"
+      },
+      {
+        "key": "label_type_limited",
+        "value": "限定"
+      }
+    ],
+    "equipRarities": [
+      {
+        "key": "equip_rarity_5",
+        "value": "金色品质"
+      },
+      {
+        "key": "equip_rarity_4",
+        "value": "紫色品质"
+      },
+      {
+        "key": "equip_rarity_3",
+        "value": "蓝色品质"
+      },
+      {
+        "key": "equip_rarity_2",
+        "value": "绿色品质"
+      },
+      {
+        "key": "equip_rarity_1",
+        "value": "灰色品质"
+      }
+    ],
+    "equipTypes": [
+      {
+        "key": "equip_type_edc",
+        "value": "配件"
+      },
+      {
+        "key": "equip_type_hand",
+        "value": "护手"
+      },
+      {
+        "key": "equip_type_body",
+        "value": "护甲"
+      }
+    ],
+    "equipLevels": [
+      {
+        "key": "equip_level_10",
+        "value": "10"
+      },
+      {
+        "key": "equip_level_73",
+        "value": "73"
+      },
+      {
+        "key": "equip_level_70",
+        "value": "70"
+      },
+      {
+        "key": "equip_level_53",
+        "value": "53"
+      },
+      {
+        "key": "equip_level_50",
+        "value": "50"
+      },
+      {
+        "key": "equip_level_36",
+        "value": "36"
+      },
+      {
+        "key": "equip_level_28",
+        "value": "28"
+      },
+      {
+        "key": "equip_level_20",
+        "value": "20"
+      }
+    ],
+    "activeEffectTypes": [
+      {
+        "key": "active_effect_type_buff",
+        "value": "增益"
+      },
+      {
+        "key": "active_effect_type_heal",
+        "value": "恢复"
+      },
+      {
+        "key": "active_effect_type_revive",
+        "value": "复活"
+      }
+    ],
+    "passiveEffectTypes": [],
+    "equipProperties": [
+      {
+        "key": "equip_attr_atk",
+        "value": "攻击力"
+      },
+      {
+        "key": "equip_attr_atk",
+        "value": "攻击力"
+      },
+      {
+        "key": "equip_attr_max_hp",
+        "value": "生命值"
+      },
+      {
+        "key": "equip_attr_max_hp",
+        "value": "生命值"
+      },
+      {
+        "key": "equip_attr_critical_rate",
+        "value": "暴击率"
+      },
+      {
+        "key": "equip_attr_physical_and_spellInfliction_enhance",
+        "value": "源石技艺强度"
+      },
+      {
+        "key": "equip_attr_heal_output_increase",
+        "value": "治疗效率加成"
+      },
+      {
+        "key": "equip_attr_physical_damage_increase",
+        "value": "物理伤害加成"
+      },
+      {
+        "key": "equip_attr_ultimate_sp_gain_scalar",
+        "value": "终结技充能效率"
+      },
+      {
+        "key": "equip_attr_normal_attack_damage_increase",
+        "value": "普通攻击伤害加成"
+      },
+      {
+        "key": "equip_attr_normal_skill_damage_increase",
+        "value": "战技伤害加成"
+      },
+      {
+        "key": "equip_attr_combo_skill_damage_increase",
+        "value": "连携技伤害加成"
+      },
+      {
+        "key": "equip_attr_ultimate_skill_damage_increase",
+        "value": "终结技伤害加成"
+      },
+      {
+        "key": "equip_attr_damage_to_broken_unit_increase",
+        "value": "对失衡目标伤害加成"
+      },
+      {
+        "key": "equip_main",
+        "value": "主能力"
+      },
+      {
+        "key": "equip_attr_cryst_and_pulse_damage_increase",
+        "value": "寒冷和电磁伤害加成"
+      },
+      {
+        "key": "equip_all_skill_damage_increase",
+        "value": "所有技能伤害加成"
+      },
+      {
+        "key": "equip_sub",
+        "value": "副能力"
+      },
+      {
+        "key": "equip_attr_all_damage_taken_scalar",
+        "value": "全伤害减免"
+      },
+      {
+        "key": "equip_fire_and_natural_damage_increase",
+        "value": "灼热和自然伤害加成"
+      },
+      {
+        "key": "equip_spell_damage_increase",
+        "value": "法术伤害加成"
+      }
+    ],
+    "equipAbilities": [
+      {
+        "key": "equip_attr_str",
+        "value": "力量"
+      },
+      {
+        "key": "equip_attr_agi",
+        "value": "敏捷"
+      },
+      {
+        "key": "equip_attr_wisd",
+        "value": "智识"
+      },
+      {
+        "key": "equip_attr_will",
+        "value": "意志"
+      }
+    ],
+    "suitTypes": [
+      {
+        "key": "f891b30534b3ec5b8f6c3774917009c4",
+        "value": "蚀电屏蔽"
+      },
+      {
+        "key": "f394fa805de26d20af37b04c5840b1d2",
+        "value": "50式应龙"
+      },
+      {
+        "key": "0307fe72af7e55f76cf375be267d636d",
+        "value": "阿伯莉遗声"
+      },
+      {
+        "key": "f9c31f6fb42099bbcdc79cb71b65e2ed",
+        "value": "重装信使"
+      },
+      {
+        "key": "2a50c1685223ad1c8ee798bc66ab8ac3",
+        "value": "M.I.警用"
+      },
+      {
+        "key": "50d183755f65e882454064176c3c3132",
+        "value": "点剑"
+      },
+      {
+        "key": "17d901698b54205436bcb50905d4d26d",
+        "value": "集成重型"
+      },
+      {
+        "key": "6d140bbabeb8636460161516ca659d45",
+        "value": "集成轻型"
+      },
+      {
+        "key": "d071c07e1a1665f0fe5eae0d18d37a87",
+        "value": "蚀电防护"
+      },
+      {
+        "key": "6f111f96a39d526ec108f4896079b7e5",
+        "value": "生物辅助"
+      },
+      {
+        "key": "1d6477b5665f05daa36c63ba24b8cf64",
+        "value": "动火用"
+      },
+      {
+        "key": "0803374d004606a0eb4fe79dd7d614f3",
+        "value": "拓荒"
+      },
+      {
+        "key": "8a46e433f86173ae5ba81f4f0f2cfff0",
+        "value": "巡行信使"
+      },
+      {
+        "key": "a68b5b89b9e323d3d557fb178e5bb36c",
+        "value": "轻超域"
+      },
+      {
+        "key": "508f82db8e94556f724c4fbbfbf3e0b0",
+        "value": "长息"
+      },
+      {
+        "key": "40e6cd5cb6531138c7fda69d3bff1c76",
+        "value": "脉冲式"
+      },
+      {
+        "key": "83bebe5e37738300a7787a4fead16633",
+        "value": "碾骨"
+      },
+      {
+        "key": "1a4c13870df449ee376d8ed5e8dd9204",
+        "value": "潮涌"
+      },
+      {
+        "key": "91a23e201bd0d49f3cbab60dd71588b8",
+        "value": "天灾防护"
+      }
+    ]
+  }
+}
