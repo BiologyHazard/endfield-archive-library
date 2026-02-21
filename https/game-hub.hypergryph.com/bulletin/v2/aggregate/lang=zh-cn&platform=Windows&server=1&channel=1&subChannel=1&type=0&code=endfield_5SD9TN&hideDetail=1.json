@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "24cf23ee7c9909f8042de333d4080513",
+    "version": "4129dd544d1b1bddf757e893a7af03de",
     "onlineList": [
       {
         "cid": "7207",
@@ -116,6 +116,12 @@
       {
         "cid": "3060",
         "version": 1768907272,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "5548",
+        "version": 1771644543,
         "needRedDot": true,
         "needPopup": false
       },
@@ -247,7 +253,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1771128133,
+    "updatedAt": 1771644544,
     "list": [
       {
         "cid": "7207",
@@ -446,6 +452,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "「零号委托」\\n版本日历"
+      },
+      {
+        "cid": "5548",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1771642800,
+        "focus": 0,
+        "title": "「影拓丰碑」\\n挑战玩法说明"
       },
       {
         "cid": "7209",
