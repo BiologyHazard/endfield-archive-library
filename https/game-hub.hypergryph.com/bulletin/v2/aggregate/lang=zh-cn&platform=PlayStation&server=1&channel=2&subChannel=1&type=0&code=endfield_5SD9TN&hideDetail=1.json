@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "0f9db012dcebfa401aa3bff4a4241e05",
+    "version": "5ed342a2f94e499b5a18e8e3ec0839e6",
     "onlineList": [
       {
         "cid": "7207",
@@ -20,12 +20,6 @@
       {
         "cid": "6458",
         "version": 1770925724,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "8972",
-        "version": 1770884212,
         "needRedDot": true,
         "needPopup": false
       },
@@ -61,7 +55,7 @@
       },
       {
         "cid": "3060",
-        "version": 1768907272,
+        "version": 1771730159,
         "needRedDot": true,
         "needPopup": false
       },
@@ -199,7 +193,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1771644544,
+    "updatedAt": 1771732800,
     "list": [
       {
         "cid": "7207",
@@ -222,17 +216,6 @@
         "startAt": 1769137200,
         "focus": 0,
         "title": "更新修复说明"
-      },
-      {
-        "cid": "8972",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1771127700,
-        "focus": 0,
-        "title": "活动及玩法\\n时间调整说明"
       },
       {
         "cid": "5546",
