@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "9c2d6457d69f770c40c86a283d61c07f",
+    "version": "b4ac298554735978057da3eb0475a8e5",
     "onlineList": [
       {
         "cid": "7207",
@@ -62,6 +62,12 @@
       {
         "cid": "3060",
         "version": 1771730159,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9884",
+        "version": 1770969935,
         "needRedDot": true,
         "needPopup": false
       },
@@ -199,7 +205,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1771732800,
+    "updatedAt": 1771738200,
     "list": [
       {
         "cid": "7207",
@@ -299,6 +305,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "「零号委托」\\n版本日历"
+      },
+      {
+        "cid": "9884",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1771738200,
+        "focus": 0,
+        "title": "密境行者"
       },
       {
         "cid": "5548",

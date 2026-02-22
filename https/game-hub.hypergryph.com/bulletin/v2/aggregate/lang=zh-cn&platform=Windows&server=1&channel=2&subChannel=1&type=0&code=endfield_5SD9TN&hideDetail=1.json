@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "d5ea654ca0d90290c9cfa12d2198fe33",
+    "version": "530b60df41fbccf4381fa3e024b121a3",
     "onlineList": [
       {
         "cid": "7207",
@@ -80,6 +80,12 @@
       {
         "cid": "3060",
         "version": 1771730159,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9884",
+        "version": 1770969935,
         "needRedDot": true,
         "needPopup": false
       },
@@ -217,7 +223,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1771732800,
+    "updatedAt": 1771738200,
     "list": [
       {
         "cid": "7207",
@@ -350,6 +356,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "「零号委托」\\n版本日历"
+      },
+      {
+        "cid": "9884",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1771738200,
+        "focus": 0,
+        "title": "密境行者"
       },
       {
         "cid": "5548",
