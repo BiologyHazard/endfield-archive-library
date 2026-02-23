@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "15db9df5b122ba2277ee6b4b9430e2e7",
+    "version": "5aed2af308d2110dff0cf28c2b423636",
     "onlineList": [
       {
         "cid": "7207",
@@ -26,12 +26,6 @@
       {
         "cid": "3064",
         "version": 1770606444,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "5546",
-        "version": 1770794729,
         "needRedDot": true,
         "needPopup": false
       },
@@ -217,7 +211,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1771821000,
+    "updatedAt": 1771862400,
     "list": [
       {
         "cid": "7207",
@@ -251,17 +245,6 @@
         "startAt": 1771821000,
         "focus": 0,
         "title": "公测庆典\\n「热烈色彩」"
-      },
-      {
-        "cid": "5546",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1770951600,
-        "focus": 0,
-        "title": "版本调研问卷"
       },
       {
         "cid": "2121",
