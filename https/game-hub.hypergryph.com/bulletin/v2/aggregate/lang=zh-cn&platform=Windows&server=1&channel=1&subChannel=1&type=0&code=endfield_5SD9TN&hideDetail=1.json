@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "e150eb31844bca675e604b09f39f0d65",
+    "version": "e846c9487d31d9fc11231a04758fe58f",
     "onlineList": [
       {
         "cid": "7207",
@@ -20,6 +20,12 @@
       {
         "cid": "6458",
         "version": 1770925724,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3064",
+        "version": 1770606444,
         "needRedDot": true,
         "needPopup": false
       },
@@ -110,6 +116,12 @@
       {
         "cid": "3060",
         "version": 1771730159,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "4630",
+        "version": 1770606448,
         "needRedDot": true,
         "needPopup": false
       },
@@ -253,7 +265,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1771738200,
+    "updatedAt": 1771821000,
     "list": [
       {
         "cid": "7207",
@@ -276,6 +288,17 @@
         "startAt": 1769137200,
         "focus": 0,
         "title": "更新修复说明"
+      },
+      {
+        "cid": "3064",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1771821000,
+        "focus": 0,
+        "title": "公测庆典\\n「热烈色彩」"
       },
       {
         "cid": "5546",
@@ -441,6 +464,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "「零号委托」\\n版本日历"
+      },
+      {
+        "cid": "4630",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1771821000,
+        "focus": 0,
+        "title": "绘涂申领"
       },
       {
         "cid": "9884",
