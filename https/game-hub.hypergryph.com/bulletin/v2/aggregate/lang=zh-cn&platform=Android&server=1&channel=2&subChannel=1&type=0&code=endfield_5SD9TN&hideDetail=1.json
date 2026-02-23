@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "354ac31496dccf135461c18468486d64",
+    "version": "112842081afd16eae2fd2b6f29fab2d4",
     "onlineList": [
       {
         "cid": "7207",
@@ -132,18 +132,6 @@
         "needPopup": false
       },
       {
-        "cid": "2126",
-        "version": 1770288401,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "4635",
-        "version": 1770288401,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "8974",
         "version": 1770288401,
         "needRedDot": false,
@@ -229,7 +217,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1771862400,
+    "updatedAt": 1771876800,
     "list": [
       {
         "cid": "7207",
@@ -450,28 +438,6 @@
         "startAt": 1770260400,
         "focus": 0,
         "title": "信使的信"
-      },
-      {
-        "cid": "2126",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1770177600,
-        "focus": 0,
-        "title": "卡莉的谷地童话"
-      },
-      {
-        "cid": "4635",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1770175800,
-        "focus": 0,
-        "title": "烟光武陵"
       },
       {
         "cid": "8974",
