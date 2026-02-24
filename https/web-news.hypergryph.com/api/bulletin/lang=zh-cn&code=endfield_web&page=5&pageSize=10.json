@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "8588",
+        "tab": "notices",
+        "sticky": false,
+        "title": "《明日方舟：终末地》「再次测试」公平运营声明",
+        "author": "",
+        "displayTime": 1736395200,
+        "cover": "",
+        "extraCover": "",
+        "brief": "感谢您对《明日方舟：终末地》的关注与支持。为维护绿色、公平的游戏环境，保证各位玩家的利益，在此特意提醒各位玩家：\n1. 禁止游戏中使用外挂、第三方工具，不得以任何不正当方式破坏游戏公平性、违反本次测试"
+      },
+      {
         "cid": "9376",
         "tab": "notices",
         "sticky": false,
@@ -28,6 +39,6 @@
     ],
     "current": 5,
     "pageSize": 10,
-    "total": 42
+    "total": 43
   }
 }

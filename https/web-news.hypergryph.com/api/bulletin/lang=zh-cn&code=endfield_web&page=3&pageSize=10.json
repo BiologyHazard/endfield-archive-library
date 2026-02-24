@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "7231",
+        "tab": "notices",
+        "sticky": false,
+        "title": "《明日方舟：终末地》预下载开启",
+        "author": "",
+        "displayTime": 1768881600,
+        "cover": "https://web.hycdn.cn/upload/image/20260119/2c1af6fc1d669778e84a1c7dc671b544.png",
+        "extraCover": "",
+        "brief": "亲爱的管理员：《明日方舟：终末地》预下载现已开启！您可提前下载安装游戏及游戏资源。由于资源量较大，建议管理员在稳定的Wi-Fi环境下载。《明日方舟：终末地》全球公测将于2026年1月22日 11:00"
+      },
+      {
         "cid": "9353",
         "tab": "notices",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20251126/2e9c7e6362e6ca4b5cbc8d445ab9f482.jpg",
         "extraCover": "",
         "brief": "亲爱的管理员：《明日方舟：终末地》「全面测试」预下载现已开启！测试将于2025/11/28 11:00正式开启！\n1. 管理员可前往「全面测试」资格查询页，使用鹰角网络通行证账号登录，点击【资格查询】"
-      },
-      {
-        "cid": "3823",
-        "tab": "notices",
-        "sticky": false,
-        "title": "《明日方舟：终末地》「全面测试」开始资格发放",
-        "author": "",
-        "displayTime": 1763953200,
-        "cover": "https://web.hycdn.cn/upload/image/20251122/e3f8156715d928ef793269526b3d6efc.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：《明日方舟：终末地》「全面测试」体验资格已开始陆续发放，管理员可通过以下途径确认是否获得体验资格：\n▼//「全面测试」资格查询页进入「全面测试」资格查询页并登录鹰角通行证后，点击【资格查"
       }
     ],
     "current": 3,
     "pageSize": 10,
-    "total": 42
+    "total": 43
   }
 }

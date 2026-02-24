@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "2fc8388bf4727c25be243b67b2462e4e",
+    "version": "f9d43fe67d13941bfee7d94f4fa5b7d9",
     "onlineList": [
       {
         "cid": "7207",
@@ -20,6 +20,12 @@
       {
         "cid": "6458",
         "version": 1771899771,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0706",
+        "version": 1771921108,
         "needRedDot": true,
         "needPopup": false
       },
@@ -235,7 +241,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1771910400,
+    "updatedAt": 1771927200,
     "list": [
       {
         "cid": "7207",
@@ -258,6 +264,17 @@
         "startAt": 1769137200,
         "focus": 0,
         "title": "更新修复说明"
+      },
+      {
+        "cid": "0706",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1771927200,
+        "focus": 0,
+        "title": "特别补给物资"
       },
       {
         "cid": "9871",
