@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "9871",
+    "type": 0,
+    "tab": "news",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1771910400,
+    "title": "官方漫画\\n《诺言》上线",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260224/79b99f438a0f84c2ec595ae11a96b16a.jpg",
+      "link": "https://comic.hypergryph.com/talos-ii-historicus/comic/5032",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1771910142
+  },
+  "msg": ""
+}

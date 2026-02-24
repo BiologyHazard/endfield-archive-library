@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "a218bb4eef59efaad65d140e306baa43",
+    "version": "07009f5d1229aa7099583d0a5adc4018",
     "onlineList": [
       {
         "cid": "7207",
@@ -19,25 +19,13 @@
       },
       {
         "cid": "6458",
-        "version": 1770925724,
+        "version": 1771899771,
         "needRedDot": true,
         "needPopup": false
       },
       {
         "cid": "3064",
         "version": 1770606444,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "2121",
-        "version": 1770381296,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "0714",
-        "version": 1770288280,
         "needRedDot": true,
         "needPopup": false
       },
@@ -86,12 +74,6 @@
       {
         "cid": "7209",
         "version": 1770107276,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "9880",
-        "version": 1770288275,
         "needRedDot": true,
         "needPopup": false
       },
@@ -199,7 +181,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1771876800,
+    "updatedAt": 1771905600,
     "list": [
       {
         "cid": "7207",
@@ -233,28 +215,6 @@
         "startAt": 1771821000,
         "focus": 0,
         "title": "公测庆典\\n「热烈色彩」"
-      },
-      {
-        "cid": "2121",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1770436800,
-        "focus": 0,
-        "title": "特别补给物资"
-      },
-      {
-        "cid": "0714",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1770350400,
-        "focus": 0,
-        "title": "公测庆典\\n「轻飘飘的信使」"
       },
       {
         "cid": "7202",
@@ -343,17 +303,6 @@
         "startAt": 1770778800,
         "focus": 0,
         "title": "「影拓丰碑」\\n挑战玩法说明"
-      },
-      {
-        "cid": "9880",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1770350400,
-        "focus": 0,
-        "title": "迅行申领"
       },
       {
         "cid": "9885",
