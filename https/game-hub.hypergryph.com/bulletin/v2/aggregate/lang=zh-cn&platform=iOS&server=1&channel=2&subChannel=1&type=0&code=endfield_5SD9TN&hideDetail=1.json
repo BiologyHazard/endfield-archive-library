@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "854cd8aee2241ec0663841565003c878",
+    "version": "0f11fdb69e13d136e5c27bfa57084417",
     "onlineList": [
       {
         "cid": "7207",
@@ -20,6 +20,12 @@
       {
         "cid": "6458",
         "version": 1771899771,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "6455",
+        "version": 1770870762,
         "needRedDot": true,
         "needPopup": false
       },
@@ -211,7 +217,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1771927200,
+    "updatedAt": 1771988400,
     "list": [
       {
         "cid": "7207",
@@ -234,6 +240,17 @@
         "startAt": 1769137200,
         "focus": 0,
         "title": "更新修复说明"
+      },
+      {
+        "cid": "6455",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1771988400,
+        "focus": 0,
+        "title": "版本补充\\n调研问卷"
       },
       {
         "cid": "0706",
