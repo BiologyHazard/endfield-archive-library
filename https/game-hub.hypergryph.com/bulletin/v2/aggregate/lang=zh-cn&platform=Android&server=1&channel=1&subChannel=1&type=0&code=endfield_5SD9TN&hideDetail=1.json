@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "3e9438d2dee7267e969b1605fa10ebb9",
+    "version": "2cefaa341dbbc43b89458f10cc2c178a",
     "onlineList": [
       {
         "cid": "7207",
@@ -19,7 +19,7 @@
       },
       {
         "cid": "6458",
-        "version": 1772159669,
+        "version": 1772204004,
         "needRedDot": true,
         "needPopup": false
       },
@@ -56,12 +56,6 @@
       {
         "cid": "3065",
         "version": 1769851180,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "0715",
-        "version": 1769591245,
         "needRedDot": true,
         "needPopup": false
       },
@@ -247,7 +241,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1772159670,
+    "updatedAt": 1772208000,
     "list": [
       {
         "cid": "7207",
@@ -336,17 +330,6 @@
         "startAt": 1769918400,
         "focus": 0,
         "title": "2月签到开启\\n领取丰厚奖励"
-      },
-      {
-        "cid": "0715",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1769673600,
-        "focus": 0,
-        "title": "管理员工作记录\\n网页活动开启"
       },
       {
         "cid": "7202",
