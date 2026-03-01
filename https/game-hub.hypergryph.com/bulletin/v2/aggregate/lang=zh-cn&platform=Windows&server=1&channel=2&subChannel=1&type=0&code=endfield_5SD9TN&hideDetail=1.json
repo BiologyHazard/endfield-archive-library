@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "4cc48b9a80e76ba668a4ea65a168de2e",
+    "version": "3878b28e1718e9a281379329b592de25",
     "onlineList": [
       {
         "cid": "7207",
@@ -75,6 +75,12 @@
         "cid": "3060",
         "version": 1772014463,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "6450",
+        "version": 1770969941,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -205,7 +211,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1772294400,
+    "updatedAt": 1772334000,
     "list": [
       {
         "cid": "7207",
@@ -327,6 +333,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "「零号委托」\\n版本日历"
+      },
+      {
+        "cid": "6450",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1772334000,
+        "focus": 0,
+        "title": "理智减耗"
       },
       {
         "cid": "4630",

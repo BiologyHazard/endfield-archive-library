@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "74a63f139d2f55905e8704bbd850e51e",
+    "version": "762cfb897732330077e1c1422938bb56",
     "onlineList": [
       {
         "cid": "7207",
@@ -20,6 +20,12 @@
       {
         "cid": "6458",
         "version": 1772204004,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "6445",
+        "version": 1772260666,
         "needRedDot": true,
         "needPopup": false
       },
@@ -93,6 +99,12 @@
         "cid": "3060",
         "version": 1772014463,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "6450",
+        "version": 1770969941,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -223,7 +235,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1772294400,
+    "updatedAt": 1772337600,
     "list": [
       {
         "cid": "7207",
@@ -246,6 +258,17 @@
         "startAt": 1769137200,
         "focus": 0,
         "title": "更新修复说明"
+      },
+      {
+        "cid": "6445",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1772337600,
+        "focus": 0,
+        "title": "3月签到开启\\n领取丰厚奖励"
       },
       {
         "cid": "0706",
@@ -378,6 +401,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "「零号委托」\\n版本日历"
+      },
+      {
+        "cid": "6450",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1772334000,
+        "focus": 0,
+        "title": "理智减耗"
       },
       {
         "cid": "4630",

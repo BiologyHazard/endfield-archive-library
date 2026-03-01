@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "79b7e02c79ac3952ec05d7a73677e57d",
+    "version": "c360f7442344ee12cbc06a9229b75ed4",
     "onlineList": [
       {
         "cid": "7207",
@@ -51,6 +51,12 @@
         "cid": "3060",
         "version": 1772014463,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "6450",
+        "version": 1770969941,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -181,7 +187,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1772294400,
+    "updatedAt": 1772334000,
     "list": [
       {
         "cid": "7207",
@@ -259,6 +265,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "「零号委托」\\n版本日历"
+      },
+      {
+        "cid": "6450",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1772334000,
+        "focus": 0,
+        "title": "理智减耗"
       },
       {
         "cid": "4630",
