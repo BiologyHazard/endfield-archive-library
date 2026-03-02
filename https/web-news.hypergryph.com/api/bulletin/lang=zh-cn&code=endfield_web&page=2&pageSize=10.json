@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "2674",
+        "tab": "news",
+        "sticky": false,
+        "title": "《明日方舟：终末地》「零号委托」研发通讯",
+        "author": "",
+        "displayTime": 1770210000,
+        "cover": "https://web.hycdn.cn/upload/image/20260204/e7d08688bf18542125d4a0d3659a9d1e.png",
+        "extraCover": "",
+        "brief": "亲爱的管理员：\n自《明日方舟：终末地》开服以来，塔卫二迎来了无数热情、智慧、同时也充满互助精神的探索与建设者。来自全球的管理员，正在让终末地的世界变得越来越生动、丰饶。\n截止2026年2月1日，全球管"
+      },
+      {
         "cid": "7230",
         "tab": "notices",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260119/34f40d13a7d6fbf472ed3e6bdcf79f94.png",
         "extraCover": "",
         "brief": "为积极响应国家新闻出版署下发的《关于进一步严格管理 切实防止未成年人沉迷网络游戏的通知》，针对保护未成年人身心健康贡献一份力量，《明日方舟：终末地》游戏中有用户实名认证系统，认证为未成年人的用户将接受"
-      },
-      {
-        "cid": "5907",
-        "tab": "notices",
-        "sticky": false,
-        "title": "《明日方舟：终末地》公平运营声明",
-        "author": "",
-        "displayTime": 1768892400,
-        "cover": "https://web.hycdn.cn/upload/image/20260119/69d7063f1b7eb10080597d0ddf5eeae5.png",
-        "extraCover": "",
-        "brief": "感谢您对《明日方舟：终末地》的关注与支持。为维护绿色、公平的游戏环境，保障各位玩家的合法权益，在此特意提醒各位玩家：\n1. 禁止游戏中使用外挂、第三方工具、非正规途径充值，不得以任何不正当方式破坏游戏"
       }
     ],
     "current": 2,
     "pageSize": 10,
-    "total": 43
+    "total": 44
   }
 }

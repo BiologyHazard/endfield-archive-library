@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "7252",
+        "tab": "notices",
+        "sticky": false,
+        "title": "《明日方舟：终末地》「再次测试」现已开启",
+        "author": "",
+        "displayTime": 1737082800,
+        "cover": "",
+        "extraCover": "",
+        "brief": "《明日方舟：终末地》「再次测试」现已开启！下面为管理员播报测试体验须知，希望能有助于您更好地探索塔卫二。\n▼//测试时间2025年1月17日11:00～测试结束时间另行通知\n▼//测试信息测试类型：限"
+      },
+      {
         "cid": "8588",
         "tab": "notices",
         "sticky": false,
@@ -39,6 +50,6 @@
     ],
     "current": 5,
     "pageSize": 10,
-    "total": 43
+    "total": 44
   }
 }
