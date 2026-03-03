@@ -9,14 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "90a8047182f1b41ec99054fe4a90c39b",
+    "version": "a1849817a7cda91b1beaf6dd8265c8aa",
     "onlineList": [
-      {
-        "cid": "1388",
-        "version": 1772463868,
-        "needRedDot": true,
-        "needPopup": false
-      },
       {
         "cid": "7207",
         "version": 1771128132,
@@ -26,6 +20,12 @@
       {
         "cid": "6458",
         "version": 1772204004,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0717",
+        "version": 1772513742,
         "needRedDot": true,
         "needPopup": false
       },
@@ -68,12 +68,6 @@
       {
         "cid": "1392",
         "version": 1768982321,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "0717",
-        "version": 1768982355,
         "needRedDot": true,
         "needPopup": false
       },
@@ -217,19 +211,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1772463869,
+    "updatedAt": 1772513743,
     "list": [
-      {
-        "cid": "1388",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1772463600,
-        "focus": 1,
-        "title": "闪断更新公告"
-      },
       {
         "cid": "7207",
         "type": 0,
@@ -251,6 +234,17 @@
         "startAt": 1769137200,
         "focus": 0,
         "title": "更新修复说明"
+      },
+      {
+        "cid": "0717",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1769040000,
+        "focus": 0,
+        "title": "共赴星海\\n特别活动"
       },
       {
         "cid": "0706",
@@ -328,17 +322,6 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
-      },
-      {
-        "cid": "0717",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1769040000,
-        "focus": 0,
-        "title": "共赴星海\\n特别活动"
       },
       {
         "cid": "3060",

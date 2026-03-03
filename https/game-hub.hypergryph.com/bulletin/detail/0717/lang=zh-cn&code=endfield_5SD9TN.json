@@ -4,7 +4,7 @@
     "cid": "0717",
     "type": 0,
     "tab": "news",
-    "orderType": 1,
+    "orderType": 0,
     "orderWeight": 1,
     "displayType": "picture",
     "focus": 0,
@@ -19,7 +19,7 @@
     },
     "needRedDot": true,
     "needPopup": false,
-    "version": 1768982355
+    "version": 1772513742
   },
   "msg": ""
 }
