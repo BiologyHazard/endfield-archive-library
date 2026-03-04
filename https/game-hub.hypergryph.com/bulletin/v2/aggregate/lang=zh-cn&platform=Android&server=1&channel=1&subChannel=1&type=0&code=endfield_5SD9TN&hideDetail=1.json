@@ -9,17 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "2d935e002bda9b35bb5648b209383d42",
+    "version": "b6298de7e6e2fb3cc338fe54c33c839a",
     "onlineList": [
       {
         "cid": "6458",
         "version": 1772591843,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "0717",
-        "version": 1772513742,
         "needRedDot": true,
         "needPopup": false
       },
@@ -235,7 +229,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1772596800,
+    "updatedAt": 1772639940,
     "list": [
       {
         "cid": "6458",
@@ -247,17 +241,6 @@
         "startAt": 1769137200,
         "focus": 0,
         "title": "更新修复说明"
-      },
-      {
-        "cid": "0717",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1769040000,
-        "focus": 0,
-        "title": "共赴星海\\n特别活动"
       },
       {
         "cid": "4620",
