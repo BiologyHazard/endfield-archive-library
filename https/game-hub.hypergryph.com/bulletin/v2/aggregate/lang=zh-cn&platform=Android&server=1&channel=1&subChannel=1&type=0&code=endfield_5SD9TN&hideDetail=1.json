@@ -9,23 +9,23 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "0f2263eb76d106d7c2d07ef303222ac9",
+    "version": "2d935e002bda9b35bb5648b209383d42",
     "onlineList": [
       {
-        "cid": "7207",
-        "version": 1771128132,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "6458",
-        "version": 1772204004,
+        "version": 1772591843,
         "needRedDot": true,
         "needPopup": false
       },
       {
         "cid": "0717",
         "version": 1772513742,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "4620",
+        "version": 1772262970,
         "needRedDot": true,
         "needPopup": false
       },
@@ -235,19 +235,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1772513743,
+    "updatedAt": 1772596800,
     "list": [
-      {
-        "cid": "7207",
-        "type": 0,
-        "tab": "events",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1771128000,
-        "focus": 0,
-        "title": "宏福贺新春\\n系列活动"
-      },
       {
         "cid": "6458",
         "type": 0,
@@ -269,6 +258,17 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "共赴星海\\n特别活动"
+      },
+      {
+        "cid": "4620",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1772593200,
+        "focus": 0,
+        "title": "清波将起"
       },
       {
         "cid": "6445",

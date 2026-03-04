@@ -9,17 +9,17 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "fce426b30ac57b3b7b55f445f9651676",
+    "version": "693775d95e212d21b46eaf9bf57cb9f6",
     "onlineList": [
       {
-        "cid": "7207",
-        "version": 1771128132,
+        "cid": "6458",
+        "version": 1772591843,
         "needRedDot": true,
         "needPopup": false
       },
       {
-        "cid": "6458",
-        "version": 1772204004,
+        "cid": "4620",
+        "version": 1772262970,
         "needRedDot": true,
         "needPopup": false
       },
@@ -193,19 +193,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1772503800,
+    "updatedAt": 1772596800,
     "list": [
-      {
-        "cid": "7207",
-        "type": 0,
-        "tab": "events",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1771128000,
-        "focus": 0,
-        "title": "宏福贺新春\\n系列活动"
-      },
       {
         "cid": "6458",
         "type": 0,
@@ -216,6 +205,17 @@
         "startAt": 1769137200,
         "focus": 0,
         "title": "更新修复说明"
+      },
+      {
+        "cid": "4620",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1772593200,
+        "focus": 0,
+        "title": "清波将起"
       },
       {
         "cid": "0706",
