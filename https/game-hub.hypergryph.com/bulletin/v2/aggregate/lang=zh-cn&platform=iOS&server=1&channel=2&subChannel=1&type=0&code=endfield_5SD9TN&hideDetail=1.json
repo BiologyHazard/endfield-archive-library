@@ -9,11 +9,17 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "05229b65c5a14c193f2fa5930fb5affc",
+    "version": "9a8edb20efccef12a48067f6707aa663",
     "onlineList": [
       {
         "cid": "6458",
         "version": 1772591843,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3054",
+        "version": 1772260735,
         "needRedDot": true,
         "needPopup": false
       },
@@ -205,7 +211,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1772639940,
+    "updatedAt": 1772679600,
     "list": [
       {
         "cid": "6458",
@@ -217,6 +223,17 @@
         "startAt": 1769137200,
         "focus": 0,
         "title": "更新修复说明"
+      },
+      {
+        "cid": "3054",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1772679600,
+        "focus": 0,
+        "title": "提速任务开启"
       },
       {
         "cid": "4620",

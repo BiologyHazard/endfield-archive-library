@@ -9,11 +9,17 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "95406f9beee2f97b94ead0c193af4751",
+    "version": "02f73e995e0648ae8fc3bed6b7b1214d",
     "onlineList": [
       {
         "cid": "6458",
         "version": 1772591843,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3054",
+        "version": 1772260735,
         "needRedDot": true,
         "needPopup": false
       },
@@ -187,7 +193,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1772596800,
+    "updatedAt": 1772679600,
     "list": [
       {
         "cid": "6458",
@@ -199,6 +205,17 @@
         "startAt": 1769137200,
         "focus": 0,
         "title": "更新修复说明"
+      },
+      {
+        "cid": "3054",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1772679600,
+        "focus": 0,
+        "title": "提速任务开启"
       },
       {
         "cid": "4620",
