@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "be217eba794f4e58df325ce695b8a99a",
+    "version": "431bce88f0b49b089d4670f2d53a3843",
     "onlineList": [
       {
         "cid": "2112",
@@ -38,12 +38,6 @@
       {
         "cid": "0706",
         "version": 1771921108,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "9871",
-        "version": 1771910142,
         "needRedDot": true,
         "needPopup": false
       },
@@ -217,7 +211,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1772852400,
+    "updatedAt": 1772899140,
     "list": [
       {
         "cid": "2112",
@@ -273,17 +267,6 @@
         "startAt": 1771927200,
         "focus": 0,
         "title": "特别补给物资"
-      },
-      {
-        "cid": "9871",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1771910400,
-        "focus": 0,
-        "title": "官方漫画\\n《诺言》上线"
       },
       {
         "cid": "3064",
