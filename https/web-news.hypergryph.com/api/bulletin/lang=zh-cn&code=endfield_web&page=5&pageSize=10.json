@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "0461",
+        "tab": "notices",
+        "sticky": false,
+        "title": "《明日方舟：终末地》「再次测试」结束公告",
+        "author": "",
+        "displayTime": 1739772000,
+        "cover": "",
+        "extraCover": "",
+        "brief": "亲爱的管理员： 《明日方舟：终末地》「再次测试」已正式结束，感谢所有关注和参与本次测试的管理员。 \n测试期间，我们通过官方社区、调查问卷、客服反馈等方式收到了许多意见与建议。非常感谢大家体验测试内容并"
+      },
+      {
         "cid": "7252",
         "tab": "notices",
         "sticky": false,
@@ -50,6 +61,6 @@
     ],
     "current": 5,
     "pageSize": 10,
-    "total": 44
+    "total": 45
   }
 }
