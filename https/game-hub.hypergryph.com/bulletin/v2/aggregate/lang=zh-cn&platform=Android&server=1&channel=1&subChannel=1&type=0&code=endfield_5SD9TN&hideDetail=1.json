@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "a2f64c9bdf3bcbd738a22de83e6189d6",
+    "version": "e4d886ed81bbd961003ccc9d7932b411",
     "onlineList": [
       {
         "cid": "2112",
@@ -211,8 +211,8 @@
       },
       {
         "cid": "2125",
-        "version": 1768649579,
-        "needRedDot": true,
+        "version": 1773147779,
+        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -235,7 +235,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1772899140,
+    "updatedAt": 1773147779,
     "list": [
       {
         "cid": "2112",
