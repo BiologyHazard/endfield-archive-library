@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "1:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "95c4ca242184f3c96cd779493a4bb5e9",
+    "version": "79460c8446f2932d8060d517e48f399e",
     "onlineList": [
+      {
+        "cid": "8961",
+        "version": 1773266858,
+        "needRedDot": false,
+        "needPopup": true
+      },
       {
         "cid": "2128",
         "version": 1769053756,
@@ -31,8 +37,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1772503800,
+    "updatedAt": 1773266859,
     "list": [
+      {
+        "cid": "8961",
+        "type": 1,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1773266760,
+        "focus": 0,
+        "title": "版本更新\\n维护预告"
+      },
       {
         "cid": "2128",
         "type": 1,

@@ -4,17 +4,6 @@
   "data": {
     "list": [
       {
-        "cid": "8563",
-        "tab": "notices",
-        "sticky": false,
-        "title": "手柄支持与使用常见问题说明",
-        "author": "",
-        "displayTime": 1768903200,
-        "cover": "https://web.hycdn.cn/upload/image/20260120/3e5607d9a378dd1ea4950d53975e8df9.png",
-        "extraCover": "",
-        "brief": "亲爱的管理员：感谢您对游戏的关注与支持。为帮助管理员更顺畅地使用手柄进行游玩，我们整理了当前版本中关于手柄支持范围、连接方式及常见问题的说明。请您在使用前仔细阅读以下内容，以获得更佳的游戏体验。\n当前"
-      },
-      {
         "cid": "0440",
         "tab": "notices",
         "sticky": false,
@@ -112,10 +101,21 @@
         "cover": "https://web.hycdn.cn/upload/image/20251227/9c6eb4a2e52adb8ed2e7d56cb3d917c0.png",
         "extraCover": "",
         "brief": "亲爱的管理员：《明日方舟：终末地》「全面测试」已正式结束，服务器已关闭，管理员将不能登录游戏，本次测试的游戏数据将被清除。感谢所有关注和参与本次测试的管理员。\n更多游戏资讯可关注官方社区和官方自媒体账"
+      },
+      {
+        "cid": "0443",
+        "tab": "news",
+        "sticky": false,
+        "title": "《明日方舟：终末地》「全面测试」测试结束预告！",
+        "author": "",
+        "displayTime": 1765195500,
+        "cover": "https://web.hycdn.cn/upload/image/20251208/96b89764d5d04a253366cbea772fbce2.png",
+        "extraCover": "",
+        "brief": "亲爱的管理员：《明日方舟：终末地》「全面测试」将于2025/12/29 14:00 （UTC+8）结束，届时本次测试的游戏服务器将关闭，管理员将无法登录游戏。\n感谢所有关注与参与测试体验的管理员，测试"
       }
     ],
     "current": 3,
     "pageSize": 10,
-    "total": 47
+    "total": 46
   }
 }

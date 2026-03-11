@@ -4,17 +4,6 @@
   "data": {
     "list": [
       {
-        "cid": "5919",
-        "tab": "notices",
-        "sticky": false,
-        "title": "《明日方舟：终末地》「再次测试」移动版招募开启",
-        "author": "",
-        "displayTime": 1745809200,
-        "cover": "",
-        "extraCover": "",
-        "brief": "《明日方舟：终末地》「再次测试」移动版招募现已开启！"
-      },
-      {
         "cid": "6026",
         "tab": "notices",
         "sticky": false,
@@ -83,6 +72,6 @@
     ],
     "current": 5,
     "pageSize": 10,
-    "total": 47
+    "total": 46
   }
 }
