@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1773226285",
+  "timestamp": "1773248508",
   "data": {
     "rarities": [
       {
@@ -352,6 +352,18 @@
     ],
     "suitTypes": [
       {
+        "key": "a68b5b89b9e323d3d557fb178e5bb36c",
+        "value": "轻超域"
+      },
+      {
+        "key": "6f111f96a39d526ec108f4896079b7e5",
+        "value": "生物辅助"
+      },
+      {
+        "key": "83bebe5e37738300a7787a4fead16633",
+        "value": "碾骨"
+      },
+      {
         "key": "f891b30534b3ec5b8f6c3774917009c4",
         "value": "蚀电屏蔽"
       },
@@ -388,10 +400,6 @@
         "value": "蚀电防护"
       },
       {
-        "key": "6f111f96a39d526ec108f4896079b7e5",
-        "value": "生物辅助"
-      },
-      {
         "key": "1d6477b5665f05daa36c63ba24b8cf64",
         "value": "动火用"
       },
@@ -404,20 +412,12 @@
         "value": "巡行信使"
       },
       {
-        "key": "a68b5b89b9e323d3d557fb178e5bb36c",
-        "value": "轻超域"
-      },
-      {
         "key": "508f82db8e94556f724c4fbbfbf3e0b0",
         "value": "长息"
       },
       {
         "key": "40e6cd5cb6531138c7fda69d3bff1c76",
         "value": "脉冲式"
-      },
-      {
-        "key": "83bebe5e37738300a7787a4fead16633",
-        "value": "碾骨"
       },
       {
         "key": "1a4c13870df449ee376d8ed5e8dd9204",
@@ -427,6 +427,8 @@
         "key": "91a23e201bd0d49f3cbab60dd71588b8",
         "value": "天灾防护"
       }
-    ]
+    ],
+    "achievementFirstCategories": [],
+    "gemRarities": []
   }
 }
