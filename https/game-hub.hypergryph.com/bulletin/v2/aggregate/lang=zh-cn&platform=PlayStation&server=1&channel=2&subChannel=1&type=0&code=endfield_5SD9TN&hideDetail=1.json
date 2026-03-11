@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "6e001a2adf235853642bf729f33b82f5",
+    "version": "7ec3a9dfa6099e807b022a306b6b25a3",
     "onlineList": [
       {
         "cid": "2112",
@@ -72,12 +72,6 @@
         "needPopup": false
       },
       {
-        "cid": "4630",
-        "version": 1770606448,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "9884",
         "version": 1770969935,
         "needRedDot": true,
@@ -93,12 +87,6 @@
         "cid": "7209",
         "version": 1770107276,
         "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "9885",
-        "version": 1770461907,
-        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -180,6 +168,12 @@
         "needPopup": false
       },
       {
+        "cid": "4630",
+        "version": 1773219247,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
         "cid": "7200",
         "version": 1769054326,
         "needRedDot": false,
@@ -199,7 +193,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1773147779,
+    "updatedAt": 1773219247,
     "list": [
       {
         "cid": "2112",
@@ -312,17 +306,6 @@
         "title": "理智减耗"
       },
       {
-        "cid": "4630",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1771821000,
-        "focus": 0,
-        "title": "绘涂申领"
-      },
-      {
         "cid": "9884",
         "type": 0,
         "tab": "events",
@@ -354,17 +337,6 @@
         "startAt": 1770778800,
         "focus": 0,
         "title": "「影拓丰碑」\\n挑战玩法说明"
-      },
-      {
-        "cid": "9885",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1769036400,
-        "focus": 0,
-        "title": "熔铸申领"
       },
       {
         "cid": "6451",
@@ -508,6 +480,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "蚀像寻遗"
+      },
+      {
+        "cid": "4630",
+        "type": 0,
+        "tab": "events",
+        "orderType": 2,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1771821000,
+        "focus": 0,
+        "title": "绘涂申领"
       },
       {
         "cid": "7200",
