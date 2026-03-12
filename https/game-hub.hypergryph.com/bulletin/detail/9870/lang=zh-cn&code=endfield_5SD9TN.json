@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "9870",
+    "type": 0,
+    "tab": "events",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1773270000,
+    "title": "新潮起，故渊离\\n版本日历",
+    "header": "「新潮起，故渊离」版本日历",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260310/0469617a74687c75dc9fb6257f38d5e6.png\" data-width=\"1920\" data-height=\"1909\"><p></p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1773147266
+  },
+  "msg": ""
+}

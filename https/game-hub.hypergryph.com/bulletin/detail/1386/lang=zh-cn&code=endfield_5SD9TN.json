@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "1386",
+    "type": 1,
+    "tab": "updates",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "rich_text",
+    "focus": 1,
+    "startAt": 1773279000,
+    "title": "风险提示",
+    "header": "关于使用非官方工具的安全风险提示",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260312/88e4259d926e10e3c8c0677bbf57e51c.jpg\" data-width=\"1650\" data-height=\"300\"><p>在第三方网页或工具中进行账号授权登录的操作存在账号信息泄露或数据被不当使用的安全风险。在此提醒各位玩家，为保障您的账号安全，请注意：</p><p>1、请勿在任何来源不明或未经官方认证的第三方平台进行账号授权登录；</p><p>2、避免在非官方页面输入账号信息或执行授权操作，否则可能导致信息泄露、异常登录等风险；</p><p>3、请务必通过官方渠道登录游戏及相关服务页面，谨慎识别并避免点击来源不明的链接。</p><p></p><p>感谢各位玩家的理解与配合，让我们共同维护安全、有序的游戏环境。</p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1773268347
+  },
+  "msg": ""
+}

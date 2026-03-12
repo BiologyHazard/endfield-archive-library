@@ -9,8 +9,26 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "e3697d6d0073d18334fe51fb4cf7591f",
+    "version": "3a368a054a6e85676137cdf2c78d9674",
     "onlineList": [
+      {
+        "cid": "7296",
+        "version": 1773280717,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7295",
+        "version": 1773289484,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9870",
+        "version": 1773147266,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "6445",
         "version": 1772260666,
@@ -26,6 +44,48 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "4629",
+        "version": 1773147378,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "2111",
+        "version": 1773146783,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7297",
+        "version": 1773146786,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0705",
+        "version": 1773147029,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "6444",
+        "version": 1773219278,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "8962",
+        "version": 1773211162,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1387",
+        "version": 1773214836,
         "needRedDot": true,
         "needPopup": false
       },
@@ -49,8 +109,41 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1773266761,
+    "updatedAt": 1773289485,
     "list": [
+      {
+        "cid": "7296",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1773277200,
+        "focus": 1,
+        "title": "版本更新说明"
+      },
+      {
+        "cid": "7295",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1773284400,
+        "focus": 1,
+        "title": "已知问题说明"
+      },
+      {
+        "cid": "9870",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1773270000,
+        "focus": 0,
+        "title": "新潮起，故渊离\\n版本日历"
+      },
       {
         "cid": "6445",
         "type": 0,
@@ -83,6 +176,83 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "4629",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1773270000,
+        "focus": 0,
+        "title": "新手特许赠礼"
+      },
+      {
+        "cid": "2111",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1773270000,
+        "focus": 0,
+        "title": "新潮起，故渊离\\n组合包"
+      },
+      {
+        "cid": "7297",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1773270000,
+        "focus": 0,
+        "title": "协议通行证\\n暗流"
+      },
+      {
+        "cid": "0705",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1773270000,
+        "focus": 0,
+        "title": "河流的女儿\\n特许寻访"
+      },
+      {
+        "cid": "6444",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 4,
+        "displayType": "rich_text",
+        "startAt": 1773270000,
+        "focus": 0,
+        "title": "新芽申领"
+      },
+      {
+        "cid": "8962",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 5,
+        "displayType": "rich_text",
+        "startAt": 1773270000,
+        "focus": 0,
+        "title": "蚀像寻遗\\n内容更新"
+      },
+      {
+        "cid": "1387",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 6,
+        "displayType": "rich_text",
+        "startAt": 1773270000,
+        "focus": 0,
+        "title": "泉流无声"
       },
       {
         "cid": "8977",

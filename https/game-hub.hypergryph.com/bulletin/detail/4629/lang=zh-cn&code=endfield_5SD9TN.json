@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "4629",
+    "type": 0,
+    "tab": "events",
+    "orderType": 1,
+    "orderWeight": 2,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1773270000,
+    "title": "新手特许赠礼",
+    "header": "「新手特许赠礼」常驻活动",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260310/99af4302b654114d27118536ed358e60.png\" data-width=\"1650\" data-height=\"300\"><p>▼// 开放时间：</p><p>「新潮起，故渊离」版本开启后</p><p></p><p>▼//参与条件</p><p>完成主线任务「第一章 - 进程Ⅰ - 基地解围」</p><p></p><p>▼//活动奖励</p><p>【特许寻访凭证】×10</p><p></p><p>▼// 活动说明</p><p>· 完成指定主线任务即可在活动界面领取奖励，累计可获得【特许寻访凭证】×10。</p><p>· 所有奖励领取完毕后，活动界面将于次日04:00（服务器时间）关闭。</p><p>※ 若您已完成相关任务，则可直接进入活动界面领取奖励。</p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1773147378
+  },
+  "msg": ""
+}

@@ -9,13 +9,19 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "1:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "79460c8446f2932d8060d517e48f399e",
+    "version": "f9d3face566011bb548b4eb8aecf8b2f",
     "onlineList": [
       {
-        "cid": "8961",
-        "version": 1773266858,
-        "needRedDot": false,
-        "needPopup": true
+        "cid": "3053",
+        "version": 1773147547,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1386",
+        "version": 1773268347,
+        "needRedDot": true,
+        "needPopup": false
       },
       {
         "cid": "2128",
@@ -37,18 +43,29 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1773266859,
+    "updatedAt": 1773279000,
     "list": [
       {
-        "cid": "8961",
+        "cid": "3053",
         "type": 1,
         "tab": "updates",
         "orderType": 0,
         "orderWeight": 1,
         "displayType": "rich_text",
-        "startAt": 1773266760,
-        "focus": 0,
-        "title": "版本更新\\n维护预告"
+        "startAt": 1773277200,
+        "focus": 1,
+        "title": "版本更新说明"
+      },
+      {
+        "cid": "1386",
+        "type": 1,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1773279000,
+        "focus": 1,
+        "title": "风险提示"
       },
       {
         "cid": "2128",

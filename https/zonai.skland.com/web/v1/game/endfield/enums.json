@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1773268444",
+  "timestamp": "1773292698",
   "data": {
     "rarities": [
       {
@@ -428,7 +428,57 @@
         "value": "天灾防护"
       }
     ],
-    "achievementFirstCategories": [],
-    "gemRarities": []
+    "achievementFirstCategories": [
+      {
+        "key": "achv_type_quest",
+        "value": "章节奖章"
+      },
+      {
+        "key": "achv_type_battle",
+        "value": "技艺奖章"
+      },
+      {
+        "key": "achv_type_adventure",
+        "value": "地区奖章"
+      },
+      {
+        "key": "achv_type_growth",
+        "value": "锤炼奖章"
+      },
+      {
+        "key": "achv_type_factory",
+        "value": "建设奖章"
+      },
+      {
+        "key": "achv_type_social",
+        "value": "社交奖章"
+      },
+      {
+        "key": "achv_type_event",
+        "value": "活动奖章"
+      },
+      {
+        "key": "achv_type_hide",
+        "value": "奇想奖章"
+      }
+    ],
+    "gemRarities": [
+      {
+        "key": "item_gem_rarity_4",
+        "value": "高纯基质"
+      },
+      {
+        "key": "item_gem_rarity_5",
+        "value": "无瑕基质"
+      },
+      {
+        "key": "item_gem_rarity_2",
+        "value": "稳定基质"
+      },
+      {
+        "key": "item_gem_rarity_3",
+        "value": "净态基质"
+      }
+    ]
   }
 }

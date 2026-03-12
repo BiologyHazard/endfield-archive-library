@@ -4,6 +4,28 @@
   "data": {
     "list": [
       {
+        "cid": "8568",
+        "tab": "notices",
+        "sticky": false,
+        "title": "《明日方舟：终末地》游戏适龄提示",
+        "author": "",
+        "displayTime": 1761912900,
+        "cover": "",
+        "extraCover": "",
+        "brief": "1. 本游戏是一款3D即时策略角色扮演类游戏，适用于年满12周岁及以上的用户，建议未成年人在家长监护下使用游戏产品。\n2. 本游戏基于架空的故事背景和幻想世界观，没有基于真实历史和现实事件改编的内容。"
+      },
+      {
+        "cid": "5919",
+        "tab": "notices",
+        "sticky": false,
+        "title": "《明日方舟：终末地》「再次测试」移动版招募开启",
+        "author": "",
+        "displayTime": 1745809200,
+        "cover": "",
+        "extraCover": "",
+        "brief": "《明日方舟：终末地》「再次测试」移动版招募现已开启！"
+      },
+      {
         "cid": "6026",
         "tab": "notices",
         "sticky": false,
@@ -72,6 +94,6 @@
     ],
     "current": 5,
     "pageSize": 10,
-    "total": 46
+    "total": 48
   }
 }
