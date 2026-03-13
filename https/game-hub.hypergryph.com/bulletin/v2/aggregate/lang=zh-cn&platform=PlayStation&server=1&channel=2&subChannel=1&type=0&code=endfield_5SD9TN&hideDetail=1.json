@@ -9,11 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "e247d3b85c8dcea3d91f21d5ff6ada84",
+    "version": "3014ae67f2be03c4cfeb7fc3ea9b97c9",
     "onlineList": [
       {
         "cid": "4628",
-        "version": 1773374376,
+        "version": 1773411152,
         "needRedDot": true,
         "needPopup": false
       },
@@ -97,7 +97,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1773374377,
+    "updatedAt": 1773411153,
     "list": [
       {
         "cid": "4628",
