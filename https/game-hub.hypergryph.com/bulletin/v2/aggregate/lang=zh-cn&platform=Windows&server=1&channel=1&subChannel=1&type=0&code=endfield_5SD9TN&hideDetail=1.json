@@ -9,17 +9,23 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "dfc273ddb266bb82c49b150fb4bc0142",
+    "version": "55caadd7c1150d7829255715d828695a",
     "onlineList": [
       {
         "cid": "4628",
-        "version": 1773323433,
+        "version": 1773374376,
         "needRedDot": true,
         "needPopup": false
       },
       {
         "cid": "7296",
         "version": 1773280717,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9879",
+        "version": 1773303010,
         "needRedDot": true,
         "needPopup": false
       },
@@ -115,7 +121,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1773323433,
+    "updatedAt": 1773378000,
     "list": [
       {
         "cid": "4628",
@@ -138,6 +144,17 @@
         "startAt": 1773277200,
         "focus": 1,
         "title": "版本更新说明"
+      },
+      {
+        "cid": "9879",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1773378000,
+        "focus": 0,
+        "title": "创作征集活动"
       },
       {
         "cid": "7295",
