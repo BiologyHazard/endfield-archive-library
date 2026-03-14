@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "16f19095ab123a52aec78a3ec37ef52b",
+    "version": "e56d8bdde52909cd1b7eeb212fd9b5aa",
     "onlineList": [
       {
         "cid": "4628",
@@ -20,6 +20,12 @@
       {
         "cid": "7296",
         "version": 1773280717,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "6443",
+        "version": 1773304800,
         "needRedDot": true,
         "needPopup": false
       },
@@ -121,7 +127,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1773458564,
+    "updatedAt": 1773468000,
     "list": [
       {
         "cid": "4628",
@@ -144,6 +150,17 @@
         "startAt": 1773277200,
         "focus": 1,
         "title": "版本更新说明"
+      },
+      {
+        "cid": "6443",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1773468000,
+        "focus": 0,
+        "title": "新潮起，故渊离\\n森空岛创作激励"
       },
       {
         "cid": "2110",
