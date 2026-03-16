@@ -1,0 +1,16 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "cid": "3819",
+    "tab": "notices",
+    "sticky": false,
+    "title": "NVIDIA 驱动程序新版本可能导致游戏表现异常的问题说明",
+    "author": "",
+    "displayTime": 1773654000,
+    "cover": "",
+    "extraCover": "",
+    "brief": "亲爱的管理员：当您在使用配备了NVIDIA显卡的PC端设备上体验游戏时，若使用以下版本的驱动程序，可能出现游戏运行卡顿等异常情况：• GeForce Game Ready 驱动程序版本：595.79、",
+    "data": "<p>亲爱的管理员：</p><p>当您在使用配备了NVIDIA显卡的PC端设备上体验游戏时，若使用以下版本的驱动程序，可能出现<strong>游戏运行卡顿</strong>等异常情况：</p><p>•&nbsp;<strong>GeForce Game Ready 驱动程序版本：595.79、595.71</strong></p><p>•&nbsp;<strong>NVIDIA Studio 驱动程序版本：595.79</strong></p><p>我们已第一时间与 NVIDIA 团队展开联合排查，NVIDIA 团队对此高度重视，预计将在后续驱动更新中完成修复。如您遇到此类问题，可通过以下方式尝试解决问题：</p><p><br></p><p><strong>■ 方式一：暂时切换至DirectX 11渲染模式体验游戏</strong></p><p>· 在鹰角启动器界面，勾选DirectX 11启动（游戏异常时使用）选项后，点击【开始游戏】进入游戏</p><img src=\"https://web.hycdn.cn/upload/image/20260316/3fbe7430f9e1f3b60bfcba200bdeddfd.png\" data-width=\"374\" data-height=\"157\"><p><br></p><p><strong>■ 方式二：NVIDIA App 中将Game Ready驱动程序切换至旧版本</strong></p><p>· 打开NVIDIA App -【驱动程序】，找到旧版本驱动程序，选择重新安装。</p><img src=\"https://web.hycdn.cn/upload/image/20260316/eeb655a421a7ce7b6b868f195a940c66.png\" data-width=\"1605\" data-height=\"235\"><p><br></p><p><strong>如您有任何问题，可以前往【鹰角网络-个人中心】，点击【联系客服】进行反馈。</strong></p><p><strong>再次感谢各位管理员一直以来对《明日方舟：终末地》的理解与支持！</strong></p>"
+  }
+}

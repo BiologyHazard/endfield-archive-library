@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "2675",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「全面测试」充值返还查询网页上线",
+        "author": "",
+        "displayTime": 1768728600,
+        "cover": "https://web.hycdn.cn/upload/image/20260117/0dc962d0bcf6bd7b75c352d71ff98821.png",
+        "extraCover": "",
+        "brief": "亲爱的管理员：\n「全面测试」充值返还查询网页已上线。网页地址：https://endfield.hypergryph.com/chargeReward?source_from=official参与过「"
+      },
+      {
         "cid": "8564",
         "tab": "news",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20251031/2bb97e42c04c905cdaedc2faf8ca9f50.jpg",
         "extraCover": "",
         "brief": "亲爱的管理员：大家好，这里是《明日方舟：终末地》项目组。自「再次测试」一别以来，我们根据各位管理员提供的宝贵建议与反馈，进行了多项优化与调整，同时也基于项目的整体规划，新增了大量内容。在「全面测试」即"
-      },
-      {
-        "cid": "5902",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「全面测试」充值返还规则",
-        "author": "",
-        "displayTime": 1761913200,
-        "cover": "https://web.hycdn.cn/upload/image/20251031/cf1dc7d4a14aa776796e498505174d31.png",
-        "extraCover": "",
-        "brief": "《明日方舟：终末地》「全面测试」为限量计费删档测试，测试期间将开启付费功能。管理员在测试期间累计充值的金额，将在《明日方舟：终末地》正式公测后，按照以下规则返还。管理员可查看「全面测试」充值返还规则以"
       }
     ],
     "current": 4,
     "pageSize": 10,
-    "total": 49
+    "total": 50
   }
 }
