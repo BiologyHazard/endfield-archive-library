@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "781dfe43c12d96c291830845f4897b54",
+    "version": "c4444878f31e12a5d64b009d0be96079",
     "onlineList": [
+      {
+        "cid": "3052",
+        "version": 1773308971,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "4628",
         "version": 1773458564,
@@ -97,8 +103,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1773458564,
+    "updatedAt": 1773633600,
     "list": [
+      {
+        "cid": "3052",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1773633600,
+        "focus": 0,
+        "title": "新潮驿站系列\\n衍生品新品上架"
+      },
       {
         "cid": "4628",
         "type": 0,

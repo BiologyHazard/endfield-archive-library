@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "3052",
+    "type": 0,
+    "tab": "news",
+    "orderType": 0,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1773633600,
+    "title": "新潮驿站系列\\n衍生品新品上架",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260312/056d6046ade97c23cb757158249b68b2.jpg",
+      "link": "http://arknightsendfieldyx.tmall.com/",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1773308971
+  },
+  "msg": ""
+}

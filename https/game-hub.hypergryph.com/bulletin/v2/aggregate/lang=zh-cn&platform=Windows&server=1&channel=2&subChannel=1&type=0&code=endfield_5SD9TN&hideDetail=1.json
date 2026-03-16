@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "605deb72827dfa07c59daad5ce921b1a",
+    "version": "1bcd151f1d73a00b556b01b728bcc8fd",
     "onlineList": [
+      {
+        "cid": "3052",
+        "version": 1773308971,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "4628",
         "version": 1773458564,
@@ -109,8 +115,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1773458564,
+    "updatedAt": 1773633600,
     "list": [
+      {
+        "cid": "3052",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1773633600,
+        "focus": 0,
+        "title": "新潮驿站系列\\n衍生品新品上架"
+      },
       {
         "cid": "4628",
         "type": 0,
