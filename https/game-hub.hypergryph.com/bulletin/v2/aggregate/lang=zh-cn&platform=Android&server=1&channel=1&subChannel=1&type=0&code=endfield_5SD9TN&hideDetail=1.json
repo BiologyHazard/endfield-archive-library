@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "1b138b53e6da748582aedea97b0816fe",
+    "version": "5105994a10475a90cfcd445e98b08156",
     "onlineList": [
       {
         "cid": "3052",
@@ -26,6 +26,12 @@
       {
         "cid": "7296",
         "version": 1773280717,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "8960",
+        "version": 1773743636,
         "needRedDot": true,
         "needPopup": false
       },
@@ -133,7 +139,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1773731451,
+    "updatedAt": 1773813600,
     "list": [
       {
         "cid": "3052",
@@ -167,6 +173,17 @@
         "startAt": 1773277200,
         "focus": 1,
         "title": "版本更新说明"
+      },
+      {
+        "cid": "8960",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1773813600,
+        "focus": 0,
+        "title": "新潮起故渊离\\n森空岛限时任务"
       },
       {
         "cid": "6443",
