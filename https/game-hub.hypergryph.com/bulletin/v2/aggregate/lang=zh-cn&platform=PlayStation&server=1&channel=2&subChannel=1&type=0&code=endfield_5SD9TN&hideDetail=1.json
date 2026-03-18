@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "f666a6da1f28f4a462f2f46d0661be7a",
+    "version": "4bf82a87615b2d22831b079077594b35",
     "onlineList": [
       {
         "cid": "3052",
@@ -60,6 +60,12 @@
         "needPopup": false
       },
       {
+        "cid": "7294",
+        "version": 1773842798,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "0705",
         "version": 1773147029,
         "needRedDot": true,
@@ -103,7 +109,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1773731451,
+    "updatedAt": 1773842799,
     "list": [
       {
         "cid": "3052",
@@ -192,6 +198,17 @@
         "startAt": 1773270000,
         "focus": 0,
         "title": "协议通行证\\n暗流"
+      },
+      {
+        "cid": "7294",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1773802800,
+        "focus": 0,
+        "title": "物资供给\\n开拓节"
       },
       {
         "cid": "0705",

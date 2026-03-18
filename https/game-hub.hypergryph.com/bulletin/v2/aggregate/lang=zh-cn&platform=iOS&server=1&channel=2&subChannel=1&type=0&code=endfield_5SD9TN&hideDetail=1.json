@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "393f9fd11e70c816fbf1560f9a06d261",
+    "version": "b9a06c2d99d6921395c82de6ef3be8ec",
     "onlineList": [
       {
         "cid": "3052",
@@ -72,6 +72,12 @@
         "needPopup": false
       },
       {
+        "cid": "7294",
+        "version": 1773842798,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "0705",
         "version": 1773147029,
         "needRedDot": true,
@@ -115,7 +121,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1773731451,
+    "updatedAt": 1773842799,
     "list": [
       {
         "cid": "3052",
@@ -226,6 +232,17 @@
         "startAt": 1773270000,
         "focus": 0,
         "title": "协议通行证\\n暗流"
+      },
+      {
+        "cid": "7294",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1773802800,
+        "focus": 0,
+        "title": "物资供给\\n开拓节"
       },
       {
         "cid": "0705",

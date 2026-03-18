@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "7294",
+    "type": 0,
+    "tab": "events",
+    "orderType": 1,
+    "orderWeight": 3,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1773802800,
+    "title": "物资供给\\n开拓节",
+    "header": "「物资供给·开拓节」供给活动说明",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260317/ab5789cc90f14d2e8987d9a201c1b1c2.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">▼//活动时间</span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/03/19 12:00 - 2026/04/02 04:00（服务器时间）</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动奖励</span></p><p><span style=\"color: rgb(31, 35, 41);\">活动开放期间，完成物资供给任务，累计可获得【贴纸·开拓节美食】【嵌晶玉】【存续的痕迹】【高级认知载体】等活动奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//参与条件</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 完成主线任务「第一章 - 进程Ⅲ - 诡楼寻踪」</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 完成探索任务「稼穑不易」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动期间，参与「开拓节与特色美食」任务，提交特色美食，即可领取对应奖励。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 开拓节的特色美食共7种。第1日将开放1种可提交的特色美食，从第2日起，每日04:00（服务器时间）将会新开放1种美食。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 可通过【简易制作】系统制作活动所需的特色美食。特色美食的原材料包括能够在可种植区域培育的【苦叶椒】【灰芦麦】，以及击败天使、裂地者后可获得的【异香石】【草籽干粉】等。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 若特色美食的对应配方尚未解锁，可通过种植、探索等途径，收集足够数量的材料后在【简制手册】中解锁对应配方。</span></p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1773842798
+  },
+  "msg": ""
+}
