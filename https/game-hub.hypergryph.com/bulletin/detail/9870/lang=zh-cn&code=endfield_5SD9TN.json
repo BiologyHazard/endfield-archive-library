@@ -13,12 +13,12 @@
     "header": "「新潮起，故渊离」版本日历",
     "jumpButton": null,
     "data": {
-      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260310/0469617a74687c75dc9fb6257f38d5e6.png\" data-width=\"1920\" data-height=\"1909\"><p></p>",
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260320/cc09ec865c5cc03f9d45e5d8d7c00657.png\" data-width=\"1920\" data-height=\"1909\"><p></p>",
       "linkType": 1
     },
-    "needRedDot": true,
+    "needRedDot": false,
     "needPopup": false,
-    "version": 1773147266
+    "version": 1774000821
   },
   "msg": ""
 }

@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "6068dfc3124c9fa03abc0a5994f3bffc",
+    "version": "296b16e60fbedd1a0d0bcbe140d0f75d",
     "onlineList": [
       {
         "cid": "3052",
@@ -25,7 +25,13 @@
       },
       {
         "cid": "7296",
-        "version": 1773280717,
+        "version": 1774000818,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "2119",
+        "version": 1773989773,
         "needRedDot": true,
         "needPopup": false
       },
@@ -37,8 +43,8 @@
       },
       {
         "cid": "9870",
-        "version": 1773147266,
-        "needRedDot": true,
+        "version": 1774000821,
+        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -109,7 +115,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1773886284,
+    "updatedAt": 1774000822,
     "list": [
       {
         "cid": "3052",
@@ -143,6 +149,17 @@
         "startAt": 1773277200,
         "focus": 1,
         "title": "版本更新说明"
+      },
+      {
+        "cid": "2119",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1774000800,
+        "focus": 0,
+        "title": "活动调整说明"
       },
       {
         "cid": "7295",
