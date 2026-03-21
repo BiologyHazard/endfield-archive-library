@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "d866565c35a87b8e10eaa0d35f4dc05d",
+    "version": "1765af9bfc8f3765b3007dcc99929878",
     "onlineList": [
       {
         "cid": "3052",
@@ -19,7 +19,7 @@
       },
       {
         "cid": "4628",
-        "version": 1773886283,
+        "version": 1774104301,
         "needRedDot": true,
         "needPopup": false
       },
@@ -127,7 +127,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1774000822,
+    "updatedAt": 1774104302,
     "list": [
       {
         "cid": "3052",
