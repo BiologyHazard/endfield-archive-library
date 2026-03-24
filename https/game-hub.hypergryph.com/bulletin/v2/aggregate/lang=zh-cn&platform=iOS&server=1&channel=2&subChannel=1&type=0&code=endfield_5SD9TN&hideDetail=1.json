@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "ce9961436aa4e08e100b533394558180",
+    "version": "c13d03506ea329d074596bda13d6f5c2",
     "onlineList": [
       {
         "cid": "3052",
@@ -30,9 +30,15 @@
         "needPopup": false
       },
       {
+        "cid": "8969",
+        "version": 1774364719,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
         "cid": "2119",
-        "version": 1773989773,
-        "needRedDot": true,
+        "version": 1774360809,
+        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -127,7 +133,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1774104302,
+    "updatedAt": 1774364719,
     "list": [
       {
         "cid": "3052",
@@ -161,6 +167,17 @@
         "startAt": 1773277200,
         "focus": 1,
         "title": "版本更新说明"
+      },
+      {
+        "cid": "8969",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1774360800,
+        "focus": 0,
+        "title": "时间调整说明"
       },
       {
         "cid": "2119",
