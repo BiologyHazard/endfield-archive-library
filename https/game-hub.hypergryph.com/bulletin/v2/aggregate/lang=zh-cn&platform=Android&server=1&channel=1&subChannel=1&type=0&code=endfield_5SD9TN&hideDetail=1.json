@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "bdc75d3c5ae130e4592b253dba15536d",
+    "version": "07d69507751b8245a205c08c08441562",
     "onlineList": [
       {
         "cid": "3052",
@@ -27,6 +27,12 @@
         "cid": "7296",
         "version": 1774000818,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "9878",
+        "version": 1774267433,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -151,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1774104302,
+    "updatedAt": 1774332000,
     "list": [
       {
         "cid": "3052",
@@ -185,6 +191,17 @@
         "startAt": 1773277200,
         "focus": 1,
         "title": "版本更新说明"
+      },
+      {
+        "cid": "9878",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1774332000,
+        "focus": 0,
+        "title": "协议终端\\n数据查询更新"
       },
       {
         "cid": "2119",

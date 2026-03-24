@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "9878",
+    "type": 0,
+    "tab": "news",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1774332000,
+    "title": "协议终端\\n数据查询更新",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260323/c0e04e3434dc9aeebd3bb58a7e5e64ac.jpg",
+      "link": "https://game.skland.com/endfield/game-data?header=0&hg_media=endfield&hg_link_campaign=announcement",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1774267433
+  },
+  "msg": ""
+}
