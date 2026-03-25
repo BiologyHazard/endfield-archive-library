@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "344ec8bb8a0fcee53365cab017df8c3b",
+    "version": "7487225ef55c328f07a18eada3d6a647",
     "onlineList": [
       {
         "cid": "3052",
@@ -114,6 +114,12 @@
         "needPopup": false
       },
       {
+        "cid": "0703",
+        "version": 1774272453,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "7294",
         "version": 1773842798,
         "needRedDot": true,
@@ -163,7 +169,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1774364719,
+    "updatedAt": 1774407600,
     "list": [
       {
         "cid": "3052",
@@ -351,6 +357,17 @@
         "startAt": 1773270000,
         "focus": 0,
         "title": "协议通行证\\n暗流"
+      },
+      {
+        "cid": "0703",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1774407600,
+        "focus": 0,
+        "title": "影拓丰碑\\n系列更新"
       },
       {
         "cid": "7294",

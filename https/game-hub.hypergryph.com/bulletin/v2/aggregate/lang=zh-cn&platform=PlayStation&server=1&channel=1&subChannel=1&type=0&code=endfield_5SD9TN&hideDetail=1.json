@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "d1a2d52bc1e60dfc87077812bda1c8fa",
+    "version": "aa657c3aaa47486fae122e71c471e979",
     "onlineList": [
       {
         "cid": "3052",
@@ -78,6 +78,12 @@
         "needPopup": false
       },
       {
+        "cid": "0703",
+        "version": 1774272453,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "7294",
         "version": 1773842798,
         "needRedDot": true,
@@ -127,7 +133,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1774364719,
+    "updatedAt": 1774407600,
     "list": [
       {
         "cid": "3052",
@@ -249,6 +255,17 @@
         "startAt": 1773270000,
         "focus": 0,
         "title": "协议通行证\\n暗流"
+      },
+      {
+        "cid": "0703",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1774407600,
+        "focus": 0,
+        "title": "影拓丰碑\\n系列更新"
       },
       {
         "cid": "7294",
