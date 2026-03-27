@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "aa657c3aaa47486fae122e71c471e979",
+    "version": "237b8ab5fe1a9ed01992b2d4e26ef06b",
     "onlineList": [
       {
         "cid": "3052",
@@ -49,7 +49,7 @@
       },
       {
         "cid": "9870",
-        "version": 1774000821,
+        "version": 1774602481,
         "needRedDot": false,
         "needPopup": false
       },
@@ -133,7 +133,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1774407600,
+    "updatedAt": 1774602482,
     "list": [
       {
         "cid": "3052",
@@ -251,7 +251,7 @@
         "header": "「新潮起，故渊离」版本日历",
         "jumpButton": null,
         "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260320/cc09ec865c5cc03f9d45e5d8d7c00657.png\" data-width=\"1920\" data-height=\"1909\"><p></p>",
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260327/8b77a6fbb8396ff0e74c13ea4ea60ee3.jpg\" data-width=\"1920\" data-height=\"1909\"><img src=\"https://web.hycdn.cn/upload/image/20260327/8b77a6fbb8396ff0e74c13ea4ea60ee3.jpg\" data-width=\"1920\" data-height=\"1909\"><p></p>",
           "linkType": 1
         }
       },
