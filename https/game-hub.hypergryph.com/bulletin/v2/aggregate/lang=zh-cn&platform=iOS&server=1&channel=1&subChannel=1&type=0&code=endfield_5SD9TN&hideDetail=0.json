@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "7487225ef55c328f07a18eada3d6a647",
+    "version": "ac7a9474348ef96d7495aa6fe8003037",
     "onlineList": [
       {
         "cid": "3052",
@@ -73,7 +73,7 @@
       },
       {
         "cid": "9870",
-        "version": 1774000821,
+        "version": 1774602481,
         "needRedDot": false,
         "needPopup": false
       },
@@ -169,7 +169,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1774407600,
+    "updatedAt": 1774602482,
     "list": [
       {
         "cid": "3052",
@@ -358,7 +358,7 @@
         "header": "「新潮起，故渊离」版本日历",
         "jumpButton": null,
         "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260320/cc09ec865c5cc03f9d45e5d8d7c00657.png\" data-width=\"1920\" data-height=\"1909\"><p></p>",
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260327/8b77a6fbb8396ff0e74c13ea4ea60ee3.jpg\" data-width=\"1920\" data-height=\"1909\"><img src=\"https://web.hycdn.cn/upload/image/20260327/8b77a6fbb8396ff0e74c13ea4ea60ee3.jpg\" data-width=\"1920\" data-height=\"1909\"><p></p>",
           "linkType": 1
         }
       },
