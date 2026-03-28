@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "6442",
+    "type": 0,
+    "tab": "events",
+    "orderType": 1,
+    "orderWeight": 3,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1774666800,
+    "title": "密境行者\\n空间组更新",
+    "header": "「密境行者」 - 「行探险窟」空间组更新说明",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260323/0b7b1d92010de25ef37730110ab6ba96.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">▼//活动时间</span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/03/29 12:00（服务器时间）开启，空间组开启后常驻开放。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动奖励</span></p><p><span style=\"color: rgb(31, 35, 41);\">活动开放期间，完成空间组挑战，累计可获得【嵌晶玉】【存续的痕迹】【协议棱柱组】等活动奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//参与条件</span></p><p><span style=\"color: rgb(31, 35, 41);\">完成主线任务「第一章 - 进程Ⅱ - 开拓前路」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 本次「密境行者」解谜活动将更新「行探险窟」空间组挑战，「行探险窟」空间组内包含6个协议空间。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 通关协议空间挑战，即可获取对应通关奖励。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 通关「行探险窟」空间组的全部协议空间后，即可获取对应蚀刻章；达成该系列全部协议空间的附加目标，并开启所有储藏箱，即可对该蚀刻章进行镀层。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多活动详细说明，请前往游戏内【活动中心】查看。</span></p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1774272456
+  },
+  "msg": ""
+}

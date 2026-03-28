@@ -15,6 +15,28 @@
         "brief": "亲爱的管理员：「河流的女儿」特许寻访开放期间，6星干员【汤汤】获取概率提升！「清波静流」限时签到活动同步开放，累计签到可获得【清波静流寻访凭证】×5等奖励，还可在【集成配额交易】中进行【清波静流寻访凭"
       },
       {
+        "cid": "4783",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「绯珀申领」限时特卖说明",
+        "author": "",
+        "displayTime": 1774672200,
+        "cover": "https://web.hycdn.cn/upload/image/20260325/82348049bb6d26a24a89a6f97f3d94de.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：「绯珀申领」开放期间，6星武器【狼之绯（单手剑）】获取概率提升！\n▼//「绯珀申领」· 开放时间：2026/03/29 12:00（服务器时间）开启，于3次「特许寻访」后结束（从「狼珀」"
+      },
+      {
+        "cid": "7224",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「狼珀」特许寻访说明",
+        "author": "",
+        "displayTime": 1774670400,
+        "cover": "https://web.hycdn.cn/upload/image/20260326/f289196a5a044091a8c52ae4efb8da28.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：「狼珀」特许寻访开放期间，6星干员【洛茜】获取概率提升！「狼群瑰宝」限时签到活动同步开放，累计签到可获得【狼群瑰宝寻访凭证】×5等奖励，还可在【集成配额交易】中进行【狼群瑰宝寻访凭证】的"
+      },
+      {
         "cid": "3819",
         "tab": "notices",
         "sticky": false,
@@ -90,32 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260228/71c65d332edabf107ec32320985ddfff.jpg",
         "extraCover": "",
         "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。自公测开启以来，我们收到了许多热情反馈与宝贵建议。大家的支持与期待，也一直是我们持续迭代的动力。通过本期研发通讯，我们将为管理员介绍即将在「新潮起，故渊"
-      },
-      {
-        "cid": "5993",
-        "tab": "news",
-        "sticky": false,
-        "title": "官方漫画《诺言》上线",
-        "author": "",
-        "displayTime": 1771914300,
-        "cover": "https://web.hycdn.cn/upload/image/20260224/6f10e3b39de2635450cfb361cb78027f.jpg",
-        "extraCover": "",
-        "brief": "明日方舟：终末地官方漫画《诺言》现已上线！以星承诺，以羽誓言。\n点击前往阅读\n\n"
-      },
-      {
-        "cid": "3811",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「绘涂申领」限时特卖说明",
-        "author": "",
-        "displayTime": 1771822800,
-        "cover": "https://web.hycdn.cn/upload/image/20260212/02e8e452c4c95e0c86743a6d0879a592.png",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「绘涂申领」开放期间，6星武器【艺术暴君（手铳）】获取概率提升！\n▼//「绘涂申领」· 开放时间：2026/02/24 12:00（服务器时间）开启，于3次「特许寻访」后结束（从「热烈色"
       }
     ],
     "current": 1,
     "pageSize": 10,
-    "total": 50
+    "total": 52
   }
 }

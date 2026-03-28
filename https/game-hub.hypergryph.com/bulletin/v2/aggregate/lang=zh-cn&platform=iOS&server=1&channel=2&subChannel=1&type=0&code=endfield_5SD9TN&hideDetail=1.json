@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "02b41805f408b5ac300a7bbf2dd2354c",
+    "version": "202ef91768e4dd9d9728fc2c139ad77e",
     "onlineList": [
+      {
+        "cid": "5535",
+        "version": 1774348106,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "3052",
         "version": 1773308971,
@@ -27,6 +33,12 @@
         "cid": "7296",
         "version": 1774000818,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "1384",
+        "version": 1774346567,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -80,6 +92,18 @@
       {
         "cid": "7297",
         "version": 1773146786,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "4627",
+        "version": 1774340307,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "6442",
+        "version": 1774272456,
         "needRedDot": true,
         "needPopup": false
       },
@@ -139,8 +163,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1774602482,
+    "updatedAt": 1774674000,
     "list": [
+      {
+        "cid": "5535",
+        "type": 0,
+        "tab": "events",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1774670400,
+        "focus": 0,
+        "title": "狼珀\\n特许寻访"
+      },
       {
         "cid": "3052",
         "type": 0,
@@ -173,6 +208,17 @@
         "startAt": 1773277200,
         "focus": 1,
         "title": "版本更新说明"
+      },
+      {
+        "cid": "1384",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1774670400,
+        "focus": 0,
+        "title": "绯珀申领"
       },
       {
         "cid": "8969",
@@ -272,6 +318,28 @@
         "startAt": 1773270000,
         "focus": 0,
         "title": "协议通行证\\n暗流"
+      },
+      {
+        "cid": "4627",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1774674000,
+        "focus": 0,
+        "title": "红骑士"
+      },
+      {
+        "cid": "6442",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1774666800,
+        "focus": 0,
+        "title": "密境行者\\n空间组更新"
       },
       {
         "cid": "0703",
