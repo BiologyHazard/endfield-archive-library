@@ -9,14 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "ff55788c02da79f3c1aaff1a64e94a8f",
+    "version": "3e30ec3a695fe50fed8a05014ba9049d",
     "onlineList": [
-      {
-        "cid": "7293",
-        "version": 1774691139,
-        "needRedDot": true,
-        "needPopup": false
-      },
       {
         "cid": "5535",
         "version": 1774348106,
@@ -31,7 +25,7 @@
       },
       {
         "cid": "4628",
-        "version": 1774104301,
+        "version": 1774750307,
         "needRedDot": true,
         "needPopup": false
       },
@@ -120,18 +114,6 @@
         "needPopup": false
       },
       {
-        "cid": "0705",
-        "version": 1773147029,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "6444",
-        "version": 1773219278,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "8962",
         "version": 1773211162,
         "needRedDot": true,
@@ -163,19 +145,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1774710000,
+    "updatedAt": 1774756740,
     "list": [
-      {
-        "cid": "7293",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1774710000,
-        "focus": 1,
-        "title": "闪断更新公告"
-      },
       {
         "cid": "5535",
         "type": 0,
@@ -362,28 +333,6 @@
         "startAt": 1773802800,
         "focus": 0,
         "title": "物资供给\\n开拓节"
-      },
-      {
-        "cid": "0705",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1773270000,
-        "focus": 0,
-        "title": "河流的女儿\\n特许寻访"
-      },
-      {
-        "cid": "6444",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 4,
-        "displayType": "rich_text",
-        "startAt": 1773270000,
-        "focus": 0,
-        "title": "新芽申领"
       },
       {
         "cid": "8962",
