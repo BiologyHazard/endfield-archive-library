@@ -9,17 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "d47af133a731c1091c275c7579bc7fd7",
+    "version": "364beb185fa5e2b84b4882c47f852594",
     "onlineList": [
       {
         "cid": "5535",
         "version": 1774348106,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "3052",
-        "version": 1773308971,
         "needRedDot": true,
         "needPopup": false
       },
@@ -151,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1774756740,
+    "updatedAt": 1774886400,
     "list": [
       {
         "cid": "5535",
@@ -163,17 +157,6 @@
         "startAt": 1774670400,
         "focus": 0,
         "title": "狼珀\\n特许寻访"
-      },
-      {
-        "cid": "3052",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1773633600,
-        "focus": 0,
-        "title": "新潮驿站系列\\n衍生品新品上架"
       },
       {
         "cid": "4628",

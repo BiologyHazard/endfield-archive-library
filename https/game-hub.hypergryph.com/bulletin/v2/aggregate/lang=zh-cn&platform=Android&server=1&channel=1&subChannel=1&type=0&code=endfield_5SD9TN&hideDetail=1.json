@@ -9,17 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "038a484c4dd297ea113fcc8984221c52",
+    "version": "eabfa3a510118db498b5a4f923ca7bd5",
     "onlineList": [
       {
         "cid": "5535",
         "version": 1774348106,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "3052",
-        "version": 1773308971,
         "needRedDot": true,
         "needPopup": false
       },
@@ -45,12 +39,6 @@
         "cid": "8969",
         "version": 1774364719,
         "needRedDot": false,
-        "needPopup": false
-      },
-      {
-        "cid": "9878",
-        "version": 1774267433,
-        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -175,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1774756740,
+    "updatedAt": 1774886400,
     "list": [
       {
         "cid": "5535",
@@ -187,17 +175,6 @@
         "startAt": 1774670400,
         "focus": 0,
         "title": "狼珀\\n特许寻访"
-      },
-      {
-        "cid": "3052",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1773633600,
-        "focus": 0,
-        "title": "新潮驿站系列\\n衍生品新品上架"
       },
       {
         "cid": "4628",
@@ -242,17 +219,6 @@
         "startAt": 1774360800,
         "focus": 0,
         "title": "时间调整说明"
-      },
-      {
-        "cid": "9878",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1774332000,
-        "focus": 0,
-        "title": "协议终端\\n数据查询更新"
       },
       {
         "cid": "2119",
