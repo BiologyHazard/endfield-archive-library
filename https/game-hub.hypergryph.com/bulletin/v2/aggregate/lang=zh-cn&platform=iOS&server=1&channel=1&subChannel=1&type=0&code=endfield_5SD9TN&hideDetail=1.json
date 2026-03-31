@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "eabfa3a510118db498b5a4f923ca7bd5",
+    "version": "6fab682e976fa9d7a477826295812a72",
     "onlineList": [
       {
         "cid": "5535",
@@ -19,7 +19,7 @@
       },
       {
         "cid": "4628",
-        "version": 1774750307,
+        "version": 1774925919,
         "needRedDot": true,
         "needPopup": false
       },
@@ -163,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1774886400,
+    "updatedAt": 1774925920,
     "list": [
       {
         "cid": "5535",
