@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "2674",
+        "tab": "news",
+        "sticky": false,
+        "title": "《明日方舟：终末地》「零号委托」研发通讯",
+        "author": "",
+        "displayTime": 1770210000,
+        "cover": "https://web.hycdn.cn/upload/image/20260204/e7d08688bf18542125d4a0d3659a9d1e.png",
+        "extraCover": "",
+        "brief": "亲爱的管理员：\n自《明日方舟：终末地》开服以来，塔卫二迎来了无数热情、智慧、同时也充满互助精神的探索与建设者。来自全球的管理员，正在让终末地的世界变得越来越生动、丰饶。\n截止2026年2月1日，全球管"
+      },
+      {
         "cid": "7230",
         "tab": "notices",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260119/69d7063f1b7eb10080597d0ddf5eeae5.png",
         "extraCover": "",
         "brief": "感谢您对《明日方舟：终末地》的关注与支持。为维护绿色、公平的游戏环境，保障各位玩家的合法权益，在此特意提醒各位玩家：\n1. 禁止游戏中使用外挂、第三方工具、非正规途径充值，不得以任何不正当方式破坏游戏"
-      },
-      {
-        "cid": "7231",
-        "tab": "notices",
-        "sticky": false,
-        "title": "《明日方舟：终末地》预下载开启",
-        "author": "",
-        "displayTime": 1768881600,
-        "cover": "https://web.hycdn.cn/upload/image/20260119/2c1af6fc1d669778e84a1c7dc671b544.png",
-        "extraCover": "",
-        "brief": "亲爱的管理员：《明日方舟：终末地》预下载现已开启！您可提前下载安装游戏及游戏资源。由于资源量较大，建议管理员在稳定的Wi-Fi环境下载。《明日方舟：终末地》全球公测将于2026年1月22日 11:00"
       }
     ],
     "current": 3,
     "pageSize": 10,
-    "total": 52
+    "total": 53
   }
 }
