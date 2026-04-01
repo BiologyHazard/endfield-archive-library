@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "2842629c2d684c501c073adcacf17afd",
+    "version": "c967ae6b3fa1abb5347b4fb163a17bb5",
     "onlineList": [
       {
         "cid": "5535",
@@ -138,20 +138,8 @@
         "needPopup": false
       },
       {
-        "cid": "7294",
-        "version": 1773842798,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "8962",
         "version": 1773211162,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "1387",
-        "version": 1773214836,
         "needRedDot": true,
         "needPopup": false
       },
@@ -175,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775016000,
+    "updatedAt": 1775073600,
     "list": [
       {
         "cid": "5535",
@@ -409,17 +397,6 @@
         "title": "影拓丰碑\\n系列更新"
       },
       {
-        "cid": "7294",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1773802800,
-        "focus": 0,
-        "title": "物资供给\\n开拓节"
-      },
-      {
         "cid": "8962",
         "type": 0,
         "tab": "events",
@@ -429,17 +406,6 @@
         "startAt": 1773270000,
         "focus": 0,
         "title": "蚀像寻遗\\n内容更新"
-      },
-      {
-        "cid": "1387",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 6,
-        "displayType": "rich_text",
-        "startAt": 1773270000,
-        "focus": 0,
-        "title": "泉流无声"
       },
       {
         "cid": "8977",
