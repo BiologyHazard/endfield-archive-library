@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "6bed73e018cc272730387af5644648d9",
+    "version": "a19ebadfcc0ba93f3f9a021e28740682",
     "onlineList": [
       {
         "cid": "5535",
@@ -69,6 +69,12 @@
         "cid": "9870",
         "version": 1774602481,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "4626",
+        "version": 1774344783,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -133,7 +139,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775073600,
+    "updatedAt": 1775098800,
     "list": [
       {
         "cid": "5535",
@@ -244,6 +250,17 @@
         "startAt": 1773270000,
         "focus": 0,
         "title": "新潮起，故渊离\\n版本日历"
+      },
+      {
+        "cid": "4626",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1775098800,
+        "focus": 0,
+        "title": "版本调研问卷"
       },
       {
         "cid": "4629",
