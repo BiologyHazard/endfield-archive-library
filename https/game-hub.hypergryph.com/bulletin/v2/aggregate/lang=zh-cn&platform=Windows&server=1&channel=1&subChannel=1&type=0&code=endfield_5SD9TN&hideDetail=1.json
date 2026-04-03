@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "dcdba9b73465004ca9b7918994c7737b",
+    "version": "0ec500d6faf4e548cf563f384441f9af",
     "onlineList": [
       {
         "cid": "5535",
@@ -19,7 +19,7 @@
       },
       {
         "cid": "4628",
-        "version": 1774925919,
+        "version": 1775184064,
         "needRedDot": true,
         "needPopup": false
       },
@@ -27,6 +27,12 @@
         "cid": "7296",
         "version": 1774000818,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "5534",
+        "version": 1775129900,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -169,7 +175,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775098800,
+    "updatedAt": 1775185200,
     "list": [
       {
         "cid": "5535",
@@ -203,6 +209,17 @@
         "startAt": 1773277200,
         "focus": 1,
         "title": "版本更新说明"
+      },
+      {
+        "cid": "5534",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1775185200,
+        "focus": 0,
+        "title": "新潮起，故渊离\\n森空岛限时任务"
       },
       {
         "cid": "9877",

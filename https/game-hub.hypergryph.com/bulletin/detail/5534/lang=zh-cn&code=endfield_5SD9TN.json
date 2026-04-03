@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "5534",
+    "type": 0,
+    "tab": "news",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1775185200,
+    "title": "新潮起，故渊离\\n森空岛限时任务",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260402/6c22929006a00c9b65128844864496aa.jpg",
+      "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fact.skland.com%252Fendfield%252Fnew-wave-second-half%253Fheader%253D0%2526activityId%253Dact_endfield_384853%2526hg_media%253Dendfield%2526hg_link_campaign%253Dannouncement",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1775129900
+  },
+  "msg": ""
+}
