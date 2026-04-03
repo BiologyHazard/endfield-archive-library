@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "731fedc4ea40e7f7ef085dac7537ab75",
+    "version": "de8a8b7a2ccc0ac3593b91b434ab31c5",
     "onlineList": [
       {
         "cid": "5535",
@@ -32,12 +32,6 @@
       {
         "cid": "6441",
         "version": 1774426194,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "3050",
-        "version": 1774605456,
         "needRedDot": true,
         "needPopup": false
       },
@@ -145,7 +139,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775184064,
+    "updatedAt": 1775246340,
     "list": [
       {
         "cid": "5535",
@@ -190,17 +184,6 @@
         "startAt": 1775016000,
         "focus": 0,
         "title": "长耳兽之旅"
-      },
-      {
-        "cid": "3050",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1775016000,
-        "focus": 0,
-        "title": "特别补给物资"
       },
       {
         "cid": "1384",

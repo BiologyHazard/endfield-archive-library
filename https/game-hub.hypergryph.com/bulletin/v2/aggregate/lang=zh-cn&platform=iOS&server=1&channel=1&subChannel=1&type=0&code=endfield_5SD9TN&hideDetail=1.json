@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "35ec33cecf496188eb370582462afa89",
+    "version": "89b16e03e4f2d2940c894ccad0a65748",
     "onlineList": [
       {
         "cid": "5535",
@@ -44,12 +44,6 @@
       {
         "cid": "6441",
         "version": 1774426194,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "3050",
-        "version": 1774605456,
         "needRedDot": true,
         "needPopup": false
       },
@@ -175,7 +169,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775185200,
+    "updatedAt": 1775246340,
     "list": [
       {
         "cid": "5535",
@@ -242,17 +236,6 @@
         "startAt": 1775016000,
         "focus": 0,
         "title": "长耳兽之旅"
-      },
-      {
-        "cid": "3050",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1775016000,
-        "focus": 0,
-        "title": "特别补给物资"
       },
       {
         "cid": "1384",
