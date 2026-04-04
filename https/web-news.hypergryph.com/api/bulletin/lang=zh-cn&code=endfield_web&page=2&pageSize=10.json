@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "0437",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「新潮起，故渊离」版本更新维护预告",
+        "author": "",
+        "displayTime": 1772852400,
+        "cover": "https://web.hycdn.cn/upload/image/20260306/45ddcef5590e04921550504738776d7a.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：《明日方舟：终末地》计划将于2026年3月12日 06:00（UTC+8）开始对游戏客户端进行版本更新停机维护，维护完成后将更新至全新版本「新潮起，故渊离」。本次更新为强制更新，更新维护"
+      },
+      {
         "cid": "7225",
         "tab": "news",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260205/17aad6a803552991d43155f17af6b6f2.png",
         "extraCover": "",
         "brief": "亲爱的管理员：「轻飘飘的信使」特许寻访开放期间，6星干员【洁尔佩塔】获取概率提升！「灵动信使」限时签到活动同步开放，累计签到可获得【灵动信使寻访凭证】×5等奖励，还可在【集成配额交易】中进行【灵动信使"
-      },
-      {
-        "cid": "6013",
-        "tab": "news",
-        "sticky": false,
-        "title": "「Over the Frontier」公测主题画廊上线",
-        "author": "",
-        "displayTime": 1770264000,
-        "cover": "https://web.hycdn.cn/upload/image/20260204/43d8d994ac076c598e838ed1ce20a21f.png",
-        "extraCover": "",
-        "brief": "「Over the Frontier」主题画廊已上线。画廊收录了《明日方舟：终末地》公测以来的部分同人绘画创作，并分为4种主题进行展示，欢迎管理员前往观看。\n点击前往画廊\n特别说明：*画廊内作品排名不"
       }
     ],
     "current": 2,
     "pageSize": 10,
-    "total": 53
+    "total": 54
   }
 }

@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "5907",
+        "tab": "notices",
+        "sticky": false,
+        "title": "《明日方舟：终末地》公平运营声明",
+        "author": "",
+        "displayTime": 1768892400,
+        "cover": "https://web.hycdn.cn/upload/image/20260119/69d7063f1b7eb10080597d0ddf5eeae5.png",
+        "extraCover": "",
+        "brief": "感谢您对《明日方舟：终末地》的关注与支持。为维护绿色、公平的游戏环境，保障各位玩家的合法权益，在此特意提醒各位玩家：\n1. 禁止游戏中使用外挂、第三方工具、非正规途径充值，不得以任何不正当方式破坏游戏"
+      },
+      {
         "cid": "7231",
         "tab": "notices",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20251126/fa4d951f7288107fbda9666a453290c9.jpg",
         "extraCover": "",
         "brief": "「全面测试」已正式开启，塔卫二的一切等待管理员的开拓与探索。\n▼//测试时间2025/11/28 11:00 - 测试结束时间另行通知\n▼//测试信息测试类型：限量计费删档测试测试平台：PC端及移动端"
-      },
-      {
-        "cid": "8566",
-        "tab": "notices",
-        "sticky": false,
-        "title": "《明日方舟：终末地》「全面测试」预下载现已开启！",
-        "author": "",
-        "displayTime": 1764158400,
-        "cover": "https://web.hycdn.cn/upload/image/20251126/2e9c7e6362e6ca4b5cbc8d445ab9f482.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：《明日方舟：终末地》「全面测试」预下载现已开启！测试将于2025/11/28 11:00正式开启！\n1. 管理员可前往「全面测试」资格查询页，使用鹰角网络通行证账号登录，点击【资格查询】"
       }
     ],
     "current": 4,
     "pageSize": 10,
-    "total": 53
+    "total": 54
   }
 }

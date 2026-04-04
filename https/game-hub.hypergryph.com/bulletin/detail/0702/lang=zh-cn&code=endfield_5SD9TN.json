@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "0702",
+    "type": 0,
+    "tab": "news",
+    "orderType": 0,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1775275200,
+    "title": "漫画《加油吧！\\n终末地》上线",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260330/d03ac72a5b9465c0ada364f5a0d3c20b.jpg",
+      "link": "https://comic.hypergryph.com/talos-ii-historicus/comic/3115",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1774867026
+  },
+  "msg": ""
+}

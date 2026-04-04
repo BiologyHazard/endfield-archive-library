@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "89b16e03e4f2d2940c894ccad0a65748",
+    "version": "2af8a0ac3258c5a60e461ff49d1b089e",
     "onlineList": [
+      {
+        "cid": "0702",
+        "version": 1774867026,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "5535",
         "version": 1774348106,
@@ -169,8 +175,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775246340,
+    "updatedAt": 1775275200,
     "list": [
+      {
+        "cid": "0702",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1775275200,
+        "focus": 0,
+        "title": "漫画《加油吧！\\n终末地》上线"
+      },
       {
         "cid": "5535",
         "type": 0,
