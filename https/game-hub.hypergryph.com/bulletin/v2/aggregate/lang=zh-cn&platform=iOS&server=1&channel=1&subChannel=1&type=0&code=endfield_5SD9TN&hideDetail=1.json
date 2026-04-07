@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "aad3a35c65a746dd1c54b29725bfc602",
+    "version": "9c1c14335f30745dd580ef6c157b3865",
     "onlineList": [
       {
         "cid": "0702",
@@ -44,12 +44,6 @@
       {
         "cid": "9877",
         "version": 1774865633,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "6441",
-        "version": 1774426194,
         "needRedDot": true,
         "needPopup": false
       },
@@ -175,7 +169,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775528127,
+    "updatedAt": 1775592000,
     "list": [
       {
         "cid": "0702",
@@ -242,17 +236,6 @@
         "startAt": 1775016000,
         "focus": 0,
         "title": "4月签到开启\\n领取丰厚奖励"
-      },
-      {
-        "cid": "6441",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1775016000,
-        "focus": 0,
-        "title": "长耳兽之旅"
       },
       {
         "cid": "1384",
