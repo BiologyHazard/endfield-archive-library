@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "e6b6b0730f10a585044a57a581702dee",
+    "version": "cfc62929a3a2cdf4b8f89f85c7ffacc5",
     "onlineList": [
       {
         "cid": "5535",
@@ -27,6 +27,12 @@
         "cid": "7296",
         "version": 1774000818,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "0701",
+        "version": 1775130114,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -127,7 +133,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775592000,
+    "updatedAt": 1775617200,
     "list": [
       {
         "cid": "5535",
@@ -161,6 +167,17 @@
         "startAt": 1773277200,
         "focus": 1,
         "title": "版本更新说明"
+      },
+      {
+        "cid": "0701",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1775617200,
+        "focus": 0,
+        "title": "生存特训"
       },
       {
         "cid": "1384",

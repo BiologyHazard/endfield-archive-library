@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "0701",
+    "type": 0,
+    "tab": "events",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1775617200,
+    "title": "生存特训",
+    "header": "「生存特训」挑战活动说明",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260402/77fdf198a5608a79979e06c248f97a40.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">▼//活动时间</span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/04/09 12:00 - 2026/04/30 04:00（服务器时间）</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动奖励</span></p><p><span style=\"color: rgb(31, 35, 41);\">活动开放期间，完成挑战关卡，累计可获得【头像·生存专家】【嵌晶玉】【存续的痕迹】【高阶培养自选箱Ⅰ】等活动奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//参与条件</span></p><p><span style=\"color: rgb(31, 35, 41);\">完成主线任务「第一章 - 进程Ⅱ - 开拓前路」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动期间，完成挑战关卡，即可领取对应奖励。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动共有8个挑战关卡。活动开启时，将会开放2个关卡。从第3日起，每日04:00（服务器时间）将会开放1个新的关卡。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 通关全部挑战关卡后，可获得本活动的蚀刻章；在指定时间内通关最后一个挑战关卡，即可对该蚀刻章进行镀层。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多活动详细说明，请前往游戏内【活动中心】查看。</span></p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1775130114
+  },
+  "msg": ""
+}

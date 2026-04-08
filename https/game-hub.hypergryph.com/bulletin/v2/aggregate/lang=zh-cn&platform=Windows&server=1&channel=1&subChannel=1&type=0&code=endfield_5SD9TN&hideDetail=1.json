@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "c0b47c5d2f6f08e3ddca00ac5fddc7c0",
+    "version": "8305e3a990f47b074519b55e51374a88",
     "onlineList": [
       {
         "cid": "0702",
@@ -33,6 +33,12 @@
         "cid": "7296",
         "version": 1774000818,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "0701",
+        "version": 1775130114,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -169,7 +175,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775592000,
+    "updatedAt": 1775617200,
     "list": [
       {
         "cid": "0702",
@@ -214,6 +220,17 @@
         "startAt": 1773277200,
         "focus": 1,
         "title": "版本更新说明"
+      },
+      {
+        "cid": "0701",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1775617200,
+        "focus": 0,
+        "title": "生存特训"
       },
       {
         "cid": "5534",
