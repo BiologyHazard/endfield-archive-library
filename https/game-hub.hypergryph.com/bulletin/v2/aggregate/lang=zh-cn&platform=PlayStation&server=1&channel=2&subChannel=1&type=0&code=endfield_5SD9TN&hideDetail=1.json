@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "cfc62929a3a2cdf4b8f89f85c7ffacc5",
+    "version": "8debaf476f09d763be384cc618daf5a4",
     "onlineList": [
       {
         "cid": "5535",
@@ -102,12 +102,6 @@
         "needPopup": false
       },
       {
-        "cid": "0703",
-        "version": 1774272453,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "8962",
         "version": 1773211162,
         "needRedDot": true,
@@ -133,7 +127,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775617200,
+    "updatedAt": 1775678400,
     "list": [
       {
         "cid": "5535",
@@ -299,17 +293,6 @@
         "startAt": 1774666800,
         "focus": 0,
         "title": "密境行者\\n空间组更新"
-      },
-      {
-        "cid": "0703",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1774407600,
-        "focus": 0,
-        "title": "影拓丰碑\\n系列更新"
       },
       {
         "cid": "8962",

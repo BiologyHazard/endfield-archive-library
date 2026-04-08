@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "8305e3a990f47b074519b55e51374a88",
+    "version": "764167823456e67df2393796c108b6e5",
     "onlineList": [
       {
         "cid": "0702",
@@ -144,12 +144,6 @@
         "needPopup": false
       },
       {
-        "cid": "0703",
-        "version": 1774272453,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "8962",
         "version": 1773211162,
         "needRedDot": true,
@@ -175,7 +169,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775617200,
+    "updatedAt": 1775678400,
     "list": [
       {
         "cid": "0702",
@@ -418,17 +412,6 @@
         "startAt": 1774666800,
         "focus": 0,
         "title": "密境行者\\n空间组更新"
-      },
-      {
-        "cid": "0703",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1774407600,
-        "focus": 0,
-        "title": "影拓丰碑\\n系列更新"
       },
       {
         "cid": "8962",
