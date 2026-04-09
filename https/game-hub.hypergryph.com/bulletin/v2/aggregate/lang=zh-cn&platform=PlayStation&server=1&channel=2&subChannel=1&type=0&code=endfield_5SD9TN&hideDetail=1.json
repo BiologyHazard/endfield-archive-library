@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "8debaf476f09d763be384cc618daf5a4",
+    "version": "369b60c88cbf8f7f508462eca6c9b4fc",
     "onlineList": [
       {
         "cid": "5535",
@@ -26,6 +26,12 @@
       {
         "cid": "7296",
         "version": 1774000818,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "6440",
+        "version": 1775725310,
         "needRedDot": false,
         "needPopup": false
       },
@@ -127,7 +133,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775678400,
+    "updatedAt": 1775725311,
     "list": [
       {
         "cid": "5535",
@@ -161,6 +167,17 @@
         "startAt": 1773277200,
         "focus": 1,
         "title": "版本更新说明"
+      },
+      {
+        "cid": "6440",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1775707200,
+        "focus": 0,
+        "title": "特别补给物资"
       },
       {
         "cid": "0701",
