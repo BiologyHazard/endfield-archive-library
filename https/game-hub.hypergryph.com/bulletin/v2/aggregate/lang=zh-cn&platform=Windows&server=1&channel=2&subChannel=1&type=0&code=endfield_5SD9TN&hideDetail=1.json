@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "09d7b36267de824dc7f1bf9c27896a29",
+    "version": "51bc041d1b50323b54693d30f475c12b",
     "onlineList": [
       {
         "cid": "0702",
@@ -90,6 +90,12 @@
         "needPopup": false
       },
       {
+        "cid": "4625",
+        "version": 1775130085,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "4626",
         "version": 1774344783,
         "needRedDot": true,
@@ -151,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775725311,
+    "updatedAt": 1775791800,
     "list": [
       {
         "cid": "0702",
@@ -295,6 +301,17 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
+      },
+      {
+        "cid": "4625",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1775791800,
+        "focus": 0,
+        "title": "提速任务开启"
       },
       {
         "cid": "4626",

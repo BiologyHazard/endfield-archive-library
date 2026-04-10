@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "85a504fd234ec68dc74780be39c024e1",
+    "version": "08d30f85718f05dd50dfedeb47fe3c83",
     "onlineList": [
       {
         "cid": "0702",
@@ -90,6 +90,12 @@
         "needPopup": false
       },
       {
+        "cid": "4625",
+        "version": 1775130085,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "4626",
         "version": 1774344783,
         "needRedDot": true,
@@ -151,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775725311,
+    "updatedAt": 1775791800,
     "list": [
       {
         "cid": "0702",
@@ -295,6 +301,17 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
+      },
+      {
+        "cid": "4625",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1775791800,
+        "focus": 0,
+        "title": "提速任务开启"
       },
       {
         "cid": "4626",

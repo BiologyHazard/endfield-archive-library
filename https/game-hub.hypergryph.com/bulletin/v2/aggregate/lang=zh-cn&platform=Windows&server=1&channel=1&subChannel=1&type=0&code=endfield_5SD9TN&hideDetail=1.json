@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "f8af57f3e468f5fd2a590b6d12faf75b",
+    "version": "c1254a72e53e914c7ad05c4dfcc9909a",
     "onlineList": [
       {
         "cid": "0702",
@@ -114,6 +114,12 @@
         "needPopup": false
       },
       {
+        "cid": "4625",
+        "version": 1775130085,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "4626",
         "version": 1774344783,
         "needRedDot": true,
@@ -175,7 +181,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775725311,
+    "updatedAt": 1775791800,
     "list": [
       {
         "cid": "0702",
@@ -363,6 +369,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "4625",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1775791800,
+        "focus": 0,
+        "title": "提速任务开启"
       },
       {
         "cid": "4626",

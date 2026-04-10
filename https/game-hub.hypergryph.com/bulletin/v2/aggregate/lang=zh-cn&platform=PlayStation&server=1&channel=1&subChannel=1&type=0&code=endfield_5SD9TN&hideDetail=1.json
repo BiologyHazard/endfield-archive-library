@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "a9aa0a4f03521a0c9bb05877b88650b1",
+    "version": "a0a6f6da278667b343d8aab31e3dc6de",
     "onlineList": [
       {
         "cid": "5535",
@@ -78,6 +78,12 @@
         "needPopup": false
       },
       {
+        "cid": "4625",
+        "version": 1775130085,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "4626",
         "version": 1774344783,
         "needRedDot": true,
@@ -139,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775725311,
+    "updatedAt": 1775791800,
     "list": [
       {
         "cid": "5535",
@@ -261,6 +267,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "4625",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1775791800,
+        "focus": 0,
+        "title": "提速任务开启"
       },
       {
         "cid": "4626",

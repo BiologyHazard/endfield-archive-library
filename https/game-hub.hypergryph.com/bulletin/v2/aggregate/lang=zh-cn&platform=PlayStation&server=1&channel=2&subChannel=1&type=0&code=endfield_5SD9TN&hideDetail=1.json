@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "369b60c88cbf8f7f508462eca6c9b4fc",
+    "version": "b577c3c64286563c47c6db5c75bd09c7",
     "onlineList": [
       {
         "cid": "5535",
@@ -69,6 +69,12 @@
         "cid": "9870",
         "version": 1774602481,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "4625",
+        "version": 1775130085,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -133,7 +139,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775725311,
+    "updatedAt": 1775791800,
     "list": [
       {
         "cid": "5535",
@@ -244,6 +250,17 @@
         "startAt": 1773270000,
         "focus": 0,
         "title": "新潮起，故渊离\\n版本日历"
+      },
+      {
+        "cid": "4625",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1775791800,
+        "focus": 0,
+        "title": "提速任务开启"
       },
       {
         "cid": "4626",
