@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "94ccee1d88ab22fe7d53637e7c3e74e5",
+    "version": "b4116b202a8539556d95c014d3a3def0",
     "onlineList": [
       {
         "cid": "0702",
@@ -120,12 +120,6 @@
         "needPopup": false
       },
       {
-        "cid": "4626",
-        "version": 1774344783,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "4629",
         "version": 1773147378,
         "needRedDot": true,
@@ -181,7 +175,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775791800,
+    "updatedAt": 1775876400,
     "list": [
       {
         "cid": "0702",
@@ -380,17 +374,6 @@
         "startAt": 1775791800,
         "focus": 0,
         "title": "提速任务开启"
-      },
-      {
-        "cid": "4626",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1775098800,
-        "focus": 0,
-        "title": "版本调研问卷"
       },
       {
         "cid": "4629",

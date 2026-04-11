@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "b577c3c64286563c47c6db5c75bd09c7",
+    "version": "5a940f564cd407c5a130718305163d9f",
     "onlineList": [
       {
         "cid": "5535",
@@ -78,12 +78,6 @@
         "needPopup": false
       },
       {
-        "cid": "4626",
-        "version": 1774344783,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "4629",
         "version": 1773147378,
         "needRedDot": true,
@@ -139,7 +133,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775791800,
+    "updatedAt": 1775876400,
     "list": [
       {
         "cid": "5535",
@@ -261,17 +255,6 @@
         "startAt": 1775791800,
         "focus": 0,
         "title": "提速任务开启"
-      },
-      {
-        "cid": "4626",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1775098800,
-        "focus": 0,
-        "title": "版本调研问卷"
       },
       {
         "cid": "4629",
