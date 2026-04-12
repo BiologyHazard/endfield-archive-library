@@ -9,14 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "a331c585093b8f37609b09f3abf50bd6",
+    "version": "86f4f6af38f21c72b64a216df40551f8",
     "onlineList": [
-      {
-        "cid": "7292",
-        "version": 1775920658,
-        "needRedDot": false,
-        "needPopup": false
-      },
       {
         "cid": "0702",
         "version": 1774867026,
@@ -39,6 +33,12 @@
         "cid": "7296",
         "version": 1774000818,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "9876",
+        "version": 1775130030,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -157,19 +157,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775920659,
+    "updatedAt": 1775966400,
     "list": [
-      {
-        "cid": "7292",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1775919600,
-        "focus": 1,
-        "title": "闪断更新公告"
-      },
       {
         "cid": "0702",
         "type": 0,
@@ -213,6 +202,17 @@
         "startAt": 1773277200,
         "focus": 1,
         "title": "版本更新说明"
+      },
+      {
+        "cid": "9876",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1775966400,
+        "focus": 0,
+        "title": "潮起武陵"
       },
       {
         "cid": "6440",

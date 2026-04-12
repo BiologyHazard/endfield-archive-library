@@ -9,14 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "242f7be1d39ee2654da1ff4dab86eac8",
+    "version": "10c941201187ea1d80ab5242720a9bf3",
     "onlineList": [
-      {
-        "cid": "7292",
-        "version": 1775920658,
-        "needRedDot": false,
-        "needPopup": false
-      },
       {
         "cid": "5535",
         "version": 1774348106,
@@ -33,6 +27,12 @@
         "cid": "7296",
         "version": 1774000818,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "9876",
+        "version": 1775130030,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -139,19 +139,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775920659,
+    "updatedAt": 1775966400,
     "list": [
-      {
-        "cid": "7292",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1775919600,
-        "focus": 1,
-        "title": "闪断更新公告"
-      },
       {
         "cid": "5535",
         "type": 0,
@@ -184,6 +173,17 @@
         "startAt": 1773277200,
         "focus": 1,
         "title": "版本更新说明"
+      },
+      {
+        "cid": "9876",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1775966400,
+        "focus": 0,
+        "title": "潮起武陵"
       },
       {
         "cid": "6440",

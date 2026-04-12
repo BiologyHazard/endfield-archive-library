@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "9876",
+    "type": 0,
+    "tab": "events",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1775966400,
+    "title": "潮起武陵",
+    "header": "「潮起武陵」限时签到活动说明",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260402/c2a29e37fcd24c7e4c4e7505b9c1fc73.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">▼//活动时间</span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/04/12 12:00（服务器时间） - 版本更新维护前</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//参与条件</span></p><p><span style=\"color: rgb(31, 35, 41);\">完成主线任务「第一章 - 进程Ⅰ - 基地解围」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 每日登录游戏即可领取签到奖励。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 完成3日签到累计可领取奖励【基础寻访凭证】×2和【嵌晶玉】×500。</span></p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1775130030
+  },
+  "msg": ""
+}
