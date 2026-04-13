@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "86f4f6af38f21c72b64a216df40551f8",
+    "version": "61cf983cabb54540ad4eda0a0ae9040d",
     "onlineList": [
+      {
+        "cid": "3059",
+        "version": 1775897167,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "0702",
         "version": 1774867026,
@@ -157,8 +163,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1775966400,
+    "updatedAt": 1776063600,
     "list": [
+      {
+        "cid": "3059",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1776063600,
+        "focus": 0,
+        "title": "版本更新\\n维护预告"
+      },
       {
         "cid": "0702",
         "type": 0,

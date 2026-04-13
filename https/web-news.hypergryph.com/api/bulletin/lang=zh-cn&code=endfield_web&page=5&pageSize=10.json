@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "8565",
+        "tab": "news",
+        "sticky": false,
+        "title": "《明日方舟：终末地》「全面测试」研发通讯//03",
+        "author": "",
+        "displayTime": 1765195200,
+        "cover": "https://web.hycdn.cn/upload/image/20251208/2bb97e42c04c905cdaedc2faf8ca9f50.jpg",
+        "extraCover": "",
+        "brief": "尊敬的管理员们：自全面测试开启以来，项目组通过调研问卷、客服反馈、社群讨论等多个渠道，收到了大家对于前期教学引导与流程体验、战斗与数值设计、卡池资源获取、UI与美术表现、多端适配与性能表现等方面的宝贵"
+      },
+      {
         "cid": "1181",
         "tab": "notices",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "",
         "extraCover": "",
         "brief": "《明日方舟：终末地》「再次测试」移动版招募现已开启！"
-      },
-      {
-        "cid": "6026",
-        "tab": "notices",
-        "sticky": false,
-        "title": "《明日方舟：终末地》「再次测试」研发通讯//01",
-        "author": "",
-        "displayTime": 1740471180,
-        "cover": "",
-        "extraCover": "",
-        "brief": "亲爱的管理员们：大家好，这里是《明日方舟：终末地》项目组。「再次测试」已于2月17日落下帷幕，在此诚挚感谢各位管理员一直以来对于《明日方舟：终末地》的关注与支持！在测试期间，无论是参与测试的管理员，还"
       }
     ],
     "current": 5,
     "pageSize": 10,
-    "total": 55
+    "total": 56
   }
 }

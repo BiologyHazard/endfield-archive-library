@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "6026",
+        "tab": "notices",
+        "sticky": false,
+        "title": "《明日方舟：终末地》「再次测试」研发通讯//01",
+        "author": "",
+        "displayTime": 1740471180,
+        "cover": "",
+        "extraCover": "",
+        "brief": "亲爱的管理员们：大家好，这里是《明日方舟：终末地》项目组。「再次测试」已于2月17日落下帷幕，在此诚挚感谢各位管理员一直以来对于《明日方舟：终末地》的关注与支持！在测试期间，无论是参与测试的管理员，还"
+      },
+      {
         "cid": "0461",
         "tab": "notices",
         "sticky": false,
@@ -61,6 +72,6 @@
     ],
     "current": 6,
     "pageSize": 10,
-    "total": 55
+    "total": 56
   }
 }

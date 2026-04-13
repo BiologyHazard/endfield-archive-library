@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "0440",
+        "tab": "notices",
+        "sticky": false,
+        "title": "集成工业系统及蓝图功能使用声明",
+        "author": "",
+        "displayTime": 1768892400,
+        "cover": "https://web.hycdn.cn/upload/image/20260119/02c84519a9213293f0de3e1bd6fe6e28.png",
+        "extraCover": "",
+        "brief": "为共同营造良好的游戏氛围，在使用集成工业系统相关功能时，请您遵守鹰角网络游戏使用许可及服务协议（简称“《用户协议》”），请勿发布及参与：\n· 涉及地域、种族、性向、宗教、政治等方面的歧视内容；· 具有"
+      },
+      {
         "cid": "3829",
         "tab": "notices",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20251208/96b89764d5d04a253366cbea772fbce2.png",
         "extraCover": "",
         "brief": "亲爱的管理员：《明日方舟：终末地》「全面测试」将于2025/12/29 14:00 （UTC+8）结束，届时本次测试的游戏服务器将关闭，管理员将无法登录游戏。\n感谢所有关注与参与测试体验的管理员，测试"
-      },
-      {
-        "cid": "8565",
-        "tab": "news",
-        "sticky": false,
-        "title": "《明日方舟：终末地》「全面测试」研发通讯//03",
-        "author": "",
-        "displayTime": 1765195200,
-        "cover": "https://web.hycdn.cn/upload/image/20251208/2bb97e42c04c905cdaedc2faf8ca9f50.jpg",
-        "extraCover": "",
-        "brief": "尊敬的管理员们：自全面测试开启以来，项目组通过调研问卷、客服反馈、社群讨论等多个渠道，收到了大家对于前期教学引导与流程体验、战斗与数值设计、卡池资源获取、UI与美术表现、多端适配与性能表现等方面的宝贵"
       }
     ],
     "current": 4,
     "pageSize": 10,
-    "total": 55
+    "total": 56
   }
 }
