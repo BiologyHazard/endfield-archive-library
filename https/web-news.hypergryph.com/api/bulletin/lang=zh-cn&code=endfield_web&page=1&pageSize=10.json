@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "4781",
+        "tab": "news",
+        "sticky": true,
+        "title": "「春晓时」核心章节版本研发通讯",
+        "author": "",
+        "displayTime": 1776049200,
+        "cover": "https://web.hycdn.cn/upload/image/20260411/09bb3d40600a10e196e52399eb3b78a9.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。此刻，春景已至，前路仍长，《明日方舟：终末地》核心章节版本「春晓时」也将于4月17日开启。通过本期研发通讯，我们将为管理员介绍即将在此版本中上线的一系列"
+      },
+      {
         "cid": "7224",
         "tab": "notices",
         "sticky": true,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260310/5e0c72b5a4b17756e2cf30e609894b7d.jpg",
         "extraCover": "",
         "brief": "亲爱的管理员：「新芽申领」开放期间，6星武器【落草（手铳）】获取概率提升！\n▼//「新芽申领」· 开放时间：「新潮起，故渊离」版本更新后开启，于3次「特许寻访」后结束（从「河流的女儿」起计算）· 开放"
-      },
-      {
-        "cid": "5992",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「河流的女儿」特许寻访说明",
-        "author": "",
-        "displayTime": 1773203400,
-        "cover": "https://web.hycdn.cn/upload/image/20260310/a7d94b34f18e01cef151df8503eee4df.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「河流的女儿」特许寻访开放期间，6星干员【汤汤】获取概率提升！「清波静流」限时签到活动同步开放，累计签到可获得【清波静流寻访凭证】×5等奖励，还可在【集成配额交易】中进行【清波静流寻访凭"
       }
     ],
     "current": 1,
     "pageSize": 10,
-    "total": 54
+    "total": 55
   }
 }

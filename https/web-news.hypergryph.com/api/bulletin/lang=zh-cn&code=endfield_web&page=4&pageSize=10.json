@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "3829",
+        "tab": "notices",
+        "sticky": false,
+        "title": "《明日方舟：终末地》未成年人成长护航指引",
+        "author": "",
+        "displayTime": 1768892400,
+        "cover": "https://web.hycdn.cn/upload/image/20260119/34f40d13a7d6fbf472ed3e6bdcf79f94.png",
+        "extraCover": "",
+        "brief": "为积极响应国家新闻出版署下发的《关于进一步严格管理 切实防止未成年人沉迷网络游戏的通知》，针对保护未成年人身心健康贡献一份力量，《明日方舟：终末地》游戏中有用户实名认证系统，认证为未成年人的用户将接受"
+      },
+      {
         "cid": "5907",
         "tab": "notices",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20251208/2bb97e42c04c905cdaedc2faf8ca9f50.jpg",
         "extraCover": "",
         "brief": "尊敬的管理员们：自全面测试开启以来，项目组通过调研问卷、客服反馈、社群讨论等多个渠道，收到了大家对于前期教学引导与流程体验、战斗与数值设计、卡池资源获取、UI与美术表现、多端适配与性能表现等方面的宝贵"
-      },
-      {
-        "cid": "1181",
-        "tab": "notices",
-        "sticky": false,
-        "title": "《明日方舟：终末地》「全面测试」正式开启！",
-        "author": "",
-        "displayTime": 1764298800,
-        "cover": "https://web.hycdn.cn/upload/image/20251126/fa4d951f7288107fbda9666a453290c9.jpg",
-        "extraCover": "",
-        "brief": "「全面测试」已正式开启，塔卫二的一切等待管理员的开拓与探索。\n▼//测试时间2025/11/28 11:00 - 测试结束时间另行通知\n▼//测试信息测试类型：限量计费删档测试测试平台：PC端及移动端"
       }
     ],
     "current": 4,
     "pageSize": 10,
-    "total": 54
+    "total": 55
   }
 }
