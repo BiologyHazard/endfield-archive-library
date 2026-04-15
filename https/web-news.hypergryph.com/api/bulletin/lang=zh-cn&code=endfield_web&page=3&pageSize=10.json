@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "2673",
+        "tab": "events",
+        "sticky": false,
+        "title": "「迅行申领」限时特卖说明",
+        "author": "",
+        "displayTime": 1770778800,
+        "cover": "https://web.hycdn.cn/upload/image/20260211/9b063c272abe8ffa0ecc0d7c4ed55d5f.png",
+        "extraCover": "",
+        "brief": "亲爱的管理员：「迅行申领」开放期间，6星武器【使命必达（施术单元）】获取概率提升！\n▼//「迅行申领」· 开放时间：2026/02/07 12:00（服务器时间）开启，于3次「特许寻访」后结束（从「轻"
+      },
+      {
         "cid": "7239",
         "tab": "notices",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260119/3e542d1f9c47e78a38f3c756dac65b8d.png",
         "extraCover": "",
         "brief": "亲爱的管理员：「熔火灼痕」特许寻访开放期间，6星干员【莱万汀】获取概率提升！「行火留烬」限时签到活动同步开放，累计签到可获得【行火留烬寻访凭证】×5等奖励，还可在【集成配额交易】中进行【行火留烬寻访凭"
-      },
-      {
-        "cid": "8563",
-        "tab": "notices",
-        "sticky": false,
-        "title": "手柄支持与使用常见问题说明",
-        "author": "",
-        "displayTime": 1768903200,
-        "cover": "https://web.hycdn.cn/upload/image/20260120/3e5607d9a378dd1ea4950d53975e8df9.png",
-        "extraCover": "",
-        "brief": "亲爱的管理员：感谢您对游戏的关注与支持。为帮助管理员更顺畅地使用手柄进行游玩，我们整理了当前版本中关于手柄支持范围、连接方式及常见问题的说明。请您在使用前仔细阅读以下内容，以获得更佳的游戏体验。\n当前"
       }
     ],
     "current": 3,
     "pageSize": 10,
-    "total": 56
+    "total": 57
   }
 }

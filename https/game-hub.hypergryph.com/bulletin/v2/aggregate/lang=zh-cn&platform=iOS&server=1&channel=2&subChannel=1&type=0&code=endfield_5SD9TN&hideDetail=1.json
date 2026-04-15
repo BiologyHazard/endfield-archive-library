@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "2a08a678651424d7fcb31c987cd4143d",
+    "version": "c41113ef2c5cbb101b3b494e475b3222",
     "onlineList": [
+      {
+        "cid": "0700",
+        "version": 1776169175,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "3059",
         "version": 1775897167,
@@ -163,8 +169,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776063600,
+    "updatedAt": 1776223800,
     "list": [
+      {
+        "cid": "0700",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1776223800,
+        "focus": 0,
+        "title": "官方漫画\\n《待绽》上线"
+      },
       {
         "cid": "3059",
         "type": 0,

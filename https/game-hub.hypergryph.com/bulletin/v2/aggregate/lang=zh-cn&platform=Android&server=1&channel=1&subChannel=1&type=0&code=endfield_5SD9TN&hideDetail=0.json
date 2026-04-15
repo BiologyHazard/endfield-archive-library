@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "7b38340c677cf6ca4a2efd8e9cf42868",
+    "version": "046f20a8bba55d3e35a3ae046b260548",
     "onlineList": [
+      {
+        "cid": "0700",
+        "version": 1776169175,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "3059",
         "version": 1775897167,
@@ -187,8 +193,26 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776063600,
+    "updatedAt": 1776223800,
     "list": [
+      {
+        "cid": "0700",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1776223800,
+        "focus": 0,
+        "title": "官方漫画\\n《待绽》上线",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260414/2ea09206efe77b685d887aeb9c3fc18f.jpg",
+          "link": "https://comic.hypergryph.com/talos-ii-historicus/comic/2863",
+          "linkType": 1
+        }
+      },
       {
         "cid": "3059",
         "type": 0,

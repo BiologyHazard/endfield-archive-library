@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "0700",
+    "type": 0,
+    "tab": "news",
+    "orderType": 0,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1776223800,
+    "title": "官方漫画\\n《待绽》上线",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260414/2ea09206efe77b685d887aeb9c3fc18f.jpg",
+      "link": "https://comic.hypergryph.com/talos-ii-historicus/comic/2863",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1776169175
+  },
+  "msg": ""
+}
