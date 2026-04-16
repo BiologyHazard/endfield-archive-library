@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "c41113ef2c5cbb101b3b494e475b3222",
+    "version": "f3c08372c9c64b9624049d740f63d1fa",
     "onlineList": [
       {
         "cid": "0700",
@@ -81,12 +81,6 @@
         "cid": "2119",
         "version": 1774360809,
         "needRedDot": false,
-        "needPopup": false
-      },
-      {
-        "cid": "2110",
-        "version": 1773303015,
-        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -169,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776223800,
+    "updatedAt": 1776355140,
     "list": [
       {
         "cid": "0700",
@@ -302,17 +296,6 @@
         "startAt": 1774000800,
         "focus": 0,
         "title": "活动调整说明"
-      },
-      {
-        "cid": "2110",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1773378000,
-        "focus": 0,
-        "title": "创作征集活动"
       },
       {
         "cid": "7295",
