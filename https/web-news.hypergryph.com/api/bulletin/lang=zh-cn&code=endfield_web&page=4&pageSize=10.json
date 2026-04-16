@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "4795",
+        "tab": "notices",
+        "sticky": false,
+        "title": "游戏社媒关注页现已上线",
+        "author": "",
+        "displayTime": 1769050800,
+        "cover": "https://web.hycdn.cn/upload/image/20260120/bb71532cc4f2f82b9556e2dda163e621.jpg",
+        "extraCover": "",
+        "brief": "管理员们，欢迎来到塔卫二！《明日方舟：终末地》游戏内的官方社媒账号页现已上线！\n进入游戏关注官方社媒账号，最高累计获取180嵌晶玉!\n领取奖励步骤： 进入游戏，点击右上角【协议同步器】 > 点击三角形"
+      },
+      {
         "cid": "9352",
         "tab": "notices",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260117/20db505af2d514604fea61526dd393c6.png",
         "extraCover": "",
         "brief": "\n"
-      },
-      {
-        "cid": "2675",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「全面测试」充值返还查询网页上线",
-        "author": "",
-        "displayTime": 1768728600,
-        "cover": "https://web.hycdn.cn/upload/image/20260117/0dc962d0bcf6bd7b75c352d71ff98821.png",
-        "extraCover": "",
-        "brief": "亲爱的管理员：\n「全面测试」充值返还查询网页已上线。网页地址：https://endfield.hypergryph.com/chargeReward?source_from=official参与过「"
       }
     ],
     "current": 4,
     "pageSize": 10,
-    "total": 59
+    "total": 60
   }
 }
