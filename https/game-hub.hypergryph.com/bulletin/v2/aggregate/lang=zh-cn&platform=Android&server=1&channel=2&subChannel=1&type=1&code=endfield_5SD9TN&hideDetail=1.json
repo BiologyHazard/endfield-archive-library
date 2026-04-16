@@ -9,19 +9,13 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "1:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "b5a2f1b95216743c97eff6780e5eb70f",
+    "version": "5e45ef86d5bb05ea61c4347b582793bb",
     "onlineList": [
       {
         "cid": "8968",
-        "version": 1775897157,
+        "version": 1776377058,
         "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "3053",
-        "version": 1773147547,
-        "needRedDot": true,
-        "needPopup": false
+        "needPopup": true
       },
       {
         "cid": "1386",
@@ -49,7 +43,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776063600,
+    "updatedAt": 1776377059,
     "list": [
       {
         "cid": "8968",
@@ -61,17 +55,6 @@
         "startAt": 1776063600,
         "focus": 0,
         "title": "版本更新\\n维护预告"
-      },
-      {
-        "cid": "3053",
-        "type": 1,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1773277200,
-        "focus": 1,
-        "title": "版本更新说明"
       },
       {
         "cid": "1386",

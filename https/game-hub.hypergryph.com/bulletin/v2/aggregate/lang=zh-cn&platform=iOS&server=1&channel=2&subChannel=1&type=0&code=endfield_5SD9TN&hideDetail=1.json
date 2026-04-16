@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "f3c08372c9c64b9624049d740f63d1fa",
+    "version": "8e13beeae1b5e8d9e6ed4b5271d22ca8",
     "onlineList": [
       {
         "cid": "0700",
@@ -30,116 +30,14 @@
         "needPopup": false
       },
       {
-        "cid": "5535",
-        "version": 1774348106,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "4628",
-        "version": 1775528127,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "7296",
-        "version": 1774000818,
-        "needRedDot": false,
-        "needPopup": false
-      },
-      {
-        "cid": "9876",
-        "version": 1775130030,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "6440",
-        "version": 1775725310,
-        "needRedDot": false,
-        "needPopup": false
-      },
-      {
         "cid": "0701",
         "version": 1775130114,
         "needRedDot": true,
         "needPopup": false
       },
       {
-        "cid": "1384",
-        "version": 1774346567,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "8969",
-        "version": 1774364719,
-        "needRedDot": false,
-        "needPopup": false
-      },
-      {
-        "cid": "2119",
-        "version": 1774360809,
-        "needRedDot": false,
-        "needPopup": false
-      },
-      {
-        "cid": "7295",
-        "version": 1773308312,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "9870",
-        "version": 1774602481,
-        "needRedDot": false,
-        "needPopup": false
-      },
-      {
         "cid": "1392",
         "version": 1768982321,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "4625",
-        "version": 1775130085,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "4629",
-        "version": 1773147378,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "2111",
-        "version": 1773146783,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "7297",
-        "version": 1773146786,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "4627",
-        "version": 1774340307,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "6442",
-        "version": 1774272456,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "8962",
-        "version": 1773211162,
         "needRedDot": true,
         "needPopup": false
       },
@@ -163,7 +61,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776355140,
+    "updatedAt": 1776376800,
     "list": [
       {
         "cid": "0700",
@@ -199,61 +97,6 @@
         "title": "漫画《加油吧！\\n终末地》上线"
       },
       {
-        "cid": "5535",
-        "type": 0,
-        "tab": "events",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1774670400,
-        "focus": 0,
-        "title": "狼珀\\n特许寻访"
-      },
-      {
-        "cid": "4628",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1773284400,
-        "focus": 1,
-        "title": "更新修复说明"
-      },
-      {
-        "cid": "7296",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1773277200,
-        "focus": 1,
-        "title": "版本更新说明"
-      },
-      {
-        "cid": "9876",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1775966400,
-        "focus": 0,
-        "title": "潮起武陵"
-      },
-      {
-        "cid": "6440",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1775707200,
-        "focus": 0,
-        "title": "特别补给物资"
-      },
-      {
         "cid": "0701",
         "type": 0,
         "tab": "events",
@@ -265,61 +108,6 @@
         "title": "生存特训"
       },
       {
-        "cid": "1384",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1774670400,
-        "focus": 0,
-        "title": "绯珀申领"
-      },
-      {
-        "cid": "8969",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1774360800,
-        "focus": 0,
-        "title": "时间调整说明"
-      },
-      {
-        "cid": "2119",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1774000800,
-        "focus": 0,
-        "title": "活动调整说明"
-      },
-      {
-        "cid": "7295",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1773284400,
-        "focus": 1,
-        "title": "已知问题说明"
-      },
-      {
-        "cid": "9870",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1773270000,
-        "focus": 0,
-        "title": "新潮起，故渊离\\n版本日历"
-      },
-      {
         "cid": "1392",
         "type": 0,
         "tab": "news",
@@ -329,83 +117,6 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
-      },
-      {
-        "cid": "4625",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1775791800,
-        "focus": 0,
-        "title": "提速任务开启"
-      },
-      {
-        "cid": "4629",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1773270000,
-        "focus": 0,
-        "title": "新手特许赠礼"
-      },
-      {
-        "cid": "2111",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1773270000,
-        "focus": 0,
-        "title": "新潮起，故渊离\\n组合包"
-      },
-      {
-        "cid": "7297",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1773270000,
-        "focus": 0,
-        "title": "协议通行证\\n暗流"
-      },
-      {
-        "cid": "4627",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1774674000,
-        "focus": 0,
-        "title": "红骑士"
-      },
-      {
-        "cid": "6442",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1774666800,
-        "focus": 0,
-        "title": "密境行者\\n空间组更新"
-      },
-      {
-        "cid": "8962",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 5,
-        "displayType": "rich_text",
-        "startAt": 1773270000,
-        "focus": 0,
-        "title": "蚀像寻遗\\n内容更新"
       },
       {
         "cid": "7200",
