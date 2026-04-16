@@ -4,6 +4,28 @@
   "data": {
     "list": [
       {
+        "cid": "9352",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「熔铸申领」限时特卖说明",
+        "author": "",
+        "displayTime": 1768971600,
+        "cover": "https://web.hycdn.cn/upload/image/20260119/eaf8ee03730c48fef1df10c5b9bfb6ff.png",
+        "extraCover": "",
+        "brief": "亲爱的管理员：「熔铸申领」开放期间，6星武器【熔铸火焰（单手剑）】获取概率提升！\n▼//「熔铸申领」· 开放时间：公测开启，于3次「特许寻访」后结束（从「熔火灼痕」起计算）· 开放条件：完成主线任务「"
+      },
+      {
+        "cid": "1188",
+        "tab": "notices",
+        "sticky": false,
+        "title": "公测庆典「熔火灼痕」特许寻访说明",
+        "author": "",
+        "displayTime": 1768969800,
+        "cover": "https://web.hycdn.cn/upload/image/20260119/3e542d1f9c47e78a38f3c756dac65b8d.png",
+        "extraCover": "",
+        "brief": "亲爱的管理员：「熔火灼痕」特许寻访开放期间，6星干员【莱万汀】获取概率提升！「行火留烬」限时签到活动同步开放，累计签到可获得【行火留烬寻访凭证】×5等奖励，还可在【集成配额交易】中进行【行火留烬寻访凭"
+      },
+      {
         "cid": "8563",
         "tab": "notices",
         "sticky": false,
@@ -90,32 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260117/0dc962d0bcf6bd7b75c352d71ff98821.png",
         "extraCover": "",
         "brief": "亲爱的管理员：\n「全面测试」充值返还查询网页已上线。网页地址：https://endfield.hypergryph.com/chargeReward?source_from=official参与过「"
-      },
-      {
-        "cid": "8564",
-        "tab": "news",
-        "sticky": false,
-        "title": "《明日方舟：终末地》「公测前瞻」研发通讯",
-        "author": "",
-        "displayTime": 1768622400,
-        "cover": "https://web.hycdn.cn/upload/image/20260116/16a259f4d95f1cfc1e7fd31dae33c085.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。公测版本将是《明日方舟：终末地》正式旅程的起点。在公测即将到来之际，我们希望通过本期研发通讯，向管理员介绍公测版本的主要优化与调整内容。\n游戏流程与探索"
-      },
-      {
-        "cid": "2676",
-        "tab": "notices",
-        "sticky": false,
-        "title": "《明日方舟：终末地》「全面测试」测试已结束！",
-        "author": "",
-        "displayTime": 1766988000,
-        "cover": "https://web.hycdn.cn/upload/image/20251227/9c6eb4a2e52adb8ed2e7d56cb3d917c0.png",
-        "extraCover": "",
-        "brief": "亲爱的管理员：《明日方舟：终末地》「全面测试」已正式结束，服务器已关闭，管理员将不能登录游戏，本次测试的游戏数据将被清除。感谢所有关注和参与本次测试的管理员。\n更多游戏资讯可关注官方社区和官方自媒体账"
       }
     ],
     "current": 4,
     "pageSize": 10,
-    "total": 57
+    "total": 59
   }
 }

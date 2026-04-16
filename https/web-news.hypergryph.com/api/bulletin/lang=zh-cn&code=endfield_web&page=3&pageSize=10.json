@@ -4,6 +4,28 @@
   "data": {
     "list": [
       {
+        "cid": "2660",
+        "tab": "events",
+        "sticky": false,
+        "title": "「宏福贺新春」系列活动说明",
+        "author": "",
+        "displayTime": 1771128000,
+        "cover": "https://web.hycdn.cn/upload/image/20260213/615386ddcc409fc9d1307080adb3c061.jpg",
+        "extraCover": "",
+        "brief": "新岁献礼，敬颂春祺。「宏福贺新春」系列活动现已开启，参与活动可得【嵌晶玉】【春时酥点】【应急理智浓缩液】等奖励！\n▼//「宏运连连乐」邮件赠礼活动■ 邮件发放时间2026/02/15 - 2026/0"
+      },
+      {
+        "cid": "0438",
+        "tab": "notices",
+        "sticky": false,
+        "title": "《明日方舟：终末地》关于春节假期未成年人游戏限时通知",
+        "author": "",
+        "displayTime": 1770984000,
+        "cover": "",
+        "extraCover": "",
+        "brief": "根据国家新闻出版署《关于进一步严格管理 切实防止未成年人沉迷网络游戏的通知》的要求，结合《国务院办公厅关于2026年部分节假日安排的通知》的规定，现对《明日方舟：终末地》内未成年人游戏时间进行以下说明"
+      },
+      {
         "cid": "2673",
         "tab": "events",
         "sticky": false,
@@ -90,32 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260120/bb71532cc4f2f82b9556e2dda163e621.jpg",
         "extraCover": "",
         "brief": "管理员们，欢迎来到塔卫二！《明日方舟：终末地》游戏内的官方社媒账号页现已上线！\n进入游戏关注官方社媒账号，最高累计获取180嵌晶玉!\n领取奖励步骤： 进入游戏，点击右上角【协议同步器】 > 点击三角形"
-      },
-      {
-        "cid": "9352",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「熔铸申领」限时特卖说明",
-        "author": "",
-        "displayTime": 1768971600,
-        "cover": "https://web.hycdn.cn/upload/image/20260119/eaf8ee03730c48fef1df10c5b9bfb6ff.png",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「熔铸申领」开放期间，6星武器【熔铸火焰（单手剑）】获取概率提升！\n▼//「熔铸申领」· 开放时间：公测开启，于3次「特许寻访」后结束（从「熔火灼痕」起计算）· 开放条件：完成主线任务「"
-      },
-      {
-        "cid": "1188",
-        "tab": "notices",
-        "sticky": false,
-        "title": "公测庆典「熔火灼痕」特许寻访说明",
-        "author": "",
-        "displayTime": 1768969800,
-        "cover": "https://web.hycdn.cn/upload/image/20260119/3e542d1f9c47e78a38f3c756dac65b8d.png",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「熔火灼痕」特许寻访开放期间，6星干员【莱万汀】获取概率提升！「行火留烬」限时签到活动同步开放，累计签到可获得【行火留烬寻访凭证】×5等奖励，还可在【集成配额交易】中进行【行火留烬寻访凭"
       }
     ],
     "current": 3,
     "pageSize": 10,
-    "total": 57
+    "total": 59
   }
 }
