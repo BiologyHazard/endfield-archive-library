@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "d6b09d6b1b2d46950154e18c45b2c428",
+    "version": "eeb019fc603fe682be38d9afe86169cd",
     "onlineList": [
       {
         "cid": "3056",
@@ -36,8 +36,14 @@
         "needPopup": false
       },
       {
+        "cid": "3055",
+        "version": 1776416083,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "9877",
-        "version": 1774865633,
+        "version": 1776418837,
         "needRedDot": true,
         "needPopup": false
       },
@@ -127,7 +133,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776388515,
+    "updatedAt": 1776420000,
     "list": [
       {
         "cid": "3056",
@@ -172,6 +178,17 @@
         "startAt": 1775275200,
         "focus": 0,
         "title": "漫画《加油吧！\\n终末地》上线"
+      },
+      {
+        "cid": "3055",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1776420000,
+        "focus": 0,
+        "title": "森空岛答题挑战\\n参与活动赢好礼"
       },
       {
         "cid": "9877",

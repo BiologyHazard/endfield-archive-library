@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "d6b09d6b1b2d46950154e18c45b2c428",
+    "version": "eeb019fc603fe682be38d9afe86169cd",
     "onlineList": [
       {
         "cid": "3056",
@@ -36,8 +36,14 @@
         "needPopup": false
       },
       {
+        "cid": "3055",
+        "version": 1776416083,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "9877",
-        "version": 1774865633,
+        "version": 1776418837,
         "needRedDot": true,
         "needPopup": false
       },
@@ -127,7 +133,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776388515,
+    "updatedAt": 1776420000,
     "list": [
       {
         "cid": "3056",
@@ -196,6 +202,24 @@
         "data": {
           "url": "https://web.hycdn.cn/upload/image/20260330/d03ac72a5b9465c0ada364f5a0d3c20b.jpg",
           "link": "https://comic.hypergryph.com/talos-ii-historicus/comic/3115",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "3055",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1776420000,
+        "focus": 0,
+        "title": "森空岛答题挑战\\n参与活动赢好礼",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260417/388962991c507653e1d5a6f82960f31b.jpg",
+          "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fact.skland.com%252Fendfield%252Ftrivia-challenge%253Fheader%253D0%2526hg_media%253Dendfield%2526hg_link_campaign%253Dannouncement&u8_token={u8_token}&server={server}",
           "linkType": 1
         }
       },
