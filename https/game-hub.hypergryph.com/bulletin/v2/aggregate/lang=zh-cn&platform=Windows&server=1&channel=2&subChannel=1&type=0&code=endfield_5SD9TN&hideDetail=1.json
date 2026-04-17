@@ -9,17 +9,23 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "8e13beeae1b5e8d9e6ed4b5271d22ca8",
+    "version": "1d71fe68dd8477f89135a9d54bbcc656",
     "onlineList": [
       {
-        "cid": "0700",
-        "version": 1776169175,
+        "cid": "3056",
+        "version": 1776312618,
         "needRedDot": true,
         "needPopup": false
       },
       {
-        "cid": "3059",
-        "version": 1775897167,
+        "cid": "1381",
+        "version": 1776246985,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0700",
+        "version": 1776169175,
         "needRedDot": true,
         "needPopup": false
       },
@@ -30,14 +36,62 @@
         "needPopup": false
       },
       {
-        "cid": "0701",
-        "version": 1775130114,
+        "cid": "1392",
+        "version": 1768982321,
         "needRedDot": true,
         "needPopup": false
       },
       {
-        "cid": "1392",
-        "version": 1768982321,
+        "cid": "6449",
+        "version": 1776239540,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9874",
+        "version": 1776247368,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "8967",
+        "version": 1776242670,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "8966",
+        "version": 1776247175,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "2115",
+        "version": 1776247244,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0709",
+        "version": 1776248086,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "5533",
+        "version": 1776243254,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7290",
+        "version": 1776248374,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0701",
+        "version": 1776388514,
         "needRedDot": true,
         "needPopup": false
       },
@@ -61,8 +115,30 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776376800,
+    "updatedAt": 1776388515,
     "list": [
+      {
+        "cid": "3056",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1776387600,
+        "focus": 0,
+        "title": "版本更新说明"
+      },
+      {
+        "cid": "1381",
+        "type": 0,
+        "tab": "events",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1776380400,
+        "focus": 0,
+        "title": "春晓时\\n版本日历"
+      },
       {
         "cid": "0700",
         "type": 0,
@@ -73,17 +149,6 @@
         "startAt": 1776223800,
         "focus": 0,
         "title": "官方漫画\\n《待绽》上线"
-      },
-      {
-        "cid": "3059",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1776063600,
-        "focus": 0,
-        "title": "版本更新\\n维护预告"
       },
       {
         "cid": "0702",
@@ -97,17 +162,6 @@
         "title": "漫画《加油吧！\\n终末地》上线"
       },
       {
-        "cid": "0701",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1775617200,
-        "focus": 0,
-        "title": "生存特训"
-      },
-      {
         "cid": "1392",
         "type": 0,
         "tab": "news",
@@ -117,6 +171,105 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
+      },
+      {
+        "cid": "6449",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1776380400,
+        "focus": 0,
+        "title": "协议通行证\\n怒潮"
+      },
+      {
+        "cid": "9874",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1776380400,
+        "focus": 0,
+        "title": "焕新月卡赠礼"
+      },
+      {
+        "cid": "8967",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1776380400,
+        "focus": 0,
+        "title": "春晓时\\n组合包"
+      },
+      {
+        "cid": "8966",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1776380400,
+        "focus": 0,
+        "title": "春雷动，万物生\\n特许寻访"
+      },
+      {
+        "cid": "2115",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 4,
+        "displayType": "rich_text",
+        "startAt": 1776380400,
+        "focus": 0,
+        "title": "行舟申领"
+      },
+      {
+        "cid": "0709",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 5,
+        "displayType": "rich_text",
+        "startAt": 1776380400,
+        "focus": 0,
+        "title": "干员培养助力"
+      },
+      {
+        "cid": "5533",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 6,
+        "displayType": "rich_text",
+        "startAt": 1776380400,
+        "focus": 0,
+        "title": "镇绥蚀海"
+      },
+      {
+        "cid": "7290",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 7,
+        "displayType": "rich_text",
+        "startAt": 1776380400,
+        "focus": 0,
+        "title": "蚀像寻遗\\n内容更新"
+      },
+      {
+        "cid": "0701",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 8,
+        "displayType": "rich_text",
+        "startAt": 1775617200,
+        "focus": 0,
+        "title": "生存特训"
       },
       {
         "cid": "7200",

@@ -4,26 +4,37 @@
   "data": {
     "list": [
       {
-        "cid": "2666",
+        "cid": "9343",
         "tab": "notices",
         "sticky": true,
-        "title": "「春晓时」版本更新维护预告",
+        "title": "「春晓时」版本更新说明",
         "author": "",
-        "displayTime": 1776063600,
-        "cover": "https://web.hycdn.cn/upload/image/20260411/a58fe7994b4ab8222c99cf83552c54ba.jpg",
+        "displayTime": 1776387600,
+        "cover": "https://web.hycdn.cn/upload/image/20260416/a7188b0d653d36259be04d2db847f3df.jpg",
         "extraCover": "",
-        "brief": "亲爱的管理员：《明日方舟：终末地》计划将于2026年4月17日 06:00（UTC+8）开始对游戏客户端进行版本更新停机维护，维护完成后将更新至全新版本「春晓时」。本次更新为强制更新，更新维护期间您将"
+        "brief": "亲爱的管理员：欢迎来到全新版本「春晓时」！\n▼//更新维护及补偿说明■ 更新维护时间2026/04/17 06:00 - 2026/04/17 12:00（UTC+8）※ 维护后的开服时间存在提前或延"
       },
       {
-        "cid": "4781",
-        "tab": "news",
+        "cid": "5999",
+        "tab": "notices",
         "sticky": true,
-        "title": "「春晓时」核心章节版本研发通讯",
+        "title": "「春雷动，万物生」特许寻访",
         "author": "",
-        "displayTime": 1776049200,
-        "cover": "https://web.hycdn.cn/upload/image/20260411/09bb3d40600a10e196e52399eb3b78a9.jpg",
+        "displayTime": 1776312000,
+        "cover": "https://web.hycdn.cn/upload/image/20260414/83e25aafcbcfc165eca6df06d545ebf3.jpg",
         "extraCover": "",
-        "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。此刻，春景已至，前路仍长，《明日方舟：终末地》核心章节版本「春晓时」也将于4月17日开启。通过本期研发通讯，我们将为管理员介绍即将在此版本中上线的一系列"
+        "brief": "亲爱的管理员：「春雷动，万物生」特许寻访开放期间，6星干员【庄方宜】获取概率提升！「春雷醒物」限时签到活动同步开放，累计签到可获得【春雷醒物寻访凭证】×5等奖励，还可在【集成配额交易】中进行【春雷醒物"
+      },
+      {
+        "cid": "3816",
+        "tab": "news",
+        "sticky": false,
+        "title": "游戏社媒关注页现已上线",
+        "author": "",
+        "displayTime": 1776398400,
+        "cover": "https://web.hycdn.cn/upload/image/20260417/bb71532cc4f2f82b9556e2dda163e621.jpg",
+        "extraCover": "",
+        "brief": "管理员们，欢迎来到塔卫二！《明日方舟：终末地》官方社媒账号页现已上线！\n关注官方社媒账号，最高累计获取180嵌晶玉!\n点击链接即可参与活动：https://endfield.hypergryph.co"
       },
       {
         "cid": "0434",
@@ -48,17 +59,6 @@
         "brief": "亲爱的管理员：「行舟申领」开放期间，6星武器【孤舟（施术单元）】获取概率提升！\n▼//「行舟申领」· 开放时间：「春晓时」版本更新后开启，于3次「特许寻访」后结束（从「春雷动，万物生」起计算）· 开放"
       },
       {
-        "cid": "5999",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「春雷动，万物生」特许寻访",
-        "author": "",
-        "displayTime": 1776312000,
-        "cover": "https://web.hycdn.cn/upload/image/20260414/83e25aafcbcfc165eca6df06d545ebf3.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「春雷动，万物生」特许寻访开放期间，6星干员【庄方宜】获取概率提升！「春雷醒物」限时签到活动同步开放，累计签到可获得【春雷醒物寻访凭证】×5等奖励，还可在【集成配额交易】中进行【春雷醒物"
-      },
-      {
         "cid": "7222",
         "tab": "news",
         "sticky": false,
@@ -68,6 +68,28 @@
         "cover": "https://web.hycdn.cn/upload/image/20260414/53aa61de10c94c338f1262552f4a8c30.jpg",
         "extraCover": "",
         "brief": "明日方舟：终末地官方漫画《待绽》现已上线！飞花如雪，武陵春深。点击前往阅读﻿"
+      },
+      {
+        "cid": "2666",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「春晓时」版本更新维护预告",
+        "author": "",
+        "displayTime": 1776063600,
+        "cover": "https://web.hycdn.cn/upload/image/20260411/a58fe7994b4ab8222c99cf83552c54ba.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：《明日方舟：终末地》计划将于2026年4月17日 06:00（UTC+8）开始对游戏客户端进行版本更新停机维护，维护完成后将更新至全新版本「春晓时」。本次更新为强制更新，更新维护期间您将"
+      },
+      {
+        "cid": "4781",
+        "tab": "news",
+        "sticky": false,
+        "title": "「春晓时」核心章节版本研发通讯",
+        "author": "",
+        "displayTime": 1776049200,
+        "cover": "https://web.hycdn.cn/upload/image/20260411/09bb3d40600a10e196e52399eb3b78a9.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。此刻，春景已至，前路仍长，《明日方舟：终末地》核心章节版本「春晓时」也将于4月17日开启。通过本期研发通讯，我们将为管理员介绍即将在此版本中上线的一系列"
       },
       {
         "cid": "9344",
@@ -90,32 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260325/36b91aeb5f4d9de014fb9fdb3cc8f7df.jpg",
         "extraCover": "",
         "brief": "多么伟大的旅程，您已是被选中的长耳兽，万众瞩目，冉冉升起的新星。\n▼//活动时间2026/04/01 12:00 - 2026/04/08 04:00（服务器时间）\n▼//参与条件活动中心解锁后\n▼/"
-      },
-      {
-        "cid": "4783",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「绯珀申领」限时特卖说明",
-        "author": "",
-        "displayTime": 1774672200,
-        "cover": "https://web.hycdn.cn/upload/image/20260325/82348049bb6d26a24a89a6f97f3d94de.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「绯珀申领」开放期间，6星武器【狼之绯（单手剑）】获取概率提升！\n▼//「绯珀申领」· 开放时间：2026/03/29 12:00（服务器时间）开启，于3次「特许寻访」后结束（从「狼珀」"
-      },
-      {
-        "cid": "7224",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「狼珀」特许寻访说明",
-        "author": "",
-        "displayTime": 1774670400,
-        "cover": "https://web.hycdn.cn/upload/image/20260326/f289196a5a044091a8c52ae4efb8da28.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「狼珀」特许寻访开放期间，6星干员【洛茜】获取概率提升！「狼群瑰宝」限时签到活动同步开放，累计签到可获得【狼群瑰宝寻访凭证】×5等奖励，还可在【集成配额交易】中进行【狼群瑰宝寻访凭证】的"
       }
     ],
     "current": 1,
     "pageSize": 10,
-    "total": 59
+    "total": 60
   }
 }

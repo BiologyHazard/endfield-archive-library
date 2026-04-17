@@ -5,7 +5,7 @@
     "type": 0,
     "tab": "events",
     "orderType": 1,
-    "orderWeight": 1,
+    "orderWeight": 8,
     "displayType": "rich_text",
     "focus": 0,
     "startAt": 1775617200,
@@ -18,7 +18,7 @@
     },
     "needRedDot": true,
     "needPopup": false,
-    "version": 1775130114
+    "version": 1776388514
   },
   "msg": ""
 }
