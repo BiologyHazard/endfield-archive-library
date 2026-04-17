@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "eeb019fc603fe682be38d9afe86169cd",
+    "version": "e809122622d9dc20acea19e00f58add7",
     "onlineList": [
       {
         "cid": "3056",
@@ -36,14 +36,14 @@
         "needPopup": false
       },
       {
-        "cid": "3055",
-        "version": 1776416083,
+        "cid": "7298",
+        "version": 1776420200,
         "needRedDot": true,
         "needPopup": false
       },
       {
-        "cid": "9877",
-        "version": 1776418837,
+        "cid": "3055",
+        "version": 1776416083,
         "needRedDot": true,
         "needPopup": false
       },
@@ -133,7 +133,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776420000,
+    "updatedAt": 1776441600,
     "list": [
       {
         "cid": "3056",
@@ -180,6 +180,17 @@
         "title": "漫画《加油吧！\\n终末地》上线"
       },
       {
+        "cid": "7298",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1776441600,
+        "focus": 0,
+        "title": "限时签到\\n领嵌晶玉"
+      },
+      {
         "cid": "3055",
         "type": 0,
         "tab": "news",
@@ -189,17 +200,6 @@
         "startAt": 1776420000,
         "focus": 0,
         "title": "森空岛答题挑战\\n参与活动赢好礼"
-      },
-      {
-        "cid": "9877",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1775016000,
-        "focus": 0,
-        "title": "4月签到开启\\n领取丰厚奖励"
       },
       {
         "cid": "1392",
