@@ -92,17 +92,6 @@
         "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。此刻，春景已至，前路仍长，《明日方舟：终末地》核心章节版本「春晓时」也将于4月17日开启。通过本期研发通讯，我们将为管理员介绍即将在此版本中上线的一系列"
       },
       {
-        "cid": "9344",
-        "tab": "news",
-        "sticky": false,
-        "title": "官方漫画《加油吧！终末地》开启连载",
-        "author": "",
-        "displayTime": 1775275200,
-        "cover": "https://web.hycdn.cn/upload/image/20260401/cff9d8e6dd6fd457e3f9415214731981.jpg",
-        "extraCover": "",
-        "brief": "明日方舟：终末地官方漫画《加油吧！终末地》开启连载！——「第1话」﻿点击前往阅读﻿"
-      },
-      {
         "cid": "0435",
         "tab": "events",
         "sticky": false,
@@ -112,10 +101,21 @@
         "cover": "https://web.hycdn.cn/upload/image/20260325/36b91aeb5f4d9de014fb9fdb3cc8f7df.jpg",
         "extraCover": "",
         "brief": "多么伟大的旅程，您已是被选中的长耳兽，万众瞩目，冉冉升起的新星。\n▼//活动时间2026/04/01 12:00 - 2026/04/08 04:00（服务器时间）\n▼//参与条件活动中心解锁后\n▼/"
+      },
+      {
+        "cid": "4783",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「绯珀申领」限时特卖说明",
+        "author": "",
+        "displayTime": 1774672200,
+        "cover": "https://web.hycdn.cn/upload/image/20260325/82348049bb6d26a24a89a6f97f3d94de.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：「绯珀申领」开放期间，6星武器【狼之绯（单手剑）】获取概率提升！\n▼//「绯珀申领」· 开放时间：2026/03/29 12:00（服务器时间）开启，于3次「特许寻访」后结束（从「狼珀」"
       }
     ],
     "current": 1,
     "pageSize": 10,
-    "total": 60
+    "total": 59
   }
 }

@@ -4,17 +4,6 @@
   "data": {
     "list": [
       {
-        "cid": "5902",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「全面测试」充值返还规则",
-        "author": "",
-        "displayTime": 1761913200,
-        "cover": "https://web.hycdn.cn/upload/image/20251031/cf1dc7d4a14aa776796e498505174d31.png",
-        "extraCover": "",
-        "brief": "《明日方舟：终末地》「全面测试」为限量计费删档测试，测试期间将开启付费功能。管理员在测试期间累计充值的金额，将在《明日方舟：终末地》正式公测后，按照以下规则返还。管理员可查看「全面测试」充值返还规则以"
-      },
-      {
         "cid": "3824",
         "tab": "notices",
         "sticky": false,
@@ -116,6 +105,6 @@
     ],
     "current": 6,
     "pageSize": 10,
-    "total": 60
+    "total": 59
   }
 }

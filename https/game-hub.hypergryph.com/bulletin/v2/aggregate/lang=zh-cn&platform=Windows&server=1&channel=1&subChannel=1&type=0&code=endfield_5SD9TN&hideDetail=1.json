@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "5ac040def54594e4bb8cbd3a12b97872",
+    "version": "6d2a0f9d1d9c9a0fba1f798bc618554e",
     "onlineList": [
+      {
+        "cid": "0707",
+        "version": 1776520799,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "2113",
         "version": 1776502099,
@@ -32,12 +38,6 @@
       {
         "cid": "0700",
         "version": 1776169175,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "0702",
-        "version": 1774867026,
         "needRedDot": true,
         "needPopup": false
       },
@@ -139,8 +139,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776502100,
+    "updatedAt": 1776527940,
     "list": [
+      {
+        "cid": "0707",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1776524400,
+        "focus": 1,
+        "title": "闪断更新公告"
+      },
       {
         "cid": "2113",
         "type": 0,
@@ -184,17 +195,6 @@
         "startAt": 1776223800,
         "focus": 0,
         "title": "官方漫画\\n《待绽》上线"
-      },
-      {
-        "cid": "0702",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1775275200,
-        "focus": 0,
-        "title": "漫画《加油吧！\\n终末地》上线"
       },
       {
         "cid": "7298",
