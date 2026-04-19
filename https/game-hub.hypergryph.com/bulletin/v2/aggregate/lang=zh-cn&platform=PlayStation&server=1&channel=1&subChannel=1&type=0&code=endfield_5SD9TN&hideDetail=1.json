@@ -9,17 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "90fb90952839783afd23ef3c64d22727",
+    "version": "bb3b8363c70d5faae600c55a50feb1c5",
     "onlineList": [
       {
-        "cid": "0707",
-        "version": 1776520799,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "2113",
-        "version": 1776502099,
+        "version": 1776565093,
         "needRedDot": true,
         "needPopup": false
       },
@@ -32,6 +26,12 @@
       {
         "cid": "1381",
         "version": 1776246985,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1371",
+        "version": 1776573014,
         "needRedDot": true,
         "needPopup": false
       },
@@ -115,19 +115,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776524400,
+    "updatedAt": 1776573015,
     "list": [
-      {
-        "cid": "0707",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1776524400,
-        "focus": 1,
-        "title": "闪断更新公告"
-      },
       {
         "cid": "2113",
         "type": 0,
@@ -160,6 +149,17 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "春晓时\\n版本日历"
+      },
+      {
+        "cid": "1371",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1776573000,
+        "focus": 1,
+        "title": "已知问题说明"
       },
       {
         "cid": "3068",

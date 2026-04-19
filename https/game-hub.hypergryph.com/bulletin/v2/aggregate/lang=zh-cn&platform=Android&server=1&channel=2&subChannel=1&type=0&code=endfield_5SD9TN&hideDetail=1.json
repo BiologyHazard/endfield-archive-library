@@ -9,17 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "6054f59928d7c2712e52af58e56e0d88",
+    "version": "ce7f8af21b0b2877e9fc12bcbc3b8ab7",
     "onlineList": [
       {
-        "cid": "0707",
-        "version": 1776520799,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "2113",
-        "version": 1776502099,
+        "version": 1776565093,
         "needRedDot": true,
         "needPopup": false
       },
@@ -38,6 +32,12 @@
       {
         "cid": "0700",
         "version": 1776169175,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1371",
+        "version": 1776573014,
         "needRedDot": true,
         "needPopup": false
       },
@@ -121,19 +121,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776527940,
+    "updatedAt": 1776573015,
     "list": [
-      {
-        "cid": "0707",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1776524400,
-        "focus": 1,
-        "title": "闪断更新公告"
-      },
       {
         "cid": "2113",
         "type": 0,
@@ -177,6 +166,17 @@
         "startAt": 1776223800,
         "focus": 0,
         "title": "官方漫画\\n《待绽》上线"
+      },
+      {
+        "cid": "1371",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1776573000,
+        "focus": 1,
+        "title": "已知问题说明"
       },
       {
         "cid": "1392",
