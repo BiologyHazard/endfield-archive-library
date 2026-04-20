@@ -9,11 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "fccda20329d946b3b002427603d8b4c1",
+    "version": "f3ca00d0d214b59bb69d192ea6072ecf",
     "onlineList": [
       {
         "cid": "2113",
-        "version": 1776605839,
+        "version": 1776654143,
         "needRedDot": true,
         "needPopup": false
       },
@@ -36,8 +36,20 @@
         "needPopup": false
       },
       {
+        "cid": "5530",
+        "version": 1776419207,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "8964",
+        "version": 1776416055,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "1371",
-        "version": 1776573014,
+        "version": 1776654108,
         "needRedDot": true,
         "needPopup": false
       },
@@ -139,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776605839,
+    "updatedAt": 1776661200,
     "list": [
       {
         "cid": "2113",
@@ -184,6 +196,28 @@
         "startAt": 1776223800,
         "focus": 0,
         "title": "官方漫画\\n《待绽》上线"
+      },
+      {
+        "cid": "5530",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1776661200,
+        "focus": 0,
+        "title": "创作征集活动"
+      },
+      {
+        "cid": "8964",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1776654000,
+        "focus": 0,
+        "title": "森空岛春晓时\\n创作者激励活动"
       },
       {
         "cid": "1371",

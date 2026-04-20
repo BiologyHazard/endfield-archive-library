@@ -9,11 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "0edd2a003a535d34fe3ce4f2da43e77d",
+    "version": "d2694a4aad4f8fe8a56348912b5b6f3f",
     "onlineList": [
       {
         "cid": "2113",
-        "version": 1776605839,
+        "version": 1776654143,
         "needRedDot": true,
         "needPopup": false
       },
@@ -36,8 +36,14 @@
         "needPopup": false
       },
       {
+        "cid": "1389",
+        "version": 1776419192,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "1371",
-        "version": 1776573014,
+        "version": 1776654108,
         "needRedDot": true,
         "needPopup": false
       },
@@ -121,7 +127,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776605839,
+    "updatedAt": 1776661200,
     "list": [
       {
         "cid": "2113",
@@ -166,6 +172,17 @@
         "startAt": 1776223800,
         "focus": 0,
         "title": "官方漫画\\n《待绽》上线"
+      },
+      {
+        "cid": "1389",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1776661200,
+        "focus": 0,
+        "title": "创作征集活动"
       },
       {
         "cid": "1371",
