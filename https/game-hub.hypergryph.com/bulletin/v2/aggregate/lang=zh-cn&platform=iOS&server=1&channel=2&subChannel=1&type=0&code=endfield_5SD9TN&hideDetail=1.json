@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "4abd64f7679a1a87e6f81f6019ec2596",
+    "version": "2520a94fa698868441b810ef2765ea6a",
     "onlineList": [
       {
         "cid": "2113",
@@ -26,12 +26,6 @@
       {
         "cid": "1381",
         "version": 1776246985,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "0700",
-        "version": 1776169175,
         "needRedDot": true,
         "needPopup": false
       },
@@ -127,7 +121,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776661200,
+    "updatedAt": 1776700740,
     "list": [
       {
         "cid": "2113",
@@ -161,17 +155,6 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "春晓时\\n版本日历"
-      },
-      {
-        "cid": "0700",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1776223800,
-        "focus": 0,
-        "title": "官方漫画\\n《待绽》上线"
       },
       {
         "cid": "5530",
