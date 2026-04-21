@@ -9,11 +9,17 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "a9bdd04d03a55d22b084baae46006fab",
+    "version": "c65121023aed1ca97436f18414bc9f37",
     "onlineList": [
       {
+        "cid": "2106",
+        "version": 1776655284,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "2113",
-        "version": 1776654143,
+        "version": 1776738587,
         "needRedDot": true,
         "needPopup": false
       },
@@ -115,8 +121,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776654143,
+    "updatedAt": 1776744000,
     "list": [
+      {
+        "cid": "2106",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1776744000,
+        "focus": 0,
+        "title": "春晓时系列\\n衍生品现已开售"
+      },
       {
         "cid": "2113",
         "type": 0,

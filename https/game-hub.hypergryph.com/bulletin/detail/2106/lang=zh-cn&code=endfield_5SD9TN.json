@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "2106",
+    "type": 0,
+    "tab": "news",
+    "orderType": 0,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1776744000,
+    "title": "春晓时系列\\n衍生品现已开售",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260420/8979daa5e1c03bd12a0e68c57911417b.jpg",
+      "link": "http://arknightsendfieldyx.tmall.com/index.htm",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1776655284
+  },
+  "msg": ""
+}
