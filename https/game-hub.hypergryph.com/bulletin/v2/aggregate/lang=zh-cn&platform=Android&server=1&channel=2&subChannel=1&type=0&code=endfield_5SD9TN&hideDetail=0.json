@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "f83a443a71cbaf79d6a4d5c64fef72a1",
+    "version": "6694499326ed28a49c2adc95b185e648",
     "onlineList": [
       {
         "cid": "2106",
@@ -50,6 +50,12 @@
       {
         "cid": "1392",
         "version": 1768982321,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3058",
+        "version": 1776840885,
         "needRedDot": true,
         "needPopup": false
       },
@@ -127,7 +133,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776744000,
+    "updatedAt": 1776913200,
     "list": [
       {
         "cid": "2106",
@@ -248,6 +254,23 @@
           "url": "https://web.hycdn.cn/upload/image/20260121/528a5c2a39687aaa0e15ef79c8e879f9.jpg",
           "link": "https://ef-webview.hypergryph.com/act/social-media?u8_token={u8_token}&server={server}",
           "linkType": 2
+        }
+      },
+      {
+        "cid": "3058",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1776913200,
+        "focus": 0,
+        "title": "镌宇铭星",
+        "header": "「镌宇铭星」联动活动说明",
+        "jumpButton": null,
+        "data": {
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260415/b9632f67c08271b894eb00e8b6fe42e9.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">▼//「镌宇铭星签到」</span></p><p><span style=\"color: rgb(31, 35, 41);\">■ 活动时间</span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/04/24 12:00（服务器时间） - 版本更新维护前</span></p><p><span style=\"color: rgb(31, 35, 41);\">■ 活动奖励</span></p><p><span style=\"color: rgb(31, 35, 41);\">活动开放期间，完成3日签到，累计可获得【头像框·铭星】【贴纸·启明】【佩丽卡的信物】【嵌晶玉】等奖励。</span></p><p><span style=\"color: rgb(31, 35, 41);\">■ 参与条件</span></p><p><span style=\"color: rgb(31, 35, 41);\">完成主线任务「第一章 - 进程Ⅰ - 基地解围」</span></p><p><span style=\"color: rgb(31, 35, 41);\">■ 活动说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">每日登录游戏即可领取签到奖励。</span></p><p></p><img src=\"https://web.hycdn.cn/upload/image/20260415/c1d3ff31406fa694aa60e09248ae65e8.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">▼//「镌宇铭星·留影」</span></p><p><span style=\"color: rgb(31, 35, 41);\">■ 活动时间</span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/04/24 12:00（服务器时间） - 版本更新维护前</span></p><p><span style=\"color: rgb(31, 35, 41);\">■ 活动奖励</span></p><p><span style=\"color: rgb(31, 35, 41);\">活动开放期间，完成拍照任务，累计可获得【启明驻留平台模型】【嵌晶玉】【存续的痕迹】【高级认知载体】等活动奖励。</span></p><p><span style=\"color: rgb(31, 35, 41);\">■ 参与条件</span></p><p><span style=\"color: rgb(31, 35, 41);\">完成主线任务「第一章 - 进程Ⅱ - 修缮进展」</span></p><p><span style=\"color: rgb(31, 35, 41);\">■ 活动说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动期间，可以前往帝江号的指定地点开启拍照任务。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 拍照任务共3个，会在活动开启时全部开放。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 根据提示，将拍摄目标收入画面中，完成拍照任务，即可领取对应奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//联动组合包上架</span></p><p><span style=\"color: rgb(31, 35, 41);\">■ 镌宇铭星组合包</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 组合包价格：6元</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 可购买时间：2026/04/24 12:00（服务器时间） - 版本更新维护前</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 组合包内容：【头像·寻星旅者】×1、【特许寻访凭证】×1</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 特殊说明：限购1次</span></p><p><span style=\"color: rgb(31, 35, 41);\">■ 更多组合包说明及活动详细说明，请前往游戏内查看。</span></p>",
+          "linkType": 1
         }
       },
       {

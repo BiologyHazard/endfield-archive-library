@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "f83b73e8587f97dbbd8f4721e095efc1",
+    "version": "9176519c3565df4324b07453295507f7",
     "onlineList": [
       {
         "cid": "2106",
@@ -74,6 +74,12 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3058",
+        "version": 1776840885,
         "needRedDot": true,
         "needPopup": false
       },
@@ -151,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776744000,
+    "updatedAt": 1776913200,
     "list": [
       {
         "cid": "2106",
@@ -273,6 +279,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "3058",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1776913200,
+        "focus": 0,
+        "title": "镌宇铭星"
       },
       {
         "cid": "6449",

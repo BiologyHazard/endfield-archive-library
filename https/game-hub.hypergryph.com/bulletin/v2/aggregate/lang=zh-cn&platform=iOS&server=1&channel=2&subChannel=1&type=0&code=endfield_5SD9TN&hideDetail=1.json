@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "f83a443a71cbaf79d6a4d5c64fef72a1",
+    "version": "6694499326ed28a49c2adc95b185e648",
     "onlineList": [
       {
         "cid": "2106",
@@ -50,6 +50,12 @@
       {
         "cid": "1392",
         "version": 1768982321,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3058",
+        "version": 1776840885,
         "needRedDot": true,
         "needPopup": false
       },
@@ -127,7 +133,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776744000,
+    "updatedAt": 1776913200,
     "list": [
       {
         "cid": "2106",
@@ -205,6 +211,17 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
+      },
+      {
+        "cid": "3058",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1776913200,
+        "focus": 0,
+        "title": "镌宇铭星"
       },
       {
         "cid": "6449",

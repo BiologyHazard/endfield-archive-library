@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "61c00cf796dd3a0cd4458471b5805ccb",
+    "version": "0ec3923229a642b466a749331c6f0267",
     "onlineList": [
       {
         "cid": "2106",
@@ -38,6 +38,12 @@
       {
         "cid": "1371",
         "version": 1776654108,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3058",
+        "version": 1776840885,
         "needRedDot": true,
         "needPopup": false
       },
@@ -115,7 +121,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776744000,
+    "updatedAt": 1776913200,
     "list": [
       {
         "cid": "2106",
@@ -171,6 +177,17 @@
         "startAt": 1776573000,
         "focus": 1,
         "title": "已知问题说明"
+      },
+      {
+        "cid": "3058",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1776913200,
+        "focus": 0,
+        "title": "镌宇铭星"
       },
       {
         "cid": "6449",
