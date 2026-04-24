@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "0ec3923229a642b466a749331c6f0267",
+    "version": "1b9455a1be6f8c1da061544e99885b73",
     "onlineList": [
       {
         "cid": "2106",
@@ -19,7 +19,7 @@
       },
       {
         "cid": "2113",
-        "version": 1776738587,
+        "version": 1776997879,
         "needRedDot": true,
         "needPopup": false
       },
@@ -32,12 +32,6 @@
       {
         "cid": "1381",
         "version": 1776246985,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "1371",
-        "version": 1776654108,
         "needRedDot": true,
         "needPopup": false
       },
@@ -121,7 +115,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776913200,
+    "updatedAt": 1776998005,
     "list": [
       {
         "cid": "2106",
@@ -166,17 +160,6 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "春晓时\\n版本日历"
-      },
-      {
-        "cid": "1371",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1776573000,
-        "focus": 1,
-        "title": "已知问题说明"
       },
       {
         "cid": "3058",

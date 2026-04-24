@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "d39f99d365533ea6b4c275eb2af0b7db",
+    "version": "2b5680753d6375fff61a0c7fe8378aa8",
     "onlineList": [
       {
         "cid": "2106",
@@ -19,7 +19,7 @@
       },
       {
         "cid": "2113",
-        "version": 1776738587,
+        "version": 1776997879,
         "needRedDot": true,
         "needPopup": false
       },
@@ -44,12 +44,6 @@
       {
         "cid": "8964",
         "version": 1776416055,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "1371",
-        "version": 1776654108,
         "needRedDot": true,
         "needPopup": false
       },
@@ -157,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776913200,
+    "updatedAt": 1776998005,
     "list": [
       {
         "cid": "2106",
@@ -224,17 +218,6 @@
         "startAt": 1776654000,
         "focus": 0,
         "title": "森空岛春晓时\\n创作者激励活动"
-      },
-      {
-        "cid": "1371",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1776573000,
-        "focus": 1,
-        "title": "已知问题说明"
       },
       {
         "cid": "7298",
