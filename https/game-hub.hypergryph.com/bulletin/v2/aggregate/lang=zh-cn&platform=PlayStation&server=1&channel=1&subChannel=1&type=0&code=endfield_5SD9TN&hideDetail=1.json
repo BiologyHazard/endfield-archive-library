@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "fc9359e5f6364d1b8f4cdf56627dbe92",
+    "version": "1d244ec9e180622fc52180108bfc37ac",
     "onlineList": [
       {
         "cid": "2106",
@@ -38,6 +38,12 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1382",
+        "version": 1776242809,
         "needRedDot": true,
         "needPopup": false
       },
@@ -121,7 +127,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776998005,
+    "updatedAt": 1777258800,
     "list": [
       {
         "cid": "2106",
@@ -177,6 +183,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "1382",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1777258800,
+        "focus": 0,
+        "title": "集成援助\\n掌中救星"
       },
       {
         "cid": "3058",

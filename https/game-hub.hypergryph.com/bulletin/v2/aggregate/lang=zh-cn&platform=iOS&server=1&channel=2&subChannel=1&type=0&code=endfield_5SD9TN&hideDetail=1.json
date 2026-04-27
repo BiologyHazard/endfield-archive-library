@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "eeebd1f562fb8020361fbb9aa877b072",
+    "version": "8122bd2dd92754694c1bdb2f21e35413",
     "onlineList": [
       {
         "cid": "2106",
@@ -44,6 +44,12 @@
       {
         "cid": "1392",
         "version": 1768982321,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1382",
+        "version": 1776242809,
         "needRedDot": true,
         "needPopup": false
       },
@@ -127,7 +133,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1776998005,
+    "updatedAt": 1777258800,
     "list": [
       {
         "cid": "2106",
@@ -194,6 +200,17 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
+      },
+      {
+        "cid": "1382",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1777258800,
+        "focus": 0,
+        "title": "集成援助\\n掌中救星"
       },
       {
         "cid": "3058",
