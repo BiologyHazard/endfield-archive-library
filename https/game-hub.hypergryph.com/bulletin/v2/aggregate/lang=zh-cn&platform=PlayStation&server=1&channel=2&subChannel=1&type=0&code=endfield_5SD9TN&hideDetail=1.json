@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "b6bb01802c4ae63ba13d4a3cec4040ca",
+    "version": "41a7c7efde45e1d3cb55dc277236e410",
     "onlineList": [
       {
         "cid": "2106",
@@ -96,12 +96,6 @@
         "needPopup": false
       },
       {
-        "cid": "0701",
-        "version": 1776388514,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "7200",
         "version": 1769054326,
         "needRedDot": false,
@@ -121,7 +115,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1777343886,
+    "updatedAt": 1777492800,
     "list": [
       {
         "cid": "2106",
@@ -276,17 +270,6 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "蚀像寻遗\\n内容更新"
-      },
-      {
-        "cid": "0701",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 8,
-        "displayType": "rich_text",
-        "startAt": 1775617200,
-        "focus": 0,
-        "title": "生存特训"
       },
       {
         "cid": "7200",

@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "f6e662af7da4cd8d984d3d887202d19b",
+    "version": "337c920c3e341fc8eb1640e40e7671c4",
     "onlineList": [
       {
         "cid": "2106",
@@ -108,12 +108,6 @@
         "needPopup": false
       },
       {
-        "cid": "0701",
-        "version": 1776388514,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "7200",
         "version": 1769054326,
         "needRedDot": false,
@@ -133,7 +127,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1777343886,
+    "updatedAt": 1777492800,
     "list": [
       {
         "cid": "2106",
@@ -310,17 +304,6 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "蚀像寻遗\\n内容更新"
-      },
-      {
-        "cid": "0701",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 8,
-        "displayType": "rich_text",
-        "startAt": 1775617200,
-        "focus": 0,
-        "title": "生存特训"
       },
       {
         "cid": "7200",
