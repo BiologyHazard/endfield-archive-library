@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "fe4b6ccf77fe8707ad2cc718ce7f40e2",
+    "version": "2ca2a7b40ffb68f4a8e4ac0391af89bd",
     "onlineList": [
       {
         "cid": "2106",
@@ -44,12 +44,6 @@
       {
         "cid": "8964",
         "version": 1776416055,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "7298",
-        "version": 1776420200,
         "needRedDot": true,
         "needPopup": false
       },
@@ -151,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1777536000,
+    "updatedAt": 1777564740,
     "list": [
       {
         "cid": "2106",
@@ -218,17 +212,6 @@
         "startAt": 1776654000,
         "focus": 0,
         "title": "森空岛春晓时\\n创作者激励活动"
-      },
-      {
-        "cid": "7298",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1776441600,
-        "focus": 0,
-        "title": "限时签到\\n领嵌晶玉"
       },
       {
         "cid": "1392",
