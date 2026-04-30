@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "9c119b2f709fc39efd63bca5ec369411",
+    "version": "53f1a83307fa6bf56819e9f3da404ac5",
     "onlineList": [
       {
         "cid": "2106",
@@ -62,6 +62,12 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "4611",
+        "version": 1777376671,
         "needRedDot": true,
         "needPopup": false
       },
@@ -145,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1777515898,
+    "updatedAt": 1777536000,
     "list": [
       {
         "cid": "2106",
@@ -245,6 +251,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "4611",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1777536000,
+        "focus": 0,
+        "title": "共贺庆典\\n此时欢宴"
       },
       {
         "cid": "1382",

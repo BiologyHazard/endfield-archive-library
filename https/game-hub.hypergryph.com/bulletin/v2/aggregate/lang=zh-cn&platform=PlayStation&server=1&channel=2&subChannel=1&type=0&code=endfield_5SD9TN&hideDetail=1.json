@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "62f09819f80c45c3983e6a3aeac60f17",
+    "version": "3d623e9cfe7c10e13e9ee9313226a3b2",
     "onlineList": [
       {
         "cid": "2106",
@@ -32,6 +32,12 @@
       {
         "cid": "1381",
         "version": 1776246985,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "4611",
+        "version": 1777376671,
         "needRedDot": true,
         "needPopup": false
       },
@@ -115,7 +121,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1777515898,
+    "updatedAt": 1777536000,
     "list": [
       {
         "cid": "2106",
@@ -160,6 +166,17 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "春晓时\\n版本日历"
+      },
+      {
+        "cid": "4611",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1777536000,
+        "focus": 0,
+        "title": "共贺庆典\\n此时欢宴"
       },
       {
         "cid": "1382",

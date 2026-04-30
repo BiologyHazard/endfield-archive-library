@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "7b13ac282de2f63b967b001e319a7b4c",
+    "version": "7e626958105d9313882e2cac6a6650ed",
     "onlineList": [
       {
         "cid": "2106",
@@ -44,6 +44,12 @@
       {
         "cid": "1392",
         "version": 1768982321,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "4611",
+        "version": 1777376671,
         "needRedDot": true,
         "needPopup": false
       },
@@ -127,7 +133,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1777515898,
+    "updatedAt": 1777536000,
     "list": [
       {
         "cid": "2106",
@@ -194,6 +200,17 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
+      },
+      {
+        "cid": "4611",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1777536000,
+        "focus": 0,
+        "title": "共贺庆典\\n此时欢宴"
       },
       {
         "cid": "1382",
