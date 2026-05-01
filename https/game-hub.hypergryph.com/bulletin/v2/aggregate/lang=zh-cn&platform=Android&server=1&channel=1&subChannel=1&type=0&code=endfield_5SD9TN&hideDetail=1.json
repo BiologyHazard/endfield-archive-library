@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "5868a4eaaf93ce2d90e401cb51cf46c0",
+    "version": "8687a860b187abe2861f2e26f1398cfd",
     "onlineList": [
       {
         "cid": "2106",
@@ -32,6 +32,12 @@
       {
         "cid": "1381",
         "version": 1776246985,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "5529",
+        "version": 1777451195,
         "needRedDot": true,
         "needPopup": false
       },
@@ -145,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1777564740,
+    "updatedAt": 1777608000,
     "list": [
       {
         "cid": "2106",
@@ -190,6 +196,17 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "春晓时\\n版本日历"
+      },
+      {
+        "cid": "5529",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1777608000,
+        "focus": 0,
+        "title": "完成每日签到\\n领取丰厚奖励"
       },
       {
         "cid": "5530",
