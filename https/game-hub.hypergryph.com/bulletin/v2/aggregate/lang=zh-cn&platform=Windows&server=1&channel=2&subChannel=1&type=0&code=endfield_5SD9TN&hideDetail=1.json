@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "7e626958105d9313882e2cac6a6650ed",
+    "version": "61dca0f972becf724274a379714cdcf2",
     "onlineList": [
       {
         "cid": "2106",
@@ -44,6 +44,12 @@
       {
         "cid": "1392",
         "version": 1768982321,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "6439",
+        "version": 1777377082,
         "needRedDot": true,
         "needPopup": false
       },
@@ -133,7 +139,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1777536000,
+    "updatedAt": 1778036400,
     "list": [
       {
         "cid": "2106",
@@ -200,6 +206,17 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
+      },
+      {
+        "cid": "6439",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1778036400,
+        "focus": 0,
+        "title": "理智补给"
       },
       {
         "cid": "4611",

@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "8687a860b187abe2861f2e26f1398cfd",
+    "version": "a0663e0e03a99986793a89dc393b1b78",
     "onlineList": [
       {
         "cid": "2106",
@@ -62,6 +62,12 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "6439",
+        "version": 1777377082,
         "needRedDot": true,
         "needPopup": false
       },
@@ -151,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1777608000,
+    "updatedAt": 1778036400,
     "list": [
       {
         "cid": "2106",
@@ -251,6 +257,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "6439",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1778036400,
+        "focus": 0,
+        "title": "理智补给"
       },
       {
         "cid": "4611",

@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "3d623e9cfe7c10e13e9ee9313226a3b2",
+    "version": "ed12e8f0f9ad6a852c7c8821d1e58eef",
     "onlineList": [
       {
         "cid": "2106",
@@ -32,6 +32,12 @@
       {
         "cid": "1381",
         "version": 1776246985,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "6439",
+        "version": 1777377082,
         "needRedDot": true,
         "needPopup": false
       },
@@ -121,7 +127,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1777536000,
+    "updatedAt": 1778036400,
     "list": [
       {
         "cid": "2106",
@@ -166,6 +172,17 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "春晓时\\n版本日历"
+      },
+      {
+        "cid": "6439",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1778036400,
+        "focus": 0,
+        "title": "理智补给"
       },
       {
         "cid": "4611",
