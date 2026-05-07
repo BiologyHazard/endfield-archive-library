@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "920aa41a57a409d34e9bae76fc89c55e",
+    "version": "abc26943dbc8495b2909e2b99ebb9c90",
     "onlineList": [
       {
         "cid": "2106",
@@ -62,6 +62,12 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7288",
+        "version": 1777377062,
         "needRedDot": true,
         "needPopup": false
       },
@@ -157,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1778036400,
+    "updatedAt": 1778126400,
     "list": [
       {
         "cid": "2106",
@@ -257,6 +263,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "7288",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1778126400,
+        "focus": 0,
+        "title": "影拓丰碑\\n系列更新"
       },
       {
         "cid": "6439",

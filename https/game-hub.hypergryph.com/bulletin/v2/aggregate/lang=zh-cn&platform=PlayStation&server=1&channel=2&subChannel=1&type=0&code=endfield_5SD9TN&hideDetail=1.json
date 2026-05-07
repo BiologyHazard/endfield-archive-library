@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "ed12e8f0f9ad6a852c7c8821d1e58eef",
+    "version": "9d9be513e947db426d507c0b7cfa06c0",
     "onlineList": [
       {
         "cid": "2106",
@@ -32,6 +32,12 @@
       {
         "cid": "1381",
         "version": 1776246985,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7288",
+        "version": 1777377062,
         "needRedDot": true,
         "needPopup": false
       },
@@ -127,7 +133,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1778036400,
+    "updatedAt": 1778126400,
     "list": [
       {
         "cid": "2106",
@@ -172,6 +178,17 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "春晓时\\n版本日历"
+      },
+      {
+        "cid": "7288",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1778126400,
+        "focus": 0,
+        "title": "影拓丰碑\\n系列更新"
       },
       {
         "cid": "6439",

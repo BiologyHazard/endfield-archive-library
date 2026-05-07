@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "a0350d1b9f7ef8223db62e9ed284552d",
+    "version": "c67b5e9b867fb19712c9e1a57554f432",
     "onlineList": [
       {
         "cid": "2106",
@@ -38,6 +38,12 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7288",
+        "version": 1777377062,
         "needRedDot": true,
         "needPopup": false
       },
@@ -133,7 +139,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1778036400,
+    "updatedAt": 1778126400,
     "list": [
       {
         "cid": "2106",
@@ -189,6 +195,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "7288",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1778126400,
+        "focus": 0,
+        "title": "影拓丰碑\\n系列更新"
       },
       {
         "cid": "6439",

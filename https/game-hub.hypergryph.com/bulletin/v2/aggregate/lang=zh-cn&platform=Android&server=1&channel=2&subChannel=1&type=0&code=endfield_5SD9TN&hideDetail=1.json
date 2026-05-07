@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "2e34be4d78d57f08e9a08b4125b13216",
+    "version": "da60707d5fbc707dc34a7e3b2c18eb36",
     "onlineList": [
       {
         "cid": "2106",
@@ -44,6 +44,12 @@
       {
         "cid": "1392",
         "version": 1768982321,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7288",
+        "version": 1777377062,
         "needRedDot": true,
         "needPopup": false
       },
@@ -139,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1778036400,
+    "updatedAt": 1778126400,
     "list": [
       {
         "cid": "2106",
@@ -206,6 +212,17 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
+      },
+      {
+        "cid": "7288",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1778126400,
+        "focus": 0,
+        "title": "影拓丰碑\\n系列更新"
       },
       {
         "cid": "6439",
