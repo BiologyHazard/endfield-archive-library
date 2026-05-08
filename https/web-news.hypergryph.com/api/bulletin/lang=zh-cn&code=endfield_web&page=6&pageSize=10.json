@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "2679",
+        "tab": "notices",
+        "sticky": false,
+        "title": "《明日方舟：终末地》「全面测试」招募即将结束",
+        "author": "",
+        "displayTime": 1762916400,
+        "cover": "https://web.hycdn.cn/upload/image/20251111/1191483842720d0b24dae8bfe1323d23.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：《明日方舟：终末地》「全面测试」招募将于2025/11/17 18:00（UTC+8）结束。届时测试招募问卷填写入口将会关闭，我们将结束「全面测试」的招募报名，还请管理员注意截止时间。「"
+      },
+      {
         "cid": "7235",
         "tab": "news",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "",
         "extraCover": "",
         "brief": "感谢您对《明日方舟：终末地》的关注与支持。为维护绿色、公平的游戏环境，保证各位玩家的利益，在此特意提醒各位玩家：\n1. 禁止游戏中使用外挂、第三方工具，不得以任何不正当方式破坏游戏公平性、违反本次测试"
-      },
-      {
-        "cid": "9376",
-        "tab": "notices",
-        "sticky": false,
-        "title": "《明日方舟：终末地》「再次测试」FAQ",
-        "author": "",
-        "displayTime": 1734145200,
-        "cover": "",
-        "extraCover": "",
-        "brief": "\n"
       }
     ],
     "current": 6,
     "pageSize": 10,
-    "total": 61
+    "total": 62
   }
 }

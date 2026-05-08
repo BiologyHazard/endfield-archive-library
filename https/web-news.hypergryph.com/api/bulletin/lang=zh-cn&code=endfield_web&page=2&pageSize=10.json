@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "4781",
+        "tab": "news",
+        "sticky": false,
+        "title": "「春晓时」核心章节版本研发通讯",
+        "author": "",
+        "displayTime": 1776049200,
+        "cover": "https://web.hycdn.cn/upload/image/20260411/09bb3d40600a10e196e52399eb3b78a9.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。此刻，春景已至，前路仍长，《明日方舟：终末地》核心章节版本「春晓时」也将于4月17日开启。通过本期研发通讯，我们将为管理员介绍即将在此版本中上线的一系列"
+      },
+      {
         "cid": "0435",
         "tab": "events",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260306/45ddcef5590e04921550504738776d7a.jpg",
         "extraCover": "",
         "brief": "亲爱的管理员：《明日方舟：终末地》计划将于2026年3月12日 06:00（UTC+8）开始对游戏客户端进行版本更新停机维护，维护完成后将更新至全新版本「新潮起，故渊离」。本次更新为强制更新，更新维护"
-      },
-      {
-        "cid": "7225",
-        "tab": "news",
-        "sticky": false,
-        "title": "「新潮起，故渊离」研发通讯",
-        "author": "",
-        "displayTime": 1772445600,
-        "cover": "https://web.hycdn.cn/upload/image/20260228/71c65d332edabf107ec32320985ddfff.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。自公测开启以来，我们收到了许多热情反馈与宝贵建议。大家的支持与期待，也一直是我们持续迭代的动力。通过本期研发通讯，我们将为管理员介绍即将在「新潮起，故渊"
       }
     ],
     "current": 2,
     "pageSize": 10,
-    "total": 61
+    "total": 62
   }
 }
