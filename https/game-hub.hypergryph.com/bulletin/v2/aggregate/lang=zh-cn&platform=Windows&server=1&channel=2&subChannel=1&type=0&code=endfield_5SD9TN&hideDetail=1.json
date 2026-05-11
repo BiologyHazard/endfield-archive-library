@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "104bbb2b74519786375fd39c88382872",
+    "version": "e9bc18924ef9cb1a0bd80bde33c7ca4b",
     "onlineList": [
       {
         "cid": "2106",
@@ -102,6 +102,18 @@
         "needPopup": false
       },
       {
+        "cid": "9863",
+        "version": 1777376993,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0796",
+        "version": 1777378567,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "2115",
         "version": 1776247244,
         "needRedDot": true,
@@ -145,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1778126400,
+    "updatedAt": 1778473800,
     "list": [
       {
         "cid": "2106",
@@ -311,6 +323,28 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "春雷动，万物生\\n特许寻访"
+      },
+      {
+        "cid": "9863",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 4,
+        "displayType": "rich_text",
+        "startAt": 1778473800,
+        "focus": 0,
+        "title": "息壤妙用"
+      },
+      {
+        "cid": "0796",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 4,
+        "displayType": "rich_text",
+        "startAt": 1778472000,
+        "focus": 0,
+        "title": "物资供给\\n武陵特厨"
       },
       {
         "cid": "2115",

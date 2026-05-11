@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "0796",
+    "type": 0,
+    "tab": "events",
+    "orderType": 1,
+    "orderWeight": 4,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1778472000,
+    "title": "物资供给\\n武陵特厨",
+    "header": "「物资供给·武陵特厨」供给活动说明",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260428/e82397ceacf5df1bdfe900ee9f827ad5.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">▼//活动时间</span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/05/14 12:00（服务器时间） - 版本更新维护前</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动奖励</span></p><p><span style=\"color: rgb(31, 35, 41);\">活动开放期间，完成物资供给任务，累计可获得【贴纸·武陵特厨】【嵌晶玉】【存续的痕迹】【高级认知载体】等活动奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//参与条件</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 完成主线任务「第二章 - 进程Ⅱ - 东风就绪」</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 完成探索任务「科学兴农」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 活动期间，共有7个物资供给任务，第1日将开放1个任务，从第2日起，每日04:00（服务器时间）将会新开放1个任务。第7个任务将在前6个任务完成后开放。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 完成物资供给任务，提交参赛菜品，即可领取对应奖励。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 可通过【简易制作】系统制作物资供给任务所需的参赛菜品。参赛菜品的原材料包括能够在可种植区域培育的【金石稻】【琼叶参】，以及通过击败敌人后获得的【新笋】等材料。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 若参赛菜品的对应配方尚未解锁，可通过种植、探索等途径，收集足够数量的材料后在【简制手册】中解锁对应配方。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多活动详细说明，请前往游戏内【活动中心】查看。</span></p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1777378567
+  },
+  "msg": ""
+}
