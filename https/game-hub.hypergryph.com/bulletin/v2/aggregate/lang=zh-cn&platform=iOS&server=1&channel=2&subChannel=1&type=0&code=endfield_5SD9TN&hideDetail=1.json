@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "11fecc6f7e5c4721fc914fb42d440a10",
+    "version": "4e2fab002ff348cacb8295d679ec1aaa",
     "onlineList": [
       {
         "cid": "2113",
@@ -62,12 +62,6 @@
       {
         "cid": "4611",
         "version": 1777376671,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "1382",
-        "version": 1776242809,
         "needRedDot": true,
         "needPopup": false
       },
@@ -169,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1778646600,
+    "updatedAt": 1778659200,
     "list": [
       {
         "cid": "2113",
@@ -269,17 +263,6 @@
         "startAt": 1777536000,
         "focus": 0,
         "title": "共贺庆典\\n此时欢宴"
-      },
-      {
-        "cid": "1382",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1777258800,
-        "focus": 0,
-        "title": "集成援助\\n掌中救星"
       },
       {
         "cid": "3058",

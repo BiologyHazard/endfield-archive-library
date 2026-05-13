@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "73724856454741c4657f23a625264600",
+    "version": "1bdeeccc2b24144330a7cee1f3867514",
     "onlineList": [
       {
         "cid": "2113",
@@ -62,12 +62,6 @@
       {
         "cid": "4611",
         "version": 1777376671,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "1382",
-        "version": 1776242809,
         "needRedDot": true,
         "needPopup": false
       },
@@ -169,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1778646600,
+    "updatedAt": 1778659200,
     "list": [
       {
         "cid": "2113",
@@ -269,17 +263,6 @@
         "startAt": 1777536000,
         "focus": 0,
         "title": "共贺庆典\\n此时欢宴"
-      },
-      {
-        "cid": "1382",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1777258800,
-        "focus": 0,
-        "title": "集成援助\\n掌中救星"
       },
       {
         "cid": "3058",
