@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "d88e91fe9b51ac0f30b1a658eb12cc98",
+    "version": "0f9bb9307ae54e54e818cc5a38ba7826",
     "onlineList": [
       {
         "cid": "4610",
@@ -44,12 +44,6 @@
       {
         "cid": "7288",
         "version": 1777377062,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "6439",
-        "version": 1777377082,
         "needRedDot": true,
         "needPopup": false
       },
@@ -126,12 +120,6 @@
         "needPopup": false
       },
       {
-        "cid": "5533",
-        "version": 1776243254,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "7290",
         "version": 1776248374,
         "needRedDot": true,
@@ -157,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1778684400,
+    "updatedAt": 1778702400,
     "list": [
       {
         "cid": "4610",
@@ -224,17 +212,6 @@
         "startAt": 1778126400,
         "focus": 0,
         "title": "影拓丰碑\\n系列更新"
-      },
-      {
-        "cid": "6439",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1778036400,
-        "focus": 0,
-        "title": "理智补给"
       },
       {
         "cid": "4611",
@@ -367,17 +344,6 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "干员培养助力"
-      },
-      {
-        "cid": "5533",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 6,
-        "displayType": "rich_text",
-        "startAt": 1776380400,
-        "focus": 0,
-        "title": "镇绥蚀海"
       },
       {
         "cid": "7290",
