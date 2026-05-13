@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "05e5616519f3e97f4206459d0dcd80b2",
+    "version": "73724856454741c4657f23a625264600",
     "onlineList": [
       {
         "cid": "2113",
@@ -38,6 +38,12 @@
       {
         "cid": "1392",
         "version": 1768982321,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "2105",
+        "version": 1777378712,
         "needRedDot": true,
         "needPopup": false
       },
@@ -80,6 +86,18 @@
       {
         "cid": "9874",
         "version": 1776247368,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1370",
+        "version": 1777378916,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3044",
+        "version": 1777378857,
         "needRedDot": true,
         "needPopup": false
       },
@@ -151,7 +169,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1778601540,
+    "updatedAt": 1778646600,
     "list": [
       {
         "cid": "2113",
@@ -207,6 +225,17 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
+      },
+      {
+        "cid": "2105",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1778644800,
+        "focus": 0,
+        "title": "辉光庆典\\n特殊寻访"
       },
       {
         "cid": "7288",
@@ -284,6 +313,28 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "焕新月卡赠礼"
+      },
+      {
+        "cid": "1370",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1778646600,
+        "focus": 0,
+        "title": "疾行申领"
+      },
+      {
+        "cid": "3044",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1778646600,
+        "focus": 0,
+        "title": "熔灼申领"
       },
       {
         "cid": "8967",
