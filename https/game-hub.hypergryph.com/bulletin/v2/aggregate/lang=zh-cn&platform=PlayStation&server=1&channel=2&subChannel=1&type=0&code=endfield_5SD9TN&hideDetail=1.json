@@ -9,17 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "0f9bb9307ae54e54e818cc5a38ba7826",
+    "version": "cca6c88fe127867dbae05caa888b5b18",
     "onlineList": [
       {
-        "cid": "4610",
-        "version": 1778671135,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "2113",
-        "version": 1777515897,
+        "version": 1778725046,
         "needRedDot": true,
         "needPopup": false
       },
@@ -32,6 +26,12 @@
       {
         "cid": "1381",
         "version": 1776246985,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "2104",
+        "version": 1778488761,
         "needRedDot": true,
         "needPopup": false
       },
@@ -145,19 +145,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1778702400,
+    "updatedAt": 1778731200,
     "list": [
-      {
-        "cid": "4610",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1778684400,
-        "focus": 1,
-        "title": "闪断更新公告"
-      },
       {
         "cid": "2113",
         "type": 0,
@@ -190,6 +179,17 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "春晓时\\n版本日历"
+      },
+      {
+        "cid": "2104",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1778731200,
+        "focus": 0,
+        "title": "共贺庆典\\n此时庆会"
       },
       {
         "cid": "2105",

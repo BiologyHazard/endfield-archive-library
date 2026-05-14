@@ -9,17 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "22c5531bc89b194ef14b35322b7bf19c",
+    "version": "baf74a532fbf0589d5d563f464e7f93a",
     "onlineList": [
       {
-        "cid": "4610",
-        "version": 1778671135,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "2113",
-        "version": 1777515897,
+        "version": 1778725046,
         "needRedDot": true,
         "needPopup": false
       },
@@ -62,6 +56,12 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "2104",
+        "version": 1778488761,
         "needRedDot": true,
         "needPopup": false
       },
@@ -175,19 +175,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1778702400,
+    "updatedAt": 1778731200,
     "list": [
-      {
-        "cid": "4610",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1778684400,
-        "focus": 1,
-        "title": "闪断更新公告"
-      },
       {
         "cid": "2113",
         "type": 0,
@@ -275,6 +264,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "2104",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1778731200,
+        "focus": 0,
+        "title": "共贺庆典\\n此时庆会"
       },
       {
         "cid": "2105",
