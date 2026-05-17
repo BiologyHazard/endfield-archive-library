@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "2a9bf9757310fd95bbdf4ac4b4f423fb",
+    "version": "8dceae7479b198475b3631e075198c59",
     "onlineList": [
       {
         "cid": "2113",
@@ -102,12 +102,6 @@
         "needPopup": false
       },
       {
-        "cid": "9874",
-        "version": 1776247368,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "1370",
         "version": 1777378916,
         "needRedDot": true,
@@ -181,7 +175,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1778814000,
+    "updatedAt": 1779048000,
     "list": [
       {
         "cid": "2113",
@@ -347,17 +341,6 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "协议通行证\\n怒潮"
-      },
-      {
-        "cid": "9874",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1776380400,
-        "focus": 0,
-        "title": "焕新月卡赠礼"
       },
       {
         "cid": "1370",

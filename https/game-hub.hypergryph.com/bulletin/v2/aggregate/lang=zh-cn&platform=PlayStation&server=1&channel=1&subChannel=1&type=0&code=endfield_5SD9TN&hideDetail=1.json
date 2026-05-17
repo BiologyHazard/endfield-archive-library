@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "5ae18b3b3bbb3beeb33003f9e3fd1068",
+    "version": "c9cafdab9a4c181993393a3a4dd6b93c",
     "onlineList": [
       {
         "cid": "2113",
@@ -68,12 +68,6 @@
       {
         "cid": "6449",
         "version": 1776239540,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "9874",
-        "version": 1776247368,
         "needRedDot": true,
         "needPopup": false
       },
@@ -151,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1778813096,
+    "updatedAt": 1779048000,
     "list": [
       {
         "cid": "2113",
@@ -262,17 +256,6 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "协议通行证\\n怒潮"
-      },
-      {
-        "cid": "9874",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1776380400,
-        "focus": 0,
-        "title": "焕新月卡赠礼"
       },
       {
         "cid": "1370",
