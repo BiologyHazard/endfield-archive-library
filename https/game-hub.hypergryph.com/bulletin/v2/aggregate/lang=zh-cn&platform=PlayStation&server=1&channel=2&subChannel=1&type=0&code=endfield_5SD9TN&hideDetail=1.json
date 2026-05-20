@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "8f637cc7758c287e95a8a44e0d3df112",
+    "version": "4cd9caabcfc912706c5a9a1a7bb3d479",
     "onlineList": [
       {
         "cid": "2113",
@@ -26,6 +26,12 @@
       {
         "cid": "1381",
         "version": 1776246985,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "6436",
+        "version": 1779087913,
         "needRedDot": true,
         "needPopup": false
       },
@@ -139,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1779048000,
+    "updatedAt": 1779246000,
     "list": [
       {
         "cid": "2113",
@@ -173,6 +179,17 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "春晓时\\n版本日历"
+      },
+      {
+        "cid": "6436",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1779246000,
+        "focus": 0,
+        "title": "版本调研问卷"
       },
       {
         "cid": "2104",
