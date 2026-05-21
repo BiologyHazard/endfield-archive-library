@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "691a3b36e76ee4365bc2a321d068e2f4",
+    "version": "c0e8926da53d7a4e8e7bf4ac6c58d3ca",
     "onlineList": [
       {
         "cid": "2113",
@@ -56,12 +56,6 @@
       {
         "cid": "2105",
         "version": 1777378712,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "7288",
-        "version": 1777377062,
         "needRedDot": true,
         "needPopup": false
       },
@@ -157,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1779246000,
+    "updatedAt": 1779393600,
     "list": [
       {
         "cid": "2113",
@@ -246,17 +240,6 @@
         "startAt": 1778644800,
         "focus": 0,
         "title": "辉光庆典\\n特殊寻访"
-      },
-      {
-        "cid": "7288",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1778126400,
-        "focus": 0,
-        "title": "影拓丰碑\\n系列更新"
       },
       {
         "cid": "4611",
