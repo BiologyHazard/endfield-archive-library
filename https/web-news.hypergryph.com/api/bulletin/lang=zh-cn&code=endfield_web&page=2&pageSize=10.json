@@ -4,17 +4,6 @@
   "data": {
     "list": [
       {
-        "cid": "3816",
-        "tab": "news",
-        "sticky": false,
-        "title": "游戏社媒关注页现已上线",
-        "author": "",
-        "displayTime": 1776398400,
-        "cover": "https://web.hycdn.cn/upload/image/20260417/bb71532cc4f2f82b9556e2dda163e621.jpg",
-        "extraCover": "",
-        "brief": "管理员们，欢迎来到塔卫二！《明日方舟：终末地》官方社媒账号页现已上线！\n关注官方社媒账号，最高累计获取180嵌晶玉!\n点击链接即可参与活动：https://endfield.hypergryph.co"
-      },
-      {
         "cid": "0434",
         "tab": "events",
         "sticky": false,
@@ -35,6 +24,17 @@
         "cover": "https://web.hycdn.cn/upload/image/20260414/4d50f070cf135f77981a900973b90620.jpg",
         "extraCover": "",
         "brief": "亲爱的管理员：「行舟申领」开放期间，6星武器【孤舟（施术单元）】获取概率提升！\n▼//「行舟申领」· 开放时间：「春晓时」版本更新后开启，于3次「特许寻访」后结束（从「春雷动，万物生」起计算）· 开放"
+      },
+      {
+        "cid": "5999",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「春雷动，万物生」特许寻访",
+        "author": "",
+        "displayTime": 1776312000,
+        "cover": "https://web.hycdn.cn/upload/image/20260414/83e25aafcbcfc165eca6df06d545ebf3.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：「春雷动，万物生」特许寻访开放期间，6星干员【庄方宜】获取概率提升！「春雷醒物」限时签到活动同步开放，累计签到可获得【春雷醒物寻访凭证】×5等奖励，还可在【集成配额交易】中进行【春雷醒物"
       },
       {
         "cid": "2666",
