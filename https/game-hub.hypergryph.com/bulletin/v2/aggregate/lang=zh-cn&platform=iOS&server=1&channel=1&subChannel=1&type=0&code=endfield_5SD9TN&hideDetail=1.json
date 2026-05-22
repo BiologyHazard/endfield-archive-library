@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "e628723778dba3829f6eb61d2e7f9375",
+    "version": "7135e3790e98e50f3d804bb3d4dbbbee",
     "onlineList": [
       {
         "cid": "2113",
@@ -120,12 +120,6 @@
         "needPopup": false
       },
       {
-        "cid": "8966",
-        "version": 1776247175,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "9863",
         "version": 1777376993,
         "needRedDot": true,
@@ -134,12 +128,6 @@
       {
         "cid": "0796",
         "version": 1777378567,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "2115",
-        "version": 1776247244,
         "needRedDot": true,
         "needPopup": false
       },
@@ -175,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1779393600,
+    "updatedAt": 1779422340,
     "list": [
       {
         "cid": "2113",
@@ -376,17 +364,6 @@
         "title": "春晓时\\n组合包"
       },
       {
-        "cid": "8966",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1776380400,
-        "focus": 0,
-        "title": "春雷动，万物生\\n特许寻访"
-      },
-      {
         "cid": "9863",
         "type": 0,
         "tab": "events",
@@ -407,17 +384,6 @@
         "startAt": 1778472000,
         "focus": 0,
         "title": "物资供给\\n武陵特厨"
-      },
-      {
-        "cid": "2115",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 4,
-        "displayType": "rich_text",
-        "startAt": 1776380400,
-        "focus": 0,
-        "title": "行舟申领"
       },
       {
         "cid": "0709",
