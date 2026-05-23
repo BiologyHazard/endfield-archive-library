@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "7135e3790e98e50f3d804bb3d4dbbbee",
+    "version": "1b728cfffc98c2862220eb1e3f46b00c",
     "onlineList": [
       {
         "cid": "2113",
@@ -32,12 +32,6 @@
       {
         "cid": "6436",
         "version": 1779087913,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "8951",
-        "version": 1778761872,
         "needRedDot": true,
         "needPopup": false
       },
@@ -163,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1779422340,
+    "updatedAt": 1779551940,
     "list": [
       {
         "cid": "2113",
@@ -208,17 +202,6 @@
         "startAt": 1779246000,
         "focus": 0,
         "title": "版本调研问卷"
-      },
-      {
-        "cid": "8951",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1778814000,
-        "focus": 0,
-        "title": "森空岛答题挑战\\n参与活动赢好礼"
       },
       {
         "cid": "5529",
