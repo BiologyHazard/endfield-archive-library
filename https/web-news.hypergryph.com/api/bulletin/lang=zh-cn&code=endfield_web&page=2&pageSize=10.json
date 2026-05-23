@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "3816",
+        "tab": "news",
+        "sticky": false,
+        "title": "游戏社媒关注页现已上线",
+        "author": "",
+        "displayTime": 1776398400,
+        "cover": "https://web.hycdn.cn/upload/image/20260417/bb71532cc4f2f82b9556e2dda163e621.jpg",
+        "extraCover": "",
+        "brief": "管理员们，欢迎来到塔卫二！《明日方舟：终末地》官方社媒账号页现已上线！\n关注官方社媒账号，最高累计获取180嵌晶玉!\n点击链接即可参与活动：https://endfield.hypergryph.co"
+      },
+      {
         "cid": "0434",
         "tab": "events",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "",
         "extraCover": "",
         "brief": "亲爱的管理员：当您在使用配备了NVIDIA显卡的PC端设备上体验游戏时，若使用以下版本的驱动程序，可能出现游戏运行卡顿等异常情况：• GeForce Game Ready 驱动程序版本：595.79、"
-      },
-      {
-        "cid": "9345",
-        "tab": "notices",
-        "sticky": false,
-        "title": "关于使用非官方工具的安全风险提示",
-        "author": "",
-        "displayTime": 1773279000,
-        "cover": "",
-        "extraCover": "",
-        "brief": "在第三方网页或工具中进行账号授权登录的操作存在账号信息泄露或数据被不当使用的安全风险。在此提醒各位玩家，为保障您的账号安全，请注意：1、请勿在任何来源不明或未经官方认证的第三方平台进行账号授权登录；2"
       }
     ],
     "current": 2,
     "pageSize": 10,
-    "total": 66
+    "total": 67
   }
 }

@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "0430",
+        "tab": "news",
+        "sticky": true,
+        "title": "「寻遗散记」版本研发通讯",
+        "author": "",
+        "displayTime": 1779508800,
+        "cover": "https://web.hycdn.cn/upload/image/20260522/a3eb56b3e62d48fdcce71b841441e904.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。自「春晓时」版本上线以来，管理员的肯定给予了我们莫大的鼓舞，也让我们更加坚信，每一项脚踏实地的优化，都能切实提升管理员的游玩体验。通过本期研发通讯，我们"
+      },
+      {
         "cid": "9342",
         "tab": "notices",
         "sticky": true,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260417/04a13575e85205eb5f6c1a260792f93b.jpg",
         "extraCover": "",
         "brief": "管理员，《明日方舟：终末地》「春晓时」版本创作征集活动正在哔哩哔哩、抖音、小红书、微博、快手、TapTap、虎牙、斗鱼、知乎等多个社区平台进行中。按对应要求进行内容创作与分享，即可参与奖金瓜分、创作评"
-      },
-      {
-        "cid": "3816",
-        "tab": "news",
-        "sticky": false,
-        "title": "游戏社媒关注页现已上线",
-        "author": "",
-        "displayTime": 1776398400,
-        "cover": "https://web.hycdn.cn/upload/image/20260417/bb71532cc4f2f82b9556e2dda163e621.jpg",
-        "extraCover": "",
-        "brief": "管理员们，欢迎来到塔卫二！《明日方舟：终末地》官方社媒账号页现已上线！\n关注官方社媒账号，最高累计获取180嵌晶玉!\n点击链接即可参与活动：https://endfield.hypergryph.co"
       }
     ],
     "current": 1,
     "pageSize": 10,
-    "total": 66
+    "total": 67
   }
 }
