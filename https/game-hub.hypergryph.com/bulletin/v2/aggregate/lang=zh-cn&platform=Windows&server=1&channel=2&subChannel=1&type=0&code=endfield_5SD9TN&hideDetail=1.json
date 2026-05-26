@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "a31fb484cc73039152afe573abcd112e",
+    "version": "6e6b9c16ddf69b99608031976e951742",
     "onlineList": [
+      {
+        "cid": "9860",
+        "version": 1779696038,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "2113",
         "version": 1778813096,
@@ -139,8 +145,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1779422340,
+    "updatedAt": 1779768000,
     "list": [
+      {
+        "cid": "9860",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1779768000,
+        "focus": 0,
+        "title": "塔卫二摄影师\\n参与可赢嵌晶玉"
+      },
       {
         "cid": "2113",
         "type": 0,

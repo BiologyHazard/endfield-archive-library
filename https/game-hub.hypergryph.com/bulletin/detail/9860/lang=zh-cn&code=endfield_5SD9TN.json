@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "9860",
+    "type": 0,
+    "tab": "news",
+    "orderType": 0,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1779768000,
+    "title": "塔卫二摄影师\\n参与可赢嵌晶玉",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260525/2a384f5d565d63b3a0dd985708e4e88b.jpg",
+      "link": "https://endfield.hypergryph.com/activity/talos_photo?u8_token={u8_token}&server={server}",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1779696038
+  },
+  "msg": ""
+}
