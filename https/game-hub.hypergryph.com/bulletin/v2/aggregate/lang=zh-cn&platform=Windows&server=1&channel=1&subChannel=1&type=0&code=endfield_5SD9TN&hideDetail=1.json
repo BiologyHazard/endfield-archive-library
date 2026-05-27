@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "06547a0be47d618501e05a1bcccc6d23",
+    "version": "b0cbcfa22892265fec22e9574d23f75f",
     "onlineList": [
       {
         "cid": "9860",
@@ -126,6 +126,12 @@
         "needPopup": false
       },
       {
+        "cid": "4612",
+        "version": 1777376864,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "9863",
         "version": 1777376993,
         "needRedDot": true,
@@ -169,7 +175,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1779768000,
+    "updatedAt": 1779850800,
     "list": [
       {
         "cid": "9860",
@@ -379,6 +385,17 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "春晓时\\n组合包"
+      },
+      {
+        "cid": "4612",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 4,
+        "displayType": "rich_text",
+        "startAt": 1779850800,
+        "focus": 0,
+        "title": "理智补给"
       },
       {
         "cid": "9863",

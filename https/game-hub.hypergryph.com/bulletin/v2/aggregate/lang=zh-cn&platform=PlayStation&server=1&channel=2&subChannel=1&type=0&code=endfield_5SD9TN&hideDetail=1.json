@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "8b3743c00c4af45b8693560ae92fdfa8",
+    "version": "ae5dabc3bf58c33009cee276221f7980",
     "onlineList": [
       {
         "cid": "2113",
@@ -84,6 +84,12 @@
         "needPopup": false
       },
       {
+        "cid": "4612",
+        "version": 1777376864,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "9863",
         "version": 1777376993,
         "needRedDot": true,
@@ -127,7 +133,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1779422340,
+    "updatedAt": 1779850800,
     "list": [
       {
         "cid": "2113",
@@ -260,6 +266,17 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "春晓时\\n组合包"
+      },
+      {
+        "cid": "4612",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 4,
+        "displayType": "rich_text",
+        "startAt": 1779850800,
+        "focus": 0,
+        "title": "理智补给"
       },
       {
         "cid": "9863",
