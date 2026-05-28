@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "d8bc9407f1c78bf2e4aeb8b4bdc887af",
+    "version": "9c5cb88a0db0201ccdc6fdc4ca9ef42c",
     "onlineList": [
+      {
+        "cid": "1378",
+        "version": 1779968186,
+        "needRedDot": false,
+        "needPopup": false
+      },
       {
         "cid": "2113",
         "version": 1778813096,
@@ -26,12 +32,6 @@
       {
         "cid": "1381",
         "version": 1776246985,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "6436",
-        "version": 1779087913,
         "needRedDot": true,
         "needPopup": false
       },
@@ -139,8 +139,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1779940800,
+    "updatedAt": 1779984000,
     "list": [
+      {
+        "cid": "1378",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1779980400,
+        "focus": 1,
+        "title": "闪断更新公告"
+      },
       {
         "cid": "2113",
         "type": 0,
@@ -173,17 +184,6 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "春晓时\\n版本日历"
-      },
-      {
-        "cid": "6436",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1779246000,
-        "focus": 0,
-        "title": "版本调研问卷"
       },
       {
         "cid": "0797",
