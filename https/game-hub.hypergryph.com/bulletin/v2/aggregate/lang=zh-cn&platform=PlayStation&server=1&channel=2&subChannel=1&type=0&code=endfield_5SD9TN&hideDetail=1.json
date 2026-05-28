@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "ae5dabc3bf58c33009cee276221f7980",
+    "version": "d8bc9407f1c78bf2e4aeb8b4bdc887af",
     "onlineList": [
       {
         "cid": "2113",
@@ -32,6 +32,12 @@
       {
         "cid": "6436",
         "version": 1779087913,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0797",
+        "version": 1777376719,
         "needRedDot": true,
         "needPopup": false
       },
@@ -133,7 +139,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1779850800,
+    "updatedAt": 1779940800,
     "list": [
       {
         "cid": "2113",
@@ -178,6 +184,17 @@
         "startAt": 1779246000,
         "focus": 0,
         "title": "版本调研问卷"
+      },
+      {
+        "cid": "0797",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1779940800,
+        "focus": 0,
+        "title": "寻奇探幽"
       },
       {
         "cid": "2104",

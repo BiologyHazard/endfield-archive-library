@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "4cb0187b34cc7b8b4769a9f64f3f17cb",
+    "version": "f77a6f7572708243b6dbb64e82e9f757",
     "onlineList": [
       {
         "cid": "9860",
@@ -50,6 +50,12 @@
       {
         "cid": "1392",
         "version": 1768982321,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0797",
+        "version": 1777376719,
         "needRedDot": true,
         "needPopup": false
       },
@@ -151,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1779850800,
+    "updatedAt": 1779940800,
     "list": [
       {
         "cid": "9860",
@@ -229,6 +235,17 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
+      },
+      {
+        "cid": "0797",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1779940800,
+        "focus": 0,
+        "title": "寻奇探幽"
       },
       {
         "cid": "2104",

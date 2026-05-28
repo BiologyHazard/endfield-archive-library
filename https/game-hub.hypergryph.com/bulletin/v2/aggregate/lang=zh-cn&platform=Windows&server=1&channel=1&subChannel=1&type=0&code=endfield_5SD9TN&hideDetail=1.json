@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "b0cbcfa22892265fec22e9574d23f75f",
+    "version": "40ce974e580d05bbfc4a7fe5611a1d46",
     "onlineList": [
       {
         "cid": "9860",
@@ -74,6 +74,12 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0797",
+        "version": 1777376719,
         "needRedDot": true,
         "needPopup": false
       },
@@ -175,7 +181,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1779850800,
+    "updatedAt": 1779940800,
     "list": [
       {
         "cid": "9860",
@@ -297,6 +303,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "0797",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1779940800,
+        "focus": 0,
+        "title": "寻奇探幽"
       },
       {
         "cid": "2104",
