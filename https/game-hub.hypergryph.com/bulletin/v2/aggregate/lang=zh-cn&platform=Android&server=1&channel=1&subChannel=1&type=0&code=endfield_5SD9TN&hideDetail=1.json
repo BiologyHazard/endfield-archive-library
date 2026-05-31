@@ -9,14 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "42d2c5b507a7f457c7924fdc871a01bd",
+    "version": "995ec798e44f355bb34b7514173223e0",
     "onlineList": [
-      {
-        "cid": "9860",
-        "version": 1779696038,
-        "needRedDot": true,
-        "needPopup": false
-      },
       {
         "cid": "2113",
         "version": 1780023958,
@@ -38,12 +32,6 @@
       {
         "cid": "0794",
         "version": 1779596096,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "5529",
-        "version": 1777451195,
         "needRedDot": true,
         "needPopup": false
       },
@@ -181,19 +169,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1780025400,
+    "updatedAt": 1780243140,
     "list": [
-      {
-        "cid": "9860",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1779768000,
-        "focus": 0,
-        "title": "塔卫二摄影师\\n参与可赢嵌晶玉"
-      },
       {
         "cid": "2113",
         "type": 0,
@@ -237,17 +214,6 @@
         "startAt": 1779602400,
         "focus": 0,
         "title": "森空岛答题挑战\\n参与活动赢好礼"
-      },
-      {
-        "cid": "5529",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1777608000,
-        "focus": 0,
-        "title": "完成每日签到\\n领取丰厚奖励"
       },
       {
         "cid": "5530",
