@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "9d8647dcb8afe1255297c1e9c6cc6ba0",
+    "version": "3d2faa8c90d40a227bbb0a9816939556",
     "onlineList": [
       {
         "cid": "2113",
@@ -26,12 +26,6 @@
       {
         "cid": "1381",
         "version": 1776246985,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "0794",
-        "version": 1779596096,
         "needRedDot": true,
         "needPopup": false
       },
@@ -169,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1780243140,
+    "updatedAt": 1780415940,
     "list": [
       {
         "cid": "2113",
@@ -203,17 +197,6 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "春晓时\\n版本日历"
-      },
-      {
-        "cid": "0794",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1779602400,
-        "focus": 0,
-        "title": "森空岛答题挑战\\n参与活动赢好礼"
       },
       {
         "cid": "1389",
