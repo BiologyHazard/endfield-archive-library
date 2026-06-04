@@ -4,17 +4,6 @@
   "data": {
     "list": [
       {
-        "cid": "3815",
-        "tab": "events",
-        "sticky": false,
-        "title": "「共贺庆典」 - 「此时欢宴」庆祝活动公告",
-        "author": "",
-        "displayTime": 1777536000,
-        "cover": "https://web.hycdn.cn/upload/image/20260429/ad28afc2474f8ff0c291487ddadcccb2.jpg",
-        "extraCover": "",
-        "brief": "垒起甜蜜，堆高心意，共赴这场庆典。\n▼//活动时间2026/05/01 12:00（服务器时间） - 2026/06/05 06:00（UTC+8）\n▼//活动奖励活动开放期间，达成指定活动积分要求后"
-      },
-      {
         "cid": "9341",
         "tab": "notices",
         "sticky": false,
@@ -35,6 +24,17 @@
         "cover": "https://web.hycdn.cn/upload/image/20260417/bb71532cc4f2f82b9556e2dda163e621.jpg",
         "extraCover": "",
         "brief": "管理员们，欢迎来到塔卫二！《明日方舟：终末地》官方社媒账号页现已上线！\n关注官方社媒账号，最高累计获取180嵌晶玉!\n点击链接即可参与活动：https://endfield.hypergryph.co"
+      },
+      {
+        "cid": "9343",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「春晓时」版本更新说明",
+        "author": "",
+        "displayTime": 1776387600,
+        "cover": "https://web.hycdn.cn/upload/image/20260416/a7188b0d653d36259be04d2db847f3df.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：欢迎来到全新版本「春晓时」！\n▼//更新维护及补偿说明■ 更新维护时间2026/04/17 06:00 - 2026/04/17 12:00（UTC+8）※ 维护后的开服时间存在提前或延"
       },
       {
         "cid": "0434",
