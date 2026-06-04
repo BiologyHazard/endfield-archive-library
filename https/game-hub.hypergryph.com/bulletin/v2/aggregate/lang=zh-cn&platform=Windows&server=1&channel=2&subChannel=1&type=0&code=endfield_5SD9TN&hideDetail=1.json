@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "1e68e3ff2da8f1010195b53a2b1c7e01",
+    "version": "03c38acbd5c1835a83b06fe8e25cc404",
     "onlineList": [
       {
         "cid": "3041",
@@ -32,12 +32,6 @@
       {
         "cid": "1381",
         "version": 1776246985,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "1389",
-        "version": 1776419192,
         "needRedDot": true,
         "needPopup": false
       },
@@ -157,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1780461000,
+    "updatedAt": 1780588740,
     "list": [
       {
         "cid": "3041",
@@ -202,17 +196,6 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "春晓时\\n版本日历"
-      },
-      {
-        "cid": "1389",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1776661200,
-        "focus": 0,
-        "title": "创作征集活动"
       },
       {
         "cid": "1392",

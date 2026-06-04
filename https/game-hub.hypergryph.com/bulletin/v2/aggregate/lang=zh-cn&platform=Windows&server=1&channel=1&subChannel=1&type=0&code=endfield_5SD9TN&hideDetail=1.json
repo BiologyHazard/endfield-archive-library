@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "c03849663d032bf6543a913ef8f5da0a",
+    "version": "289d80fb710637493d07388d0d5dbb79",
     "onlineList": [
       {
         "cid": "3041",
@@ -32,18 +32,6 @@
       {
         "cid": "1381",
         "version": 1776246985,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "1389",
-        "version": 1776419192,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "8964",
-        "version": 1776416055,
         "needRedDot": true,
         "needPopup": false
       },
@@ -169,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1780461000,
+    "updatedAt": 1780588740,
     "list": [
       {
         "cid": "3041",
@@ -214,28 +202,6 @@
         "startAt": 1776380400,
         "focus": 0,
         "title": "春晓时\\n版本日历"
-      },
-      {
-        "cid": "1389",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1776661200,
-        "focus": 0,
-        "title": "创作征集活动"
-      },
-      {
-        "cid": "8964",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1776654000,
-        "focus": 0,
-        "title": "森空岛春晓时\\n创作者激励活动"
       },
       {
         "cid": "1392",
