@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "ee68d1a829ab9971ad4b7514ef7994b9",
+    "version": "297690559710ed958c13bee1d06b42ca",
     "onlineList": [
       {
         "cid": "8950",
@@ -18,8 +18,20 @@
         "needPopup": false
       },
       {
-        "cid": "3041",
-        "version": 1780311481,
+        "cid": "6434",
+        "version": 1780633420,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7283",
+        "version": 1780633606,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "2102",
+        "version": 1780562477,
         "needRedDot": true,
         "needPopup": false
       },
@@ -91,7 +103,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1780614000,
+    "updatedAt": 1780646400,
     "list": [
       {
         "cid": "8950",
@@ -105,15 +117,37 @@
         "title": "寻遗散记\\n版本日历"
       },
       {
-        "cid": "3041",
+        "cid": "6434",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1780646400,
+        "focus": 0,
+        "title": "完成每日签到\\n领取丰厚奖励"
+      },
+      {
+        "cid": "7283",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1780646400,
+        "focus": 0,
+        "title": "寻遗散记\\n森空岛限时任务"
+      },
+      {
+        "cid": "2102",
         "type": 0,
         "tab": "updates",
-        "orderType": 0,
+        "orderType": 1,
         "orderWeight": 1,
         "displayType": "rich_text",
-        "startAt": 1780461000,
+        "startAt": 1780621200,
         "focus": 0,
-        "title": "预下载\\n与更新预告"
+        "title": "版本更新说明"
       },
       {
         "cid": "1392",

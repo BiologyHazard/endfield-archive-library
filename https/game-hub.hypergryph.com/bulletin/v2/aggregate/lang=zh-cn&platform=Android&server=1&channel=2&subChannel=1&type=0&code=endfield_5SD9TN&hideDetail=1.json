@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "3e45b8f7b229e2d2fa15e6cc5a3843d5",
+    "version": "0ff43fdea0885b960a9c07b4339de882",
     "onlineList": [
       {
         "cid": "8950",
@@ -18,8 +18,8 @@
         "needPopup": false
       },
       {
-        "cid": "3041",
-        "version": 1780311481,
+        "cid": "2102",
+        "version": 1780562477,
         "needRedDot": true,
         "needPopup": false
       },
@@ -85,7 +85,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1780614000,
+    "updatedAt": 1780621200,
     "list": [
       {
         "cid": "8950",
@@ -99,15 +99,15 @@
         "title": "寻遗散记\\n版本日历"
       },
       {
-        "cid": "3041",
+        "cid": "2102",
         "type": 0,
         "tab": "updates",
-        "orderType": 0,
+        "orderType": 1,
         "orderWeight": 1,
         "displayType": "rich_text",
-        "startAt": 1780461000,
+        "startAt": 1780621200,
         "focus": 0,
-        "title": "预下载\\n与更新预告"
+        "title": "版本更新说明"
       },
       {
         "cid": "1392",

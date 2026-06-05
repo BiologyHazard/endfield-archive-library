@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "6434",
+    "type": 0,
+    "tab": "news",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1780646400,
+    "title": "完成每日签到\\n领取丰厚奖励",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260605/2f6a7151cd3ef9fd9d7f15ddeb2825a3.png",
+      "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fgame.skland.com%252Fendfield%252Fsign-in%253Fheader%253D0%2526hg_media%253Dendfield%2526hg_link_campaign%253Dannouncement",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1780633420
+  },
+  "msg": ""
+}
