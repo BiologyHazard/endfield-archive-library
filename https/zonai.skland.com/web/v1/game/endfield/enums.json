@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1780701362",
+  "timestamp": "1780730399",
   "data": {
     "rarities": [
       {
@@ -352,12 +352,20 @@
     ],
     "suitTypes": [
       {
-        "key": "2a50c1685223ad1c8ee798bc66ab8ac3",
-        "value": "M.I.警用"
-      },
-      {
         "key": "50d183755f65e882454064176c3c3132",
         "value": "点剑"
+      },
+      {
+        "key": "22fc1796d3f02ea400528cd0fe452999",
+        "value": "清波"
+      },
+      {
+        "key": "b0a4a678c2b091f45df836c1bf22b42e",
+        "value": "旧锋"
+      },
+      {
+        "key": "2a50c1685223ad1c8ee798bc66ab8ac3",
+        "value": "M.I.警用"
       },
       {
         "key": "6f111f96a39d526ec108f4896079b7e5",
@@ -414,10 +422,6 @@
       {
         "key": "83bebe5e37738300a7787a4fead16633",
         "value": "碾骨"
-      },
-      {
-        "key": "22fc1796d3f02ea400528cd0fe452999",
-        "value": "清波"
       },
       {
         "key": "0b8830f8e80c7ca94230596a99d614a4",

@@ -9,14 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "4551289e9d1cb3f971f8c264e306a2cb",
+    "version": "297690559710ed958c13bee1d06b42ca",
     "onlineList": [
-      {
-        "cid": "0791",
-        "version": 1780674188,
-        "needRedDot": false,
-        "needPopup": false
-      },
       {
         "cid": "8950",
         "version": 1780488107,
@@ -109,19 +103,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1780674189,
+    "updatedAt": 1780725600,
     "list": [
-      {
-        "cid": "0791",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1780671600,
-        "focus": 1,
-        "title": "闪断更新公告"
-      },
       {
         "cid": "8950",
         "type": 0,
