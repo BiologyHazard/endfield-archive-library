@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "2e2a55fe672154b523e4c5d7c9ea563f",
+    "version": "b5cc63feb2b7f709194c21f58efd956d",
     "onlineList": [
       {
         "cid": "4617",
@@ -20,6 +20,12 @@
       {
         "cid": "8950",
         "version": 1780488107,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9866",
+        "version": 1780817915,
         "needRedDot": true,
         "needPopup": false
       },
@@ -91,7 +97,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1780798692,
+    "updatedAt": 1780894800,
     "list": [
       {
         "cid": "4617",
@@ -114,6 +120,17 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "寻遗散记\\n版本日历"
+      },
+      {
+        "cid": "9866",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1780894800,
+        "focus": 0,
+        "title": "创作征集活动"
       },
       {
         "cid": "2102",

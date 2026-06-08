@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "0435",
+        "tab": "events",
+        "sticky": false,
+        "title": "「长耳兽之旅」同庆活动说明",
+        "author": "",
+        "displayTime": 1775016000,
+        "cover": "https://web.hycdn.cn/upload/image/20260325/36b91aeb5f4d9de014fb9fdb3cc8f7df.jpg",
+        "extraCover": "",
+        "brief": "多么伟大的旅程，您已是被选中的长耳兽，万众瞩目，冉冉升起的新星。\n▼//活动时间2026/04/01 12:00 - 2026/04/08 04:00（服务器时间）\n▼//参与条件活动中心解锁后\n▼/"
+      },
+      {
         "cid": "4783",
         "tab": "notices",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260228/71c65d332edabf107ec32320985ddfff.jpg",
         "extraCover": "",
         "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。自公测开启以来，我们收到了许多热情反馈与宝贵建议。大家的支持与期待，也一直是我们持续迭代的动力。通过本期研发通讯，我们将为管理员介绍即将在「新潮起，故渊"
-      },
-      {
-        "cid": "5993",
-        "tab": "news",
-        "sticky": false,
-        "title": "官方漫画《诺言》上线",
-        "author": "",
-        "displayTime": 1771914300,
-        "cover": "https://web.hycdn.cn/upload/image/20260224/6f10e3b39de2635450cfb361cb78027f.jpg",
-        "extraCover": "",
-        "brief": "明日方舟：终末地官方漫画《诺言》现已上线！以星承诺，以羽誓言。\n点击前往阅读\n\n"
       }
     ],
     "current": 3,
     "pageSize": 10,
-    "total": 70
+    "total": 71
   }
 }

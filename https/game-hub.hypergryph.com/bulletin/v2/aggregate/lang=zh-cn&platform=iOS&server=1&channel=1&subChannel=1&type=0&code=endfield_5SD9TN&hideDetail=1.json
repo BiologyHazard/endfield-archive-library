@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "6212c347731c8fcc930e596782c4ccae",
+    "version": "4e00f89980112e0e86d3afedbbec622e",
     "onlineList": [
       {
         "cid": "4617",
@@ -20,6 +20,18 @@
       {
         "cid": "8950",
         "version": 1780488107,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1374",
+        "version": 1780801858,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9866",
+        "version": 1780817915,
         "needRedDot": true,
         "needPopup": false
       },
@@ -109,7 +121,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1780798692,
+    "updatedAt": 1780898400,
     "list": [
       {
         "cid": "4617",
@@ -132,6 +144,28 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "寻遗散记\\n版本日历"
+      },
+      {
+        "cid": "1374",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1780898400,
+        "focus": 0,
+        "title": "森空岛寻遗散记\\n创作者激励活动"
+      },
+      {
+        "cid": "9866",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1780894800,
+        "focus": 0,
+        "title": "创作征集活动"
       },
       {
         "cid": "6434",
