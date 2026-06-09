@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "5525",
+    "type": 0,
+    "tab": "news",
+    "orderType": 0,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1780977600,
+    "title": "寻遗小栈系列\\n衍生品现已开售",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260605/5e7672108a43c62398135615b910d35a.jpg",
+      "link": "http://arknightsendfieldyx.tmall.com/index.htm",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1780633894
+  },
+  "msg": ""
+}

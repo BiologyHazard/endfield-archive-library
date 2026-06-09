@@ -9,11 +9,17 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "bb2d10912ea5cbc2f62ae8fa01090827",
+    "version": "e8f987137178323d69d0d2b02f920bff",
     "onlineList": [
       {
+        "cid": "5525",
+        "version": 1780633894,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "4617",
-        "version": 1780798692,
+        "version": 1780972172,
         "needRedDot": true,
         "needPopup": false
       },
@@ -85,8 +91,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1780798692,
+    "updatedAt": 1780977600,
     "list": [
+      {
+        "cid": "5525",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1780977600,
+        "focus": 0,
+        "title": "寻遗小栈系列\\n衍生品现已开售"
+      },
       {
         "cid": "4617",
         "type": 0,

@@ -9,11 +9,17 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "b5cc63feb2b7f709194c21f58efd956d",
+    "version": "d32ea3cba5d48512f6fcfa896f8556b9",
     "onlineList": [
       {
+        "cid": "5525",
+        "version": 1780633894,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "4617",
-        "version": 1780798692,
+        "version": 1780972172,
         "needRedDot": true,
         "needPopup": false
       },
@@ -97,8 +103,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1780894800,
+    "updatedAt": 1780977600,
     "list": [
+      {
+        "cid": "5525",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1780977600,
+        "focus": 0,
+        "title": "寻遗小栈系列\\n衍生品现已开售"
+      },
       {
         "cid": "4617",
         "type": 0,
