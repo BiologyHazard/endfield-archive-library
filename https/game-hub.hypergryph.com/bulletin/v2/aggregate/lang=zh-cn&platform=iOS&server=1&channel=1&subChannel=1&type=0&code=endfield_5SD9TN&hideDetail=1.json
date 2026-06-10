@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "a1b9c4837c17b2e366282869b312b735",
+    "version": "e0d9d1bf92ad1a4ebafa95ea1c3fbd1d",
     "onlineList": [
       {
         "cid": "5525",
@@ -102,9 +102,27 @@
         "needPopup": false
       },
       {
+        "cid": "6432",
+        "version": 1781102579,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
         "cid": "3042",
         "version": 1780314136,
         "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "8957",
+        "version": 1781103202,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "6431",
+        "version": 1781103202,
+        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -127,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1780977600,
+    "updatedAt": 1781103203,
     "list": [
       {
         "cid": "5525",
@@ -295,6 +313,17 @@
         "title": "以拳问心"
       },
       {
+        "cid": "6432",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 4,
+        "displayType": "rich_text",
+        "startAt": 1769036400,
+        "focus": 0,
+        "title": "玩家调研问卷"
+      },
+      {
         "cid": "3042",
         "type": 0,
         "tab": "events",
@@ -304,6 +333,28 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "寻剑幽谷"
+      },
+      {
+        "cid": "8957",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 5,
+        "displayType": "rich_text",
+        "startAt": 1769036400,
+        "focus": 0,
+        "title": "游戏初体验问卷"
+      },
+      {
+        "cid": "6431",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 6,
+        "displayType": "rich_text",
+        "startAt": 1769036400,
+        "focus": 0,
+        "title": "游戏历程\\n体验问卷"
       },
       {
         "cid": "8977",
