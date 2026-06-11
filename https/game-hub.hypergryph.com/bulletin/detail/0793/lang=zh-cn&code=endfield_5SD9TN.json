@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "0793",
+    "type": 0,
+    "tab": "events",
+    "orderType": 1,
+    "orderWeight": 3,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1781148600,
+    "title": "选剑演武",
+    "header": "「选剑演武」常驻玩法及挑战活动",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260604/a68078984ab822d327306288471cc989.jpg\" data-width=\"1650\" data-height=\"300\"><p>▼//<span style=\"color: rgb(31, 35, 41);\">「选剑演武」常驻玩法</span></p><p><span style=\"color: rgb(31, 35, 41);\">■ 开放时间</span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/06/12 12:00（服务器时间）后常驻开放</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">■ </span>参与条件</p><p>在支线任务「选剑演武」中，完成「启动演武平台」</p><p>※ 完成支线任务「藏剑于谷」后，可开启支线任务「选剑演武」</p><p></p><p><span style=\"color: rgb(31, 35, 41);\">■ 玩法说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">「选剑演武」包括「奖励演算模式」与「自由演算模式」两种战斗挑战。完成「奖励演算模式」，可获得【武陵调度券】。每日奖励演算次数有限，耗尽后，管理员仍可通过「自由演算模式」继续挑战。</span></p><p></p><p>▼//<span style=\"color: rgb(31, 35, 41);\">「演武集算」挑战活动</span></p><p><span style=\"color: rgb(31, 35, 41);\">■ </span>活动时间</p><p>2026/06/12 12:00 <span style=\"color: rgb(31, 35, 41);\">（服务器时间）</span>- 版本更新维护前</p><p></p><p><span style=\"color: rgb(31, 35, 41);\">■ </span>活动说明</p><p>活动开放期间，完成选剑演武游玩任务，累计可获得【嵌晶玉】【高阶培养自选箱Ⅰ】【存续的痕迹】【高级认知载体】等活动奖励。</p><p></p><p>※ 更多活动详细说明，请前往游戏内【活动中心】查看。</p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1780560934
+  },
+  "msg": ""
+}

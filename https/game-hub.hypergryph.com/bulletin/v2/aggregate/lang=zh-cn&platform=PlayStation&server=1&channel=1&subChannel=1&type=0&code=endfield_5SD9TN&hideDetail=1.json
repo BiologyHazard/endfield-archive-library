@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "9edf0f352f8d8c5c2fafc15730f4b1ac",
+    "version": "b73c7ca521a6138a719cdfdd07580883",
     "onlineList": [
       {
         "cid": "5525",
@@ -54,6 +54,12 @@
         "needPopup": false
       },
       {
+        "cid": "0793",
+        "version": 1780560934,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "9869",
         "version": 1780490541,
         "needRedDot": true,
@@ -62,6 +68,12 @@
       {
         "cid": "1376",
         "version": 1780562837,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "5527",
+        "version": 1780314177,
         "needRedDot": true,
         "needPopup": false
       },
@@ -115,7 +127,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1781103203,
+    "updatedAt": 1781148600,
     "list": [
       {
         "cid": "5525",
@@ -195,6 +207,17 @@
         "title": "拳出无悔\\n特许寻访"
       },
       {
+        "cid": "0793",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1781148600,
+        "focus": 0,
+        "title": "选剑演武"
+      },
+      {
         "cid": "9869",
         "type": 0,
         "tab": "updates",
@@ -215,6 +238,17 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "绛结申领"
+      },
+      {
+        "cid": "5527",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 4,
+        "displayType": "rich_text",
+        "startAt": 1781146800,
+        "focus": 0,
+        "title": "危机筹备"
       },
       {
         "cid": "4618",
