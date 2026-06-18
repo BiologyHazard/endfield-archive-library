@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "a84b6964b9c0bfa8769b669d3c29334d",
+    "version": "167a87bb8e48cdc6e5b17376e74c3873",
     "onlineList": [
       {
         "cid": "5525",
@@ -108,12 +108,6 @@
         "needPopup": false
       },
       {
-        "cid": "5527",
-        "version": 1780314177,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "4618",
         "version": 1780541350,
         "needRedDot": true,
@@ -163,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1781755200,
+    "updatedAt": 1781812800,
     "list": [
       {
         "cid": "5525",
@@ -340,17 +334,6 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "绛结申领"
-      },
-      {
-        "cid": "5527",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 4,
-        "displayType": "rich_text",
-        "startAt": 1781146800,
-        "focus": 0,
-        "title": "危机筹备"
       },
       {
         "cid": "4618",
