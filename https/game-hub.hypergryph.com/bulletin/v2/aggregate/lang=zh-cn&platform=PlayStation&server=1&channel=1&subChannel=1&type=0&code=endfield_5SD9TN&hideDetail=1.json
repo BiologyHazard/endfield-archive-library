@@ -9,14 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "461d0bc2ace0095b58e313b5913a9f69",
+    "version": "2fbe24a870c90da6b98e1c952b2791a9",
     "onlineList": [
-      {
-        "cid": "1373",
-        "version": 1781695368,
-        "needRedDot": false,
-        "needPopup": false
-      },
       {
         "cid": "5525",
         "version": 1780633894,
@@ -25,13 +19,19 @@
       },
       {
         "cid": "4617",
-        "version": 1781599228,
+        "version": 1781751491,
         "needRedDot": true,
         "needPopup": false
       },
       {
         "cid": "8950",
         "version": 1780488107,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0799",
+        "version": 1781260619,
         "needRedDot": true,
         "needPopup": false
       },
@@ -133,19 +133,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1781708400,
+    "updatedAt": 1781755200,
     "list": [
-      {
-        "cid": "1373",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1781708400,
-        "focus": 1,
-        "title": "闪断更新公告"
-      },
       {
         "cid": "5525",
         "type": 0,
@@ -178,6 +167,17 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "寻遗散记\\n版本日历"
+      },
+      {
+        "cid": "0799",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1781755200,
+        "focus": 0,
+        "title": "危机合约\\n重燃测试作战"
       },
       {
         "cid": "2102",
