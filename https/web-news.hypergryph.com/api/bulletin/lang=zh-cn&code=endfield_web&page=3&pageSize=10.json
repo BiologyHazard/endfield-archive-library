@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "5999",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「春雷动，万物生」特许寻访说明",
+        "author": "",
+        "displayTime": 1776312000,
+        "cover": "https://web.hycdn.cn/upload/image/20260414/83e25aafcbcfc165eca6df06d545ebf3.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：「春雷动，万物生」特许寻访开放期间，6星干员【庄方宜】获取概率提升！「春雷醒物」限时签到活动同步开放，累计签到可获得【春雷醒物寻访凭证】×5等奖励，还可在【集成配额交易】中进行【春雷醒物"
+      },
+      {
         "cid": "2666",
         "tab": "notices",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260310/5e0c72b5a4b17756e2cf30e609894b7d.jpg",
         "extraCover": "",
         "brief": "亲爱的管理员：「新芽申领」开放期间，6星武器【落草（手铳）】获取概率提升！\n▼//「新芽申领」· 开放时间：「新潮起，故渊离」版本更新后开启，于3次「特许寻访」后结束（从「河流的女儿」起计算）· 开放"
-      },
-      {
-        "cid": "5992",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「河流的女儿」特许寻访说明",
-        "author": "",
-        "displayTime": 1773203400,
-        "cover": "https://web.hycdn.cn/upload/image/20260310/a7d94b34f18e01cef151df8503eee4df.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「河流的女儿」特许寻访开放期间，6星干员【汤汤】获取概率提升！「清波静流」限时签到活动同步开放，累计签到可获得【清波静流寻访凭证】×5等奖励，还可在【集成配额交易】中进行【清波静流寻访凭"
       }
     ],
     "current": 3,
     "pageSize": 10,
-    "total": 73
+    "total": 74
   }
 }
