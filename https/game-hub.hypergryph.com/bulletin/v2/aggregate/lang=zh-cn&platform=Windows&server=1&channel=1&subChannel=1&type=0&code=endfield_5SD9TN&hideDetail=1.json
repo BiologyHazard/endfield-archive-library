@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "0b03d8817d98fa3192866d2328413b9f",
+    "version": "ccfc6f1bed88351843621b38009325fe",
     "onlineList": [
       {
         "cid": "5525",
@@ -26,6 +26,12 @@
       {
         "cid": "8950",
         "version": 1780488107,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "5521",
+        "version": 1782214382,
         "needRedDot": true,
         "needPopup": false
       },
@@ -157,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1781812800,
+    "updatedAt": 1782270000,
     "list": [
       {
         "cid": "5525",
@@ -191,6 +197,17 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "寻遗散记\\n版本日历"
+      },
+      {
+        "cid": "5521",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1782270000,
+        "focus": 0,
+        "title": "危机合约\\n森空岛挑战活动"
       },
       {
         "cid": "0799",
