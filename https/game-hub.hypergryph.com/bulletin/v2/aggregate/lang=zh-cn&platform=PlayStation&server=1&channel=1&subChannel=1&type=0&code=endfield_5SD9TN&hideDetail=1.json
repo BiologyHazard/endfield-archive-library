@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "bfcbc0af7c9f517070bd01625a87f43c",
+    "version": "05b7f6a6a614cd465250e149a057aa2e",
     "onlineList": [
       {
         "cid": "5525",
@@ -48,6 +48,18 @@
         "needPopup": false
       },
       {
+        "cid": "2108",
+        "version": 1782301517,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0790",
+        "version": 1781098829,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "2101",
         "version": 1780562840,
         "needRedDot": true,
@@ -56,6 +68,12 @@
       {
         "cid": "6435",
         "version": 1780455665,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9865",
+        "version": 1781179889,
         "needRedDot": true,
         "needPopup": false
       },
@@ -74,6 +92,12 @@
       {
         "cid": "1376",
         "version": 1780562837,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3048",
+        "version": 1781098848,
         "needRedDot": true,
         "needPopup": false
       },
@@ -127,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1781812800,
+    "updatedAt": 1782367200,
     "list": [
       {
         "cid": "5525",
@@ -196,6 +220,28 @@
         "title": "游戏工具指南"
       },
       {
+        "cid": "2108",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1782367200,
+        "focus": 0,
+        "title": "危机合约\\n内容更新"
+      },
+      {
+        "cid": "0790",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1782360000,
+        "focus": 0,
+        "title": "逐罪者\\n特许寻访"
+      },
+      {
         "cid": "2101",
         "type": 0,
         "tab": "updates",
@@ -216,6 +262,17 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "拳出无悔\\n特许寻访"
+      },
+      {
+        "cid": "9865",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1782360000,
+        "focus": 0,
+        "title": "染赤申领"
       },
       {
         "cid": "0793",
@@ -249,6 +306,17 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "绛结申领"
+      },
+      {
+        "cid": "3048",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 4,
+        "displayType": "rich_text",
+        "startAt": 1782363600,
+        "focus": 0,
+        "title": "亡者之舞"
       },
       {
         "cid": "4618",

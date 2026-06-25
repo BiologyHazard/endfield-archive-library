@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "3048",
+    "type": 0,
+    "tab": "events",
+    "orderType": 1,
+    "orderWeight": 4,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1782363600,
+    "title": "亡者之舞",
+    "header": "「亡者之舞」卡缪叙事活动说明",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260610/81d8791c5966a07c15d65d87df33cb5c.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(0, 0, 0);\">塞什卡发来信息，请求你协助看护人卡缪破获一起血液样本失踪的案件。萨卡兹们可不会随便劳烦你，或许，案件下掩藏着更深的秘密？</span></p><p></p><p><span style=\"color: rgb(0, 0, 0);\">▼//活动时间</span></p><p><span style=\"color: rgb(0, 0, 0);\">2026/06/26 12:00（服务器时间） - 版本更新维护前</span></p><p></p><p><span style=\"color: rgb(0, 0, 0);\">▼//参与条件</span></p><p><span style=\"color: rgb(0, 0, 0);\">完成主线任务「第一章 - 进程Ⅳ - 四方会议」</span></p><p></p><p><span style=\"color: rgb(0, 0, 0);\">▼//活动说明</span></p><p><span style=\"color: rgb(0, 0, 0);\">· 完成支线任务「亡者之舞」，可获得【嵌晶玉】【初级认知载体】【协议棱柱组】【武器检查套组】等奖励。</span></p><p><span style=\"color: rgb(0, 0, 0);\">· 活动页面下线后，若满足任务参与条件，仍可在【任务】中继续体验该支线任务并获得对应奖励。</span></p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1781098848
+  },
+  "msg": ""
+}
