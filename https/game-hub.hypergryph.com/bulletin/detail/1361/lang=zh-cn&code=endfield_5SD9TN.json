@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "1361",
+    "type": 0,
+    "tab": "updates",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1782458100,
+    "title": "部分iOS设备\\n问题修复说明",
+    "header": "部分iOS设备无法进入游戏的问题修复说明",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260626/4dc0a9f5e8682ed659f63cc34770cf52.png\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：</p><p>2026/06/26 部分iOS设备在启动游戏时出现频繁闪退或无法进入游戏的问题，该问题目前已修复。期间带来的不便我们深表歉意，并为管理员发放以下补偿：</p><p></p><p>▼//补偿内容</p><p>· 【嵌晶玉】×800</p><p>· 【应急理智加强剂】×5</p><p>· 【理智消耗许可】×10</p><p></p><p>▼//补偿说明</p><p>· 发放时间：2026/06/26 15:15（UTC+8） ～ 下个版本更新维护前</p><p>· 发放条件：2026/06/26 14:00（UTC+8）更新前所有注册并创建角色的管理员。</p><p>· 发放说明：开启【邮箱】功能后领取，邮件有效期为30天，请注意及时领取。</p><p><br>感谢管理员对《明日方舟：终末地》一直以来的关注与支持！</p><p></p><p>《明日方舟：终末地》项目组</p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1782457555
+  },
+  "msg": ""
+}

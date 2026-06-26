@@ -9,13 +9,13 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "1:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "f6b66dba39351115672486f0cdbe695f",
+    "version": "cec2c190e819a7a501456f167b533e11",
     "onlineList": [
       {
-        "cid": "6429",
-        "version": 1782390447,
+        "cid": "1362",
+        "version": 1782440114,
         "needRedDot": true,
-        "needPopup": true
+        "needPopup": false
       },
       {
         "cid": "1377",
@@ -49,22 +49,22 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1782399600,
+    "updatedAt": 1782440115,
     "list": [
       {
-        "cid": "6429",
+        "cid": "1362",
         "type": 1,
         "tab": "updates",
         "orderType": 0,
         "orderWeight": 1,
         "displayType": "rich_text",
-        "startAt": 1782399600,
+        "startAt": 1782439200,
         "focus": 1,
-        "title": "闪断更新公告",
-        "header": "06月26日闪断更新公告",
+        "title": "已知问题说明",
+        "header": "「寻遗散记」版本已知问题说明",
         "jumpButton": null,
         "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260211/f3be930b3bcf27d40519fc60752cb3d9.png\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(10, 1, 1);\">亲爱的管理员：<br>《明日方舟：终末地》将于2026/06/26 10:00 - 10:10（UTC+8）进行闪断更新，届时将强制掉线。更新期间给管理员带来不便，敬请谅解。<br><br><strong>▼//更新内容</strong></span><span style=\"color: rgb(2, 0, 0);\"><br></span>· 更新了「逐罪者」特许寻访、「染赤申领」武库申领、「亡者之舞」叙事活动等活动资源。</p><p>· 更新了挑战活动「危机合约 重燃测试作战」的相关资源。<span style=\"color: rgb(0, 0, 0);\"><br></span><br><strong>▼//更新补偿</strong><br>· 应急理智加强剂 × 1<br><br>· 发放时间：2026/06/26 闪断更新维护后 - 下个版本更新维护前<br>· 发放条件：2026/06/26 10:00（UTC+8）更新前所有注册并创建角色的管理员。<br>· 发放说明：开启【邮箱】功能后领取，邮件有效期为30天，请注意及时领取。<br></p><p>感谢管理员对《明日方舟：终末地》一直以来的关注与支持！</p>",
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260626/6f4ae6db85baee40c80ed1ef09ed8af0.png\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：</p><p>为了帮助各位管理员更顺利地体验游戏内容，现将已知问题进行汇总。在游戏过程中，如管理员遇到相同问题，请您参考对应的解决方式进行处理。</p><p><strong>▼//游戏已知问题</strong><br>已知PlayStation®5平台在下载更新资源过程中，即“正在获取终末地数据”时可能出现下载速度异常缓慢（1.00KB/s）的情况。该问题不会影响更新内容的正常安装，管理员可耐心等待更新完成。若长时间下载速度缓慢，可尝试退出游戏并重新启动，以重新加载更新流程。<br><br>如遇到其他问题，还请管理员通过游戏内客服等方式提供反馈。期间带来的不便我们深表歉意，再次感谢管理员对《明日方舟：终末地》一直以来的关注与支持！</p>",
           "linkType": 1
         }
       },

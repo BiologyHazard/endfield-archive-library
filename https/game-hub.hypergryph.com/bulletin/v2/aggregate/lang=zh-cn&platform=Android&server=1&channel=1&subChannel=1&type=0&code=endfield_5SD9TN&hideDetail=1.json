@@ -9,14 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "6dde0d336bd56f754e358d660f65fd12",
+    "version": "c799024d0abccf4e6e47fe7a90ebbfb9",
     "onlineList": [
-      {
-        "cid": "3038",
-        "version": 1782390511,
-        "needRedDot": false,
-        "needPopup": false
-      },
       {
         "cid": "5525",
         "version": 1780633894,
@@ -25,13 +19,25 @@
       },
       {
         "cid": "4617",
-        "version": 1781751491,
+        "version": 1782458949,
         "needRedDot": true,
         "needPopup": false
       },
       {
         "cid": "8950",
         "version": 1780488107,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1361",
+        "version": 1782457555,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "8945",
+        "version": 1782375133,
         "needRedDot": true,
         "needPopup": false
       },
@@ -56,12 +62,6 @@
       {
         "cid": "6434",
         "version": 1780633420,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "7283",
-        "version": 1780633606,
         "needRedDot": true,
         "needPopup": false
       },
@@ -102,12 +102,6 @@
         "needPopup": false
       },
       {
-        "cid": "6435",
-        "version": 1780455665,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "9865",
         "version": 1781179889,
         "needRedDot": true,
@@ -122,12 +116,6 @@
       {
         "cid": "9869",
         "version": 1780490541,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "1376",
-        "version": 1780562837,
         "needRedDot": true,
         "needPopup": false
       },
@@ -147,12 +135,6 @@
         "cid": "6432",
         "version": 1781102579,
         "needRedDot": false,
-        "needPopup": false
-      },
-      {
-        "cid": "3042",
-        "version": 1780314136,
-        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -187,19 +169,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1782399600,
+    "updatedAt": 1782458950,
     "list": [
-      {
-        "cid": "3038",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1782399600,
-        "focus": 1,
-        "title": "闪断更新公告"
-      },
       {
         "cid": "5525",
         "type": 0,
@@ -232,6 +203,28 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "寻遗散记\\n版本日历"
+      },
+      {
+        "cid": "1361",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1782458100,
+        "focus": 0,
+        "title": "部分iOS设备\\n问题修复说明"
+      },
+      {
+        "cid": "8945",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1782457200,
+        "focus": 0,
+        "title": "小红书特别征集\\n做任务领嵌晶玉"
       },
       {
         "cid": "0799",
@@ -276,17 +269,6 @@
         "startAt": 1780646400,
         "focus": 0,
         "title": "完成每日签到\\n领取丰厚奖励"
-      },
-      {
-        "cid": "7283",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1780646400,
-        "focus": 0,
-        "title": "寻遗散记\\n森空岛限时任务"
       },
       {
         "cid": "2102",
@@ -355,17 +337,6 @@
         "title": "协议通行证\\n苍山"
       },
       {
-        "cid": "6435",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1780614000,
-        "focus": 0,
-        "title": "拳出无悔\\n特许寻访"
-      },
-      {
         "cid": "9865",
         "type": 0,
         "tab": "events",
@@ -399,17 +370,6 @@
         "title": "寻遗散记\\n组合包"
       },
       {
-        "cid": "1376",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1780614000,
-        "focus": 0,
-        "title": "绛结申领"
-      },
-      {
         "cid": "3048",
         "type": 0,
         "tab": "events",
@@ -441,17 +401,6 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "玩家调研问卷"
-      },
-      {
-        "cid": "3042",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 5,
-        "displayType": "rich_text",
-        "startAt": 1780614000,
-        "focus": 0,
-        "title": "寻剑幽谷"
       },
       {
         "cid": "8957",
