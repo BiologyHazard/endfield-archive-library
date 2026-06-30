@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "2c5806c9b0c0a81ae6187ffa14e690a7",
+    "version": "bbbd50e67ba36046f4cafd2ada7a14cc",
     "onlineList": [
       {
         "cid": "5525",
@@ -74,6 +74,12 @@
       {
         "cid": "2101",
         "version": 1780562840,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "8956",
+        "version": 1781149656,
         "needRedDot": true,
         "needPopup": false
       },
@@ -145,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1782458950,
+    "updatedAt": 1782788400,
     "list": [
       {
         "cid": "5525",
@@ -267,6 +273,17 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "协议通行证\\n苍山"
+      },
+      {
+        "cid": "8956",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1782788400,
+        "focus": 0,
+        "title": "卡莉的武陵童话"
       },
       {
         "cid": "9865",
