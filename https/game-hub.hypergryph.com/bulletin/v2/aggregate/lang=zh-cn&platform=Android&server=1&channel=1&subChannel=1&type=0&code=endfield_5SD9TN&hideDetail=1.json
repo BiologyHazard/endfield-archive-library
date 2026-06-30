@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "dd3a393dfd4f6c179dd5338f650ea671",
+    "version": "ca8f67676276fae6fddc38ace1d0ad4f",
     "onlineList": [
       {
         "cid": "5525",
@@ -62,12 +62,6 @@
       {
         "cid": "9866",
         "version": 1780817915,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "6434",
-        "version": 1780633420,
         "needRedDot": true,
         "needPopup": false
       },
@@ -181,7 +175,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1782788400,
+    "updatedAt": 1782835140,
     "list": [
       {
         "cid": "5525",
@@ -281,17 +275,6 @@
         "startAt": 1780894800,
         "focus": 0,
         "title": "创作征集活动"
-      },
-      {
-        "cid": "6434",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1780646400,
-        "focus": 0,
-        "title": "完成每日签到\\n领取丰厚奖励"
       },
       {
         "cid": "2102",
