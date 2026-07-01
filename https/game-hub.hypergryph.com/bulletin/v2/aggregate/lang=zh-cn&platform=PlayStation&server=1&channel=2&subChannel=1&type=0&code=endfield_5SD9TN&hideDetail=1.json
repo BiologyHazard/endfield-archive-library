@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "fee9777e7929b4cfbddc3b0f9eb8a162",
+    "version": "136286a432ff4cedce30cb7e0dba0bc3",
     "onlineList": [
       {
         "cid": "5525",
@@ -19,7 +19,7 @@
       },
       {
         "cid": "4617",
-        "version": 1782458949,
+        "version": 1782874673,
         "needRedDot": true,
         "needPopup": false
       },
@@ -62,6 +62,12 @@
       {
         "cid": "2101",
         "version": 1780562840,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "2109",
+        "version": 1781097823,
         "needRedDot": true,
         "needPopup": false
       },
@@ -139,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1782788400,
+    "updatedAt": 1782878400,
     "list": [
       {
         "cid": "5525",
@@ -239,6 +245,17 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "协议通行证\\n苍山"
+      },
+      {
+        "cid": "2109",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1782878400,
+        "focus": 0,
+        "title": "影拓丰碑\\n系列更新"
       },
       {
         "cid": "8956",

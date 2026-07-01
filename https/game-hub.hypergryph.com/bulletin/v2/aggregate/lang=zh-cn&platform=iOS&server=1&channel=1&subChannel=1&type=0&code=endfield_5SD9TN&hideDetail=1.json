@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "ca8f67676276fae6fddc38ace1d0ad4f",
+    "version": "773e6ad24864995c5c9e845b283293ea",
     "onlineList": [
       {
         "cid": "5525",
@@ -19,7 +19,7 @@
       },
       {
         "cid": "4617",
-        "version": 1782458949,
+        "version": 1782874673,
         "needRedDot": true,
         "needPopup": false
       },
@@ -102,6 +102,12 @@
         "needPopup": false
       },
       {
+        "cid": "2109",
+        "version": 1781097823,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "8956",
         "version": 1781149656,
         "needRedDot": true,
@@ -175,7 +181,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1782835140,
+    "updatedAt": 1782878400,
     "list": [
       {
         "cid": "5525",
@@ -341,6 +347,17 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "协议通行证\\n苍山"
+      },
+      {
+        "cid": "2109",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1782878400,
+        "focus": 0,
+        "title": "影拓丰碑\\n系列更新"
       },
       {
         "cid": "8956",
