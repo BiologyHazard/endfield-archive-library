@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "3815",
+        "tab": "events",
+        "sticky": false,
+        "title": "「共贺庆典」 - 「此时欢宴」庆祝活动公告",
+        "author": "",
+        "displayTime": 1777536000,
+        "cover": "https://web.hycdn.cn/upload/image/20260429/ad28afc2474f8ff0c291487ddadcccb2.jpg",
+        "extraCover": "",
+        "brief": "垒起甜蜜，堆高心意，共赴这场庆典。\n▼//活动时间2026/05/01 12:00（服务器时间） - 2026/06/05 06:00（UTC+8）\n▼//活动奖励活动开放期间，达成指定活动积分要求后"
+      },
+      {
         "cid": "9341",
         "tab": "notices",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260325/36b91aeb5f4d9de014fb9fdb3cc8f7df.jpg",
         "extraCover": "",
         "brief": "多么伟大的旅程，您已是被选中的长耳兽，万众瞩目，冉冉升起的新星。\n▼//活动时间2026/04/01 12:00 - 2026/04/08 04:00（服务器时间）\n▼//参与条件活动中心解锁后\n▼/"
-      },
-      {
-        "cid": "4783",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「绯珀申领」限时特卖说明",
-        "author": "",
-        "displayTime": 1774672200,
-        "cover": "https://web.hycdn.cn/upload/image/20260325/82348049bb6d26a24a89a6f97f3d94de.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「绯珀申领」开放期间，6星武器【狼之绯（单手剑）】获取概率提升！\n▼//「绯珀申领」· 开放时间：2026/03/29 12:00（服务器时间）开启，于3次「特许寻访」后结束（从「狼珀」"
       }
     ],
     "current": 3,
     "pageSize": 10,
-    "total": 79
+    "total": 80
   }
 }

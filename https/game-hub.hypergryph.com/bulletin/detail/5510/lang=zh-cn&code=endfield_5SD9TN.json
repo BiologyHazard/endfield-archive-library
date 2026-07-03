@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "5510",
+    "type": 0,
+    "tab": "news",
+    "orderType": 0,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1783054800,
+    "title": "2026鹰角嘉年华\\n情报公开",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260702/4a299a956964c985384f982f76f50df5.png",
+      "link": "https://b23.tv/NsB0lkp",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1782996074
+  },
+  "msg": ""
+}
