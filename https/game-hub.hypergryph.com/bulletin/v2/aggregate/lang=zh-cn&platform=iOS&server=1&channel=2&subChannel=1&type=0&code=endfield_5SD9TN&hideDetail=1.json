@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "4dd1275a07ad1e0700dec3085160bd9a",
+    "version": "9079e42c15c72e9cd72b8c463a1e95c0",
     "onlineList": [
       {
         "cid": "4617",
@@ -20,12 +20,6 @@
       {
         "cid": "8950",
         "version": 1780488107,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "6428",
-        "version": 1783072938,
         "needRedDot": true,
         "needPopup": false
       },
@@ -163,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1783335600,
+    "updatedAt": 1783353600,
     "list": [
       {
         "cid": "4617",
@@ -186,17 +180,6 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "寻遗散记\\n版本日历"
-      },
-      {
-        "cid": "6428",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1783335600,
-        "focus": 0,
-        "title": "2026鹰角嘉年华\\n预售已开启"
       },
       {
         "cid": "7280",
