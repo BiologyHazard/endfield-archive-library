@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "6606bbac3c9736416833b45d85ab7d8e",
+    "version": "f60ae5f6f85c1c70e0c995aac9ede31a",
     "onlineList": [
       {
         "cid": "4617",
@@ -24,8 +24,8 @@
         "needPopup": false
       },
       {
-        "cid": "7279",
-        "version": 1783072936,
+        "cid": "6428",
+        "version": 1783072938,
         "needRedDot": true,
         "needPopup": false
       },
@@ -151,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1783314000,
+    "updatedAt": 1783335600,
     "list": [
       {
         "cid": "4617",
@@ -188,19 +188,19 @@
         }
       },
       {
-        "cid": "7279",
+        "cid": "6428",
         "type": 0,
         "tab": "news",
         "orderType": 1,
         "orderWeight": 1,
         "displayType": "picture",
-        "startAt": 1783314000,
+        "startAt": 1783335600,
         "focus": 0,
-        "title": "2026鹰角嘉年华\\n预售即将开启",
+        "title": "2026鹰角嘉年华\\n预售已开启",
         "header": "",
         "jumpButton": null,
         "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260703/127c6ac75c766b82a45dd24aabd8298c.png",
+          "url": "https://web.hycdn.cn/upload/image/20260703/6374ca6649fb55d438e127f9a7e54a71.png",
           "link": "https://act.hypergryph.com/special/festival-2026/",
           "linkType": 1
         }

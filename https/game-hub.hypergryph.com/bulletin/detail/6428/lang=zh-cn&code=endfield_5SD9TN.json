@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "6428",
+    "type": 0,
+    "tab": "news",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1783335600,
+    "title": "2026鹰角嘉年华\\n预售已开启",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260703/6374ca6649fb55d438e127f9a7e54a71.png",
+      "link": "https://act.hypergryph.com/special/festival-2026/",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1783072938
+  },
+  "msg": ""
+}
