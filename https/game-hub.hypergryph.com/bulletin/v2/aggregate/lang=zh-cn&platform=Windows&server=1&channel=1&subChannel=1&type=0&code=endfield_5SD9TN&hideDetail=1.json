@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "1190dcd4affcdb2e096ec1f2cff69eab",
+    "version": "61318d04b53e22c21322e157fb7ee705",
     "onlineList": [
       {
         "cid": "4617",
@@ -102,6 +102,12 @@
         "needPopup": false
       },
       {
+        "cid": "5523",
+        "version": 1782373670,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "2109",
         "version": 1781097823,
         "needRedDot": true,
@@ -181,7 +187,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1783410272,
+    "updatedAt": 1783481400,
     "list": [
       {
         "cid": "4617",
@@ -347,6 +353,17 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "协议通行证\\n苍山"
+      },
+      {
+        "cid": "5523",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1783481400,
+        "focus": 0,
+        "title": "理智补给"
       },
       {
         "cid": "2109",

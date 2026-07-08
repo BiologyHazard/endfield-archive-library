@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "b21c2a3fc9fdf3fe55ddcc50dead9485",
+    "version": "d9c6305e7f27ff6bb2d1ba2b492873e8",
     "onlineList": [
       {
         "cid": "4617",
@@ -62,6 +62,12 @@
       {
         "cid": "2101",
         "version": 1780562840,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "5523",
+        "version": 1782373670,
         "needRedDot": true,
         "needPopup": false
       },
@@ -145,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1783410272,
+    "updatedAt": 1783481400,
     "list": [
       {
         "cid": "4617",
@@ -245,6 +251,17 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "协议通行证\\n苍山"
+      },
+      {
+        "cid": "5523",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1783481400,
+        "focus": 0,
+        "title": "理智补给"
       },
       {
         "cid": "2109",
