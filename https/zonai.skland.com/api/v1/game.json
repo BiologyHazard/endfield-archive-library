@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1783552529",
+  "timestamp": "1783583225",
   "data": {
     "list": [
       {
@@ -1773,7 +1773,7 @@
           {
             "id": 56,
             "gameId": 4,
-            "name": "限时折扣",
+            "name": "购买游戏",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2025/06/01/8be6bb093ede5052711290ee5acbff52.png",

@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "f38d708ed51f50594a2675fd7d503ca1",
+    "version": "badab9abed94bf6c91f677280ea3e6c2",
     "onlineList": [
       {
         "cid": "4617",
@@ -102,6 +102,12 @@
         "needPopup": false
       },
       {
+        "cid": "4614",
+        "version": 1781179910,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "5523",
         "version": 1782373670,
         "needRedDot": true,
@@ -187,7 +193,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1783481400,
+    "updatedAt": 1783567800,
     "list": [
       {
         "cid": "4617",
@@ -353,6 +359,17 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "协议通行证\\n苍山"
+      },
+      {
+        "cid": "4614",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1783567800,
+        "focus": 0,
+        "title": "提速任务开启"
       },
       {
         "cid": "5523",
