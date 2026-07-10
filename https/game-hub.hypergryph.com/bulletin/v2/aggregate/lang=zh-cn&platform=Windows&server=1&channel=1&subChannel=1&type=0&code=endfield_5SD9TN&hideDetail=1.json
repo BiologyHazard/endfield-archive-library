@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "e6b4c555589f721990d2cb96c84ed23c",
+    "version": "2e3a18c829f0c0f46c96bbfd1c4c7a9e",
     "onlineList": [
       {
         "cid": "4617",
@@ -20,12 +20,6 @@
       {
         "cid": "8950",
         "version": 1780488107,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "7280",
-        "version": 1781179932,
         "needRedDot": true,
         "needPopup": false
       },
@@ -193,7 +187,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1783682100,
+    "updatedAt": 1783699200,
     "list": [
       {
         "cid": "4617",
@@ -216,17 +210,6 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "寻遗散记\\n版本日历"
-      },
-      {
-        "cid": "7280",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1783047600,
-        "focus": 0,
-        "title": "版本调研问卷"
       },
       {
         "cid": "3046",
