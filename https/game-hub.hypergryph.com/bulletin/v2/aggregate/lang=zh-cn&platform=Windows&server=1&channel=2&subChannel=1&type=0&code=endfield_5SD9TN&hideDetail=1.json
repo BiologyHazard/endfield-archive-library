@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "49b371927b47994ca65a93d9b88e5e11",
+    "version": "95d527e9e0d38c73efeefb9fcf9a80a4",
     "onlineList": [
       {
         "cid": "4617",
@@ -68,6 +68,12 @@
       {
         "cid": "2101",
         "version": 1780562840,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "2196",
+        "version": 1783752445,
         "needRedDot": true,
         "needPopup": false
       },
@@ -163,7 +169,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1783699200,
+    "updatedAt": 1783752446,
     "list": [
       {
         "cid": "4617",
@@ -274,6 +280,17 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "协议通行证\\n苍山"
+      },
+      {
+        "cid": "2196",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1783682100,
+        "focus": 0,
+        "title": "北行险境"
       },
       {
         "cid": "4614",
