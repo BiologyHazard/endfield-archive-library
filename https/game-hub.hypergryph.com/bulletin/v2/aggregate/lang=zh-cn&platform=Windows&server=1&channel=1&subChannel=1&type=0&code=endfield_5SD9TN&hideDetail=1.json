@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "995b1c9c6e7116b29ca9f9ff0bede50f",
+    "version": "61dda0045b15e8938c9b98559e8b87a8",
     "onlineList": [
       {
         "cid": "4617",
@@ -20,6 +20,12 @@
       {
         "cid": "8950",
         "version": 1780488107,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7278",
+        "version": 1783920228,
         "needRedDot": true,
         "needPopup": false
       },
@@ -193,7 +199,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1783752446,
+    "updatedAt": 1783940400,
     "list": [
       {
         "cid": "4617",
@@ -216,6 +222,17 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "寻遗散记\\n版本日历"
+      },
+      {
+        "cid": "7278",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1783940400,
+        "focus": 0,
+        "title": "诀的特别勤务\\n参与赢嵌晶玉"
       },
       {
         "cid": "3046",

@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "7278",
+    "type": 0,
+    "tab": "news",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1783940400,
+    "title": "诀的特别勤务\\n参与赢嵌晶玉",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260713/0b17fd7ce5e4365f0e694f5f6004e440.jpg",
+      "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fact.skland.com%252Fmini-game%252Fspecial-mission%253Fctr_orientation%253Dlandscape%2526header%253D0%2526c_c%253DGAME&u8_token={u8_token}&server={server}",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1783920228
+  },
+  "msg": ""
+}

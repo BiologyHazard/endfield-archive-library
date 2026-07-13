@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1783927732",
+  "timestamp": "1783946116",
   "data": {
     "rarities": [
       {
@@ -229,6 +229,10 @@
       {
         "key": "equip_level_20",
         "value": "20"
+      },
+      {
+        "key": "equip_level_60",
+        "value": "60"
       }
     ],
     "activeEffectTypes": [
