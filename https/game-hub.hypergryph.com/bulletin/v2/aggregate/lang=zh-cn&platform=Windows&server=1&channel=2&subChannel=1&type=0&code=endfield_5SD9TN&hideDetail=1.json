@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "95d527e9e0d38c73efeefb9fcf9a80a4",
+    "version": "e4a37b7c216ef283d712304eee237e6c",
     "onlineList": [
       {
         "cid": "4617",
@@ -20,6 +20,12 @@
       {
         "cid": "8950",
         "version": 1780488107,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "8942",
+        "version": 1783997074,
         "needRedDot": true,
         "needPopup": false
       },
@@ -169,7 +175,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1783752446,
+    "updatedAt": 1784001600,
     "list": [
       {
         "cid": "4617",
@@ -192,6 +198,17 @@
         "startAt": 1780614000,
         "focus": 0,
         "title": "寻遗散记\\n版本日历"
+      },
+      {
+        "cid": "8942",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1784001600,
+        "focus": 0,
+        "title": "预下载与\\n更新预告"
       },
       {
         "cid": "1361",

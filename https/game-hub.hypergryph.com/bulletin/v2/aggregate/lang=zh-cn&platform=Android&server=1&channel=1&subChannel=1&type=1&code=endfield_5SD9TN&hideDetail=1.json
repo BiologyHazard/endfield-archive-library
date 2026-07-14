@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "1:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "7454fa66964cf70a21307b9a2ae1bde6",
+    "version": "e27e8c5ccc6b72b04b57ac0a4bc4c3c9",
     "onlineList": [
+      {
+        "cid": "6427",
+        "version": 1783997069,
+        "needRedDot": true,
+        "needPopup": true
+      },
       {
         "cid": "1377",
         "version": 1780562471,
@@ -43,8 +49,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1782439800,
+    "updatedAt": 1784001600,
     "list": [
+      {
+        "cid": "6427",
+        "type": 1,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1784001600,
+        "focus": 0,
+        "title": "预下载与\\n更新预告"
+      },
       {
         "cid": "1377",
         "type": 1,
