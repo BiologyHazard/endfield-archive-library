@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1784096478",
+  "timestamp": "1784115618",
   "data": {
     "rarities": [
       {
@@ -312,12 +312,20 @@
         "value": "主能力"
       },
       {
+        "key": "equip_main",
+        "value": "主能力"
+      },
+      {
         "key": "equip_attr_cryst_and_pulse_damage_increase",
         "value": "寒冷和电磁伤害加成"
       },
       {
         "key": "equip_all_skill_damage_increase",
         "value": "所有技能伤害加成"
+      },
+      {
+        "key": "equip_sub",
+        "value": "副能力"
       },
       {
         "key": "equip_sub",
