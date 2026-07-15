@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "98861782dd823d943ff8240928f5099f",
+    "version": "51cbb236f960689c40ee6e1e06fda32c",
     "onlineList": [
       {
         "cid": "2195",
@@ -44,12 +44,6 @@
       {
         "cid": "0799",
         "version": 1781260619,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "4615",
-        "version": 1780817945,
         "needRedDot": true,
         "needPopup": false
       },
@@ -181,7 +175,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1784088000,
+    "updatedAt": 1784131140,
     "list": [
       {
         "cid": "2195",
@@ -248,17 +242,6 @@
         "startAt": 1781755200,
         "focus": 0,
         "title": "危机合约\\n重燃测试作战"
-      },
-      {
-        "cid": "4615",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1780894800,
-        "focus": 0,
-        "title": "创作征集活动"
       },
       {
         "cid": "2102",

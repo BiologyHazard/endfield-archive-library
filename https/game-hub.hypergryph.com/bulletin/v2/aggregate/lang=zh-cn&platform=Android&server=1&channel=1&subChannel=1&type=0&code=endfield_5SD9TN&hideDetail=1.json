@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "bc634cbcf8af865876442a125bb94164",
+    "version": "b178c47860e6116c8a5c9a8dd50b7d62",
     "onlineList": [
       {
         "cid": "2195",
@@ -62,18 +62,6 @@
       {
         "cid": "0799",
         "version": 1781260619,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "1374",
-        "version": 1780801858,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "9866",
-        "version": 1780817915,
         "needRedDot": true,
         "needPopup": false
       },
@@ -211,7 +199,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1784088000,
+    "updatedAt": 1784131140,
     "list": [
       {
         "cid": "2195",
@@ -311,28 +299,6 @@
         "startAt": 1781755200,
         "focus": 0,
         "title": "危机合约\\n重燃测试作战"
-      },
-      {
-        "cid": "1374",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1780898400,
-        "focus": 0,
-        "title": "森空岛寻遗散记\\n创作者激励活动"
-      },
-      {
-        "cid": "9866",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1780894800,
-        "focus": 0,
-        "title": "创作征集活动"
       },
       {
         "cid": "2102",
