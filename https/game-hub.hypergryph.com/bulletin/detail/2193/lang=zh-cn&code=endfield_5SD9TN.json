@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "2193",
+    "type": 0,
+    "tab": "updates",
+    "orderType": 1,
+    "orderWeight": 2,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1784156400,
+    "title": "塔晶集换",
+    "header": "「塔晶」系统开放",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260714/4bb621cbcc2c2e3355f3a4cb78c85c6e.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">▼//塔晶说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">塔晶是偶尔会在塔卫二各处发现的特殊能量晶体，具有极高的科研价值，靠近并交互即可收集。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//塔晶集换</span></p><p><span style=\"color: rgb(31, 35, 41);\">【协议同步器】已开放「塔晶集换」，在塔晶集换中使用收集的塔晶，可兑换「装备制造模板」「装饰物品」「拍照动作」「唱片」。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//特殊说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 「向渊行」版本开启后，塔晶会出现在「应龙关」「北部禁区」，后续将在更多区域出现。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 使用一个塔晶探针可探测出当前区域内的一个未发现的塔晶。被探测后，塔晶将在地图上常驻显示。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 解锁「武陵 - 应龙关」物资调度终端后，可使用「武陵调度券」购买「武陵塔晶探针」。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 塔晶集换中的可兑换物品，将随版本更新陆续上线。</span></p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1784095727
+  },
+  "msg": ""
+}

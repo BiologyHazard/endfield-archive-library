@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "51cbb236f960689c40ee6e1e06fda32c",
+    "version": "46b25840e3264eaf7599f468118f55aa",
     "onlineList": [
+      {
+        "cid": "6426",
+        "version": 1784031936,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "2195",
         "version": 1782811776,
@@ -18,14 +24,20 @@
         "needPopup": false
       },
       {
-        "cid": "4617",
-        "version": 1783410271,
+        "cid": "5518",
+        "version": 1784031817,
         "needRedDot": true,
         "needPopup": false
       },
       {
-        "cid": "8950",
-        "version": 1780488107,
+        "cid": "1369",
+        "version": 1784096826,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9850",
+        "version": 1784031895,
         "needRedDot": true,
         "needPopup": false
       },
@@ -36,104 +48,44 @@
         "needPopup": false
       },
       {
-        "cid": "1361",
-        "version": 1782457555,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "0799",
-        "version": 1781260619,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "2102",
-        "version": 1780562477,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "1392",
         "version": 1768982321,
         "needRedDot": true,
         "needPopup": false
       },
       {
-        "cid": "2108",
-        "version": 1782301517,
+        "cid": "2193",
+        "version": 1784095727,
         "needRedDot": true,
         "needPopup": false
       },
       {
-        "cid": "0790",
-        "version": 1781098829,
+        "cid": "4602",
+        "version": 1784095732,
         "needRedDot": true,
         "needPopup": false
       },
       {
-        "cid": "2101",
-        "version": 1780562840,
+        "cid": "6425",
+        "version": 1784095846,
         "needRedDot": true,
         "needPopup": false
       },
       {
-        "cid": "2196",
-        "version": 1783752445,
+        "cid": "0785",
+        "version": 1783917310,
         "needRedDot": true,
         "needPopup": false
       },
       {
-        "cid": "4614",
-        "version": 1781179910,
+        "cid": "8941",
+        "version": 1784096154,
         "needRedDot": true,
         "needPopup": false
       },
       {
-        "cid": "5523",
-        "version": 1782373670,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "2109",
-        "version": 1781097823,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "8956",
-        "version": 1781149656,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "9865",
-        "version": 1781179889,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "0793",
-        "version": 1780560934,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "9869",
-        "version": 1780490541,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "3048",
-        "version": 1781098848,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "4618",
-        "version": 1780541350,
+        "cid": "9859",
+        "version": 1784097125,
         "needRedDot": true,
         "needPopup": false
       },
@@ -144,9 +96,21 @@
         "needPopup": false
       },
       {
+        "cid": "0784",
+        "version": 1784096650,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "8957",
         "version": 1781103202,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "3035",
+        "version": 1784096490,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -175,8 +139,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1784131140,
+    "updatedAt": 1784156400,
     "list": [
+      {
+        "cid": "6426",
+        "type": 0,
+        "tab": "events",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1784156400,
+        "focus": 0,
+        "title": "向渊行\\n版本日历"
+      },
       {
         "cid": "2195",
         "type": 0,
@@ -189,26 +164,37 @@
         "title": "漫画《溯始先声\\n ：孤芳》上线"
       },
       {
-        "cid": "4617",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1780711200,
-        "focus": 1,
-        "title": "更新修复说明"
-      },
-      {
-        "cid": "8950",
+        "cid": "5518",
         "type": 0,
         "tab": "events",
-        "orderType": 0,
+        "orderType": 1,
         "orderWeight": 1,
         "displayType": "rich_text",
-        "startAt": 1780614000,
+        "startAt": 1784156400,
         "focus": 0,
-        "title": "寻遗散记\\n版本日历"
+        "title": "相伴赠礼"
+      },
+      {
+        "cid": "1369",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1784156400,
+        "focus": 0,
+        "title": "战争回响"
+      },
+      {
+        "cid": "9850",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1784156400,
+        "focus": 0,
+        "title": "宏运连连乐"
       },
       {
         "cid": "8942",
@@ -222,39 +208,6 @@
         "title": "预下载与\\n更新预告"
       },
       {
-        "cid": "1361",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1782458100,
-        "focus": 0,
-        "title": "部分iOS设备\\n问题修复说明"
-      },
-      {
-        "cid": "0799",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1781755200,
-        "focus": 0,
-        "title": "危机合约\\n重燃测试作战"
-      },
-      {
-        "cid": "2102",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1780621200,
-        "focus": 0,
-        "title": "版本更新说明"
-      },
-      {
         "cid": "1392",
         "type": 0,
         "tab": "news",
@@ -266,147 +219,70 @@
         "title": "关注社媒领奖励"
       },
       {
-        "cid": "2108",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1782367200,
-        "focus": 0,
-        "title": "危机合约\\n内容更新"
-      },
-      {
-        "cid": "0790",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1782360000,
-        "focus": 0,
-        "title": "逐罪者\\n特许寻访"
-      },
-      {
-        "cid": "2101",
+        "cid": "2193",
         "type": 0,
         "tab": "updates",
         "orderType": 1,
         "orderWeight": 2,
         "displayType": "rich_text",
-        "startAt": 1780614000,
+        "startAt": 1784156400,
         "focus": 0,
-        "title": "协议通行证\\n苍山"
+        "title": "塔晶集换"
       },
       {
-        "cid": "2196",
+        "cid": "4602",
         "type": 0,
         "tab": "events",
         "orderType": 1,
-        "orderWeight": 3,
+        "orderWeight": 2,
         "displayType": "rich_text",
-        "startAt": 1783682100,
+        "startAt": 1784156400,
         "focus": 0,
-        "title": "北行险境"
+        "title": "临渊望北\\n特许寻访"
       },
       {
-        "cid": "4614",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1783567800,
-        "focus": 0,
-        "title": "提速任务开启"
-      },
-      {
-        "cid": "5523",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1783481400,
-        "focus": 0,
-        "title": "理智补给"
-      },
-      {
-        "cid": "2109",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1782878400,
-        "focus": 0,
-        "title": "影拓丰碑\\n系列更新"
-      },
-      {
-        "cid": "8956",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1782788400,
-        "focus": 0,
-        "title": "卡莉的武陵童话"
-      },
-      {
-        "cid": "9865",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1782360000,
-        "focus": 0,
-        "title": "染赤申领"
-      },
-      {
-        "cid": "0793",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1781148600,
-        "focus": 0,
-        "title": "选剑演武"
-      },
-      {
-        "cid": "9869",
+        "cid": "6425",
         "type": 0,
         "tab": "updates",
         "orderType": 1,
         "orderWeight": 3,
         "displayType": "rich_text",
-        "startAt": 1780614000,
+        "startAt": 1784156400,
         "focus": 0,
-        "title": "寻遗散记\\n组合包"
+        "title": "向渊行\\n组合包"
       },
       {
-        "cid": "3048",
+        "cid": "0785",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1784156400,
+        "focus": 0,
+        "title": "军列申领"
+      },
+      {
+        "cid": "8941",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 4,
+        "displayType": "rich_text",
+        "startAt": 1784156400,
+        "focus": 0,
+        "title": "协议通行证\\n蚀海"
+      },
+      {
+        "cid": "9859",
         "type": 0,
         "tab": "events",
         "orderType": 1,
         "orderWeight": 4,
         "displayType": "rich_text",
-        "startAt": 1782363600,
+        "startAt": 1784156400,
         "focus": 0,
-        "title": "亡者之舞"
-      },
-      {
-        "cid": "4618",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 4,
-        "displayType": "rich_text",
-        "startAt": 1780614000,
-        "focus": 0,
-        "title": "以拳问心"
+        "title": "北观禁土"
       },
       {
         "cid": "6432",
@@ -420,6 +296,17 @@
         "title": "玩家调研问卷"
       },
       {
+        "cid": "0784",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 5,
+        "displayType": "rich_text",
+        "startAt": 1784156400,
+        "focus": 0,
+        "title": "协议邀约\\n重归"
+      },
+      {
         "cid": "8957",
         "type": 0,
         "tab": "updates",
@@ -429,6 +316,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏初体验问卷"
+      },
+      {
+        "cid": "3035",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 6,
+        "displayType": "rich_text",
+        "startAt": 1784156400,
+        "focus": 0,
+        "title": "协议重连"
       },
       {
         "cid": "6431",
