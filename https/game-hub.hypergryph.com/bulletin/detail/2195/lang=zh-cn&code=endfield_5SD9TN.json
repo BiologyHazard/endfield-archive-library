@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "2195",
+    "type": 0,
+    "tab": "news",
+    "orderType": 0,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1784088000,
+    "title": "漫画《溯始先声\\n ：孤芳》上线",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260630/fd3ba7bbbaaa17f15238d6dbf89802a9.jpg",
+      "link": "https://comic.hypergryph.com/talos-ii-historicus/comic/1429",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1782811776
+  },
+  "msg": ""
+}

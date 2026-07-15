@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "2e88984c85dd99130d95165a15a05927",
+    "version": "2dfe7be4841536e4b2ae0931d11c9dd7",
     "onlineList": [
+      {
+        "cid": "2195",
+        "version": 1782811776,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "4617",
         "version": 1783410271,
@@ -175,8 +181,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1784001600,
+    "updatedAt": 1784088000,
     "list": [
+      {
+        "cid": "2195",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1784088000,
+        "focus": 0,
+        "title": "漫画《溯始先声\\n ：孤芳》上线"
+      },
       {
         "cid": "4617",
         "type": 0,
