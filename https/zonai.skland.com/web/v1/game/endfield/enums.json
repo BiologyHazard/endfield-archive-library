@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1784156582",
+  "timestamp": "1784183101",
   "data": {
     "rarities": [
       {
@@ -249,7 +249,20 @@
         "value": "复活"
       }
     ],
-    "passiveEffectTypes": [],
+    "passiveEffectTypes": [
+      {
+        "key": "passive_effect_type_buff",
+        "value": "增益"
+      },
+      {
+        "key": "passive_effect_type_heal",
+        "value": "恢复"
+      },
+      {
+        "key": "passive_effect_type_revive",
+        "value": "复活"
+      }
+    ],
     "equipProperties": [
       {
         "key": "equip_attr_atk",

@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "551cf27c4fdd3da77a0ed0bbf578ad7a",
+    "version": "f0fe180cf520452932d7185034e3313f",
     "onlineList": [
+      {
+        "cid": "3034",
+        "version": 1784102992,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "6426",
         "version": 1784031936,
@@ -38,12 +44,6 @@
       {
         "cid": "9850",
         "version": 1784031895,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "8942",
-        "version": 1783997074,
         "needRedDot": true,
         "needPopup": false
       },
@@ -151,8 +151,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1784156400,
+    "updatedAt": 1784163600,
     "list": [
+      {
+        "cid": "3034",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1784163600,
+        "focus": 0,
+        "title": "版本更新说明"
+      },
       {
         "cid": "6426",
         "type": 0,
@@ -207,17 +218,6 @@
         "startAt": 1784156400,
         "focus": 0,
         "title": "宏运连连乐"
-      },
-      {
-        "cid": "8942",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1784001600,
-        "focus": 0,
-        "title": "预下载与\\n更新预告"
       },
       {
         "cid": "7278",

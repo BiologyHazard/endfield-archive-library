@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "5730fc31f326aa009e2a81484ccda963",
+    "version": "ee4d557dac8564222d46045024c33fdb",
     "onlineList": [
+      {
+        "cid": "3034",
+        "version": 1784102992,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "6426",
         "version": 1784031936,
@@ -32,12 +38,6 @@
       {
         "cid": "9850",
         "version": 1784031895,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "8942",
-        "version": 1783997074,
         "needRedDot": true,
         "needPopup": false
       },
@@ -133,8 +133,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1784156400,
+    "updatedAt": 1784163600,
     "list": [
+      {
+        "cid": "3034",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1784163600,
+        "focus": 0,
+        "title": "版本更新说明"
+      },
       {
         "cid": "6426",
         "type": 0,
@@ -178,17 +189,6 @@
         "startAt": 1784156400,
         "focus": 0,
         "title": "宏运连连乐"
-      },
-      {
-        "cid": "8942",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1784001600,
-        "focus": 0,
-        "title": "预下载与\\n更新预告"
       },
       {
         "cid": "3068",

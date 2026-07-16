@@ -4,26 +4,37 @@
   "data": {
     "list": [
       {
-        "cid": "0424",
+        "cid": "9335",
         "tab": "notices",
         "sticky": true,
-        "title": "「向渊行」版本预下载与更新预告",
+        "title": "「向渊行」版本更新说明",
         "author": "",
-        "displayTime": 1784001600,
-        "cover": "https://web.hycdn.cn/upload/image/20260714/19dee94ed3a54fbdc69a4febc44f6136.jpg",
+        "displayTime": 1784163600,
+        "cover": "https://web.hycdn.cn/upload/image/20260715/a816d526872e655f6324a2f026e6be2f.jpg",
         "extraCover": "",
-        "brief": "亲爱的管理员：《明日方舟：终末地》「相伴庆典」＆「向渊行」核心章节版本预下载现已开启，管理员可提前下载PC端及PlayStation®5的部分游戏资源，在版本更新维护结束后，更快地进入游戏。此外，我们"
+        "brief": "驱雾瘴，平天堑，大渊在前，我们携手共进。往日未远，前路恒长。在广阔的塔卫二上，我们相伴而行。亲爱的管理员：欢迎来到核心章节版本「向渊行」！▼//更新维护及补偿说明■ 更新维护时间2026/07/16 "
       },
       {
-        "cid": "7219",
-        "tab": "news",
+        "cid": "8545",
+        "tab": "notices",
         "sticky": true,
-        "title": "「向渊行」核心章节版本研发通讯",
+        "title": "「临渊望北」特许寻访说明",
         "author": "",
-        "displayTime": 1783737000,
-        "cover": "https://web.hycdn.cn/upload/image/20260710/819f67e8b5cbcf4877084e2a3177ac2e.jpg",
+        "displayTime": 1784109600,
+        "cover": "https://web.hycdn.cn/upload/image/20260707/9ff7c1725355749cff77b5e7718ce2e9.jpg",
         "extraCover": "",
-        "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。自公测以来，我们已与管理员相伴同行了半年时光。这半年里，每一份反馈都弥足珍贵，每一次相遇都令人欣喜。非常感谢各位一直以来的陪伴与支持。「向渊行」核心章节"
+        "brief": "亲爱的管理员：「临渊望北」特许寻访开放期间，6星干员【诀】获取概率提升！「踞渊北眺」限时签到活动同步开放，累计签到可获得【踞渊北眺寻访凭证】×5等奖励，还可在【集成配额交易】中进行【踞渊北眺寻访凭证】"
+      },
+      {
+        "cid": "2656",
+        "tab": "events",
+        "sticky": false,
+        "title": "「协议邀约：重归」网页活动说明",
+        "author": "",
+        "displayTime": 1784179800,
+        "cover": "https://web.hycdn.cn/upload/image/20260715/093954f7fa35a27aa3e79702ef6f3edb.jpg",
+        "extraCover": "",
+        "brief": "「协议邀约：重归」网页活动说明信息开始扩散，文字与声音传递向各方，暂缓旅行的人们，愿各位能重归塔卫二。>>点击前往「协议邀约：重归」网页活动<<▼//活动时间「向渊行」版本期间▼//参与条件活动中心解"
       },
       {
         "cid": "3802",
@@ -37,17 +48,6 @@
         "brief": "亲爱的管理员：「军列申领」开放期间，6星武器【四二式·肃阵（施术单元）】获取概率提升！▼//「军列申领」· 开放时间：「向渊行」版本更新后开启，于3次「特许寻访」后结束（从「临渊望北」起计算）· 开放"
       },
       {
-        "cid": "8545",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「临渊望北」特许寻访说明",
-        "author": "",
-        "displayTime": 1784109600,
-        "cover": "https://web.hycdn.cn/upload/image/20260707/9ff7c1725355749cff77b5e7718ce2e9.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「临渊望北」特许寻访开放期间，6星干员【诀】获取概率提升！「踞渊北眺」限时签到活动同步开放，累计签到可获得【踞渊北眺寻访凭证】×5等奖励，还可在【集成配额交易】中进行【踞渊北眺寻访凭证】"
-      },
-      {
         "cid": "1169",
         "tab": "news",
         "sticky": false,
@@ -59,15 +59,26 @@
         "brief": "明日方舟：终末地官方漫画《溯始先声：孤芳》现已上线！孤影立剑，志执存芳。点击前往阅读"
       },
       {
-        "cid": "5983",
-        "tab": "events",
+        "cid": "0424",
+        "tab": "notices",
         "sticky": false,
-        "title": "「诀」战前密电限时接通中",
+        "title": "「向渊行」版本预下载与更新预告",
         "author": "",
-        "displayTime": 1784086200,
-        "cover": "",
+        "displayTime": 1784001600,
+        "cover": "https://web.hycdn.cn/upload/image/20260714/19dee94ed3a54fbdc69a4febc44f6136.jpg",
         "extraCover": "",
-        "brief": ""
+        "brief": "亲爱的管理员：《明日方舟：终末地》「相伴庆典」＆「向渊行」核心章节版本预下载现已开启，管理员可提前下载PC端及PlayStation®5的部分游戏资源，在版本更新维护结束后，更快地进入游戏。此外，我们"
+      },
+      {
+        "cid": "7219",
+        "tab": "news",
+        "sticky": false,
+        "title": "「向渊行」核心章节版本研发通讯",
+        "author": "",
+        "displayTime": 1783737000,
+        "cover": "https://web.hycdn.cn/upload/image/20260710/819f67e8b5cbcf4877084e2a3177ac2e.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。自公测以来，我们已与管理员相伴同行了半年时光。这半年里，每一份反馈都弥足珍贵，每一次相遇都令人欣喜。非常感谢各位一直以来的陪伴与支持。「向渊行」核心章节"
       },
       {
         "cid": "6091",
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260623/b5b101755ef3c5a37994815dbf3d1964.jpg",
         "extraCover": "",
         "brief": "「危机合约 重燃测试作战」内容更新说明▼//更新时间2026/06/26 12:00（服务器时间）▼//更新内容新增一批自动解锁的指标，包含以下词条：· 「环境：时限Ⅲ」· 「改写：热量汲取」· 「环"
-      },
-      {
-        "cid": "6093",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「染赤申领」限时特卖说明",
-        "author": "",
-        "displayTime": 1782360900,
-        "cover": "https://web.hycdn.cn/upload/image/20260623/b9881f78b679f0e52e82768b1f7f7c76.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「染赤申领」开放期间，6星武器【镀红祝福（长柄武器）】获取概率提升！▼//「染赤申领」· 开放时间：2026/06/26 12:00（服务器时间）开启，于3次「特许寻访」后结束（从「逐罪"
       }
     ],
     "current": 1,
     "pageSize": 10,
-    "total": 84
+    "total": 85
   }
 }

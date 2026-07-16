@@ -20,6 +20,13 @@
     "iosAppStoreId": "6753859465",
     "iosDeeplink": "https://endfield.hypergryph.com/u-link/"
   },
+  "endfield-cloud": {
+    "appCode": "EjOB8xSdBmtLnzCX",
+    "packageName": "com.hypergryph.cloud.endfield",
+    "name": "云·终末地",
+    "iosAppStoreId": "6758778913",
+    "iosDeeplink": "https://endfield.hypergryph.com/cloudshare"
+  },
   "popucom": {
     "appCode": "Vp2jukCCSUGztqli",
     "packageName": "",
