@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1784183101",
+  "timestamp": "1784202333",
   "data": {
     "rarities": [
       {
@@ -377,6 +377,22 @@
     ],
     "suitTypes": [
       {
+        "key": "6f111f96a39d526ec108f4896079b7e5",
+        "value": "生物辅助"
+      },
+      {
+        "key": "508f82db8e94556f724c4fbbfbf3e0b0",
+        "value": "长息"
+      },
+      {
+        "key": "acc7746b79b8757f74e9d79749cba8c9",
+        "value": "集成实训"
+      },
+      {
+        "key": "1d6477b5665f05daa36c63ba24b8cf64",
+        "value": "动火用"
+      },
+      {
         "key": "50d183755f65e882454064176c3c3132",
         "value": "点剑"
       },
@@ -391,14 +407,6 @@
       {
         "key": "2a50c1685223ad1c8ee798bc66ab8ac3",
         "value": "M.I.警用"
-      },
-      {
-        "key": "6f111f96a39d526ec108f4896079b7e5",
-        "value": "生物辅助"
-      },
-      {
-        "key": "1d6477b5665f05daa36c63ba24b8cf64",
-        "value": "动火用"
       },
       {
         "key": "d071c07e1a1665f0fe5eae0d18d37a87",
@@ -427,10 +435,6 @@
       {
         "key": "f9c31f6fb42099bbcdc79cb71b65e2ed",
         "value": "重装信使"
-      },
-      {
-        "key": "508f82db8e94556f724c4fbbfbf3e0b0",
-        "value": "长息"
       },
       {
         "key": "17d901698b54205436bcb50905d4d26d",
