@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "1174",
+        "tab": "notices",
+        "sticky": false,
+        "title": "【2026年05月26日】封禁处理公示",
+        "author": "",
+        "displayTime": 1779778800,
+        "cover": "",
+        "extraCover": "",
+        "brief": "亲爱的管理员：\n感谢您对《明日方舟：终末地》的关注与支持。自游戏正式运营以来，我们一直致力于维护绿色、公平的游戏坏境。拒绝容忍使用外挂、第三方工具以及任何不正当方式破坏游戏公平性等行为。对此行为也将进"
+      },
+      {
         "cid": "0430",
         "tab": "news",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260417/bb71532cc4f2f82b9556e2dda163e621.jpg",
         "extraCover": "",
         "brief": "管理员们，欢迎来到塔卫二！《明日方舟：终末地》官方社媒账号页现已上线！\n关注官方社媒账号，最高累计获取180嵌晶玉!\n点击链接即可参与活动：https://endfield.hypergryph.co"
-      },
-      {
-        "cid": "9343",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「春晓时」版本更新说明",
-        "author": "",
-        "displayTime": 1776387600,
-        "cover": "https://web.hycdn.cn/upload/image/20260416/a7188b0d653d36259be04d2db847f3df.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：欢迎来到全新版本「春晓时」！\n▼//更新维护及补偿说明■ 更新维护时间2026/04/17 06:00 - 2026/04/17 12:00（UTC+8）※ 维护后的开服时间存在提前或延"
       }
     ],
     "current": 3,
     "pageSize": 10,
-    "total": 86
+    "total": 87
   }
 }

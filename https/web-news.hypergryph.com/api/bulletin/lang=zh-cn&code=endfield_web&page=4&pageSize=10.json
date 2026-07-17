@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "9343",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「春晓时」版本更新说明",
+        "author": "",
+        "displayTime": 1776387600,
+        "cover": "https://web.hycdn.cn/upload/image/20260416/a7188b0d653d36259be04d2db847f3df.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：欢迎来到全新版本「春晓时」！\n▼//更新维护及补偿说明■ 更新维护时间2026/04/17 06:00 - 2026/04/17 12:00（UTC+8）※ 维护后的开服时间存在提前或延"
+      },
+      {
         "cid": "0434",
         "tab": "events",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "",
         "extraCover": "",
         "brief": "亲爱的管理员：当您在使用配备了NVIDIA显卡的PC端设备上体验游戏时，若使用以下版本的驱动程序，可能出现游戏运行卡顿等异常情况：• GeForce Game Ready 驱动程序版本：595.79、"
-      },
-      {
-        "cid": "9345",
-        "tab": "notices",
-        "sticky": false,
-        "title": "关于使用非官方工具的安全风险提示",
-        "author": "",
-        "displayTime": 1773279000,
-        "cover": "",
-        "extraCover": "",
-        "brief": "在第三方网页或工具中进行账号授权登录的操作存在账号信息泄露或数据被不当使用的安全风险。在此提醒各位玩家，为保障您的账号安全，请注意：1、请勿在任何来源不明或未经官方认证的第三方平台进行账号授权登录；2"
       }
     ],
     "current": 4,
     "pageSize": 10,
-    "total": 86
+    "total": 87
   }
 }
