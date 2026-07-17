@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "0430",
+        "tab": "news",
+        "sticky": false,
+        "title": "「寻遗散记」版本研发通讯",
+        "author": "",
+        "displayTime": 1779508800,
+        "cover": "https://web.hycdn.cn/upload/image/20260522/a3eb56b3e62d48fdcce71b841441e904.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。自「春晓时」版本上线以来，管理员的肯定给予了我们莫大的鼓舞，也让我们更加坚信，每一项脚踏实地的优化，都能切实提升管理员的游玩体验。通过本期研发通讯，我们"
+      },
+      {
         "cid": "4787",
         "tab": "notices",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260416/a7188b0d653d36259be04d2db847f3df.jpg",
         "extraCover": "",
         "brief": "亲爱的管理员：欢迎来到全新版本「春晓时」！\n▼//更新维护及补偿说明■ 更新维护时间2026/04/17 06:00 - 2026/04/17 12:00（UTC+8）※ 维护后的开服时间存在提前或延"
-      },
-      {
-        "cid": "0434",
-        "tab": "events",
-        "sticky": false,
-        "title": "「焕新月卡赠礼」赠礼活动",
-        "author": "",
-        "displayTime": 1776337200,
-        "cover": "https://web.hycdn.cn/upload/image/20260416/645483807fe5f2dde24e3fe0a133d523.jpg",
-        "extraCover": "",
-        "brief": "▼//活动时间「春晓时」版本开启后 - 2026/05/18 04:00（服务器时间）\n▼//活动奖励活动期间，累计最多可获得【嵌晶玉】×6000、【应急理智加强剂】×30和【理智消耗许可】×120。"
       }
     ],
     "current": 3,
     "pageSize": 10,
-    "total": 85
+    "total": 86
   }
 }

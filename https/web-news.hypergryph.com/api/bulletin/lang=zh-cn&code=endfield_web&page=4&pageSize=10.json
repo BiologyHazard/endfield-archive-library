@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "0434",
+        "tab": "events",
+        "sticky": false,
+        "title": "「焕新月卡赠礼」赠礼活动",
+        "author": "",
+        "displayTime": 1776337200,
+        "cover": "https://web.hycdn.cn/upload/image/20260416/645483807fe5f2dde24e3fe0a133d523.jpg",
+        "extraCover": "",
+        "brief": "▼//活动时间「春晓时」版本开启后 - 2026/05/18 04:00（服务器时间）\n▼//活动奖励活动期间，累计最多可获得【嵌晶玉】×6000、【应急理智加强剂】×30和【理智消耗许可】×120。"
+      },
+      {
         "cid": "6000",
         "tab": "notices",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "",
         "extraCover": "",
         "brief": "在第三方网页或工具中进行账号授权登录的操作存在账号信息泄露或数据被不当使用的安全风险。在此提醒各位玩家，为保障您的账号安全，请注意：1、请勿在任何来源不明或未经官方认证的第三方平台进行账号授权登录；2"
-      },
-      {
-        "cid": "6003",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「新潮起，故渊离」版本更新说明",
-        "author": "",
-        "displayTime": 1773277200,
-        "cover": "https://web.hycdn.cn/upload/image/20260311/29699c382486bae47a07b16becc2f1d2.jpg",
-        "extraCover": "",
-        "brief": "恩怨沉于故渊，今时涌起的大潮寂静无声。\n亲爱的管理员：欢迎来到全新版本「新潮起，故渊离」！\n▼//更新维护及补偿说明■ 更新维护时间2026/03/12 06:00 - 2026/03/12 12:0"
       }
     ],
     "current": 4,
     "pageSize": 10,
-    "total": 85
+    "total": 86
   }
 }

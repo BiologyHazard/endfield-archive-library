@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "ee4d557dac8564222d46045024c33fdb",
+    "version": "8d71f959ca6e9c198b45cc59009fd814",
     "onlineList": [
+      {
+        "cid": "9858",
+        "version": 1784256463,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "3034",
         "version": 1784102992,
@@ -133,8 +139,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1784163600,
+    "updatedAt": 1784257200,
     "list": [
+      {
+        "cid": "9858",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1784257200,
+        "focus": 1,
+        "title": "更新修复说明"
+      },
       {
         "cid": "3034",
         "type": 0,

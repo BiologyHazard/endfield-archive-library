@@ -9,8 +9,20 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "b5ed4c0510044748b4cd8c3a6825e2e1",
+    "version": "3cd9bb39b3da815f2102a87c0dba7fa0",
     "onlineList": [
+      {
+        "cid": "6424",
+        "version": 1784189358,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9858",
+        "version": 1784256463,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "3034",
         "version": 1784102992,
@@ -26,6 +38,12 @@
       {
         "cid": "2195",
         "version": 1782811776,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "5516",
+        "version": 1784188419,
         "needRedDot": true,
         "needPopup": false
       },
@@ -139,8 +157,30 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1784163600,
+    "updatedAt": 1784264400,
     "list": [
+      {
+        "cid": "6424",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1784260800,
+        "focus": 0,
+        "title": "渊客停系列\\n衍生品现已开售"
+      },
+      {
+        "cid": "9858",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1784257200,
+        "focus": 1,
+        "title": "更新修复说明"
+      },
       {
         "cid": "3034",
         "type": 0,
@@ -173,6 +213,17 @@
         "startAt": 1784088000,
         "focus": 0,
         "title": "漫画《溯始先声\\n ：孤芳》上线"
+      },
+      {
+        "cid": "5516",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1784264400,
+        "focus": 0,
+        "title": "创作征集活动"
       },
       {
         "cid": "5518",

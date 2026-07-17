@@ -9,8 +9,20 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "b5ed4c0510044748b4cd8c3a6825e2e1",
+    "version": "3cd9bb39b3da815f2102a87c0dba7fa0",
     "onlineList": [
+      {
+        "cid": "6424",
+        "version": 1784189358,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9858",
+        "version": 1784256463,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "3034",
         "version": 1784102992,
@@ -26,6 +38,12 @@
       {
         "cid": "2195",
         "version": 1782811776,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "5516",
+        "version": 1784188419,
         "needRedDot": true,
         "needPopup": false
       },
@@ -139,8 +157,43 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1784163600,
+    "updatedAt": 1784264400,
     "list": [
+      {
+        "cid": "6424",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1784260800,
+        "focus": 0,
+        "title": "渊客停系列\\n衍生品现已开售",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260716/01875056730eb8d7249c3c38bf5094ff.png",
+          "link": "http://arknightsendfieldyx.tmall.com/index.htm",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "9858",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1784257200,
+        "focus": 1,
+        "title": "更新修复说明",
+        "header": "「向渊行」版本更新修复说明",
+        "jumpButton": null,
+        "data": {
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260206/ea189982ef67fc6a1a3e8151a2807f54.png\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：</p><p>为了给大家带来更好的游戏体验，我们将对游戏持续进行优化及问题修复。「向渊行」版本期间更新修复说明如下：</p><p></p><p><strong>▼//游戏更新修复说明</strong></p><p><strong>■ 2026/07/17</strong></p><p>· 优化了特定操作下，6星干员【诀】重击时的动态表现。</p><p>· 优化了委派任务「日常·失落机器人」战斗环节的镜头逻辑。</p><p>· 优化了「武陵 - 北部禁区」中，部分剧情对话时场景的表现。</p><p>· 优化了【活动中心】部分活动页签的展示排序。</p><p>· 优化了部分任务的场景特效表现。</p><p>· 修复了特定情况下，主线任务「第二章 - 进程Ⅶ - 归途之始」中，有概率无法【与庄方宜交谈】导致无法推进任务流程的问题。</p><p>· 修复了特定情况下，主线任务「第二章 - 进程Ⅶ - 归途之始」中，无法正常使用【赤铜耐压罐】收集「惰气」的问题。</p><p>· 修复了使用移动端设备时，6星干员【诀】释放【破晦诀明】后，终结技能量进度显示异常的问题。</p><p>· 修复了在与交互物互动时，非主控干员无法正常释放技能的问题。</p><p>· 修复了特定情况下，在「武陵 - 北部禁区」特定暂存能量淤积点中离开挑战范围后，无法正常中止挑战的问题。</p><p>· 修复了在「武陵」部分区域内通过特定操作打开设备制造页面时，导致界面卡死的问题。</p><p>· 修复了特定情况下，可以异常使用【拍照】模式的移动站位功能的问题。</p><p> · 修复了特定情况下，在【拍照】模式下特定操作导致干员状态异常的问题。</p><p>· 修复了特定情况下，无法完成【简易制作 - 随身装置】相关引导的问题。</p><p>· 修复了特定情况下，特定操作有概率导致在「武陵 - 应龙关」区域的特定范围内游戏界面持续弹出提示信息的问题。</p><p>· 修复了特定情况下，特定操作有概率导致玩法「战争回响」的教学引导弹窗显示异常的问题。</p><p>· 修复了【百相仪】玩法中，特定情况下提示信息未正常弹出的问题。</p><p>· 修复了特定情况下，部分场景中特定物品模型异常不显示的问题。</p><p>· 修复了特定情况下，【贵重品库】红点显示异常的问题。</p><p></p><p>如遇到其他问题，还请管理员通过游戏内客服等方式提供反馈。</p><p>期间带来的不便我们深表歉意，再次感谢管理员对《明日方舟：终末地》一直以来的关注与支持！</p><p></p>",
+          "linkType": 1
+        }
+      },
       {
         "cid": "3034",
         "type": 0,
@@ -190,6 +243,23 @@
         "data": {
           "url": "https://web.hycdn.cn/upload/image/20260630/fd3ba7bbbaaa17f15238d6dbf89802a9.jpg",
           "link": "https://comic.hypergryph.com/talos-ii-historicus/comic/1429",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "5516",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1784264400,
+        "focus": 0,
+        "title": "创作征集活动",
+        "header": "「向渊行」版本创作征集活动进行中",
+        "jumpButton": null,
+        "data": {
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260716/86e51ab17b745b8f5a8ca250e98586e5.jpg\" data-width=\"1600\" data-height=\"300\"><p>管理员，《明日方舟：终末地》「向渊行」版本创作征集活动正在<strong>哔哩哔哩、抖音、小红书、微博、TapTap、虎牙、斗鱼、知乎</strong>等多个社区平台进行中。按对应要求进行内容创作与分享，即可参与奖金瓜分、创作评优与互动抽奖等活动，有机会赢取现金、平台激励与实体周边/3C产品等丰厚奖励。</p><p>各平台活动时间安排请以对应平台活动页面内的规则公示为准。</p><p></p><p><strong>◆ 哔哩哔哩</strong></p><p>活动期间，在哔哩哔哩平台带话题<strong>#明日方舟终末地创作者应援计划</strong> 或其他指定热门话题进行视频投稿，或在《明日方舟：终末地》直播分区进行直播，达成活动规定条件即可参与投稿瓜分及优秀稿件、主播榜单的评选，赢取现金及嵌晶玉、养成材料奖励。同时，您可以通过分享互动等完成抽奖任务，有机会获得养成材料、游戏周边与3C产品等丰厚奖励。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.bilibili.com/blackboard/era/yuePLWFvPNzmgyOv.html\"><span style=\"color: rgb(36, 91, 219);\">点击跳转创作活动页面</span></a></p><p></p><p><strong>◆ 小红书</strong></p><p>活动期间，在小红书平台带话题<strong>#明日方舟终末地 #终末地向渊行</strong> 及其他赛道话题进行笔记发布，即可参与创作激励赛道，参与瓜分和优秀笔记评选，赢取现金与游戏周边等丰厚奖励。同时，您也可以通过进行笔记互动等完成互动任务并参与抽奖，有机会获得游戏周边、3C产品等奖励。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://ditto.xiaohongshu.net/ditto/vincent/8d916ba1daa846209de852918fe19893?naviHidden=yes&amp;fullscreen=true&amp;source=game\"><span style=\"color: rgb(36, 91, 219);\">点击跳转创作活动页面</span></a></p><p></p><p><strong>◆ 微博</strong></p><p>活动期间，在微博平台带话题<strong>#明日方舟终末地创作征集#</strong>以及<strong>#向渊行#</strong>，发布以「<strong>向渊行</strong>」版本为主题的作品或讨论<strong>，</strong>即可参与创作征集活动，有机会获得嵌晶玉及现金等丰厚奖励。同时，您也可以在明日方舟终末地超话内带话题<strong>#明日方舟终末地二创#</strong>或<strong>#明日方舟终末地攻略#</strong>发布原创博文参与活动，达到条件即可参与瓜分现金奖励。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://weibo.com/7745672941/R8VRDdfwV\"><span style=\"color: rgb(36, 91, 219);\">点击跳转活动详情</span></a></p><p></p><p><strong>◆ 抖音</strong></p><p>即日起至活动结束，在抖音平台带话题<strong>#明日方舟终末地 #向渊行</strong>，并挂载《明日方舟：终末地》小手柄进行投稿，达到条件可参与瓜分活动，更有里程碑打卡、作者榜单评选等丰厚奖励，您还可参与互动抽奖，有机会获得游戏道具与3C产品等丰厚奖励。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://webcast.amemv.com/magic/eco/runtime/release/6a5742a741c569075a88a792?should_full_screen=1&amp;show_back=0&amp;hide_nav_bar=1&amp;hide_status_bar=0&amp;auto_play_bgm=1&amp;web_bg_color=%23FF1f1f1f&amp;loader_name=forest&amp;disable_all_bounces=1&amp;delay_preload=1&amp;mix_container_type=annie&amp;bdhm_bid=magic_eco&amp;bdhm_pid=6a5742a741c569075a88a792&amp;__live_platform__=webcast&amp;appType=webcast&amp;magic_page_no=1&amp;magic_source=mp_default&amp;activity=6a574263ccbecb0581d33666&amp;from_feed=true\"><span style=\"color: rgb(36, 91, 219);\">点击跳转投稿活动页面</span></a></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://webcast.amemv.com/magic/eco/runtime/release/6a5744a680cc35074828dc4d?should_full_screen=1&amp;show_back=0&amp;hide_nav_bar=1&amp;hide_status_bar=0&amp;auto_play_bgm=1&amp;web_bg_color=%23FF1f1f1f&amp;loader_name=forest&amp;disable_all_bounces=1&amp;delay_preload=1&amp;mix_container_type=annie&amp;bdhm_bid=magic_eco&amp;bdhm_pid=6a5744a680cc35074828dc4d&amp;__live_platform__=webcast&amp;appType=webcast&amp;magic_page_no=1&amp;magic_source=mp_default&amp;activity=6a574263ccbecb0581d33666&amp;from_feed=true\"><span style=\"color: rgb(36, 91, 219);\">点击跳转抽奖活动页面</span></a></p><p></p><p><strong>◆ TapTap</strong></p><p>活动期间，在TapTap社区参与话题活动<strong>#终末地向渊行#</strong>并进行投稿，发布「<strong>向渊行</strong>」版本为主题的作品或讨论即可参与创作征集活动，有机会获得嵌晶玉、现金与游戏周边等丰厚奖励。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.taptap.cn/moment/826507372787664222\"><span style=\"color: rgb(36, 91, 219);\">点击跳转活动详情</span></a></p><p></p><p><strong>◆ 微信游戏圈</strong></p><p>活动期间，在微信游戏圈<strong>#向渊行#</strong>话题内参与「<strong>向渊行</strong>」版本游戏圈福利、话题讨论、每日签到、有奖盖楼等活动，完成指定任务即有机会获得嵌晶玉及实物周边等丰厚奖励。</p><p>活动详情：具体可在【明日方舟终末地游戏圈】活动页面查看</p><p></p><p><strong>◆ 虎牙/斗鱼</strong></p><p>活动期间，在虎牙直播平台、斗鱼直播平台中的<strong>明日方舟：终末地专区</strong>进行直播，完成对应直播任务可享受主播激励计划的扶持。同时，您可通过观看直播、互动等方式参与抽奖，有机会获得养成材料及实物周边等丰厚奖励。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://zt.huya.com/aa5b8383/pc/index.html?client=auto\"><span style=\"color: rgb(36, 91, 219);\">点击跳转虎牙主播激励计划页面</span></a></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.douyu.com/topic/template/AnchorRecruit?id=13894\"><span style=\"color: rgb(36, 91, 219);\">点击跳转斗鱼主播激励计划页面</span></a></p><p></p><p>◆ <strong>知乎</strong></p><p>活动期间，前往知乎搜索「明日方舟终末地」，参与创作激励计划，即有机会获得嵌晶玉和游戏周边好礼！更多详情可前往知乎活动页面查看。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.zhihu.com/parker/campaign/2060411103578960584?zh_hide_nav_bar=true\"><span style=\"color: rgb(36, 91, 219);\">点击跳转活动详情</span></a></p><p></p><p>更多活动详情与参与细则，请关注对应社区平台的活动发布。</p><p>《明日方舟：终末地》将在未来持续为各位管理员的创作提供更全面的支持，感谢您的持续关注，祝您在塔卫二的探索一切顺利。</p>",
           "linkType": 1
         }
       },

@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "0425",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「危机合约 重燃测试作战」内容更新说明",
+        "author": "",
+        "displayTime": 1782367200,
+        "cover": "https://web.hycdn.cn/upload/image/20260623/b5b101755ef3c5a37994815dbf3d1964.jpg",
+        "extraCover": "",
+        "brief": "「危机合约 重燃测试作战」内容更新说明▼//更新时间2026/06/26 12:00（服务器时间）▼//更新内容新增一批自动解锁的指标，包含以下词条：· 「环境：时限Ⅲ」· 「改写：热量汲取」· 「环"
+      },
+      {
         "cid": "6093",
         "tab": "notices",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "",
         "extraCover": "",
         "brief": "亲爱的管理员：\n感谢您对《明日方舟：终末地》的关注与支持。自游戏正式运营以来，我们一直致力于维护绿色、公平的游戏坏境。拒绝容忍使用外挂、第三方工具以及任何不正当方式破坏游戏公平性等行为。对此行为也将进"
-      },
-      {
-        "cid": "0430",
-        "tab": "news",
-        "sticky": false,
-        "title": "「寻遗散记」版本研发通讯",
-        "author": "",
-        "displayTime": 1779508800,
-        "cover": "https://web.hycdn.cn/upload/image/20260522/a3eb56b3e62d48fdcce71b841441e904.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。自「春晓时」版本上线以来，管理员的肯定给予了我们莫大的鼓舞，也让我们更加坚信，每一项脚踏实地的优化，都能切实提升管理员的游玩体验。通过本期研发通讯，我们"
       }
     ],
     "current": 2,
     "pageSize": 10,
-    "total": 85
+    "total": 86
   }
 }

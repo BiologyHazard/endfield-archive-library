@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "6424",
+    "type": 0,
+    "tab": "news",
+    "orderType": 0,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1784260800,
+    "title": "渊客停系列\\n衍生品现已开售",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260716/01875056730eb8d7249c3c38bf5094ff.png",
+      "link": "http://arknightsendfieldyx.tmall.com/index.htm",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1784189358
+  },
+  "msg": ""
+}
