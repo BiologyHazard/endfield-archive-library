@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "e4a5c744c6e46452ec15105f579900e2",
+    "version": "72aaca0fbf4f521a74d78704a0f8344f",
     "onlineList": [
       {
         "cid": "6424",
@@ -19,7 +19,7 @@
       },
       {
         "cid": "9858",
-        "version": 1784256463,
+        "version": 1784342964,
         "needRedDot": true,
         "needPopup": false
       },
@@ -38,6 +38,12 @@
       {
         "cid": "2195",
         "version": 1782811776,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3033",
+        "version": 1784265509,
         "needRedDot": true,
         "needPopup": false
       },
@@ -175,7 +181,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1784268000,
+    "updatedAt": 1784354400,
     "list": [
       {
         "cid": "6424",
@@ -231,6 +237,17 @@
         "startAt": 1784088000,
         "focus": 0,
         "title": "漫画《溯始先声\\n ：孤芳》上线"
+      },
+      {
+        "cid": "3033",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1784354400,
+        "focus": 0,
+        "title": "森空岛向渊行\\n创作者激励活动"
       },
       {
         "cid": "4600",
