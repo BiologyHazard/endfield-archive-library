@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "5c7949fb53b7e0f3b3165b333ed73427",
+    "version": "99c628135c5497d07e89e0d454bad437",
     "onlineList": [
+      {
+        "cid": "1367",
+        "version": 1784369197,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "6424",
         "version": 1784189358,
@@ -181,8 +187,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1784354400,
+    "updatedAt": 1784520000,
     "list": [
+      {
+        "cid": "1367",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1784520000,
+        "focus": 0,
+        "title": "「诀」归途连线\\n限时接通中"
+      },
       {
         "cid": "6424",
         "type": 0,

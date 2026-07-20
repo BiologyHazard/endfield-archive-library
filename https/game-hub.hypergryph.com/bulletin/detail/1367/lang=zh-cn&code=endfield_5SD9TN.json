@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "1367",
+    "type": 0,
+    "tab": "news",
+    "orderType": 0,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1784520000,
+    "title": "「诀」归途连线\\n限时接通中",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260718/8e44eecab4b0094279f4e60af9b3aea6.png",
+      "link": "https://endfield.hypergryph.com/news/7218",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1784369197
+  },
+  "msg": ""
+}
