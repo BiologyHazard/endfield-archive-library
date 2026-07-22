@@ -9,14 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "96a1a1875c5443b1d221888913a38364",
+    "version": "9fb8fe0fb14d2e9a4777a180e8349fcd",
     "onlineList": [
-      {
-        "cid": "1367",
-        "version": 1784369197,
-        "needRedDot": true,
-        "needPopup": false
-      },
       {
         "cid": "6424",
         "version": 1784189358,
@@ -25,7 +19,7 @@
       },
       {
         "cid": "9858",
-        "version": 1784640460,
+        "version": 1784724268,
         "needRedDot": true,
         "needPopup": false
       },
@@ -163,19 +157,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1784714885,
+    "updatedAt": 1784735940,
     "list": [
-      {
-        "cid": "1367",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1784520000,
-        "focus": 0,
-        "title": "「诀」归途连线\\n限时接通中"
-      },
       {
         "cid": "6424",
         "type": 0,
