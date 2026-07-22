@@ -13,12 +13,12 @@
     "header": "「向渊行」版本日历",
     "jumpButton": null,
     "data": {
-      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260714/5aa4227b5a21481fcd489eccbfa0e792.png\" data-width=\"1920\" data-height=\"2901\"><p></p>",
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260722/14dada3494474407ae343262e7370d40.png\" data-width=\"1920\" data-height=\"2901\"><p></p>",
       "linkType": 1
     },
-    "needRedDot": true,
+    "needRedDot": false,
     "needPopup": false,
-    "version": 1784031936
+    "version": 1784714884
   },
   "msg": ""
 }
