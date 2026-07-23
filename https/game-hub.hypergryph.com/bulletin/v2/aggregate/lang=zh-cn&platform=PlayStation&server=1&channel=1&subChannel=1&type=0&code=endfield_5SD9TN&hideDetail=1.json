@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "16b16f3c00b4e28bdc7ea44542a9badd",
+    "version": "3e5b46add3535f6e0cf624160f55f299",
     "onlineList": [
+      {
+        "cid": "0781",
+        "version": 1784803430,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "9858",
         "version": 1784775312,
@@ -139,8 +145,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1784775312,
+    "updatedAt": 1784811600,
     "list": [
+      {
+        "cid": "0781",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1784811600,
+        "focus": 0,
+        "title": "2026鹰角嘉年华\\n余票即将开售"
+      },
       {
         "cid": "9858",
         "type": 0,

@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "0781",
+    "type": 0,
+    "tab": "news",
+    "orderType": 0,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1784811600,
+    "title": "2026鹰角嘉年华\\n余票即将开售",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260723/e345a9e4673b1b58bbde696ae06d33dc.jpg",
+      "link": "https://b23.tv/po3ahwn",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1784803430
+  },
+  "msg": ""
+}
