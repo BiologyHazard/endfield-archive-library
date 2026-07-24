@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "7219",
+        "tab": "news",
+        "sticky": false,
+        "title": "「向渊行」核心章节版本研发通讯",
+        "author": "",
+        "displayTime": 1783737000,
+        "cover": "https://web.hycdn.cn/upload/image/20260710/819f67e8b5cbcf4877084e2a3177ac2e.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。自公测以来，我们已与管理员相伴同行了半年时光。这半年里，每一份反馈都弥足珍贵，每一次相遇都令人欣喜。非常感谢各位一直以来的陪伴与支持。「向渊行」核心章节"
+      },
+      {
         "cid": "6091",
         "tab": "notices",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260604/9f1785bb7ba51ed472e0f6ae58650f53.jpg",
         "extraCover": "",
         "brief": "亲爱的管理员：欢迎来到全新版本「寻遗散记」！\n▼//更新维护及补偿说明■ 更新维护时间2026/06/05 06:00 - 2026/06/05 12:00（UTC+8）※ 维护后的开服时间存在提前或"
-      },
-      {
-        "cid": "7227",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「绛结申领」限时特卖说明",
-        "author": "",
-        "displayTime": 1780460100,
-        "cover": "https://web.hycdn.cn/upload/image/20260602/fdddbc0334e3a495981097427cb6b0da.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「绛结申领」开放期间，6星武器【赤缨（双手剑）】获取概率提升！\n▼//「绛结申领」· 开放时间：「寻遗散记」版本更新后开启，于3次「特许寻访」后结束（从「拳出无悔」起计算）· 开放条件："
       }
     ],
     "current": 2,
     "pageSize": 10,
-    "total": 88
+    "total": 89
   }
 }
