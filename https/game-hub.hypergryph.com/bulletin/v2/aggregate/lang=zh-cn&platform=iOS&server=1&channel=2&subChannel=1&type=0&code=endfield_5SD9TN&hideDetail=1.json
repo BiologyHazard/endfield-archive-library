@@ -9,11 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "f8df52571a951aebdfee5cd1c24be9d0",
+    "version": "1c284e58d7074193d91772087751be9f",
     "onlineList": [
       {
-        "cid": "0781",
-        "version": 1784803430,
+        "cid": "1366",
+        "version": 1784803424,
         "needRedDot": true,
         "needPopup": false
       },
@@ -163,18 +163,18 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1784811600,
+    "updatedAt": 1784890800,
     "list": [
       {
-        "cid": "0781",
+        "cid": "1366",
         "type": 0,
         "tab": "news",
         "orderType": 0,
         "orderWeight": 1,
         "displayType": "picture",
-        "startAt": 1784811600,
+        "startAt": 1784890800,
         "focus": 0,
-        "title": "2026鹰角嘉年华\\n余票即将开售"
+        "title": "2026鹰角嘉年华\\n余票已开售"
       },
       {
         "cid": "6424",
