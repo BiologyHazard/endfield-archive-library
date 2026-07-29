@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "51063d5d899b74ef25d50395fa64074e",
+    "version": "d6d846cdb97b6d3e037c40fb098b7a64",
     "onlineList": [
       {
         "cid": "9858",
@@ -56,6 +56,12 @@
       {
         "cid": "4602",
         "version": 1784095732,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7277",
+        "version": 1784095752,
         "needRedDot": true,
         "needPopup": false
       },
@@ -133,7 +139,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1784894400,
+    "updatedAt": 1785294000,
     "list": [
       {
         "cid": "9858",
@@ -222,6 +228,17 @@
         "startAt": 1784156400,
         "focus": 0,
         "title": "临渊望北\\n特许寻访"
+      },
+      {
+        "cid": "7277",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1785294000,
+        "focus": 0,
+        "title": "炽燃！竞技大会！"
       },
       {
         "cid": "6425",

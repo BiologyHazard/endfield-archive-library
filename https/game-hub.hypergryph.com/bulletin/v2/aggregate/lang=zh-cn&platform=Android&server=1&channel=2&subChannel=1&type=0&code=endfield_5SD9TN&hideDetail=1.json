@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "fa45b4eb01190277f4649d8030ea5483",
+    "version": "9680a7d2cea963a6845dc95c5fc0d399",
     "onlineList": [
       {
         "cid": "6424",
@@ -80,6 +80,12 @@
       {
         "cid": "4602",
         "version": 1784095732,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7277",
+        "version": 1784095752,
         "needRedDot": true,
         "needPopup": false
       },
@@ -157,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1784894400,
+    "updatedAt": 1785294000,
     "list": [
       {
         "cid": "6424",
@@ -290,6 +296,17 @@
         "startAt": 1784156400,
         "focus": 0,
         "title": "临渊望北\\n特许寻访"
+      },
+      {
+        "cid": "7277",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1785294000,
+        "focus": 0,
+        "title": "炽燃！竞技大会！"
       },
       {
         "cid": "6425",
