@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "fe7a5b724f1eaf70c27a4a7fc97aaed8",
+    "version": "dc9d2ace25b2e06b1068fe048d3e459e",
     "onlineList": [
       {
         "cid": "6424",
@@ -33,12 +33,6 @@
         "cid": "6426",
         "version": 1784714884,
         "needRedDot": false,
-        "needPopup": false
-      },
-      {
-        "cid": "2195",
-        "version": 1782811776,
-        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -187,7 +181,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1785294000,
+    "updatedAt": 1785340800,
     "list": [
       {
         "cid": "6424",
@@ -232,17 +226,6 @@
         "startAt": 1784156400,
         "focus": 0,
         "title": "向渊行\\n版本日历"
-      },
-      {
-        "cid": "2195",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1784088000,
-        "focus": 0,
-        "title": "漫画《溯始先声\\n ：孤芳》上线"
       },
       {
         "cid": "3033",

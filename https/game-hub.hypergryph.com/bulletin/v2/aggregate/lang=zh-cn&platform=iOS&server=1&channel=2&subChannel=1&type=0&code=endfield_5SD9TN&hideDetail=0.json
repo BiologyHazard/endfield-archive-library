@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "9680a7d2cea963a6845dc95c5fc0d399",
+    "version": "0be5c2cc86272d13aa5a4a1e182d0504",
     "onlineList": [
       {
         "cid": "6424",
@@ -33,12 +33,6 @@
         "cid": "6426",
         "version": 1784714884,
         "needRedDot": false,
-        "needPopup": false
-      },
-      {
-        "cid": "2195",
-        "version": 1782811776,
-        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -163,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1785294000,
+    "updatedAt": 1785340800,
     "list": [
       {
         "cid": "6424",
@@ -231,24 +225,6 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260722/14dada3494474407ae343262e7370d40.png\" data-width=\"1920\" data-height=\"2901\"><p></p>",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "2195",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1784088000,
-        "focus": 0,
-        "title": "漫画《溯始先声\\n ：孤芳》上线",
-        "header": "",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260630/fd3ba7bbbaaa17f15238d6dbf89802a9.jpg",
-          "link": "https://comic.hypergryph.com/talos-ii-historicus/comic/1429",
           "linkType": 1
         }
       },
