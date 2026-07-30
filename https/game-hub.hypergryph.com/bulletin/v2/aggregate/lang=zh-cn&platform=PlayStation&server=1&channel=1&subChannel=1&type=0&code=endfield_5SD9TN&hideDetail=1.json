@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "04d817bd4ad90da592fed3394bf46d2c",
+    "version": "ce3bf3f9c6b87f8c220ffbc616348fd0",
     "onlineList": [
       {
         "cid": "9858",
@@ -38,12 +38,6 @@
       {
         "cid": "1369",
         "version": 1784096826,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "9850",
-        "version": 1784031895,
         "needRedDot": true,
         "needPopup": false
       },
@@ -145,7 +139,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1785294000,
+    "updatedAt": 1785441600,
     "list": [
       {
         "cid": "9858",
@@ -201,17 +195,6 @@
         "startAt": 1784156400,
         "focus": 0,
         "title": "战争回响"
-      },
-      {
-        "cid": "9850",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1784156400,
-        "focus": 0,
-        "title": "宏运连连乐"
       },
       {
         "cid": "3068",

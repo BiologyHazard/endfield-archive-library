@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "0be5c2cc86272d13aa5a4a1e182d0504",
+    "version": "1255137082c65a96b2b028e59a5ac7f6",
     "onlineList": [
       {
         "cid": "6424",
@@ -50,12 +50,6 @@
       {
         "cid": "1369",
         "version": 1784096826,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "9850",
-        "version": 1784031895,
         "needRedDot": true,
         "needPopup": false
       },
@@ -157,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1785340800,
+    "updatedAt": 1785441600,
     "list": [
       {
         "cid": "6424",
@@ -235,17 +229,6 @@
         "startAt": 1784156400,
         "focus": 0,
         "title": "战争回响"
-      },
-      {
-        "cid": "9850",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1784156400,
-        "focus": 0,
-        "title": "宏运连连乐"
       },
       {
         "cid": "1392",
