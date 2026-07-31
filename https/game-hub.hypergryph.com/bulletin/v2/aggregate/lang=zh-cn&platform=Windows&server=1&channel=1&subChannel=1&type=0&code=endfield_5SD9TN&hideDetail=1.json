@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "d22fc2fbe19a29810accccd63e4b2b61",
+    "version": "5265af9e6a2e44ee14fe1e43e5feeefb",
     "onlineList": [
       {
         "cid": "6424",
@@ -96,6 +96,12 @@
         "needPopup": false
       },
       {
+        "cid": "7274",
+        "version": 1784880217,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "7277",
         "version": 1784095752,
         "needRedDot": true,
@@ -175,7 +181,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1785441600,
+    "updatedAt": 1785466800,
     "list": [
       {
         "cid": "6424",
@@ -330,6 +336,17 @@
         "startAt": 1784156400,
         "focus": 0,
         "title": "临渊望北\\n特许寻访"
+      },
+      {
+        "cid": "7274",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1785466800,
+        "focus": 0,
+        "title": "理智补给"
       },
       {
         "cid": "7277",

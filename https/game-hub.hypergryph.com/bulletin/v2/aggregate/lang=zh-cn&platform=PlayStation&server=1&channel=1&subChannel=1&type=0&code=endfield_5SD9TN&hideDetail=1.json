@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "ce3bf3f9c6b87f8c220ffbc616348fd0",
+    "version": "90b88ca4db433e883ebdcd3c458d7702",
     "onlineList": [
       {
         "cid": "9858",
@@ -56,6 +56,12 @@
       {
         "cid": "4602",
         "version": 1784095732,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7274",
+        "version": 1784880217,
         "needRedDot": true,
         "needPopup": false
       },
@@ -139,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1785441600,
+    "updatedAt": 1785466800,
     "list": [
       {
         "cid": "9858",
@@ -228,6 +234,17 @@
         "startAt": 1784156400,
         "focus": 0,
         "title": "临渊望北\\n特许寻访"
+      },
+      {
+        "cid": "7274",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1785466800,
+        "focus": 0,
+        "title": "理智补给"
       },
       {
         "cid": "7277",
