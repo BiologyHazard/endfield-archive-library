@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "5265af9e6a2e44ee14fe1e43e5feeefb",
+    "version": "950b7774ba435a6edf1d5755d6deba37",
     "onlineList": [
       {
         "cid": "6424",
@@ -38,12 +38,6 @@
       {
         "cid": "3033",
         "version": 1784265509,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "4600",
-        "version": 1784256119,
         "needRedDot": true,
         "needPopup": false
       },
@@ -181,7 +175,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1785466800,
+    "updatedAt": 1785513540,
     "list": [
       {
         "cid": "6424",
@@ -237,17 +231,6 @@
         "startAt": 1784354400,
         "focus": 0,
         "title": "森空岛向渊行\\n创作者激励活动"
-      },
-      {
-        "cid": "4600",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1784268000,
-        "focus": 0,
-        "title": "完成限时签到\\n领取丰厚奖励"
       },
       {
         "cid": "7275",
