@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "90b88ca4db433e883ebdcd3c458d7702",
+    "version": "23e40ca2c19aafe4ca73c24619da94e0",
     "onlineList": [
+      {
+        "cid": "3031",
+        "version": 1785382578,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "9858",
         "version": 1784775312,
@@ -145,8 +151,26 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1785466800,
+    "updatedAt": 1785729600,
     "list": [
+      {
+        "cid": "3031",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1785729600,
+        "focus": 0,
+        "title": "2026鹰角嘉年华\\n衍生品上新！",
+        "header": "",
+        "jumpButton": null,
+        "data": {
+          "url": "https://web.hycdn.cn/upload/image/20260730/ef7b2acdb2ee223a61270fdafc912e7c.jpg",
+          "link": "https://market.m.taobao.com/app/tb-shop/shop-page-webapp/pages/custom-page/index.html?shopId=414690138&sellerId=2221386384051&pageId=471393093&pathInfo=shop/activity2&isShopDomain=true",
+          "linkType": 1
+        }
+      },
       {
         "cid": "9858",
         "type": 0,

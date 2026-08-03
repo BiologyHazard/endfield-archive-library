@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "3031",
+    "type": 0,
+    "tab": "news",
+    "orderType": 0,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1785729600,
+    "title": "2026鹰角嘉年华\\n衍生品上新！",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260730/ef7b2acdb2ee223a61270fdafc912e7c.jpg",
+      "link": "https://market.m.taobao.com/app/tb-shop/shop-page-webapp/pages/custom-page/index.html?shopId=414690138&sellerId=2221386384051&pageId=471393093&pathInfo=shop/activity2&isShopDomain=true",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1785382578
+  },
+  "msg": ""
+}

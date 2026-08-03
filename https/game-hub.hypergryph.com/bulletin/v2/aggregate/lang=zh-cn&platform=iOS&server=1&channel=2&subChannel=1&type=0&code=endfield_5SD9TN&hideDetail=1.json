@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "696e24139e3836d1b71b6c86708886ff",
+    "version": "3650fa930bfed9ab455a5c13260b09a3",
     "onlineList": [
+      {
+        "cid": "3031",
+        "version": 1785382578,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "6424",
         "version": 1784189358,
@@ -157,8 +163,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1785466800,
+    "updatedAt": 1785729600,
     "list": [
+      {
+        "cid": "3031",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1785729600,
+        "focus": 0,
+        "title": "2026鹰角嘉年华\\n衍生品上新！"
+      },
       {
         "cid": "6424",
         "type": 0,
