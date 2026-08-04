@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1785798585",
+  "timestamp": "1785825208",
   "data": {
     "list": [
       {
@@ -2492,7 +2492,7 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://weeklyMustWatch?id=68",
+            "link": "skland://weeklyMustWatch?id=69",
             "position": 1,
             "status": 2,
             "startAtTs": 0,
