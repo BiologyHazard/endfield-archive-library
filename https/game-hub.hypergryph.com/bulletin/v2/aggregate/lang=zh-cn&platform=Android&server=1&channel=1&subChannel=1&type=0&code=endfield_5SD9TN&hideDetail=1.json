@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "54adcd5b7d505e9271916aa8efaf7906",
+    "version": "807ef8326913ab73c0d1e42a65cec84c",
     "onlineList": [
       {
         "cid": "3031",
@@ -92,6 +92,12 @@
       {
         "cid": "4602",
         "version": 1784095732,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "5515",
+        "version": 1784862366,
         "needRedDot": true,
         "needPopup": false
       },
@@ -181,7 +187,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1785729600,
+    "updatedAt": 1785902400,
     "list": [
       {
         "cid": "3031",
@@ -336,6 +342,17 @@
         "startAt": 1784156400,
         "focus": 0,
         "title": "临渊望北\\n特许寻访"
+      },
+      {
+        "cid": "5515",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1785902400,
+        "focus": 0,
+        "title": "影拓丰碑\\n系列更新"
       },
       {
         "cid": "7274",
