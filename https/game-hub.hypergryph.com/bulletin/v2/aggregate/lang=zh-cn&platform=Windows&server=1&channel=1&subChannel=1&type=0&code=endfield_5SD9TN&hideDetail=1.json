@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "5540106d7fda5521aedef8f4c1b66afc",
+    "version": "3754e9d991f1569c50fa6067a2c5997e",
     "onlineList": [
       {
         "cid": "3031",
@@ -39,6 +39,12 @@
         "cid": "6426",
         "version": 1784714884,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "2190",
+        "version": 1784881382,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -187,7 +193,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1785902400,
+    "updatedAt": 1786078800,
     "list": [
       {
         "cid": "3031",
@@ -243,6 +249,17 @@
         "startAt": 1784156400,
         "focus": 0,
         "title": "向渊行\\n版本日历"
+      },
+      {
+        "cid": "2190",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1786078800,
+        "focus": 0,
+        "title": "战争回响\\n谵妄赛季"
       },
       {
         "cid": "3033",
