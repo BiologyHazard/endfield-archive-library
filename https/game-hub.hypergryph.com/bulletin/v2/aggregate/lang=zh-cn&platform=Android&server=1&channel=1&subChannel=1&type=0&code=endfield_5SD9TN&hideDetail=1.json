@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "97305827ca556c74a5ae4c4cd408a847",
+    "version": "24328c44a1368d63c45e7437cade42f8",
     "onlineList": [
       {
         "cid": "8947",
@@ -138,12 +138,6 @@
         "needPopup": false
       },
       {
-        "cid": "7274",
-        "version": 1784880217,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "7277",
         "version": 1784095752,
         "needRedDot": true,
@@ -223,7 +217,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1786201200,
+    "updatedAt": 1786219200,
     "list": [
       {
         "cid": "8947",
@@ -455,17 +449,6 @@
         "startAt": 1785902400,
         "focus": 0,
         "title": "影拓丰碑\\n系列更新"
-      },
-      {
-        "cid": "7274",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1785466800,
-        "focus": 0,
-        "title": "理智补给"
       },
       {
         "cid": "7277",
