@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "f6c791645f4ee7207846c50e9fad8800",
+    "version": "b804fbc8e41b56d464b358cc0912af4d",
     "onlineList": [
       {
         "cid": "3031",
@@ -90,6 +90,12 @@
         "needPopup": false
       },
       {
+        "cid": "4601",
+        "version": 1784095787,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "2193",
         "version": 1784095727,
         "needRedDot": true,
@@ -98,6 +104,12 @@
       {
         "cid": "4602",
         "version": 1784095732,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "4609",
+        "version": 1784880496,
         "needRedDot": true,
         "needPopup": false
       },
@@ -199,7 +211,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1786161600,
+    "updatedAt": 1786185000,
     "list": [
       {
         "cid": "3031",
@@ -345,6 +357,17 @@
         "title": "游戏工具指南"
       },
       {
+        "cid": "4601",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1786183200,
+        "focus": 0,
+        "title": "晨星于此闪耀\\n特许寻访"
+      },
+      {
         "cid": "2193",
         "type": 0,
         "tab": "updates",
@@ -365,6 +388,17 @@
         "startAt": 1784156400,
         "focus": 0,
         "title": "临渊望北\\n特许寻访"
+      },
+      {
+        "cid": "4609",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1786185000,
+        "focus": 0,
+        "title": "明曜申领"
       },
       {
         "cid": "3032",

@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "1165",
+        "tab": "notices",
+        "sticky": true,
+        "title": "「晨星于此闪耀」特许寻访说明",
+        "author": "",
+        "displayTime": 1786183200,
+        "cover": "https://web.hycdn.cn/upload/image/20260730/9e816139877ce8a07a30b1d001d7341d.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：「晨星于此闪耀」特许寻访开放期间，6星干员【梨诺】获取概率提升！「明耀晨星」限时签到活动同步开放，累计签到可获得【明耀晨星寻访凭证】×5等奖励，还可在【集成配额交易】中进行【明耀晨星寻访"
+      },
+      {
         "cid": "9335",
         "tab": "notices",
         "sticky": true,
@@ -24,6 +35,17 @@
         "cover": "https://web.hycdn.cn/upload/image/20260707/9ff7c1725355749cff77b5e7718ce2e9.jpg",
         "extraCover": "",
         "brief": "亲爱的管理员：「临渊望北」特许寻访开放期间，6星干员【诀】获取概率提升！「踞渊北眺」限时签到活动同步开放，累计签到可获得【踞渊北眺寻访凭证】×5等奖励，还可在【集成配额交易】中进行【踞渊北眺寻访凭证】"
+      },
+      {
+        "cid": "7216",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「明曜申领」限时特卖说明",
+        "author": "",
+        "displayTime": 1786185000,
+        "cover": "https://web.hycdn.cn/upload/image/20260730/582e9e65b618415860f7771e8b439325.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：「明曜申领」开放期间，6星武器【曜夜的首演（长柄武器）】获取概率提升！▼//「明曜申领」· 开放时间：2026/08/09 12:00（服务器时间）开启，于3次「特许寻访」后结束（从「晨"
       },
       {
         "cid": "3809",
@@ -90,32 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260717/3f48e2990c87ea0611f5d82ede622d96.jpg",
         "extraCover": "",
         "brief": "亲爱的管理员：《明日方舟：终末地》官方云游戏《云·终末地》安卓＆iOS端不限量测试现已开启！完成《云·终末地》超小包体下载，即可尽情探索塔卫二，享受高画质、高帧率的云游戏体验。云端之上，体验不设限！▼"
-      },
-      {
-        "cid": "3802",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「军列申领」限时特卖说明",
-        "author": "",
-        "displayTime": 1784111400,
-        "cover": "https://web.hycdn.cn/upload/image/20260713/f5d94f43a7597d8b7dc2d65df883a756.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「军列申领」开放期间，6星武器【四二式·肃阵（施术单元）】获取概率提升！▼//「军列申领」· 开放时间：「向渊行」版本更新后开启，于3次「特许寻访」后结束（从「临渊望北」起计算）· 开放"
-      },
-      {
-        "cid": "0424",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「向渊行」版本预下载与更新预告",
-        "author": "",
-        "displayTime": 1784001600,
-        "cover": "https://web.hycdn.cn/upload/image/20260714/19dee94ed3a54fbdc69a4febc44f6136.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：《明日方舟：终末地》「相伴庆典」＆「向渊行」核心章节版本预下载现已开启，管理员可提前下载PC端及PlayStation®5的部分游戏资源，在版本更新维护结束后，更快地进入游戏。此外，我们"
       }
     ],
     "current": 1,
     "pageSize": 10,
-    "total": 89
+    "total": 91
   }
 }
