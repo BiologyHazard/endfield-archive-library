@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "85fe01285b02e693ea6c84e662b50bc1",
+    "version": "365e589e6d661f208dbc1209bb550a48",
     "onlineList": [
       {
         "cid": "3031",
@@ -80,6 +80,12 @@
       {
         "cid": "4602",
         "version": 1784095732,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3032",
+        "version": 1784882727,
         "needRedDot": true,
         "needPopup": false
       },
@@ -175,7 +181,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1786078800,
+    "updatedAt": 1786161600,
     "list": [
       {
         "cid": "3031",
@@ -308,6 +314,17 @@
         "startAt": 1784156400,
         "focus": 0,
         "title": "临渊望北\\n特许寻访"
+      },
+      {
+        "cid": "3032",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1786161600,
+        "focus": 0,
+        "title": "根脉奇境"
       },
       {
         "cid": "5515",
