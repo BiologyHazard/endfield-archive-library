@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "29ffc892f1af90e1c4a9a7373c1e4f19",
+    "version": "97305827ca556c74a5ae4c4cd408a847",
     "onlineList": [
+      {
+        "cid": "8947",
+        "version": 1786192653,
+        "needRedDot": false,
+        "needPopup": false
+      },
       {
         "cid": "3031",
         "version": 1785382578,
@@ -104,6 +110,12 @@
       {
         "cid": "4602",
         "version": 1784095732,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7276",
+        "version": 1784095813,
         "needRedDot": true,
         "needPopup": false
       },
@@ -211,8 +223,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1786185000,
+    "updatedAt": 1786201200,
     "list": [
+      {
+        "cid": "8947",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1786201200,
+        "focus": 1,
+        "title": "闪断更新公告"
+      },
       {
         "cid": "3031",
         "type": 0,
@@ -388,6 +411,17 @@
         "startAt": 1784156400,
         "focus": 0,
         "title": "临渊望北\\n特许寻访"
+      },
+      {
+        "cid": "7276",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1786186800,
+        "focus": 0,
+        "title": "如同流星飞越边界"
       },
       {
         "cid": "4609",
