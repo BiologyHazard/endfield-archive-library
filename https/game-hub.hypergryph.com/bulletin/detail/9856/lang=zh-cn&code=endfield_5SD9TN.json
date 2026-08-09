@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "9856",
+    "type": 0,
+    "tab": "news",
+    "orderType": 0,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1786248000,
+    "title": "渊客停快送系列\\n火热预售中",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260730/5887fa415ccfd37ed56057754ba84524.jpg",
+      "link": "https://market.m.taobao.com/app/tb-shop/shop-page-webapp/pages/custom-page/index.html?shopId=414690138&sellerId=2221386384051&pageId=474899619&pathInfo=shop/activity2&isShopDomain=true",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1785382575
+  },
+  "msg": ""
+}

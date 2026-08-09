@@ -9,12 +9,12 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "1bdfb5b20a3b489d3e2a64cc3bec4a9e",
+    "version": "718f05b71f3cc2df2e37e279b96e8227",
     "onlineList": [
       {
-        "cid": "8947",
-        "version": 1786192653,
-        "needRedDot": false,
+        "cid": "9856",
+        "version": 1785382575,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -25,7 +25,7 @@
       },
       {
         "cid": "9858",
-        "version": 1784775312,
+        "version": 1786246270,
         "needRedDot": true,
         "needPopup": false
       },
@@ -48,18 +48,6 @@
         "needPopup": false
       },
       {
-        "cid": "5518",
-        "version": 1784031817,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "1369",
-        "version": 1784096826,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "4601",
         "version": 1784095787,
         "needRedDot": true,
@@ -68,12 +56,6 @@
       {
         "cid": "2193",
         "version": 1784095727,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "4602",
-        "version": 1784095732,
         "needRedDot": true,
         "needPopup": false
       },
@@ -114,20 +96,8 @@
         "needPopup": false
       },
       {
-        "cid": "0785",
-        "version": 1783917310,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "8941",
         "version": 1784096154,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "9859",
-        "version": 1784097125,
         "needRedDot": true,
         "needPopup": false
       },
@@ -181,18 +151,18 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1786219200,
+    "updatedAt": 1786248000,
     "list": [
       {
-        "cid": "8947",
+        "cid": "9856",
         "type": 0,
-        "tab": "updates",
+        "tab": "news",
         "orderType": 0,
         "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1786201200,
-        "focus": 1,
-        "title": "闪断更新公告"
+        "displayType": "picture",
+        "startAt": 1786248000,
+        "focus": 0,
+        "title": "渊客停快送系列\\n火热预售中"
       },
       {
         "cid": "3031",
@@ -250,28 +220,6 @@
         "title": "战争回响\\n谵妄赛季"
       },
       {
-        "cid": "5518",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1784156400,
-        "focus": 0,
-        "title": "相伴赠礼"
-      },
-      {
-        "cid": "1369",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1784156400,
-        "focus": 0,
-        "title": "战争回响"
-      },
-      {
         "cid": "4601",
         "type": 0,
         "tab": "events",
@@ -292,17 +240,6 @@
         "startAt": 1784156400,
         "focus": 0,
         "title": "塔晶集换"
-      },
-      {
-        "cid": "4602",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1784156400,
-        "focus": 0,
-        "title": "临渊望北\\n特许寻访"
       },
       {
         "cid": "7276",
@@ -371,17 +308,6 @@
         "title": "向渊行\\n组合包"
       },
       {
-        "cid": "0785",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1784156400,
-        "focus": 0,
-        "title": "军列申领"
-      },
-      {
         "cid": "8941",
         "type": 0,
         "tab": "updates",
@@ -391,17 +317,6 @@
         "startAt": 1784156400,
         "focus": 0,
         "title": "协议通行证\\n蚀海"
-      },
-      {
-        "cid": "9859",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 4,
-        "displayType": "rich_text",
-        "startAt": 1784156400,
-        "focus": 0,
-        "title": "北观禁土"
       },
       {
         "cid": "6432",
