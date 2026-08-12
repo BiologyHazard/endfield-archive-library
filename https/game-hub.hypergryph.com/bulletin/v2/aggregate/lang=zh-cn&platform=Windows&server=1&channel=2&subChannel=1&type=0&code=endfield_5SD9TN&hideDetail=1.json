@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "981901cffdd65d1f545dbe63ae9090db",
+    "version": "d050f8aee3fb1963978775788c082038",
     "onlineList": [
       {
         "cid": "9856",
@@ -102,12 +102,6 @@
         "needPopup": false
       },
       {
-        "cid": "7277",
-        "version": 1784095752,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "6425",
         "version": 1784095846,
         "needRedDot": true,
@@ -169,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1786421190,
+    "updatedAt": 1786564800,
     "list": [
       {
         "cid": "9856",
@@ -335,17 +329,6 @@
         "startAt": 1785902400,
         "focus": 0,
         "title": "影拓丰碑\\n系列更新"
-      },
-      {
-        "cid": "7277",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1785294000,
-        "focus": 0,
-        "title": "炽燃！竞技大会！"
       },
       {
         "cid": "6425",
