@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "927b4f66e320ee1b92b92946d392cdd2",
+    "version": "3c020641029ca6208bdcbbfbade7036e",
     "onlineList": [
       {
         "cid": "9856",
@@ -44,6 +44,12 @@
       {
         "cid": "2190",
         "version": 1784881382,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0780",
+        "version": 1785832303,
         "needRedDot": true,
         "needPopup": false
       },
@@ -145,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1786564800,
+    "updatedAt": 1786590000,
     "list": [
       {
         "cid": "9856",
@@ -212,6 +218,17 @@
         "startAt": 1786078800,
         "focus": 0,
         "title": "战争回响\\n谵妄赛季"
+      },
+      {
+        "cid": "0780",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1786590000,
+        "focus": 0,
+        "title": "版本调研问卷"
       },
       {
         "cid": "4601",

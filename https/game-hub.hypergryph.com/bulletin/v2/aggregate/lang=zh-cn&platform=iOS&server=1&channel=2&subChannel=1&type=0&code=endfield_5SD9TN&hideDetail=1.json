@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "3e2205639e016ed7674159a97605fe0e",
+    "version": "d92d51451df99015b2a1bff49f768011",
     "onlineList": [
       {
         "cid": "9856",
@@ -62,6 +62,12 @@
       {
         "cid": "1392",
         "version": 1768982321,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0780",
+        "version": 1785832303,
         "needRedDot": true,
         "needPopup": false
       },
@@ -163,7 +169,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1786564800,
+    "updatedAt": 1786590000,
     "list": [
       {
         "cid": "9856",
@@ -263,6 +269,17 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
+      },
+      {
+        "cid": "0780",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1786590000,
+        "focus": 0,
+        "title": "版本调研问卷"
       },
       {
         "cid": "4601",

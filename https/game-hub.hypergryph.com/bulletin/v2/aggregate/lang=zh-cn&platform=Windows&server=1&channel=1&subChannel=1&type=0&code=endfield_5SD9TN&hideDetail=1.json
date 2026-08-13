@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "c301357d7bd3283b522f3853f9fc2f5f",
+    "version": "5210853c1c5514e90c9ccb0819f79156",
     "onlineList": [
       {
         "cid": "9856",
@@ -80,6 +80,12 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0780",
+        "version": 1785832303,
         "needRedDot": true,
         "needPopup": false
       },
@@ -181,7 +187,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1786564800,
+    "updatedAt": 1786590000,
     "list": [
       {
         "cid": "9856",
@@ -314,6 +320,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "0780",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1786590000,
+        "focus": 0,
+        "title": "版本调研问卷"
       },
       {
         "cid": "4601",
