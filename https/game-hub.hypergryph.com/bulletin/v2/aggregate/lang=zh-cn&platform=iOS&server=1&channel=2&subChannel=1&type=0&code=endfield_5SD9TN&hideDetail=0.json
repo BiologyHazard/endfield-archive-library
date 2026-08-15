@@ -9,23 +9,17 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "d92d51451df99015b2a1bff49f768011",
+    "version": "206c98616dcd589a79b3ba5bf4d93225",
     "onlineList": [
       {
-        "cid": "9856",
-        "version": 1785382575,
+        "cid": "3030",
+        "version": 1786810800,
         "needRedDot": true,
         "needPopup": false
       },
       {
         "cid": "3031",
         "version": 1785382578,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "6424",
-        "version": 1784189358,
         "needRedDot": true,
         "needPopup": false
       },
@@ -169,23 +163,22 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1786590000,
+    "updatedAt": 1786810801,
     "list": [
       {
-        "cid": "9856",
+        "cid": "3030",
         "type": 0,
-        "tab": "news",
+        "tab": "updates",
         "orderType": 0,
         "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1786248000,
-        "focus": 0,
-        "title": "渊客停快送系列\\n火热预售中",
-        "header": "",
+        "displayType": "rich_text",
+        "startAt": 1786797000,
+        "focus": 1,
+        "title": "更新说明",
+        "header": "「根脉奇境」活动更新调整说明",
         "jumpButton": null,
         "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260730/5887fa415ccfd37ed56057754ba84524.jpg",
-          "link": "https://market.m.taobao.com/app/tb-shop/shop-page-webapp/pages/custom-page/index.html?shopId=414690138&sellerId=2221386384051&pageId=474899619&pathInfo=shop/activity2&isShopDomain=true",
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260816/ea189982ef67fc6a1a3e8151a2807f54.png\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：</p><p>近期我们关注到管理员反馈的「根脉奇境」活动阶段2内容更新后，部分关卡体验不佳的问题，我们将在 2026/08/16 07:00 闪断更新后对通路区域的探索节奏进行优化调整。</p><p></p><p><strong>▼//优化及调整内容</strong></p><p>· 优化了「根脉奇境」活动中通路区域的探索节奏，挑战限制时长将延长至30分钟。</p><p></p><p><strong>▼//更新补偿</strong></p><p>针对本次体验问题优化，我们将通过邮件发放调整补偿：</p><p>· 嵌晶玉 × 200</p><p></p><p>· 发放时间：2026/08/16 闪断更新维护后 - 下个版本更新维护前</p><p>· 发放条件：2026/08/16 07:00（UTC+8）更新前所有注册并创建角色的管理员。</p><p>· 发放说明：开启【邮箱】功能后领取，邮件有效期为30天，请注意及时领取。</p><p></p><p>感谢管理员对《明日方舟：终末地》一直以来的关注与支持！</p>",
           "linkType": 1
         }
       },
@@ -204,24 +197,6 @@
         "data": {
           "url": "https://web.hycdn.cn/upload/image/20260730/ef7b2acdb2ee223a61270fdafc912e7c.jpg",
           "link": "https://market.m.taobao.com/app/tb-shop/shop-page-webapp/pages/custom-page/index.html?shopId=414690138&sellerId=2221386384051&pageId=471393093&pathInfo=shop/activity2&isShopDomain=true",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "6424",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1784260800,
-        "focus": 0,
-        "title": "渊客停系列\\n衍生品现已开售",
-        "header": "",
-        "jumpButton": null,
-        "data": {
-          "url": "https://web.hycdn.cn/upload/image/20260716/01875056730eb8d7249c3c38bf5094ff.png",
-          "link": "http://arknightsendfieldyx.tmall.com/index.htm",
           "linkType": 1
         }
       },

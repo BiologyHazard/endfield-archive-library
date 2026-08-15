@@ -9,23 +9,17 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "d92d51451df99015b2a1bff49f768011",
+    "version": "206c98616dcd589a79b3ba5bf4d93225",
     "onlineList": [
       {
-        "cid": "9856",
-        "version": 1785382575,
+        "cid": "3030",
+        "version": 1786810800,
         "needRedDot": true,
         "needPopup": false
       },
       {
         "cid": "3031",
         "version": 1785382578,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "6424",
-        "version": 1784189358,
         "needRedDot": true,
         "needPopup": false
       },
@@ -169,18 +163,18 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1786590000,
+    "updatedAt": 1786810801,
     "list": [
       {
-        "cid": "9856",
+        "cid": "3030",
         "type": 0,
-        "tab": "news",
+        "tab": "updates",
         "orderType": 0,
         "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1786248000,
-        "focus": 0,
-        "title": "渊客停快送系列\\n火热预售中"
+        "displayType": "rich_text",
+        "startAt": 1786797000,
+        "focus": 1,
+        "title": "更新说明"
       },
       {
         "cid": "3031",
@@ -192,17 +186,6 @@
         "startAt": 1785729600,
         "focus": 0,
         "title": "2026鹰角嘉年华\\n衍生品上新！"
-      },
-      {
-        "cid": "6424",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1784260800,
-        "focus": 0,
-        "title": "渊客停系列\\n衍生品现已开售"
       },
       {
         "cid": "9858",
