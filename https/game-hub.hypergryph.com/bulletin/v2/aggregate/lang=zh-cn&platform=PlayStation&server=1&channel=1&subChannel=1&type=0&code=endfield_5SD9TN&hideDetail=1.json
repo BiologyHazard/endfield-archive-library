@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "ea25273b9abb62ae972c680f172dcf22",
+    "version": "9f14151e7a6b1ba094f55d0612d957af",
     "onlineList": [
       {
         "cid": "3031",
@@ -33,6 +33,12 @@
         "cid": "6426",
         "version": 1784714884,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "1368",
+        "version": 1784097155,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -151,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1786846200,
+    "updatedAt": 1787025600,
     "list": [
       {
         "cid": "3031",
@@ -196,6 +202,17 @@
         "startAt": 1784156400,
         "focus": 0,
         "title": "向渊行\\n版本日历"
+      },
+      {
+        "cid": "1368",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1787025600,
+        "focus": 0,
+        "title": "密境行者\\n空间组更新"
       },
       {
         "cid": "2190",

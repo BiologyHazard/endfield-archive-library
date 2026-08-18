@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "12c38ebcbbe13ae0f8dd6a6ff41ed42e",
+    "version": "49e83bd9c1ca2688e8a9b1cfaed70fd6",
     "onlineList": [
       {
         "cid": "3031",
@@ -33,6 +33,12 @@
         "cid": "6426",
         "version": 1784714884,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "1368",
+        "version": 1784097155,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -175,7 +181,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1786846200,
+    "updatedAt": 1787025600,
     "list": [
       {
         "cid": "3031",
@@ -220,6 +226,17 @@
         "startAt": 1784156400,
         "focus": 0,
         "title": "向渊行\\n版本日历"
+      },
+      {
+        "cid": "1368",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1787025600,
+        "focus": 0,
+        "title": "密境行者\\n空间组更新"
       },
       {
         "cid": "9855",
