@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "9f14151e7a6b1ba094f55d0612d957af",
+    "version": "cac2aa8da74eb92033d21b5a8e48e708",
     "onlineList": [
       {
         "cid": "3031",
@@ -90,12 +90,6 @@
         "needPopup": false
       },
       {
-        "cid": "5515",
-        "version": 1784862366,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "6425",
         "version": 1784095846,
         "needRedDot": true,
@@ -157,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1787025600,
+    "updatedAt": 1787169600,
     "list": [
       {
         "cid": "3031",
@@ -301,17 +295,6 @@
         "startAt": 1786161600,
         "focus": 0,
         "title": "根脉奇境"
-      },
-      {
-        "cid": "5515",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1785902400,
-        "focus": 0,
-        "title": "影拓丰碑\\n系列更新"
       },
       {
         "cid": "6425",
