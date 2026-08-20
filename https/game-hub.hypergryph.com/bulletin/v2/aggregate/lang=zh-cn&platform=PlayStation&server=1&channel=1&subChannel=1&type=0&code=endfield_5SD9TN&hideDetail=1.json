@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "cac2aa8da74eb92033d21b5a8e48e708",
+    "version": "766d5261bba22f6b5794680e088d2937",
     "onlineList": [
       {
         "cid": "3031",
@@ -50,12 +50,6 @@
       {
         "cid": "3068",
         "version": 1769042318,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "0780",
-        "version": 1785832303,
         "needRedDot": true,
         "needPopup": false
       },
@@ -151,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1787169600,
+    "updatedAt": 1787241600,
     "list": [
       {
         "cid": "3031",
@@ -229,17 +223,6 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
-      },
-      {
-        "cid": "0780",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1786590000,
-        "focus": 0,
-        "title": "版本调研问卷"
       },
       {
         "cid": "4601",

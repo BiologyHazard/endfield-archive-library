@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "74a7f5e1593014134926147aa473210e",
+    "version": "04d268916ba0c790d5f32ab05a7604b7",
     "onlineList": [
       {
         "cid": "3031",
@@ -56,12 +56,6 @@
       {
         "cid": "1392",
         "version": 1768982321,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "0780",
-        "version": 1785832303,
         "needRedDot": true,
         "needPopup": false
       },
@@ -157,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1787169600,
+    "updatedAt": 1787241600,
     "list": [
       {
         "cid": "3031",
@@ -246,17 +240,6 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
-      },
-      {
-        "cid": "0780",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1786590000,
-        "focus": 0,
-        "title": "版本调研问卷"
       },
       {
         "cid": "4601",
