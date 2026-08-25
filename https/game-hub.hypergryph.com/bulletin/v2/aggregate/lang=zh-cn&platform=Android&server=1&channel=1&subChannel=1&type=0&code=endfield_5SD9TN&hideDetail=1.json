@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "ad3959dd5dd0ee693160636143d3022f",
+    "version": "2d39afeda912451a66aa0f8f31825f6e",
     "onlineList": [
       {
         "cid": "3031",
@@ -32,6 +32,12 @@
       {
         "cid": "6426",
         "version": 1784714884,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "5514",
+        "version": 1785985074,
         "needRedDot": false,
         "needPopup": false
       },
@@ -74,6 +80,12 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1365",
+        "version": 1785484190,
         "needRedDot": true,
         "needPopup": false
       },
@@ -169,7 +181,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1787241600,
+    "updatedAt": 1787630400,
     "list": [
       {
         "cid": "3031",
@@ -214,6 +226,17 @@
         "startAt": 1784156400,
         "focus": 0,
         "title": "向渊行\\n版本日历"
+      },
+      {
+        "cid": "5514",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1787630400,
+        "focus": 0,
+        "title": "深林覆雪"
       },
       {
         "cid": "1368",
@@ -291,6 +314,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "1365",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1787628600,
+        "focus": 0,
+        "title": "理智补给"
       },
       {
         "cid": "4601",

@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "30d2a1444862b8b187da432e7b693a4c",
+    "version": "6301beed664a50484b16824a6a67756e",
     "onlineList": [
       {
         "cid": "3031",
@@ -36,6 +36,12 @@
         "needPopup": false
       },
       {
+        "cid": "5514",
+        "version": 1785985074,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
         "cid": "1368",
         "version": 1784097155,
         "needRedDot": true,
@@ -56,6 +62,12 @@
       {
         "cid": "1392",
         "version": 1768982321,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1365",
+        "version": 1785484190,
         "needRedDot": true,
         "needPopup": false
       },
@@ -151,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1787241600,
+    "updatedAt": 1787630400,
     "list": [
       {
         "cid": "3031",
@@ -198,6 +210,17 @@
         "title": "向渊行\\n版本日历"
       },
       {
+        "cid": "5514",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1787630400,
+        "focus": 0,
+        "title": "深林覆雪"
+      },
+      {
         "cid": "1368",
         "type": 0,
         "tab": "updates",
@@ -240,6 +263,17 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
+      },
+      {
+        "cid": "1365",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1787628600,
+        "focus": 0,
+        "title": "理智补给"
       },
       {
         "cid": "4601",

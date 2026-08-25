@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "766d5261bba22f6b5794680e088d2937",
+    "version": "8f6bff937802175109469a4258722ac7",
     "onlineList": [
       {
         "cid": "3031",
@@ -36,6 +36,12 @@
         "needPopup": false
       },
       {
+        "cid": "5514",
+        "version": 1785985074,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
         "cid": "1368",
         "version": 1784097155,
         "needRedDot": true,
@@ -50,6 +56,12 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1365",
+        "version": 1785484190,
         "needRedDot": true,
         "needPopup": false
       },
@@ -145,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1787241600,
+    "updatedAt": 1787630400,
     "list": [
       {
         "cid": "3031",
@@ -192,6 +204,17 @@
         "title": "向渊行\\n版本日历"
       },
       {
+        "cid": "5514",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1787630400,
+        "focus": 0,
+        "title": "深林覆雪"
+      },
+      {
         "cid": "1368",
         "type": 0,
         "tab": "updates",
@@ -223,6 +246,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "1365",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1787628600,
+        "focus": 0,
+        "title": "理智补给"
       },
       {
         "cid": "4601",
