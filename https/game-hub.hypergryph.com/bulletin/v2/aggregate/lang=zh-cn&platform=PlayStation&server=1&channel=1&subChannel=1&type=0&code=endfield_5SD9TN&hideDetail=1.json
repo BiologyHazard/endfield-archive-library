@@ -9,11 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "8f6bff937802175109469a4258722ac7",
+    "version": "e21115f6d0229fbcdff9de2a58c8aa02",
     "onlineList": [
       {
-        "cid": "3031",
-        "version": 1785382578,
+        "cid": "5513",
+        "version": 1787651427,
         "needRedDot": true,
         "needPopup": false
       },
@@ -157,18 +157,18 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1787630400,
+    "updatedAt": 1787673540,
     "list": [
       {
-        "cid": "3031",
+        "cid": "5513",
         "type": 0,
-        "tab": "news",
+        "tab": "updates",
         "orderType": 0,
         "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1785729600,
-        "focus": 0,
-        "title": "2026鹰角嘉年华\\n衍生品上新！"
+        "displayType": "rich_text",
+        "startAt": 1787670000,
+        "focus": 1,
+        "title": "闪断更新公告"
       },
       {
         "cid": "9858",

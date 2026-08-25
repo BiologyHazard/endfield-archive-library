@@ -9,11 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "c6555ee7d385f5c1caf1f1cbfb89ff4e",
+    "version": "c920b68feb36892d1aee1eb7c4d3c526",
     "onlineList": [
       {
-        "cid": "3031",
-        "version": 1785382578,
+        "cid": "5513",
+        "version": 1787651427,
         "needRedDot": true,
         "needPopup": false
       },
@@ -163,18 +163,18 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1787630400,
+    "updatedAt": 1787673540,
     "list": [
       {
-        "cid": "3031",
+        "cid": "5513",
         "type": 0,
-        "tab": "news",
+        "tab": "updates",
         "orderType": 0,
         "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1785729600,
-        "focus": 0,
-        "title": "2026鹰角嘉年华\\n衍生品上新！"
+        "displayType": "rich_text",
+        "startAt": 1787670000,
+        "focus": 1,
+        "title": "闪断更新公告"
       },
       {
         "cid": "9858",
