@@ -9,14 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "c920b68feb36892d1aee1eb7c4d3c526",
+    "version": "e85ce95fcd2f4db0f32502fbb03576e1",
     "onlineList": [
-      {
-        "cid": "5513",
-        "version": 1787651427,
-        "needRedDot": true,
-        "needPopup": false
-      },
       {
         "cid": "9858",
         "version": 1786837278,
@@ -62,6 +56,12 @@
       {
         "cid": "1392",
         "version": 1768982321,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9857",
+        "version": 1784882767,
         "needRedDot": true,
         "needPopup": false
       },
@@ -163,19 +163,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1787673540,
+    "updatedAt": 1787715000,
     "list": [
-      {
-        "cid": "5513",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1787670000,
-        "focus": 1,
-        "title": "闪断更新公告"
-      },
       {
         "cid": "9858",
         "type": 0,
@@ -263,6 +252,17 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
+      },
+      {
+        "cid": "9857",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1787715000,
+        "focus": 0,
+        "title": "提速任务开启"
       },
       {
         "cid": "1365",

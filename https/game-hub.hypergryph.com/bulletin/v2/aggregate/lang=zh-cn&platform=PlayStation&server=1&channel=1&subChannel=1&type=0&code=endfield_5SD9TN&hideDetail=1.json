@@ -9,14 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "e21115f6d0229fbcdff9de2a58c8aa02",
+    "version": "27d236c604119251d06896180d9bf972",
     "onlineList": [
-      {
-        "cid": "5513",
-        "version": 1787651427,
-        "needRedDot": true,
-        "needPopup": false
-      },
       {
         "cid": "9858",
         "version": 1786837278,
@@ -56,6 +50,12 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9857",
+        "version": 1784882767,
         "needRedDot": true,
         "needPopup": false
       },
@@ -157,19 +157,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1787673540,
+    "updatedAt": 1787715000,
     "list": [
-      {
-        "cid": "5513",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1787670000,
-        "focus": 1,
-        "title": "闪断更新公告"
-      },
       {
         "cid": "9858",
         "type": 0,
@@ -246,6 +235,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "9857",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1787715000,
+        "focus": 0,
+        "title": "提速任务开启"
       },
       {
         "cid": "1365",
