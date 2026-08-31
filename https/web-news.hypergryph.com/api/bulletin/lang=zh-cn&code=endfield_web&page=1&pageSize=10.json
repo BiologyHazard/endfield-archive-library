@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "1164",
+        "tab": "notices",
+        "sticky": true,
+        "title": "「雪凇幽梦」版本预下载与更新预告",
+        "author": "",
+        "displayTime": 1788148800,
+        "cover": "https://web.hycdn.cn/upload/image/20260829/5710c389eb98e003669bf9d6a5406bee.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：《明日方舟：终末地》「雪凇幽梦」版本预下载现已开启，管理员可提前下载PC端及PlayStation®5的部分游戏资源，在版本更新维护结束后，更快地进入游戏。此外，我们计划将于2026年9"
+      },
+      {
         "cid": "4776",
         "tab": "news",
         "sticky": true,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260715/093954f7fa35a27aa3e79702ef6f3edb.jpg",
         "extraCover": "",
         "brief": "「协议邀约：重归」网页活动说明信息开始扩散，文字与声音传递向各方，暂缓旅行的人们，愿各位能重归塔卫二。>>点击前往「协议邀约：重归」网页活动<<▼//活动时间「向渊行」版本期间▼//参与条件活动中心解"
-      },
-      {
-        "cid": "6090",
-        "tab": "notices",
-        "sticky": false,
-        "title": "《云·终末地》安卓＆iOS端不限量测试已开启",
-        "author": "",
-        "displayTime": 1784174400,
-        "cover": "https://web.hycdn.cn/upload/image/20260717/3f48e2990c87ea0611f5d82ede622d96.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：《明日方舟：终末地》官方云游戏《云·终末地》安卓＆iOS端不限量测试现已开启！完成《云·终末地》超小包体下载，即可尽情探索塔卫二，享受高画质、高帧率的云游戏体验。云端之上，体验不设限！▼"
       }
     ],
     "current": 1,
     "pageSize": 10,
-    "total": 92
+    "total": 93
   }
 }
