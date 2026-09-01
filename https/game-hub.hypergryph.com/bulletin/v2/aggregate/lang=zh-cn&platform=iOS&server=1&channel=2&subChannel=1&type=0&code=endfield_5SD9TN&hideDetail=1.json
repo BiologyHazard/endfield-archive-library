@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "f983f281f4d67b16c4cbbecef2738ced",
+    "version": "133867e358bdf717c5e67475fc371d00",
     "onlineList": [
       {
         "cid": "6412",
@@ -50,12 +50,6 @@
       {
         "cid": "2190",
         "version": 1784881382,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "5516",
-        "version": 1784188419,
         "needRedDot": true,
         "needPopup": false
       },
@@ -169,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1788148800,
+    "updatedAt": 1788278340,
     "list": [
       {
         "cid": "6412",
@@ -248,17 +242,6 @@
         "startAt": 1786078800,
         "focus": 0,
         "title": "战争回响\\n谵妄赛季"
-      },
-      {
-        "cid": "5516",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1784264400,
-        "focus": 0,
-        "title": "创作征集活动"
       },
       {
         "cid": "1392",
