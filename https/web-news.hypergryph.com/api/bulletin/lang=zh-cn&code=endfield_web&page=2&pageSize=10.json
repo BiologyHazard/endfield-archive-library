@@ -4,17 +4,6 @@
   "data": {
     "list": [
       {
-        "cid": "2656",
-        "tab": "events",
-        "sticky": false,
-        "title": "「协议邀约：重归」网页活动说明",
-        "author": "",
-        "displayTime": 1784179800,
-        "cover": "https://web.hycdn.cn/upload/image/20260715/093954f7fa35a27aa3e79702ef6f3edb.jpg",
-        "extraCover": "",
-        "brief": "「协议邀约：重归」网页活动说明信息开始扩散，文字与声音传递向各方，暂缓旅行的人们，愿各位能重归塔卫二。>>点击前往「协议邀约：重归」网页活动<<▼//活动时间「向渊行」版本期间▼//参与条件活动中心解"
-      },
-      {
         "cid": "6090",
         "tab": "notices",
         "sticky": false,
@@ -24,6 +13,17 @@
         "cover": "https://web.hycdn.cn/upload/image/20260717/3f48e2990c87ea0611f5d82ede622d96.jpg",
         "extraCover": "",
         "brief": "亲爱的管理员：《明日方舟：终末地》官方云游戏《云·终末地》安卓＆iOS端不限量测试现已开启！完成《云·终末地》超小包体下载，即可尽情探索塔卫二，享受高画质、高帧率的云游戏体验。云端之上，体验不设限！▼"
+      },
+      {
+        "cid": "9335",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「向渊行」版本更新说明",
+        "author": "",
+        "displayTime": 1784163600,
+        "cover": "https://web.hycdn.cn/upload/image/20260715/a816d526872e655f6324a2f026e6be2f.jpg",
+        "extraCover": "",
+        "brief": "驱雾瘴，平天堑，大渊在前，我们携手共进。往日未远，前路恒长。在广阔的塔卫二上，我们相伴而行。亲爱的管理员：欢迎来到核心章节版本「向渊行」！▼//更新维护及补偿说明■ 更新维护时间2026/07/16 "
       },
       {
         "cid": "3802",
