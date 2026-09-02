@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "41dfa2fa05ee77b623346e4bc1703dbc",
+    "version": "b442a447e4f5d1e5ca7ed1ad65dafccf",
     "onlineList": [
+      {
+        "cid": "2186",
+        "version": 1788357428,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "3029",
         "version": 1788263286,
@@ -20,12 +26,6 @@
       {
         "cid": "3020",
         "version": 1787996702,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "7261",
-        "version": 1788351838,
         "needRedDot": true,
         "needPopup": false
       },
@@ -115,8 +115,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1788354000,
+    "updatedAt": 1788361200,
     "list": [
+      {
+        "cid": "2186",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1788361200,
+        "focus": 1,
+        "title": "闪断更新公告"
+      },
       {
         "cid": "3029",
         "type": 0,
@@ -138,17 +149,6 @@
         "startAt": 1788303600,
         "focus": 0,
         "title": "雪凇幽梦\\n版本日历"
-      },
-      {
-        "cid": "7261",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1788354000,
-        "focus": 1,
-        "title": "已知问题说明"
       },
       {
         "cid": "1392",
