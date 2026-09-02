@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "0770",
+    "type": 0,
+    "tab": "news",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1788343200,
+    "title": "完成高校认证\\n领专属福利",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260901/3f82291d6b7c336a3b8e99917e0042e1.png",
+      "link": "https://endfield.hypergryph.com/activity/campus-auth/?source_from=game",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1788246225
+  },
+  "msg": ""
+}
