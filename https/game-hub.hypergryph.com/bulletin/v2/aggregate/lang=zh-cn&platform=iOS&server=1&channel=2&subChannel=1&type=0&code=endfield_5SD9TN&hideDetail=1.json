@@ -9,17 +9,17 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "1796f39df7128541ef7db59321cb36a7",
+    "version": "e2eb0e55e10700e5b2db1942e82180bf",
     "onlineList": [
       {
-        "cid": "3020",
-        "version": 1787996702,
+        "cid": "3029",
+        "version": 1788263286,
         "needRedDot": true,
         "needPopup": false
       },
       {
-        "cid": "6412",
-        "version": 1787994796,
+        "cid": "3020",
+        "version": 1787996702,
         "needRedDot": true,
         "needPopup": false
       },
@@ -109,8 +109,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1788303600,
+    "updatedAt": 1788310800,
     "list": [
+      {
+        "cid": "3029",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1788310800,
+        "focus": 0,
+        "title": "版本更新说明"
+      },
       {
         "cid": "3020",
         "type": 0,
@@ -121,17 +132,6 @@
         "startAt": 1788303600,
         "focus": 0,
         "title": "雪凇幽梦\\n版本日历"
-      },
-      {
-        "cid": "6412",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1788148800,
-        "focus": 0,
-        "title": "预下载与\\n更新预告"
       },
       {
         "cid": "1392",

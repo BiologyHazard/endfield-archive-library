@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1788306975",
+  "timestamp": "1788338459",
   "data": {
     "rarities": [
       {
@@ -377,6 +377,22 @@
     ],
     "suitTypes": [
       {
+        "key": "1a4c13870df449ee376d8ed5e8dd9204",
+        "value": "潮涌"
+      },
+      {
+        "key": "805e591c25158a60162ba70f3300928a",
+        "value": "险关"
+      },
+      {
+        "key": "acc7746b79b8757f74e9d79749cba8c9",
+        "value": "集成实训"
+      },
+      {
+        "key": "508f82db8e94556f724c4fbbfbf3e0b0",
+        "value": "长息"
+      },
+      {
         "key": "2a50c1685223ad1c8ee798bc66ab8ac3",
         "value": "M.I.警用"
       },
@@ -393,16 +409,8 @@
         "value": "蚀电屏蔽"
       },
       {
-        "key": "508f82db8e94556f724c4fbbfbf3e0b0",
-        "value": "长息"
-      },
-      {
         "key": "6f111f96a39d526ec108f4896079b7e5",
         "value": "生物辅助"
-      },
-      {
-        "key": "acc7746b79b8757f74e9d79749cba8c9",
-        "value": "集成实训"
       },
       {
         "key": "f394fa805de26d20af37b04c5840b1d2",
@@ -447,10 +455,6 @@
       {
         "key": "40e6cd5cb6531138c7fda69d3bff1c76",
         "value": "脉冲式"
-      },
-      {
-        "key": "1a4c13870df449ee376d8ed5e8dd9204",
-        "value": "潮涌"
       },
       {
         "key": "91a23e201bd0d49f3cbab60dd71588b8",
