@@ -9,11 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "b442a447e4f5d1e5ca7ed1ad65dafccf",
+    "version": "aa15937fd38e49f8c9e282fd8f444568",
     "onlineList": [
       {
-        "cid": "2186",
-        "version": 1788357428,
+        "cid": "0779",
+        "version": 1788403038,
         "needRedDot": true,
         "needPopup": false
       },
@@ -26,6 +26,12 @@
       {
         "cid": "3020",
         "version": 1787996702,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1353",
+        "version": 1788344811,
         "needRedDot": true,
         "needPopup": false
       },
@@ -115,18 +121,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1788361200,
+    "updatedAt": 1788411600,
     "list": [
       {
-        "cid": "2186",
+        "cid": "0779",
         "type": 0,
         "tab": "updates",
         "orderType": 0,
         "orderWeight": 1,
         "displayType": "rich_text",
-        "startAt": 1788361200,
+        "startAt": 1788402600,
         "focus": 1,
-        "title": "闪断更新公告"
+        "extraData": {},
+        "title": "更新修复说明"
       },
       {
         "cid": "3029",
@@ -149,6 +156,17 @@
         "startAt": 1788303600,
         "focus": 0,
         "title": "雪凇幽梦\\n版本日历"
+      },
+      {
+        "cid": "1353",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1788411600,
+        "focus": 0,
+        "title": "创作征集活动"
       },
       {
         "cid": "1392",
