@@ -9,11 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "d4c0ac5daa065b087fc6aad8009c8d16",
+    "version": "90937c2709f265f8bb43107db9fe612b",
     "onlineList": [
       {
         "cid": "0779",
-        "version": 1788491240,
+        "version": 1788533477,
         "needRedDot": true,
         "needPopup": false
       },
@@ -145,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1788494400,
+    "updatedAt": 1788533478,
     "list": [
       {
         "cid": "0779",
