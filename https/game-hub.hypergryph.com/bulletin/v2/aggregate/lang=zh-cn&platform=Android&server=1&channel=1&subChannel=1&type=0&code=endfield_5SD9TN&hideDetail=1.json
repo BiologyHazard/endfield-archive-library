@@ -9,11 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "5e5795f5f178f00c46bf9a27c88920dc",
+    "version": "d4c0ac5daa065b087fc6aad8009c8d16",
     "onlineList": [
       {
         "cid": "0779",
-        "version": 1788403038,
+        "version": 1788491240,
         "needRedDot": true,
         "needPopup": false
       },
@@ -26,6 +26,12 @@
       {
         "cid": "3020",
         "version": 1787996702,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3028",
+        "version": 1788410231,
         "needRedDot": true,
         "needPopup": false
       },
@@ -139,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1788411600,
+    "updatedAt": 1788494400,
     "list": [
       {
         "cid": "0779",
@@ -174,6 +180,17 @@
         "startAt": 1788303600,
         "focus": 0,
         "title": "雪凇幽梦\\n版本日历"
+      },
+      {
+        "cid": "3028",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1788494400,
+        "focus": 0,
+        "title": "「向渊行」\\n开拓日志"
       },
       {
         "cid": "1353",
