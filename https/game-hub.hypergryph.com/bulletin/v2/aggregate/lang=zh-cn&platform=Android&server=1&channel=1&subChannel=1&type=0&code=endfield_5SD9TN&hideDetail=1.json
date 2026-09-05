@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "90937c2709f265f8bb43107db9fe612b",
+    "version": "50a09318d8694a6854debab2b4c6f5b6",
     "onlineList": [
       {
         "cid": "0779",
@@ -26,6 +26,12 @@
       {
         "cid": "3020",
         "version": 1787996702,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9844",
+        "version": 1788246358,
         "needRedDot": true,
         "needPopup": false
       },
@@ -145,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1788533478,
+    "updatedAt": 1788588000,
     "list": [
       {
         "cid": "0779",
@@ -180,6 +186,17 @@
         "startAt": 1788303600,
         "focus": 0,
         "title": "雪凇幽梦\\n版本日历"
+      },
+      {
+        "cid": "9844",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1788588000,
+        "focus": 0,
+        "title": "森空岛雪凇幽梦\\n创作者激励活动"
       },
       {
         "cid": "3028",
