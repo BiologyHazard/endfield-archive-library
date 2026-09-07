@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "50a09318d8694a6854debab2b4c6f5b6",
+    "version": "61ae756b771d07a05acf4a39cfebcfb2",
     "onlineList": [
+      {
+        "cid": "9843",
+        "version": 1788510266,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "0779",
         "version": 1788533477,
@@ -151,8 +157,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1788588000,
+    "updatedAt": 1788753600,
     "list": [
+      {
+        "cid": "9843",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1788753600,
+        "focus": 0,
+        "title": "遇事不决睡大觉\\n主题周边预售中"
+      },
       {
         "cid": "0779",
         "type": 0,
