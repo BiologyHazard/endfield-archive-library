@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "61ae756b771d07a05acf4a39cfebcfb2",
+    "version": "f98abb01f080894b697131f3a4effe2d",
     "onlineList": [
       {
         "cid": "9843",
@@ -19,7 +19,7 @@
       },
       {
         "cid": "0779",
-        "version": 1788533477,
+        "version": 1788837813,
         "needRedDot": true,
         "needPopup": false
       },
@@ -74,6 +74,12 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7263",
+        "version": 1787997523,
         "needRedDot": true,
         "needPopup": false
       },
@@ -157,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1788753600,
+    "updatedAt": 1788840000,
     "list": [
       {
         "cid": "9843",
@@ -280,6 +286,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "7263",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1788840000,
+        "focus": 0,
+        "title": "挽弓试炼"
       },
       {
         "cid": "9845",

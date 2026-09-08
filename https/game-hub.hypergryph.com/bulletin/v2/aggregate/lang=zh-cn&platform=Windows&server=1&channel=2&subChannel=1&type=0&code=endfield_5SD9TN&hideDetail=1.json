@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "0c139e344129333c766a8d7987ff37a6",
+    "version": "ac19082fefa2ea538469dac7b5d79d00",
     "onlineList": [
       {
         "cid": "9843",
@@ -19,7 +19,7 @@
       },
       {
         "cid": "0779",
-        "version": 1788533477,
+        "version": 1788837813,
         "needRedDot": true,
         "needPopup": false
       },
@@ -44,6 +44,12 @@
       {
         "cid": "1392",
         "version": 1768982321,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7263",
+        "version": 1787997523,
         "needRedDot": true,
         "needPopup": false
       },
@@ -127,7 +133,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1788753600,
+    "updatedAt": 1788840000,
     "list": [
       {
         "cid": "9843",
@@ -195,6 +201,17 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
+      },
+      {
+        "cid": "7263",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1788840000,
+        "focus": 0,
+        "title": "挽弓试炼"
       },
       {
         "cid": "9845",
