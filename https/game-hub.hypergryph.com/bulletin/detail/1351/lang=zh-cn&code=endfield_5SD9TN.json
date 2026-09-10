@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "1351",
+    "type": 0,
+    "tab": "news",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1789027200,
+    "title": "循着寒风的箭矢\\n参与活动赢周边",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260909/cfb3b65c30d02f69f8aed07b5e81d0d6.jpg",
+      "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fact.skland.com%252Fmini-game%252Ffrostwind-arrow%253Fheader%253D0%2526c_c%253DGAME&u8_token={u8_token}&server={server}",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1788931393
+  },
+  "msg": ""
+}
