@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "1dcf063701ae87c59180b279ad290492",
+    "version": "cffecdbda2c80c67b7c4504d6670d41b",
     "onlineList": [
       {
         "cid": "9843",
@@ -80,6 +80,12 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "8935",
+        "version": 1789209583,
         "needRedDot": true,
         "needPopup": false
       },
@@ -169,7 +175,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1789027200,
+    "updatedAt": 1789444800,
     "list": [
       {
         "cid": "9843",
@@ -303,6 +309,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "8935",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1789444800,
+        "focus": 0,
+        "title": "集成援助\\n泡泡出击"
       },
       {
         "cid": "7263",

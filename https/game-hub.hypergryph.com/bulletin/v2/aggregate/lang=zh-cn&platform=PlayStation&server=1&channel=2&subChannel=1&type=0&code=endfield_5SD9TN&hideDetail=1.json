@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "e7994fee4bc8649c34308c85b30971bf",
+    "version": "72f01846ec88485f3cf7e4e7757c82f2",
     "onlineList": [
       {
         "cid": "9843",
@@ -32,6 +32,12 @@
       {
         "cid": "3020",
         "version": 1787996702,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "8935",
+        "version": 1789209583,
         "needRedDot": true,
         "needPopup": false
       },
@@ -121,7 +127,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1788840000,
+    "updatedAt": 1789444800,
     "list": [
       {
         "cid": "9843",
@@ -167,6 +173,17 @@
         "startAt": 1788303600,
         "focus": 0,
         "title": "雪凇幽梦\\n版本日历"
+      },
+      {
+        "cid": "8935",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1789444800,
+        "focus": 0,
+        "title": "集成援助\\n泡泡出击"
       },
       {
         "cid": "7263",
