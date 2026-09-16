@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "ca5fc8cf590ebb8861625523f3287370",
+    "version": "b66e326bdf2a3a8ea55797fe33e9fa0a",
     "onlineList": [
       {
         "cid": "9843",
@@ -78,6 +78,12 @@
         "needPopup": false
       },
       {
+        "cid": "9842",
+        "version": 1789209374,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "2188",
         "version": 1787997520,
         "needRedDot": true,
@@ -133,7 +139,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1789444800,
+    "updatedAt": 1789531200,
     "list": [
       {
         "cid": "9843",
@@ -256,6 +262,17 @@
         "startAt": 1788303600,
         "focus": 0,
         "title": "幽寒申领"
+      },
+      {
+        "cid": "9842",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 4,
+        "displayType": "rich_text",
+        "startAt": 1789531200,
+        "focus": 0,
+        "title": "理智补给"
       },
       {
         "cid": "2188",
