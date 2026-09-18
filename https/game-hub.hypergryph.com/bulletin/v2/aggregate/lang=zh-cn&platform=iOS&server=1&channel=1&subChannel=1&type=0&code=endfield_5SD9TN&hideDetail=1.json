@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "86b40f15f9678dc7aad08593142a2b79",
+    "version": "99781dbc16caf9b3a8d76cc0d4a50df0",
     "onlineList": [
       {
         "cid": "9843",
@@ -31,7 +31,7 @@
       },
       {
         "cid": "3020",
-        "version": 1787996702,
+        "version": 1789728162,
         "needRedDot": true,
         "needPopup": false
       },
@@ -181,7 +181,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1789531200,
+    "updatedAt": 1789728163,
     "list": [
       {
         "cid": "9843",
@@ -226,6 +226,7 @@
         "displayType": "rich_text",
         "startAt": 1788303600,
         "focus": 0,
+        "extraData": {},
         "title": "雪凇幽梦\\n版本日历"
       },
       {

@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "e90f34901dfa21f47efd831f5b2a6185",
+    "version": "3dfe7e15a5010a7dc2d29d156215509f",
     "onlineList": [
       {
         "cid": "9843",
@@ -31,7 +31,7 @@
       },
       {
         "cid": "3020",
-        "version": 1787996702,
+        "version": 1789728162,
         "needRedDot": true,
         "needPopup": false
       },
@@ -133,7 +133,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1789531200,
+    "updatedAt": 1789728163,
     "list": [
       {
         "cid": "9843",
@@ -178,6 +178,7 @@
         "displayType": "rich_text",
         "startAt": 1788303600,
         "focus": 0,
+        "extraData": {},
         "title": "雪凇幽梦\\n版本日历"
       },
       {

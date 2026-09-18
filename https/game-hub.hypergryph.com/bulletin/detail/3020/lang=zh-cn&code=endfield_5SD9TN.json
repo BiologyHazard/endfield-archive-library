@@ -8,17 +8,18 @@
     "orderWeight": 1,
     "displayType": "rich_text",
     "focus": 0,
+    "extraData": {},
     "startAt": 1788303600,
     "title": "雪凇幽梦\\n版本日历",
     "header": "「雪凇幽梦」版本日历",
     "jumpButton": null,
     "data": {
-      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260827/f8d12182b8a28424d2caffa38a44aa70.png\" data-width=\"1920\" data-height=\"2967\"><p></p>",
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260918/cfcab6005637f8209389c7790efe5684.png\" data-width=\"1920\" data-height=\"2967\"><p></p>",
       "linkType": 1
     },
     "needRedDot": true,
     "needPopup": false,
-    "version": 1787996702
+    "version": 1789728162
   },
   "msg": ""
 }
