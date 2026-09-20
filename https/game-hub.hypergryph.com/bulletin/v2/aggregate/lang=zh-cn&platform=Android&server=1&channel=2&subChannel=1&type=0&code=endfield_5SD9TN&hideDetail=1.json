@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "3bcdbfbce68af03b6bd91ba6c488ecc3",
+    "version": "a48a654e44a8c6739795e772e294ae60",
     "onlineList": [
       {
         "cid": "9843",
@@ -32,6 +32,12 @@
       {
         "cid": "3020",
         "version": 1789728162,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1350",
+        "version": 1789209633,
         "needRedDot": true,
         "needPopup": false
       },
@@ -145,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1789728163,
+    "updatedAt": 1789876800,
     "list": [
       {
         "cid": "9843",
@@ -192,6 +198,17 @@
         "focus": 0,
         "extraData": {},
         "title": "雪凇幽梦\\n版本日历"
+      },
+      {
+        "cid": "1350",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1789876800,
+        "focus": 0,
+        "title": "我们的大菲林！来袭！"
       },
       {
         "cid": "1353",
