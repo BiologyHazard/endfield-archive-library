@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "49905c62ce6fedd88ebbb0e49ae698ba",
+    "version": "9ef78a9c302b9b5b8183eb2698d139e0",
     "onlineList": [
       {
         "cid": "9843",
@@ -84,6 +84,12 @@
         "needPopup": false
       },
       {
+        "cid": "2184",
+        "version": 1789210816,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "9842",
         "version": 1789209374,
         "needRedDot": true,
@@ -145,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1789876800,
+    "updatedAt": 1790053200,
     "list": [
       {
         "cid": "9843",
@@ -280,6 +286,17 @@
         "startAt": 1788303600,
         "focus": 0,
         "title": "幽寒申领"
+      },
+      {
+        "cid": "2184",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 4,
+        "displayType": "rich_text",
+        "startAt": 1790053200,
+        "focus": 0,
+        "title": "战争回响\\n错视赛季"
       },
       {
         "cid": "9842",
