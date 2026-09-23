@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "ffaac4c10adb717772e17c441c0391f1",
+    "version": "d33c90c72a41bc752819d0a6e263bdc9",
     "onlineList": [
       {
         "cid": "9843",
@@ -86,6 +86,12 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7269",
+        "version": 1789961394,
         "needRedDot": true,
         "needPopup": false
       },
@@ -199,7 +205,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1790136000,
+    "updatedAt": 1790157600,
     "list": [
       {
         "cid": "9843",
@@ -345,6 +351,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "7269",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1790157600,
+        "focus": 0,
+        "title": "重构寻访\\n重构申领"
       },
       {
         "cid": "9841",

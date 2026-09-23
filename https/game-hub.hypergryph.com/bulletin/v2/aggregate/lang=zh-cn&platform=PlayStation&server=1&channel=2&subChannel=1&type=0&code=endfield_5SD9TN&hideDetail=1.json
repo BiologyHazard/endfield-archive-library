@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "f39c3c32cc3f1fb4ead77737b2f92a05",
+    "version": "7a812d77899ef00d911070116873a6bf",
     "onlineList": [
       {
         "cid": "9843",
@@ -38,6 +38,12 @@
       {
         "cid": "1350",
         "version": 1789209633,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7269",
+        "version": 1789961394,
         "needRedDot": true,
         "needPopup": false
       },
@@ -151,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1790136000,
+    "updatedAt": 1790157600,
     "list": [
       {
         "cid": "9843",
@@ -209,6 +215,17 @@
         "startAt": 1789876800,
         "focus": 0,
         "title": "我们的大菲林！来袭！"
+      },
+      {
+        "cid": "7269",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1790157600,
+        "focus": 0,
+        "title": "重构寻访\\n重构申领"
       },
       {
         "cid": "9841",
