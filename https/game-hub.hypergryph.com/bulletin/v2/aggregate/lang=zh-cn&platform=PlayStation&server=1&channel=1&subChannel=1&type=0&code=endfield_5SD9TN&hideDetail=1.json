@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "9ef78a9c302b9b5b8183eb2698d139e0",
+    "version": "b54acb716dfa746a957ac8bd520422be",
     "onlineList": [
       {
         "cid": "9843",
@@ -44,6 +44,12 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9841",
+        "version": 1789209717,
         "needRedDot": true,
         "needPopup": false
       },
@@ -151,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1790053200,
+    "updatedAt": 1790136000,
     "list": [
       {
         "cid": "9843",
@@ -220,6 +226,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "9841",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1790136000,
+        "focus": 0,
+        "title": "于钟鸣的旧城"
       },
       {
         "cid": "8935",

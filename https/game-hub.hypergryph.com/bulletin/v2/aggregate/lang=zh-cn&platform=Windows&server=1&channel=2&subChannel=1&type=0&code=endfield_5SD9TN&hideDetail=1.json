@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "26231debad0d986145ad9b209b5b99a1",
+    "version": "503ce3f652e41192863c29baf3e0ce2a",
     "onlineList": [
       {
         "cid": "9843",
@@ -50,6 +50,12 @@
       {
         "cid": "1392",
         "version": 1768982321,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9841",
+        "version": 1789209717,
         "needRedDot": true,
         "needPopup": false
       },
@@ -157,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1790053200,
+    "updatedAt": 1790136000,
     "list": [
       {
         "cid": "9843",
@@ -237,6 +243,17 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
+      },
+      {
+        "cid": "9841",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1790136000,
+        "focus": 0,
+        "title": "于钟鸣的旧城"
       },
       {
         "cid": "8935",

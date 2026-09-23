@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "9c2c0f9526984eefdf850b9b348204f4",
+    "version": "f39c3c32cc3f1fb4ead77737b2f92a05",
     "onlineList": [
       {
         "cid": "9843",
@@ -38,6 +38,12 @@
       {
         "cid": "1350",
         "version": 1789209633,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9841",
+        "version": 1789209717,
         "needRedDot": true,
         "needPopup": false
       },
@@ -145,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1790053200,
+    "updatedAt": 1790136000,
     "list": [
       {
         "cid": "9843",
@@ -203,6 +209,17 @@
         "startAt": 1789876800,
         "focus": 0,
         "title": "我们的大菲林！来袭！"
+      },
+      {
+        "cid": "9841",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1790136000,
+        "focus": 0,
+        "title": "于钟鸣的旧城"
       },
       {
         "cid": "8935",
