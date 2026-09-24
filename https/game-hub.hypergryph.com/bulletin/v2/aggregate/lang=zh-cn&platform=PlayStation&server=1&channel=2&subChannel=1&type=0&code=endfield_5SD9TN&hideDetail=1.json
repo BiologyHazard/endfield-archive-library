@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "bcbd5414f652dbc06a0d29a9ff7c6768",
+    "version": "430a1685fc7cb8a96d60c617709ab835",
     "onlineList": [
       {
         "cid": "9840",
@@ -102,12 +102,6 @@
         "needPopup": false
       },
       {
-        "cid": "9842",
-        "version": 1789209374,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "2188",
         "version": 1787997520,
         "needRedDot": true,
@@ -163,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1790175600,
+    "updatedAt": 1790193600,
     "list": [
       {
         "cid": "9840",
@@ -331,17 +325,6 @@
         "startAt": 1790053200,
         "focus": 0,
         "title": "战争回响\\n错视赛季"
-      },
-      {
-        "cid": "9842",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 4,
-        "displayType": "rich_text",
-        "startAt": 1789531200,
-        "focus": 0,
-        "title": "理智补给"
       },
       {
         "cid": "2188",

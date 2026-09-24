@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "847c3ebd69076ae57a46acc7c3d4fedf",
+    "version": "029791e2d0d1ba002e13a0d6137c1005",
     "onlineList": [
       {
         "cid": "9840",
@@ -150,12 +150,6 @@
         "needPopup": false
       },
       {
-        "cid": "9842",
-        "version": 1789209374,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "2188",
         "version": 1787997520,
         "needRedDot": true,
@@ -211,7 +205,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1790175600,
+    "updatedAt": 1790193600,
     "list": [
       {
         "cid": "9840",
@@ -467,17 +461,6 @@
         "startAt": 1790053200,
         "focus": 0,
         "title": "战争回响\\n错视赛季"
-      },
-      {
-        "cid": "9842",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 4,
-        "displayType": "rich_text",
-        "startAt": 1789531200,
-        "focus": 0,
-        "title": "理智补给"
       },
       {
         "cid": "2188",
