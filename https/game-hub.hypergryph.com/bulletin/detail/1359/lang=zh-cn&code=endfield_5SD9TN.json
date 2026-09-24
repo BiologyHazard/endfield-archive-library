@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "1359",
+    "type": 0,
+    "tab": "news",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1790233200,
+    "title": "「雪凇幽梦」\\n 限时任务",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20260924/b57e82a99a92e5bc8dd15acb48ad314a.png",
+      "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fact.skland.com%252Fendfield%252Fdreamscape%253Fheader%253D0%2526activityId%253Dact_endfield_049760%2526hg_media%253Dendfield%2526hg_link_campaign%253Dannouncement&u8_token={u8_token}&server={server}",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1790225045
+  },
+  "msg": ""
+}

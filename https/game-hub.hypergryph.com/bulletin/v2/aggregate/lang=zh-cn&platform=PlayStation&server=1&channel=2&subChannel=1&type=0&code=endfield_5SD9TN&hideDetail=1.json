@@ -9,14 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "430a1685fc7cb8a96d60c617709ab835",
+    "version": "37f77980cdff8a9a4fa58f4739e34c60",
     "onlineList": [
-      {
-        "cid": "9840",
-        "version": 1790158742,
-        "needRedDot": true,
-        "needPopup": false
-      },
       {
         "cid": "9843",
         "version": 1788510266,
@@ -25,7 +19,7 @@
       },
       {
         "cid": "0779",
-        "version": 1788837813,
+        "version": 1790220068,
         "needRedDot": true,
         "needPopup": false
       },
@@ -108,12 +102,6 @@
         "needPopup": false
       },
       {
-        "cid": "6411",
-        "version": 1787989179,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "6432",
         "version": 1781102579,
         "needRedDot": false,
@@ -157,19 +145,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1790193600,
+    "updatedAt": 1790222400,
     "list": [
-      {
-        "cid": "9840",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1790175600,
-        "focus": 1,
-        "title": "闪断更新公告"
-      },
       {
         "cid": "9843",
         "type": 0,
@@ -336,17 +313,6 @@
         "startAt": 1788303600,
         "focus": 0,
         "title": "雾隐冬梦深林中"
-      },
-      {
-        "cid": "6411",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 4,
-        "displayType": "rich_text",
-        "startAt": 1788303600,
-        "focus": 0,
-        "title": "战争回响\\n虚像赛季"
       },
       {
         "cid": "6432",
