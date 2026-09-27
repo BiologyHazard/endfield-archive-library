@@ -9,14 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "ba30712a6dbaf71fdc1d259259473153",
+    "version": "d8a255811a260b4fd53bd0a1272896d5",
     "onlineList": [
-      {
-        "cid": "9843",
-        "version": 1788510266,
-        "needRedDot": true,
-        "needPopup": false
-      },
       {
         "cid": "0779",
         "version": 1790266262,
@@ -145,19 +139,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1790266263,
+    "updatedAt": 1790524740,
     "list": [
-      {
-        "cid": "9843",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1788753600,
-        "focus": 0,
-        "title": "遇事不决睡大觉\\n主题周边预售中"
-      },
       {
         "cid": "0779",
         "type": 0,
