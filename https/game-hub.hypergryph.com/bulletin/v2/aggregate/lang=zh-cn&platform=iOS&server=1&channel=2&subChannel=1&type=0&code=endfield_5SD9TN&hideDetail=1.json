@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "48aa90762e96f953854fb12b23de1e82",
+    "version": "50a72d4f3598b44feb6e21f770b10427",
     "onlineList": [
       {
         "cid": "0779",
@@ -44,6 +44,12 @@
       {
         "cid": "1392",
         "version": 1768982321,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "6418",
+        "version": 1789210314,
         "needRedDot": true,
         "needPopup": false
       },
@@ -151,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1790524740,
+    "updatedAt": 1790568000,
     "list": [
       {
         "cid": "0779",
@@ -220,6 +226,17 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
+      },
+      {
+        "cid": "6418",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1790568000,
+        "focus": 0,
+        "title": "跑者运动会"
       },
       {
         "cid": "7269",

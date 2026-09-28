@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "d8a255811a260b4fd53bd0a1272896d5",
+    "version": "ae9b55e332d36447a93b629fe5b1374d",
     "onlineList": [
       {
         "cid": "0779",
@@ -32,6 +32,12 @@
       {
         "cid": "1350",
         "version": 1789209633,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "6418",
+        "version": 1789210314,
         "needRedDot": true,
         "needPopup": false
       },
@@ -139,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1790524740,
+    "updatedAt": 1790568000,
     "list": [
       {
         "cid": "0779",
@@ -186,6 +192,17 @@
         "startAt": 1789876800,
         "focus": 0,
         "title": "我们的大菲林！来袭！"
+      },
+      {
+        "cid": "6418",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1790568000,
+        "focus": 0,
+        "title": "跑者运动会"
       },
       {
         "cid": "7269",

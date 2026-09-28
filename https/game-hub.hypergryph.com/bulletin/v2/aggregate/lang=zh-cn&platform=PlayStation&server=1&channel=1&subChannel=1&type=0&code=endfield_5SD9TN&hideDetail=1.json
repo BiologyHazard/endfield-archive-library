@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "acecc044f423cdf73042f761027dbd1b",
+    "version": "32d623a2eeb4ee55eb57c496173b6f21",
     "onlineList": [
       {
         "cid": "0779",
@@ -38,6 +38,12 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "6418",
+        "version": 1789210314,
         "needRedDot": true,
         "needPopup": false
       },
@@ -145,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1790524740,
+    "updatedAt": 1790568000,
     "list": [
       {
         "cid": "0779",
@@ -203,6 +209,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "6418",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1790568000,
+        "focus": 0,
+        "title": "跑者运动会"
       },
       {
         "cid": "7269",
