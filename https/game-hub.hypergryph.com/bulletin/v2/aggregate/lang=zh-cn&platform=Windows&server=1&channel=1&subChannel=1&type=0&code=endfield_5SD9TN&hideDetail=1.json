@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "6385a0b88a5670e9b83f28e66f09b8b7",
+    "version": "02724ea60b2afc943ddd5aef946d62b2",
     "onlineList": [
       {
         "cid": "0779",
@@ -132,6 +132,12 @@
         "needPopup": false
       },
       {
+        "cid": "0776",
+        "version": 1789961219,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "8939",
         "version": 1787997516,
         "needRedDot": true,
@@ -199,7 +205,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1790568000,
+    "updatedAt": 1790650800,
     "list": [
       {
         "cid": "0779",
@@ -422,6 +428,17 @@
         "startAt": 1788303600,
         "focus": 0,
         "title": "冬猎\\n特许寻访"
+      },
+      {
+        "cid": "0776",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1790650800,
+        "focus": 0,
+        "title": "版本调研问卷"
       },
       {
         "cid": "8939",

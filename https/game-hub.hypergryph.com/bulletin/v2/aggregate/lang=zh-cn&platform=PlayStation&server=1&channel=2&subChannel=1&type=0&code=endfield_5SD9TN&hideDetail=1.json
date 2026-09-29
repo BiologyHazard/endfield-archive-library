@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "ae9b55e332d36447a93b629fe5b1374d",
+    "version": "60f76ef916c5f8637237e8188a812ba3",
     "onlineList": [
       {
         "cid": "0779",
@@ -74,6 +74,12 @@
       {
         "cid": "5506",
         "version": 1787997505,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0776",
+        "version": 1789961219,
         "needRedDot": true,
         "needPopup": false
       },
@@ -145,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1790568000,
+    "updatedAt": 1790650800,
     "list": [
       {
         "cid": "0779",
@@ -269,6 +275,17 @@
         "startAt": 1788303600,
         "focus": 0,
         "title": "冬猎\\n特许寻访"
+      },
+      {
+        "cid": "0776",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1790650800,
+        "focus": 0,
+        "title": "版本调研问卷"
       },
       {
         "cid": "8939",
