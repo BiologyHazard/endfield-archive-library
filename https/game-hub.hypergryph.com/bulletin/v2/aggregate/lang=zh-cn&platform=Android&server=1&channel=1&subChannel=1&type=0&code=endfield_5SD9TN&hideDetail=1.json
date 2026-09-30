@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "58fc49dc071f115701541d54b1494085",
+    "version": "ed2cb36361127b72baa0b6e095a37134",
     "onlineList": [
       {
         "cid": "0779",
@@ -68,12 +68,6 @@
       {
         "cid": "0770",
         "version": 1788246225,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "5505",
-        "version": 1788246351,
         "needRedDot": true,
         "needPopup": false
       },
@@ -199,7 +193,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1790751600,
+    "updatedAt": 1790783940,
     "list": [
       {
         "cid": "0779",
@@ -312,17 +306,6 @@
         "startAt": 1788343200,
         "focus": 0,
         "title": "完成高校认证\\n领专属福利"
-      },
-      {
-        "cid": "5505",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1788328800,
-        "focus": 0,
-        "title": "完成每日签到\\n领取丰厚奖励"
       },
       {
         "cid": "1392",
