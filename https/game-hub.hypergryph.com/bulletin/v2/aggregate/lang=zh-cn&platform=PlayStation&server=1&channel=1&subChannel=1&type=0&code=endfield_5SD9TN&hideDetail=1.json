@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "25ce46d99dab86d14f05d5128c9cb341",
+    "version": "6ae136b99008cc619434562fd3ee76fc",
     "onlineList": [
       {
         "cid": "0779",
@@ -38,6 +38,12 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3026",
+        "version": 1789210724,
         "needRedDot": true,
         "needPopup": false
       },
@@ -78,8 +84,8 @@
         "needPopup": false
       },
       {
-        "cid": "5506",
-        "version": 1787997505,
+        "cid": "4693",
+        "version": 1789210476,
         "needRedDot": true,
         "needPopup": false
       },
@@ -92,12 +98,6 @@
       {
         "cid": "8939",
         "version": 1787997516,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "1354",
-        "version": 1787997513,
         "needRedDot": true,
         "needPopup": false
       },
@@ -117,12 +117,6 @@
         "cid": "6432",
         "version": 1781102579,
         "needRedDot": false,
-        "needPopup": false
-      },
-      {
-        "cid": "0771",
-        "version": 1787997502,
-        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -157,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1790650800,
+    "updatedAt": 1790751600,
     "list": [
       {
         "cid": "0779",
@@ -215,6 +209,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "3026",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1790740800,
+        "focus": 0,
+        "title": "陵水渡秋"
       },
       {
         "cid": "6418",
@@ -283,15 +288,15 @@
         "title": "协议通行证\\n幽林"
       },
       {
-        "cid": "5506",
+        "cid": "4693",
         "type": 0,
         "tab": "events",
         "orderType": 1,
-        "orderWeight": 2,
+        "orderWeight": 3,
         "displayType": "rich_text",
-        "startAt": 1788303600,
+        "startAt": 1790751600,
         "focus": 0,
-        "title": "冬猎\\n特许寻访"
+        "title": "融合！山团团！"
       },
       {
         "cid": "0776",
@@ -314,17 +319,6 @@
         "startAt": 1788303600,
         "focus": 0,
         "title": "雪凇幽梦\\n组合包"
-      },
-      {
-        "cid": "1354",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1788303600,
-        "focus": 0,
-        "title": "幽寒申领"
       },
       {
         "cid": "2184",
@@ -358,17 +352,6 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "玩家调研问卷"
-      },
-      {
-        "cid": "0771",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 5,
-        "displayType": "rich_text",
-        "startAt": 1788303600,
-        "focus": 0,
-        "title": "雪降深林"
       },
       {
         "cid": "8957",

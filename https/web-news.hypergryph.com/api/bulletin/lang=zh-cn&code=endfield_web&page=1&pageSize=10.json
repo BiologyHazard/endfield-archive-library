@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "5987",
+        "tab": "events",
+        "sticky": true,
+        "title": "「融合！山团团！」趣味活动说明",
+        "author": "",
+        "displayTime": 1790751600,
+        "cover": "https://web.hycdn.cn/upload/image/20260921/52626adfa39665ea02033d987f515608.png",
+        "extraCover": "",
+        "brief": "「融合！山团团！」趣味活动说明▼//活动时间2026/10/01 12:00（服务器时间） - 版本更新维护前▼//活动奖励活动期间完成任务，可获得【嵌晶玉】【折金票】活动奖励。▼//参与条件完成主线"
+      },
+      {
         "cid": "2653",
         "tab": "notices",
         "sticky": true,
@@ -13,17 +24,6 @@
         "cover": "https://web.hycdn.cn/upload/image/20260901/08f343f9381e539b259d5be5adfbd22d.jpg",
         "extraCover": "",
         "brief": "穿过雪与雾，进入幽暗深林和漫长的梦。亲爱的管理员：欢迎来到全新版本「雪凇幽梦」！▼//更新维护及补偿说明■ 更新维护时间2026/09/02 06:00 - 2026/09/02 12:00（UTC+"
-      },
-      {
-        "cid": "6097",
-        "tab": "notices",
-        "sticky": true,
-        "title": "「冬猎」特许寻访说明",
-        "author": "",
-        "displayTime": 1788235200,
-        "cover": "https://web.hycdn.cn/upload/image/20260824/8added9b9b315ede92db1c92804667fa.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「冬猎」特许寻访开放期间，6星干员【提弗洛斯】获取概率提升！「镞砺括羽」限时签到活动同步开放，累计签到可获得【镞砺括羽寻访凭证】×5等奖励，还可在【集成配额交易】中进行【镞砺括羽寻访凭证"
       },
       {
         "cid": "2651",
@@ -70,6 +70,17 @@
         "brief": "亲爱的管理员：「幽寒申领」开放期间，6星武器【寒夜幽影（施术单元）】获取概率提升！▼//「幽寒申领」· 开放时间：「雪凇幽梦」版本更新后开启，于3次「特许寻访」后结束（从「冬猎」起计算）· 开放条件："
       },
       {
+        "cid": "6097",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「冬猎」特许寻访说明",
+        "author": "",
+        "displayTime": 1788235200,
+        "cover": "https://web.hycdn.cn/upload/image/20260824/8added9b9b315ede92db1c92804667fa.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：「冬猎」特许寻访开放期间，6星干员【提弗洛斯】获取概率提升！「镞砺括羽」限时签到活动同步开放，累计签到可获得【镞砺括羽寻访凭证】×5等奖励，还可在【集成配额交易】中进行【镞砺括羽寻访凭证"
+      },
+      {
         "cid": "1164",
         "tab": "notices",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260730/582e9e65b618415860f7771e8b439325.jpg",
         "extraCover": "",
         "brief": "亲爱的管理员：「明曜申领」开放期间，6星武器【曜夜的首演（长柄武器）】获取概率提升！▼//「明曜申领」· 开放时间：2026/08/09 12:00（服务器时间）开启，于3次「特许寻访」后结束（从「晨"
-      },
-      {
-        "cid": "1165",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「晨星于此闪耀」特许寻访说明",
-        "author": "",
-        "displayTime": 1786183200,
-        "cover": "https://web.hycdn.cn/upload/image/20260730/9e816139877ce8a07a30b1d001d7341d.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「晨星于此闪耀」特许寻访开放期间，6星干员【梨诺】获取概率提升！「明耀晨星」限时签到活动同步开放，累计签到可获得【明耀晨星寻访凭证】×5等奖励，还可在【集成配额交易】中进行【明耀晨星寻访"
       }
     ],
     "current": 1,
     "pageSize": 10,
-    "total": 98
+    "total": 99
   }
 }

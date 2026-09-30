@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "4693",
+    "type": 0,
+    "tab": "events",
+    "orderType": 1,
+    "orderWeight": 3,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1790751600,
+    "title": "融合！山团团！",
+    "header": "「融合！山团团！」趣味活动说明",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260912/3cddfd9820b1247e3a5bb939c6d7d725.png\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">▼//活动时间</span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/10/01 12:00（服务器时间） - 版本更新维护前</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动奖励</span></p><p><span style=\"color: rgb(31, 35, 41);\">活动期间完成任务，可获得【嵌晶玉】【折金票】活动奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//参与条件</span></p><p><span style=\"color: rgb(31, 35, 41);\">完成主线任务「第一章 - 进程Ⅱ - 开拓前路」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 前往网页活动，通过融合相同的山团团，得到更大的山团团并获得积分，领取丰厚奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多活动详细说明，请前往游戏内【活动中心】查看。</span></p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1789210476
+  },
+  "msg": ""
+}
