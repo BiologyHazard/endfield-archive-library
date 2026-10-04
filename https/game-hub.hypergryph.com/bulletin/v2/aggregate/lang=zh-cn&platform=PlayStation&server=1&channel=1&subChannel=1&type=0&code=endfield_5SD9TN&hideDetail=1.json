@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "6ae136b99008cc619434562fd3ee76fc",
+    "version": "1cdf694864c97a1eb086d7c0ed77941c",
     "onlineList": [
       {
         "cid": "0779",
@@ -84,6 +84,12 @@
         "needPopup": false
       },
       {
+        "cid": "5502",
+        "version": 1789210709,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "4693",
         "version": 1789210476,
         "needRedDot": true,
@@ -151,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1790751600,
+    "updatedAt": 1791086400,
     "list": [
       {
         "cid": "0779",
@@ -286,6 +292,17 @@
         "startAt": 1788303600,
         "focus": 0,
         "title": "协议通行证\\n幽林"
+      },
+      {
+        "cid": "5502",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1791086400,
+        "focus": 0,
+        "title": "影拓丰碑\\n系列更新"
       },
       {
         "cid": "4693",
