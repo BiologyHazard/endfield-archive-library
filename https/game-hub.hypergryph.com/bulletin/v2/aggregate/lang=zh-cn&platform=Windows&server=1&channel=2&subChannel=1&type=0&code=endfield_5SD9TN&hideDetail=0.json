@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "ca3bb5a6a0c7f05e9b78d1af7b7bc97c",
+    "version": "a9d41575d4937f13b36cbf7fe0d57c09",
     "onlineList": [
       {
         "cid": "0779",
@@ -26,6 +26,12 @@
       {
         "cid": "3020",
         "version": 1789728162,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "2183",
+        "version": 1790762455,
         "needRedDot": true,
         "needPopup": false
       },
@@ -68,12 +74,6 @@
       {
         "cid": "9841",
         "version": 1789209717,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "8935",
-        "version": 1789209583,
         "needRedDot": true,
         "needPopup": false
       },
@@ -163,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1791086400,
+    "updatedAt": 1791316800,
     "list": [
       {
         "cid": "0779",
@@ -215,6 +215,23 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260918/cfcab6005637f8209389c7790efe5684.png\" data-width=\"1920\" data-height=\"2967\"><p></p>",
+          "linkType": 1
+        }
+      },
+      {
+        "cid": "2183",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1791288000,
+        "focus": 1,
+        "title": "新版本导览",
+        "header": "「丹青渡」新版本导览专题网页上线说明",
+        "jumpButton": null,
+        "data": {
+          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260930/1ffd97d17b96d8739096a6e6449ada64.png\" data-width=\"1650\" data-height=\"300\"><p>「丹青渡」新版本导览专题网页上线，一站式查阅新版本内容，浏览即可领取【嵌晶玉】×1000、【折金票】×10000、【初级认知载体】×8、【武器检查套组】×4。</p><p></p><p>▼//网页入口链接</p><p>管理员可通过下方链接进入新版本导览专题网页。</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://endfield.hypergryph.com/version_briefing/latest?source_from=notice\">点击前往</a></p><p></p><p>▼//网页上线时间</p><p>· 新版本导览专题网页自2026/10/06 20:00（UTC+8）起长期可浏览，内容将随游戏版本替换。</p><p>· 每期新版本导览专题网页的展示时间为对应版本前瞻预告节目播出后，至下一版本前瞻预告节目结束前。</p><p></p><p>▼//奖励领取条件</p><p>· 在新版本导览专题网页中登录游戏账号，并在《明日方舟：终末地》内完成创建角色。</p><p></p><p>▼//奖励领取说明</p><p>· 奖励领取期限：「丹青渡」新版本导览专题网页上线后，至「丹青渡」版本更新维护前，可在该页面点击领取奖励。</p><p>· 在奖励领取期限内，新版本导览专题网页中将展示奖励领取按钮；超过该期限后，按钮将不再展示，且无法领取当期奖励。</p><p>· 成功在新版本导览专题网页领取奖励后，相应奖励将发放至当前登录账号的角色邮箱。</p><p>· 同一期新版本导览奖励，每个游戏账号仅可获取一次。</p><p></p><p>※ 更多详细说明，请前往网页内查看。</p>",
           "linkType": 1
         }
       },
@@ -335,23 +352,6 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20260912/b7cf5f23d40f208d5bcbb0437267207f.png\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">▼//活动时间</span></p><p><span style=\"color: rgb(31, 35, 41);\">2026/09/24 12:00（服务器时间） - 版本更新维护前</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动奖励</span></p><p><span style=\"color: rgb(31, 35, 41);\">活动开放期间，完成任务，累计可获得【嵌晶玉】【存续的痕迹】活动奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//参与条件</span></p><p><span style=\"color: rgb(31, 35, 41);\">在支线任务「钟鸣人归」中，完成「探访遂明」</span></p><p><span style=\"color: rgb(31, 35, 41);\">※ 完成主线任务「第二章 - 进程Ⅶ - 余晖未却」后，可开启支线任务「钟鸣人归」</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">▼//活动说明</span></p><p><span style=\"color: rgb(31, 35, 41);\">活动期间，前往武陵地区的「遂明」区域，完成解锁协议传送点、开启协议储藏箱等任务，即可获得丰厚奖励。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多活动详细说明，请前往游戏内【活动中心】查看。</span></p>",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "8935",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1789444800,
-        "focus": 0,
-        "title": "集成援助\\n泡泡出击",
-        "header": "「集成援助·泡泡出击」集成生产活动说明",
-        "jumpButton": null,
-        "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20260912/fd5c58fc94f20f798b668f6b0ee9ae2d.png\" data-width=\"1650\" data-height=\"300\"><p>▼//活动时间</p><p>2026/09/16 12:00 - 2026/09/30 16:00（服务器时间）</p><p></p><p>▼//活动奖励</p><p>活动开放期间，完成任务，累计可获得【嵌晶玉】【高阶培养自选箱Ⅰ】【高级认知载体】【存续的痕迹】等活动奖励。</p><p></p><p>▼//参与条件</p><p>完成主线任务「第二章 - 进程Ⅱ - 无患之患」</p><p></p><p>▼//活动说明</p><p>· 活动期间，完成特定任务以解锁援助物品配方与物资兑换处。生产援助物品并提交至据点可获得【武陵调度券】与【援助成果券】，使用【援助成果券】可在物资兑换处兑换物资。（活动开启后第8天，物资兑换处将新增额外的可兑换物资。）</p><p>· 9月30日16:00（服务器时间）活动结束后，已生产但未提交至据点的援助物品，将会自动兑换为【武陵调度券】与【援助成果券】，并通过邮件发送。其中，超出可兑换调度券上限的部分将自动兑换为【援助成果券】。</p><p>· 活动结束后，物资兑换处还会额外开放一段时间便于管理员兑换剩余物资。请管理员在10月7日04:00（服务器时间）前及时兑换。</p><p>· 活动期间，达成指定条件即可获得本活动专属蚀刻章。</p><p></p><p>※ 更多活动详细说明，请前往游戏内【活动中心】查看。</p>",
           "linkType": 1
         }
       },

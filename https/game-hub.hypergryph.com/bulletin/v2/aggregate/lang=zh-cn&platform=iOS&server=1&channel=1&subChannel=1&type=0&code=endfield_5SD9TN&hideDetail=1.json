@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "2de01ff4d12e1fba5b3861fffb2b4d2d",
+    "version": "32635d08456d25a7a2420afdd1226697",
     "onlineList": [
       {
         "cid": "0779",
@@ -26,6 +26,12 @@
       {
         "cid": "3020",
         "version": 1789728162,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "2183",
+        "version": 1790762455,
         "needRedDot": true,
         "needPopup": false
       },
@@ -104,12 +110,6 @@
       {
         "cid": "9841",
         "version": 1789209717,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "8935",
-        "version": 1789209583,
         "needRedDot": true,
         "needPopup": false
       },
@@ -199,7 +199,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1791086400,
+    "updatedAt": 1791316800,
     "list": [
       {
         "cid": "0779",
@@ -235,6 +235,17 @@
         "focus": 0,
         "extraData": {},
         "title": "雪凇幽梦\\n版本日历"
+      },
+      {
+        "cid": "2183",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1791288000,
+        "focus": 1,
+        "title": "新版本导览"
       },
       {
         "cid": "1359",
@@ -378,17 +389,6 @@
         "startAt": 1790136000,
         "focus": 0,
         "title": "于钟鸣的旧城"
-      },
-      {
-        "cid": "8935",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1789444800,
-        "focus": 0,
-        "title": "集成援助\\n泡泡出击"
       },
       {
         "cid": "7263",
