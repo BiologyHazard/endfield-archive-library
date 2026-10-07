@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "3805",
+        "tab": "news",
+        "sticky": true,
+        "title": "「丹青渡」版本研发通讯",
+        "author": "",
+        "displayTime": 1791340200,
+        "cover": "https://web.hycdn.cn/upload/image/20260930/671f07273d5ee166618887f3ce4d9353.png",
+        "extraCover": "",
+        "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。秋景现，丹青垂。《明日方舟：终末地》新版本「丹青渡」将于10月15日开启。通过本期研发通讯，我们将为管理员介绍即将在此版本中上线的一系列优化与调整。「新"
+      },
+      {
         "cid": "4774",
         "tab": "news",
         "sticky": true,
@@ -35,17 +46,6 @@
         "cover": "https://web.hycdn.cn/upload/image/20260901/08f343f9381e539b259d5be5adfbd22d.jpg",
         "extraCover": "",
         "brief": "穿过雪与雾，进入幽暗深林和漫长的梦。亲爱的管理员：欢迎来到全新版本「雪凇幽梦」！▼//更新维护及补偿说明■ 更新维护时间2026/09/02 06:00 - 2026/09/02 12:00（UTC+"
-      },
-      {
-        "cid": "3805",
-        "tab": "news",
-        "sticky": false,
-        "title": "「丹青渡」版本研发通讯",
-        "author": "",
-        "displayTime": 1791340200,
-        "cover": "https://web.hycdn.cn/upload/image/20260930/671f07273d5ee166618887f3ce4d9353.png",
-        "extraCover": "",
-        "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。秋景现，丹青垂。《明日方舟：终末地》新版本「丹青渡」将于10月15日开启。通过本期研发通讯，我们将为管理员介绍即将在此版本中上线的一系列优化与调整。「新"
       },
       {
         "cid": "2651",

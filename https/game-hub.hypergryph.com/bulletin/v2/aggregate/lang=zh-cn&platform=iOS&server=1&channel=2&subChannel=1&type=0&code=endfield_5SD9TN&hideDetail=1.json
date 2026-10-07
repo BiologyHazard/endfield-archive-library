@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "8e3a69f91a82d173b0905001728ab288",
+    "version": "6615b3b2b3b02de8d54eda8421a8b7ba",
     "onlineList": [
+      {
+        "cid": "4692",
+        "version": 1791382388,
+        "needRedDot": false,
+        "needPopup": false
+      },
       {
         "cid": "0779",
         "version": 1790266262,
@@ -108,12 +114,6 @@
         "needPopup": false
       },
       {
-        "cid": "0776",
-        "version": 1789961219,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "8939",
         "version": 1787997516,
         "needRedDot": true,
@@ -175,8 +175,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1791345600,
+    "updatedAt": 1791388800,
     "list": [
+      {
+        "cid": "4692",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1791385200,
+        "focus": 1,
+        "title": "闪断更新公告"
+      },
       {
         "cid": "0779",
         "type": 0,
@@ -354,17 +365,6 @@
         "startAt": 1790751600,
         "focus": 0,
         "title": "融合！山团团！"
-      },
-      {
-        "cid": "0776",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1790650800,
-        "focus": 0,
-        "title": "版本调研问卷"
       },
       {
         "cid": "8939",
