@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "a9d41575d4937f13b36cbf7fe0d57c09",
+    "version": "887fbb1f81e1c685cc028e41fe94d520",
     "onlineList": [
       {
         "cid": "0779",
@@ -51,6 +51,12 @@
         "cid": "1392",
         "version": 1768982321,
         "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3025",
+        "version": 1790061126,
+        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -114,6 +120,12 @@
         "needPopup": false
       },
       {
+        "cid": "3027",
+        "version": 1789209467,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "2184",
         "version": 1789210816,
         "needRedDot": true,
@@ -163,7 +175,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1791316800,
+    "updatedAt": 1791345600,
     "list": [
       {
         "cid": "0779",
@@ -243,6 +255,17 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
+      },
+      {
+        "cid": "3025",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1791345600,
+        "focus": 0,
+        "title": "天地墨显"
       },
       {
         "cid": "3026",
@@ -353,6 +376,17 @@
         "startAt": 1788303600,
         "focus": 0,
         "title": "雪凇幽梦\\n组合包"
+      },
+      {
+        "cid": "3027",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 4,
+        "displayType": "rich_text",
+        "startAt": 1791343800,
+        "focus": 0,
+        "title": "理智补给"
       },
       {
         "cid": "2184",

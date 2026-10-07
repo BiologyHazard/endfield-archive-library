@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "1fbc07120209565e43f9373c9d98499f",
+    "version": "212366ef1a151065582d7b5fd70d9843",
     "onlineList": [
       {
         "cid": "0779",
@@ -39,6 +39,12 @@
         "cid": "1350",
         "version": 1789209633,
         "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3025",
+        "version": 1790061126,
+        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -102,6 +108,12 @@
         "needPopup": false
       },
       {
+        "cid": "3027",
+        "version": 1789209467,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "2184",
         "version": 1789210816,
         "needRedDot": true,
@@ -151,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1791316800,
+    "updatedAt": 1791345600,
     "list": [
       {
         "cid": "0779",
@@ -209,6 +221,17 @@
         "startAt": 1789876800,
         "focus": 0,
         "title": "我们的大菲林！来袭！"
+      },
+      {
+        "cid": "3025",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1791345600,
+        "focus": 0,
+        "title": "天地墨显"
       },
       {
         "cid": "3026",
@@ -319,6 +342,17 @@
         "startAt": 1788303600,
         "focus": 0,
         "title": "雪凇幽梦\\n组合包"
+      },
+      {
+        "cid": "3027",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 4,
+        "displayType": "rich_text",
+        "startAt": 1791343800,
+        "focus": 0,
+        "title": "理智补给"
       },
       {
         "cid": "2184",
