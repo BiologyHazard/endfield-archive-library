@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "26b421a82ea21fcc590e0ad5450b25f7",
+    "version": "3ca81321bd3c9ec423b5a611fa88424c",
     "onlineList": [
       {
         "cid": "0779",
@@ -44,12 +44,6 @@
       {
         "cid": "1350",
         "version": 1789209633,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "1351",
-        "version": 1788931393,
         "needRedDot": true,
         "needPopup": false
       },
@@ -205,7 +199,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1791429245,
+    "updatedAt": 1791475140,
     "list": [
       {
         "cid": "0779",
@@ -274,17 +268,6 @@
         "startAt": 1789876800,
         "focus": 0,
         "title": "我们的大菲林！来袭！"
-      },
-      {
-        "cid": "1351",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1789027200,
-        "focus": 0,
-        "title": "循着寒风的箭矢\\n参与活动赢周边"
       },
       {
         "cid": "9844",

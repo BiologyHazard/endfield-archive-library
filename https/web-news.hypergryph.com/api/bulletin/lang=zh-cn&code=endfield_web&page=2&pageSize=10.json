@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "1164",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「雪凇幽梦」版本预下载与更新预告",
+        "author": "",
+        "displayTime": 1788148800,
+        "cover": "https://web.hycdn.cn/upload/image/20260829/5710c389eb98e003669bf9d6a5406bee.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：《明日方舟：终末地》「雪凇幽梦」版本预下载现已开启，管理员可提前下载PC端及PlayStation®5的部分游戏资源，在版本更新维护结束后，更快地进入游戏。此外，我们计划将于2026年9"
+      },
+      {
         "cid": "4776",
         "tab": "news",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260715/a816d526872e655f6324a2f026e6be2f.jpg",
         "extraCover": "",
         "brief": "驱雾瘴，平天堑，大渊在前，我们携手共进。往日未远，前路恒长。在广阔的塔卫二上，我们相伴而行。亲爱的管理员：欢迎来到核心章节版本「向渊行」！▼//更新维护及补偿说明■ 更新维护时间2026/07/16 "
-      },
-      {
-        "cid": "3802",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「军列申领」限时特卖说明",
-        "author": "",
-        "displayTime": 1784111400,
-        "cover": "https://web.hycdn.cn/upload/image/20260713/f5d94f43a7597d8b7dc2d65df883a756.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「军列申领」开放期间，6星武器【四二式·肃阵（施术单元）】获取概率提升！▼//「军列申领」· 开放时间：「向渊行」版本更新后开启，于3次「特许寻访」后结束（从「临渊望北」起计算）· 开放"
       }
     ],
     "current": 2,
     "pageSize": 10,
-    "total": 101
+    "total": 102
   }
 }

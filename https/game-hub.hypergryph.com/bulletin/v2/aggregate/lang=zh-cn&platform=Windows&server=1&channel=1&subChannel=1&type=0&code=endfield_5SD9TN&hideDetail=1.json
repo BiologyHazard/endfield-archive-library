@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "08eaa8094ffd4c9563f9e3a3c17fd483",
+    "version": "c13e69a8d09f8b8ac803b800cd7c01c6",
     "onlineList": [
       {
         "cid": "0779",
@@ -44,12 +44,6 @@
       {
         "cid": "1350",
         "version": 1789209633,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "1351",
-        "version": 1788931393,
         "needRedDot": true,
         "needPopup": false
       },
@@ -205,7 +199,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1791429245,
+    "updatedAt": 1791475140,
     "list": [
       {
         "cid": "0779",
@@ -274,17 +268,6 @@
         "startAt": 1789876800,
         "focus": 0,
         "title": "我们的大菲林！来袭！"
-      },
-      {
-        "cid": "1351",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1789027200,
-        "focus": 0,
-        "title": "循着寒风的箭矢\\n参与活动赢周边"
       },
       {
         "cid": "9844",
