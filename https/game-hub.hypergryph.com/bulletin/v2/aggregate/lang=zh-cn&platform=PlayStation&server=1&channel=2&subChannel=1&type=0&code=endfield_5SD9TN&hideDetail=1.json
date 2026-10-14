@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "61c14a88a00e60616a5f620f4a4822b0",
+    "version": "2d610d667b7b9275b13617422b11c740",
     "onlineList": [
       {
         "cid": "2182",
@@ -114,12 +114,6 @@
         "needPopup": false
       },
       {
-        "cid": "3027",
-        "version": 1789209467,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "2184",
         "version": 1789210816,
         "needRedDot": true,
@@ -169,7 +163,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1791864901,
+    "updatedAt": 1792008000,
     "list": [
       {
         "cid": "2182",
@@ -359,17 +353,6 @@
         "startAt": 1791428400,
         "focus": 0,
         "title": "提速任务开启"
-      },
-      {
-        "cid": "3027",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 4,
-        "displayType": "rich_text",
-        "startAt": 1791343800,
-        "focus": 0,
-        "title": "理智补给"
       },
       {
         "cid": "2184",

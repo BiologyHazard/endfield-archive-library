@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "1883f36eeea5035fd869100ed201ab85",
+    "version": "c0262e54eb4eaa5ddbad2aee60c5abe4",
     "onlineList": [
       {
         "cid": "3024",
@@ -50,12 +50,6 @@
       {
         "cid": "1350",
         "version": 1789209633,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "7262",
-        "version": 1791784505,
         "needRedDot": true,
         "needPopup": false
       },
@@ -132,12 +126,6 @@
         "needPopup": false
       },
       {
-        "cid": "3027",
-        "version": 1789209467,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "2184",
         "version": 1789210816,
         "needRedDot": true,
@@ -187,7 +175,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1791946800,
+    "updatedAt": 1792008000,
     "list": [
       {
         "cid": "3024",
@@ -267,17 +255,6 @@
         "startAt": 1789876800,
         "focus": 0,
         "title": "我们的大菲林！来袭！"
-      },
-      {
-        "cid": "7262",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1788411600,
-        "focus": 0,
-        "title": "创作征集活动"
       },
       {
         "cid": "1392",
@@ -410,17 +387,6 @@
         "startAt": 1791428400,
         "focus": 0,
         "title": "提速任务开启"
-      },
-      {
-        "cid": "3027",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 4,
-        "displayType": "rich_text",
-        "startAt": 1791343800,
-        "focus": 0,
-        "title": "理智补给"
       },
       {
         "cid": "2184",

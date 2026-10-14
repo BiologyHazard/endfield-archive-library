@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "dc7bbcf84c7083ee0793edc4227b46da",
+    "version": "9165fe1b6cc477a17a7a8db418f8d0f1",
     "onlineList": [
       {
         "cid": "3024",
@@ -56,18 +56,6 @@
       {
         "cid": "1350",
         "version": 1789209633,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "9844",
-        "version": 1791784505,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "1353",
-        "version": 1788344811,
         "needRedDot": true,
         "needPopup": false
       },
@@ -156,12 +144,6 @@
         "needPopup": false
       },
       {
-        "cid": "3027",
-        "version": 1789209467,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "2184",
         "version": 1789210816,
         "needRedDot": true,
@@ -211,7 +193,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1791946800,
+    "updatedAt": 1792008000,
     "list": [
       {
         "cid": "3024",
@@ -302,28 +284,6 @@
         "startAt": 1789876800,
         "focus": 0,
         "title": "我们的大菲林！来袭！"
-      },
-      {
-        "cid": "9844",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1788588000,
-        "focus": 0,
-        "title": "森空岛雪凇幽梦\\n创作者激励活动"
-      },
-      {
-        "cid": "1353",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1788411600,
-        "focus": 0,
-        "title": "创作征集活动"
       },
       {
         "cid": "0770",
@@ -478,17 +438,6 @@
         "startAt": 1791428400,
         "focus": 0,
         "title": "提速任务开启"
-      },
-      {
-        "cid": "3027",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 4,
-        "displayType": "rich_text",
-        "startAt": 1791343800,
-        "focus": 0,
-        "title": "理智补给"
       },
       {
         "cid": "2184",
