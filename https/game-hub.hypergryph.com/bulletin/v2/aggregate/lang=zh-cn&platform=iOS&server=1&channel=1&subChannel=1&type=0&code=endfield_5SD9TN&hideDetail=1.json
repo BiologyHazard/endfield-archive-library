@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "e4e58a99fbaaeb50ba38170e1de06b83",
+    "version": "5a4189f88f52ebb3db1c29335712ee42",
     "onlineList": [
+      {
+        "cid": "6415",
+        "version": 1791981911,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "3024",
         "version": 1791533588,
@@ -19,8 +25,8 @@
       },
       {
         "cid": "2183",
-        "version": 1790762455,
-        "needRedDot": true,
+        "version": 1792028132,
+        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -49,8 +55,8 @@
       },
       {
         "cid": "5500",
-        "version": 1791544319,
-        "needRedDot": false,
+        "version": 1792030814,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -62,12 +68,6 @@
       {
         "cid": "1358",
         "version": 1791621188,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "5502",
-        "version": 1789210709,
         "needRedDot": true,
         "needPopup": false
       },
@@ -114,6 +114,12 @@
         "needPopup": false
       },
       {
+        "cid": "5502",
+        "version": 1792031158,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
         "cid": "8977",
         "version": 1769054296,
         "needRedDot": false,
@@ -133,8 +139,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1792018800,
+    "updatedAt": 1792031159,
     "list": [
+      {
+        "cid": "6415",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1792026000,
+        "focus": 0,
+        "title": "版本更新说明"
+      },
       {
         "cid": "3024",
         "type": 0,
@@ -155,6 +172,7 @@
         "displayType": "rich_text",
         "startAt": 1791288000,
         "focus": 1,
+        "extraData": {},
         "title": "新版本导览"
       },
       {
@@ -210,6 +228,7 @@
         "displayType": "rich_text",
         "startAt": 1792018800,
         "focus": 0,
+        "extraData": {},
         "title": "协议通行证\\n墨卷"
       },
       {
@@ -233,17 +252,6 @@
         "startAt": 1792018800,
         "focus": 0,
         "title": "丹青渡\\n组合包"
-      },
-      {
-        "cid": "5502",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1791086400,
-        "focus": 0,
-        "title": "影拓丰碑\\n系列更新"
       },
       {
         "cid": "9849",
@@ -321,6 +329,18 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏历程\\n体验问卷"
+      },
+      {
+        "cid": "5502",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 9,
+        "displayType": "rich_text",
+        "startAt": 1791086400,
+        "focus": 0,
+        "extraData": {},
+        "title": "影拓丰碑\\n系列更新"
       },
       {
         "cid": "8977",

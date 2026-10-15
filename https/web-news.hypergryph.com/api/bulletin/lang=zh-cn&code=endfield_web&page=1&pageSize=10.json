@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "6094",
+        "tab": "notices",
+        "sticky": true,
+        "title": "「丹青渡」版本更新说明",
+        "author": "",
+        "displayTime": 1792026000,
+        "cover": "https://web.hycdn.cn/upload/image/20261014/36c2e3fbd1f70b9a3402167ac404ea96.jpg",
+        "extraCover": "",
+        "brief": "秋景现，丹青垂，渡过千般崎岖，万种嶙峋。亲爱的管理员：欢迎来到全新版本「丹青渡」！▼//更新维护及补偿说明■ 更新维护时间2026/10/15 06:00 - 2026/10/15 12:00（UTC"
+      },
+      {
         "cid": "8548",
         "tab": "notices",
         "sticky": true,
@@ -24,6 +35,17 @@
         "cover": "https://web.hycdn.cn/upload/image/20260930/edd8254d71b1feeb662f5eade79e9f84.png",
         "extraCover": "",
         "brief": "「丹青渡」新版本导览专题网页上线，一站式查阅新版本内容，浏览即可领取【嵌晶玉】×1000、【折金票】×10000、【初级认知载体】×8，【武器检查套组】×4。▼//网页入口链接管理员可以通过下方链接、"
+      },
+      {
+        "cid": "7213",
+        "tab": "notices",
+        "sticky": false,
+        "title": "《云·终末地》正式上线，新增网页版！",
+        "author": "",
+        "displayTime": 1792037700,
+        "cover": "https://web.hycdn.cn/upload/image/20260930/df22c20a5fd238d568cec0e32282961a.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：《明日方舟：终末地》官方云游戏《云·终末地》现已正式上线，新增网页版！完成《云·终末地》轻量包体下载，或通过网页版一键体验，即可尽情探索塔卫二，享受高画质、高帧率的云游戏体验。云端之上，"
       },
       {
         "cid": "7212",
@@ -90,32 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260921/52626adfa39665ea02033d987f515608.png",
         "extraCover": "",
         "brief": "「融合！山团团！」趣味活动说明▼//活动时间2026/10/01 12:00（服务器时间） - 版本更新维护前▼//活动奖励活动期间完成任务，可获得【嵌晶玉】【折金票】活动奖励。▼//参与条件完成主线"
-      },
-      {
-        "cid": "2651",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「绚丽异彩」重构寻访#1与「点绘申领」重构申领#1开放",
-        "author": "",
-        "displayTime": 1790157600,
-        "cover": "https://web.hycdn.cn/upload/image/20260921/fd2367bed3a3d26b29996f60d17a2ec4.png",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「绚丽异彩」重构寻访#1开放期间，6星干员【伊冯】获取概率提升！「点绘申领」重构申领#1开放期间，6星武器【艺术暴君（手铳）】获取概率提升！▼//开放时间2026/09/24 12:00"
-      },
-      {
-        "cid": "4775",
-        "tab": "news",
-        "sticky": false,
-        "title": "完成高校认证，领专属福利",
-        "author": "",
-        "displayTime": 1788343200,
-        "cover": "https://web.hycdn.cn/upload/image/20260901/fb7e5a0594d65aebb8694fec7670dc06.png",
-        "extraCover": "",
-        "brief": "《明日方舟：终末地》高校认证已上线！完成高校认证，必得专属头像框奖励！参与限时活动，还有机会抽取iPad Air、飞智冰原狼4游戏手柄、京东卡、游戏周边等丰厚奖励。>>点击前往高校认证活动网页<<高校"
       }
     ],
     "current": 1,
     "pageSize": 10,
-    "total": 105
+    "total": 107
   }
 }
