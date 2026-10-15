@@ -15,17 +15,6 @@
         "brief": "亲爱的管理员：「万物更新」特许寻访开放期间，6星干员【祀】获取概率提升！「万物有灵」限时签到活动同步开放，累计签到可获得【万物有灵寻访凭证】×5等奖励，还可在【集成配额交易】中进行【万物有灵寻访凭证】"
       },
       {
-        "cid": "2650",
-        "tab": "notices",
-        "sticky": true,
-        "title": "「丹青渡」版本预下载与更新预告",
-        "author": "",
-        "displayTime": 1791864000,
-        "cover": "https://web.hycdn.cn/upload/image/20261012/f291d4fa4b4eee233750c100db6545c3.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：《明日方舟：终末地》「丹青渡」版本预下载现已开启，管理员可提前下载PC端、移动端及PlayStation®5的部分游戏资源，在版本更新维护结束后，更快地进入游戏。此外，我们计划将于202"
-      },
-      {
         "cid": "4774",
         "tab": "news",
         "sticky": true,
@@ -35,28 +24,6 @@
         "cover": "https://web.hycdn.cn/upload/image/20260930/edd8254d71b1feeb662f5eade79e9f84.png",
         "extraCover": "",
         "brief": "「丹青渡」新版本导览专题网页上线，一站式查阅新版本内容，浏览即可领取【嵌晶玉】×1000、【折金票】×10000、【初级认知载体】×8，【武器检查套组】×4。▼//网页入口链接管理员可以通过下方链接、"
-      },
-      {
-        "cid": "5987",
-        "tab": "events",
-        "sticky": true,
-        "title": "「融合！山团团！」趣味活动说明",
-        "author": "",
-        "displayTime": 1790751600,
-        "cover": "https://web.hycdn.cn/upload/image/20260921/52626adfa39665ea02033d987f515608.png",
-        "extraCover": "",
-        "brief": "「融合！山团团！」趣味活动说明▼//活动时间2026/10/01 12:00（服务器时间） - 版本更新维护前▼//活动奖励活动期间完成任务，可获得【嵌晶玉】【折金票】活动奖励。▼//参与条件完成主线"
-      },
-      {
-        "cid": "2653",
-        "tab": "notices",
-        "sticky": true,
-        "title": "「雪凇幽梦」版本更新说明",
-        "author": "",
-        "displayTime": 1788310800,
-        "cover": "https://web.hycdn.cn/upload/image/20260901/08f343f9381e539b259d5be5adfbd22d.jpg",
-        "extraCover": "",
-        "brief": "穿过雪与雾，进入幽暗深林和漫长的梦。亲爱的管理员：欢迎来到全新版本「雪凇幽梦」！▼//更新维护及补偿说明■ 更新维护时间2026/09/02 06:00 - 2026/09/02 12:00（UTC+"
       },
       {
         "cid": "7212",
@@ -81,6 +48,17 @@
         "brief": "明日方舟：终末地官方漫画《溯始先声：缘起》现已上线！缘缘人海，起乐画间。点击前往阅读"
       },
       {
+        "cid": "2650",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「丹青渡」版本预下载与更新预告",
+        "author": "",
+        "displayTime": 1791864000,
+        "cover": "https://web.hycdn.cn/upload/image/20261012/f291d4fa4b4eee233750c100db6545c3.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：《明日方舟：终末地》「丹青渡」版本预下载现已开启，管理员可提前下载PC端、移动端及PlayStation®5的部分游戏资源，在版本更新维护结束后，更快地进入游戏。此外，我们计划将于202"
+      },
+      {
         "cid": "9339",
         "tab": "notices",
         "sticky": false,
@@ -103,6 +81,17 @@
         "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。秋景现，丹青垂。《明日方舟：终末地》新版本「丹青渡」将于10月15日开启。通过本期研发通讯，我们将为管理员介绍即将在此版本中上线的一系列优化与调整。「新"
       },
       {
+        "cid": "5987",
+        "tab": "events",
+        "sticky": false,
+        "title": "「融合！山团团！」趣味活动说明",
+        "author": "",
+        "displayTime": 1790751600,
+        "cover": "https://web.hycdn.cn/upload/image/20260921/52626adfa39665ea02033d987f515608.png",
+        "extraCover": "",
+        "brief": "「融合！山团团！」趣味活动说明▼//活动时间2026/10/01 12:00（服务器时间） - 版本更新维护前▼//活动奖励活动期间完成任务，可获得【嵌晶玉】【折金票】活动奖励。▼//参与条件完成主线"
+      },
+      {
         "cid": "2651",
         "tab": "notices",
         "sticky": false,
@@ -112,6 +101,17 @@
         "cover": "https://web.hycdn.cn/upload/image/20260921/fd2367bed3a3d26b29996f60d17a2ec4.png",
         "extraCover": "",
         "brief": "亲爱的管理员：「绚丽异彩」重构寻访#1开放期间，6星干员【伊冯】获取概率提升！「点绘申领」重构申领#1开放期间，6星武器【艺术暴君（手铳）】获取概率提升！▼//开放时间2026/09/24 12:00"
+      },
+      {
+        "cid": "4775",
+        "tab": "news",
+        "sticky": false,
+        "title": "完成高校认证，领专属福利",
+        "author": "",
+        "displayTime": 1788343200,
+        "cover": "https://web.hycdn.cn/upload/image/20260901/fb7e5a0594d65aebb8694fec7670dc06.png",
+        "extraCover": "",
+        "brief": "《明日方舟：终末地》高校认证已上线！完成高校认证，必得专属头像框奖励！参与限时活动，还有机会抽取iPad Air、飞智冰原狼4游戏手柄、京东卡、游戏周边等丰厚奖励。>>点击前往高校认证活动网页<<高校"
       }
     ],
     "current": 1,

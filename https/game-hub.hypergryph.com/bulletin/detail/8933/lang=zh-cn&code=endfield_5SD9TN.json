@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "8933",
+    "type": 0,
+    "tab": "events",
+    "orderType": 1,
+    "orderWeight": 2,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1792018800,
+    "title": "丹青渡\\n版本日历",
+    "header": "「丹青渡」版本日历",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20261010/ce442ac09b7a2403ff25c43c2c8cb2e0.jpg\" data-width=\"1920\" data-height=\"3601\"><p></p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1791621194
+  },
+  "msg": ""
+}

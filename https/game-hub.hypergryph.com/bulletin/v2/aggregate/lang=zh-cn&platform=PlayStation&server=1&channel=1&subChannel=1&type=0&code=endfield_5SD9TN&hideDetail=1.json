@@ -9,41 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "2fa16db9aca32b2d0c986a2535462589",
+    "version": "22202891b72f19900524b600e8e21b3d",
     "onlineList": [
-      {
-        "cid": "2182",
-        "version": 1791622940,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "0779",
-        "version": 1791864900,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "3029",
-        "version": 1788263286,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "3020",
-        "version": 1789728162,
-        "needRedDot": true,
-        "needPopup": false
-      },
       {
         "cid": "2183",
         "version": 1790762455,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "1350",
-        "version": 1789209633,
         "needRedDot": true,
         "needPopup": false
       },
@@ -54,44 +24,26 @@
         "needPopup": false
       },
       {
-        "cid": "3025",
-        "version": 1790061126,
+        "cid": "8933",
+        "version": 1791621194,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "5500",
+        "version": 1791544319,
         "needRedDot": false,
         "needPopup": false
       },
       {
-        "cid": "3026",
-        "version": 1789210724,
+        "cid": "4691",
+        "version": 1791544342,
         "needRedDot": true,
         "needPopup": false
       },
       {
-        "cid": "6418",
-        "version": 1789210314,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "7269",
-        "version": 1789961394,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "9841",
-        "version": 1789209717,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "7263",
-        "version": 1787997523,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "9845",
-        "version": 1787997508,
+        "cid": "1358",
+        "version": 1791621188,
         "needRedDot": true,
         "needPopup": false
       },
@@ -102,32 +54,14 @@
         "needPopup": false
       },
       {
-        "cid": "4693",
-        "version": 1789210476,
+        "cid": "9849",
+        "version": 1791544313,
         "needRedDot": true,
         "needPopup": false
       },
       {
-        "cid": "8939",
-        "version": 1787997516,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "0777",
-        "version": 1789961207,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "2184",
-        "version": 1789210816,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "2188",
-        "version": 1787997520,
+        "cid": "0775",
+        "version": 1791545293,
         "needRedDot": true,
         "needPopup": false
       },
@@ -138,9 +72,21 @@
         "needPopup": false
       },
       {
+        "cid": "6416",
+        "version": 1791545296,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "8957",
         "version": 1781103202,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "6417",
+        "version": 1791544345,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -169,54 +115,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1792008000,
+    "updatedAt": 1792018800,
     "list": [
-      {
-        "cid": "2182",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1791864000,
-        "focus": 0,
-        "title": "预下载与\\n更新预告"
-      },
-      {
-        "cid": "0779",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1788402600,
-        "focus": 1,
-        "extraData": {},
-        "title": "更新修复说明"
-      },
-      {
-        "cid": "3029",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1788310800,
-        "focus": 0,
-        "title": "版本更新说明"
-      },
-      {
-        "cid": "3020",
-        "type": 0,
-        "tab": "events",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1788303600,
-        "focus": 0,
-        "extraData": {},
-        "title": "雪凇幽梦\\n版本日历"
-      },
       {
         "cid": "2183",
         "type": 0,
@@ -227,17 +127,6 @@
         "startAt": 1791288000,
         "focus": 1,
         "title": "新版本导览"
-      },
-      {
-        "cid": "1350",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1789876800,
-        "focus": 0,
-        "title": "我们的大菲林！来袭！"
       },
       {
         "cid": "3068",
@@ -251,81 +140,48 @@
         "title": "游戏工具指南"
       },
       {
-        "cid": "3025",
+        "cid": "8933",
         "type": 0,
         "tab": "events",
         "orderType": 1,
         "orderWeight": 2,
         "displayType": "rich_text",
-        "startAt": 1791345600,
+        "startAt": 1792018800,
         "focus": 0,
-        "title": "天地墨显"
+        "title": "丹青渡\\n版本日历"
       },
       {
-        "cid": "3026",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1790740800,
-        "focus": 0,
-        "title": "陵水渡秋"
-      },
-      {
-        "cid": "6418",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1790568000,
-        "focus": 0,
-        "title": "跑者运动会"
-      },
-      {
-        "cid": "7269",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1790157600,
-        "focus": 0,
-        "title": "重构寻访\\n重构申领"
-      },
-      {
-        "cid": "9841",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1790136000,
-        "focus": 0,
-        "title": "于钟鸣的旧城"
-      },
-      {
-        "cid": "7263",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1788840000,
-        "focus": 0,
-        "title": "挽弓试炼"
-      },
-      {
-        "cid": "9845",
+        "cid": "5500",
         "type": 0,
         "tab": "updates",
         "orderType": 1,
         "orderWeight": 2,
         "displayType": "rich_text",
-        "startAt": 1788303600,
+        "startAt": 1792018800,
         "focus": 0,
-        "title": "协议通行证\\n幽林"
+        "title": "协议通行证\\n墨卷"
+      },
+      {
+        "cid": "4691",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1792018800,
+        "focus": 0,
+        "title": "万物更新\\n特许寻访"
+      },
+      {
+        "cid": "1358",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1792018800,
+        "focus": 0,
+        "title": "丹青渡\\n组合包"
       },
       {
         "cid": "5502",
@@ -339,59 +195,26 @@
         "title": "影拓丰碑\\n系列更新"
       },
       {
-        "cid": "4693",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1790751600,
-        "focus": 0,
-        "title": "融合！山团团！"
-      },
-      {
-        "cid": "8939",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1788303600,
-        "focus": 0,
-        "title": "雪凇幽梦\\n组合包"
-      },
-      {
-        "cid": "0777",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 4,
-        "displayType": "rich_text",
-        "startAt": 1791428400,
-        "focus": 0,
-        "title": "提速任务开启"
-      },
-      {
-        "cid": "2184",
+        "cid": "9849",
         "type": 0,
         "tab": "updates",
         "orderType": 1,
         "orderWeight": 4,
         "displayType": "rich_text",
-        "startAt": 1790053200,
+        "startAt": 1792018800,
         "focus": 0,
-        "title": "战争回响\\n错视赛季"
+        "title": "战争回响\\n异想赛季"
       },
       {
-        "cid": "2188",
+        "cid": "0775",
         "type": 0,
         "tab": "events",
         "orderType": 1,
         "orderWeight": 4,
         "displayType": "rich_text",
-        "startAt": 1788303600,
+        "startAt": 1792018800,
         "focus": 0,
-        "title": "雾隐冬梦深林中"
+        "title": "篆玉申领"
       },
       {
         "cid": "6432",
@@ -405,6 +228,17 @@
         "title": "玩家调研问卷"
       },
       {
+        "cid": "6416",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 5,
+        "displayType": "rich_text",
+        "startAt": 1792018800,
+        "focus": 0,
+        "title": "烟火生缘"
+      },
+      {
         "cid": "8957",
         "type": 0,
         "tab": "updates",
@@ -414,6 +248,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏初体验问卷"
+      },
+      {
+        "cid": "6417",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 6,
+        "displayType": "rich_text",
+        "startAt": 1792018800,
+        "focus": 0,
+        "title": "墨分诸彩"
       },
       {
         "cid": "6431",

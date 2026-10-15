@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "6417",
+    "type": 0,
+    "tab": "events",
+    "orderType": 1,
+    "orderWeight": 6,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1792018800,
+    "title": "墨分诸彩",
+    "header": "「墨分诸彩」引入活动说明",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20261008/ef36cb6a1a2d7d3a8b93a56051efccc0.jpg\" data-width=\"1650\" data-height=\"300\"><p>▼//活动时间</p><p>「丹青渡」版本更新后 - 2026/11/05 12:00（服务器时间）</p><p></p><p>▼//活动奖励</p><p>活动开放期间，完成任务，累计可获得【嵌晶玉】【存续的痕迹】活动奖励。</p><p></p><p>▼//参与条件</p><p>在主线任务「第二章 - 进程Ⅷ - 入丹青」中，完成「前往指定地点，与祀会合」</p><p></p><p>▼//活动说明</p><p>活动期间，前往「武陵」地区的「祀的画」区域，完成解锁协议传送点、开启协议储藏箱等任务，即可获得丰厚奖励。</p><p></p><p>※ 更多活动详细说明，请前往游戏内【活动中心】查看。</p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1791544345
+  },
+  "msg": ""
+}
