@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "5a4189f88f52ebb3db1c29335712ee42",
+    "version": "f312a50a09920996da1bb5d758b38b6f",
     "onlineList": [
       {
         "cid": "6415",
@@ -20,6 +20,18 @@
       {
         "cid": "3024",
         "version": 1791533588,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "5509",
+        "version": 1792031844,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "8932",
+        "version": 1792068536,
         "needRedDot": true,
         "needPopup": false
       },
@@ -139,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1792031159,
+    "updatedAt": 1792080000,
     "list": [
       {
         "cid": "6415",
@@ -162,6 +174,28 @@
         "startAt": 1791946800,
         "focus": 0,
         "title": "漫画《溯始先声\\n ：缘起》上线"
+      },
+      {
+        "cid": "5509",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1792080000,
+        "focus": 0,
+        "title": "森空岛10月\\n签到开启"
+      },
+      {
+        "cid": "8932",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1792076400,
+        "focus": 1,
+        "title": "已知问题说明"
       },
       {
         "cid": "2183",
