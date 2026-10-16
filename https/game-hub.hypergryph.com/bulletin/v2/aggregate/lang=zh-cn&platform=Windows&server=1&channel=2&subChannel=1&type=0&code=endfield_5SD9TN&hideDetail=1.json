@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "1ec45387dbbde0d2df81be74967dfe83",
+    "version": "6be5baa49c7c5cc912d1f015ca46b725",
     "onlineList": [
+      {
+        "cid": "1356",
+        "version": 1792119937,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "6415",
         "version": 1791981911,
@@ -20,6 +26,12 @@
       {
         "cid": "3024",
         "version": 1791533588,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1357",
+        "version": 1792121228,
         "needRedDot": true,
         "needPopup": false
       },
@@ -133,8 +145,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1792076400,
+    "updatedAt": 1792126800,
     "list": [
+      {
+        "cid": "1356",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1792117800,
+        "focus": 1,
+        "title": "更新修复说明"
+      },
       {
         "cid": "6415",
         "type": 0,
@@ -156,6 +179,17 @@
         "startAt": 1791946800,
         "focus": 0,
         "title": "漫画《溯始先声\\n ：缘起》上线"
+      },
+      {
+        "cid": "1357",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1792126800,
+        "focus": 0,
+        "title": "创作征集活动"
       },
       {
         "cid": "8932",
