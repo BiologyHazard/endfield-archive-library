@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "cd2e6d5ba95eae45623fcdbff76414af",
+    "version": "ac66c48f492d08204e1c8b2d280a23db",
     "onlineList": [
       {
         "cid": "1356",
@@ -25,7 +25,7 @@
       },
       {
         "cid": "8932",
-        "version": 1792068536,
+        "version": 1792234800,
         "needRedDot": true,
         "needPopup": false
       },
@@ -127,7 +127,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1792204649,
+    "updatedAt": 1792234801,
     "list": [
       {
         "cid": "1356",
@@ -161,6 +161,7 @@
         "displayType": "rich_text",
         "startAt": 1792076400,
         "focus": 1,
+        "extraData": {},
         "title": "已知问题说明"
       },
       {

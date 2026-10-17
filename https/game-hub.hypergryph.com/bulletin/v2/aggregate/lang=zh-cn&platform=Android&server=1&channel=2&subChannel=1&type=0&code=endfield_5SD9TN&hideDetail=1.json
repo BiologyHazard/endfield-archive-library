@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "c965d9742acb772b30fe027d806f298f",
+    "version": "8f0479b8485e3e484979e24d65a3f9a6",
     "onlineList": [
       {
         "cid": "1356",
@@ -37,7 +37,7 @@
       },
       {
         "cid": "8932",
-        "version": 1792068536,
+        "version": 1792234800,
         "needRedDot": true,
         "needPopup": false
       },
@@ -145,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1792204649,
+    "updatedAt": 1792234801,
     "list": [
       {
         "cid": "1356",
@@ -201,6 +201,7 @@
         "displayType": "rich_text",
         "startAt": 1792076400,
         "focus": 1,
+        "extraData": {},
         "title": "已知问题说明"
       },
       {

@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "98fa06d850910f600dba2dc51bb2147d",
+    "version": "32cdcde4edda586bda24b0a7559fd0f8",
     "onlineList": [
       {
         "cid": "1356",
@@ -55,7 +55,7 @@
       },
       {
         "cid": "8932",
-        "version": 1792068536,
+        "version": 1792234800,
         "needRedDot": true,
         "needPopup": false
       },
@@ -175,7 +175,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1792204649,
+    "updatedAt": 1792234801,
     "list": [
       {
         "cid": "1356",
@@ -264,6 +264,7 @@
         "displayType": "rich_text",
         "startAt": 1792076400,
         "focus": 1,
+        "extraData": {},
         "title": "已知问题说明"
       },
       {
