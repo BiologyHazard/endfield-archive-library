@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "b9f93a45317a011f6052a10809cc5b01",
+    "version": "a489e8fed42510a56d6dc823f6277232",
     "onlineList": [
       {
         "cid": "1356",
@@ -108,12 +108,6 @@
         "needPopup": false
       },
       {
-        "cid": "5502",
-        "version": 1792031158,
-        "needRedDot": false,
-        "needPopup": false
-      },
-      {
         "cid": "8977",
         "version": 1769054296,
         "needRedDot": false,
@@ -133,7 +127,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1792234801,
+    "updatedAt": 1792353600,
     "list": [
       {
         "cid": "1356",
@@ -314,18 +308,6 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏历程\\n体验问卷"
-      },
-      {
-        "cid": "5502",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 9,
-        "displayType": "rich_text",
-        "startAt": 1791086400,
-        "focus": 0,
-        "extraData": {},
-        "title": "影拓丰碑\\n系列更新"
       },
       {
         "cid": "8977",
