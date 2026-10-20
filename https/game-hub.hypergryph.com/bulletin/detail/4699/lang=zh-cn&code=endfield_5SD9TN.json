@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "4699",
+    "type": 0,
+    "tab": "news",
+    "orderType": 0,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1792497600,
+    "title": "【精密研测系列\\n助力科研梦想】",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20261019/235012db093640fd90a7d2d914d5f2e3.jpg",
+      "link": "https://market.m.taobao.com/app/tb-shop/shop-page-webapp/pages/custom-page/index.html?shopId=414690138&sellerId=2221386384051&pageId=478927518&pathInfo=shop/activity2&isShopDomain=true",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1792390841
+  },
+  "msg": ""
+}
