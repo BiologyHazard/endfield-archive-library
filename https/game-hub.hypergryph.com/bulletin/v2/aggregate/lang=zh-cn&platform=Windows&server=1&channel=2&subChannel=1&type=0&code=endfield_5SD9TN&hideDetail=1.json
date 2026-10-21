@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "c625e6b282bfaa906db8d0cf1f40d271",
+    "version": "b55403fb241604f41c280584e6b1516a",
     "onlineList": [
       {
         "cid": "4699",
@@ -19,7 +19,7 @@
       },
       {
         "cid": "1356",
-        "version": 1792204648,
+        "version": 1792551999,
         "needRedDot": true,
         "needPopup": false
       },
@@ -43,7 +43,7 @@
       },
       {
         "cid": "8932",
-        "version": 1792234800,
+        "version": 1792553941,
         "needRedDot": true,
         "needPopup": false
       },
@@ -78,8 +78,20 @@
         "needPopup": false
       },
       {
+        "cid": "7265",
+        "version": 1792486922,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "1358",
         "version": 1791621188,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "6414",
+        "version": 1792486922,
         "needRedDot": true,
         "needPopup": false
       },
@@ -145,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1792497600,
+    "updatedAt": 1792555200,
     "list": [
       {
         "cid": "4699",
@@ -273,6 +285,17 @@
         "title": "万物更新\\n特许寻访"
       },
       {
+        "cid": "7265",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1792553400,
+        "focus": 0,
+        "title": "卡莉的芳菲童话"
+      },
+      {
         "cid": "1358",
         "type": 0,
         "tab": "updates",
@@ -282,6 +305,17 @@
         "startAt": 1792018800,
         "focus": 0,
         "title": "丹青渡\\n组合包"
+      },
+      {
+        "cid": "6414",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 4,
+        "displayType": "rich_text",
+        "startAt": 1792555200,
+        "focus": 0,
+        "title": "影拓丰碑\\n系列更新"
       },
       {
         "cid": "9849",
