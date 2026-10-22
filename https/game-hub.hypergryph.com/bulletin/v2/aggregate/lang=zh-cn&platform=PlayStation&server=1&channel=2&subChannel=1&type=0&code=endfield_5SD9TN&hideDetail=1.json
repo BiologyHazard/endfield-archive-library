@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "0a8924f231d16a737798653c06b31433",
+    "version": "6269dd7fdf718ba53fd17f102fd4d0e9",
     "onlineList": [
       {
         "cid": "4699",
@@ -19,7 +19,7 @@
       },
       {
         "cid": "1356",
-        "version": 1792551999,
+        "version": 1792674848,
         "needRedDot": true,
         "needPopup": false
       },
@@ -139,7 +139,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1792584001,
+    "updatedAt": 1792674849,
     "list": [
       {
         "cid": "4699",
