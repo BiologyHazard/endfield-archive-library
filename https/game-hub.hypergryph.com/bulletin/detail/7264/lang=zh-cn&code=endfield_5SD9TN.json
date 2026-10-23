@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "7264",
+    "type": 0,
+    "tab": "news",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1792728000,
+    "title": "「雪凇幽梦」\\n开拓日志",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20261023/adbd2dc9bdd8be5b4bd4da77399f7fa4.png",
+      "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fevent.skland.com%252Factivity%252Fendfield_data_report%252Fdreamscape%253Fheader%253D0%2526hg_media%253Dendfield%2526hg_link_campaign%253Dannouncement&u8_token={u8_token}&server={server}",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1792722497
+  },
+  "msg": ""
+}

@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "27110213ea7af2de27c66013353a3df1",
+    "version": "62e19a34e39ab078111b9191229f7104",
     "onlineList": [
       {
         "cid": "4699",
@@ -25,13 +25,19 @@
       },
       {
         "cid": "6415",
-        "version": 1791981911,
-        "needRedDot": true,
+        "version": 1792741942,
+        "needRedDot": false,
         "needPopup": false
       },
       {
         "cid": "3024",
         "version": 1791533588,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7264",
+        "version": 1792722497,
         "needRedDot": true,
         "needPopup": false
       },
@@ -61,7 +67,7 @@
       },
       {
         "cid": "8932",
-        "version": 1792584000,
+        "version": 1792723146,
         "needRedDot": true,
         "needPopup": false
       },
@@ -187,7 +193,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1792674849,
+    "updatedAt": 1792741943,
     "list": [
       {
         "cid": "4699",
@@ -221,6 +227,7 @@
         "displayType": "rich_text",
         "startAt": 1792026000,
         "focus": 0,
+        "extraData": {},
         "title": "版本更新说明"
       },
       {
@@ -233,6 +240,17 @@
         "startAt": 1791946800,
         "focus": 0,
         "title": "漫画《溯始先声\\n ：缘起》上线"
+      },
+      {
+        "cid": "7264",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1792728000,
+        "focus": 0,
+        "title": "「雪凇幽梦」\\n开拓日志"
       },
       {
         "cid": "3023",
