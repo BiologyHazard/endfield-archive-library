@@ -9,8 +9,20 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "c74c3464b39dd03e7355b5da9f852706",
+    "version": "f32def49e18e591a4ea7d3090fba31e8",
     "onlineList": [
+      {
+        "cid": "2189",
+        "version": 1793108848,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "8930",
+        "version": 1793108846,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "4699",
         "version": 1792390841,
@@ -25,7 +37,7 @@
       },
       {
         "cid": "6415",
-        "version": 1792741942,
+        "version": 1793155346,
         "needRedDot": false,
         "needPopup": false
       },
@@ -49,7 +61,7 @@
       },
       {
         "cid": "2183",
-        "version": 1792028132,
+        "version": 1793155466,
         "needRedDot": false,
         "needPopup": false
       },
@@ -61,19 +73,31 @@
       },
       {
         "cid": "8933",
-        "version": 1791621194,
-        "needRedDot": true,
+        "version": 1793155356,
+        "needRedDot": false,
         "needPopup": false
       },
       {
         "cid": "5500",
-        "version": 1792030814,
-        "needRedDot": true,
+        "version": 1793155371,
+        "needRedDot": false,
         "needPopup": false
       },
       {
         "cid": "4691",
         "version": 1791544342,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0772",
+        "version": 1793157264,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "2180",
+        "version": 1792410903,
         "needRedDot": true,
         "needPopup": false
       },
@@ -85,8 +109,8 @@
       },
       {
         "cid": "1358",
-        "version": 1791621188,
-        "needRedDot": true,
+        "version": 1793155356,
+        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -115,8 +139,8 @@
       },
       {
         "cid": "6416",
-        "version": 1791545296,
-        "needRedDot": true,
+        "version": 1793155466,
+        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -157,8 +181,30 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1793071504,
+    "updatedAt": 1793160000,
     "list": [
+      {
+        "cid": "2189",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1793154600,
+        "focus": 0,
+        "title": "协议通行证·墨卷\\n时间调整说明"
+      },
+      {
+        "cid": "8930",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1793154600,
+        "focus": 0,
+        "title": "部分活动\\n时间调整说明"
+      },
       {
         "cid": "4699",
         "type": 0,
@@ -260,6 +306,7 @@
         "displayType": "rich_text",
         "startAt": 1792018800,
         "focus": 0,
+        "extraData": {},
         "title": "丹青渡\\n版本日历"
       },
       {
@@ -286,6 +333,28 @@
         "title": "万物更新\\n特许寻访"
       },
       {
+        "cid": "0772",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1793160000,
+        "focus": 0,
+        "title": "百趣演武"
+      },
+      {
+        "cid": "2180",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1793160000,
+        "focus": 0,
+        "title": "危机筹备"
+      },
+      {
         "cid": "7265",
         "type": 0,
         "tab": "events",
@@ -305,6 +374,7 @@
         "displayType": "rich_text",
         "startAt": 1792018800,
         "focus": 0,
+        "extraData": {},
         "title": "丹青渡\\n组合包"
       },
       {
@@ -360,6 +430,7 @@
         "displayType": "rich_text",
         "startAt": 1792018800,
         "focus": 0,
+        "extraData": {},
         "title": "烟火生缘"
       },
       {
