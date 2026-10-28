@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "2d75ea89aa7cd2845ff9e58cdbd94ab0",
+    "version": "5f46d511566245c901eac2c0971fa8dd",
     "onlineList": [
       {
         "cid": "2189",
@@ -56,6 +56,12 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "4698",
+        "version": 1793186993,
         "needRedDot": true,
         "needPopup": false
       },
@@ -169,7 +175,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1793160000,
+    "updatedAt": 1793186994,
     "list": [
       {
         "cid": "2189",
@@ -262,6 +268,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "4698",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1793181600,
+        "focus": 0,
+        "title": "重构寻访\\n重构申领"
       },
       {
         "cid": "8933",

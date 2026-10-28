@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "0cc0a94e8f66fb7bce9b61b490c2f45b",
+    "version": "35f1115565f6f722200dcd41990f7c22",
     "onlineList": [
       {
         "cid": "2189",
@@ -104,6 +104,12 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "4698",
+        "version": 1793186993,
         "needRedDot": true,
         "needPopup": false
       },
@@ -217,7 +223,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1793160000,
+    "updatedAt": 1793186994,
     "list": [
       {
         "cid": "2189",
@@ -398,6 +404,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "4698",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1793181600,
+        "focus": 0,
+        "title": "重构寻访\\n重构申领"
       },
       {
         "cid": "8933",

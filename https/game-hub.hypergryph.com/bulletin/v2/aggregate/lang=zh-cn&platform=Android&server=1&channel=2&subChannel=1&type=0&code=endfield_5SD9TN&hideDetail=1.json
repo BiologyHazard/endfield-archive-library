@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "f32def49e18e591a4ea7d3090fba31e8",
+    "version": "1d4fc99b45a8149e5324bbd032086e38",
     "onlineList": [
       {
         "cid": "2189",
@@ -68,6 +68,12 @@
       {
         "cid": "1392",
         "version": 1791784505,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "4698",
+        "version": 1793186993,
         "needRedDot": true,
         "needPopup": false
       },
@@ -181,7 +187,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1793160000,
+    "updatedAt": 1793186994,
     "list": [
       {
         "cid": "2189",
@@ -296,6 +302,17 @@
         "startAt": 1769040000,
         "focus": 0,
         "title": "关注社媒领奖励"
+      },
+      {
+        "cid": "4698",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1793181600,
+        "focus": 0,
+        "title": "重构寻访\\n重构申领"
       },
       {
         "cid": "8933",
