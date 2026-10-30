@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "bc39de9e557c57e4084b2ade039d27de",
+    "version": "f5252e8d51eed4c6c688b8493dc75bbd",
     "onlineList": [
       {
         "cid": "2189",
@@ -39,12 +39,6 @@
         "cid": "6415",
         "version": 1793155346,
         "needRedDot": false,
-        "needPopup": false
-      },
-      {
-        "cid": "3024",
-        "version": 1791533588,
-        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -187,7 +181,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1793186994,
+    "updatedAt": 1793376000,
     "list": [
       {
         "cid": "2189",
@@ -245,17 +239,6 @@
         "focus": 0,
         "extraData": {},
         "title": "版本更新说明"
-      },
-      {
-        "cid": "3024",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1791946800,
-        "focus": 0,
-        "title": "漫画《溯始先声\\n ：缘起》上线"
       },
       {
         "cid": "1357",
