@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "84ec1519c0320b450872c36dc4716fc6",
+    "version": "ba3f189cde7f0a3011f8790ab39257d2",
     "onlineList": [
       {
         "cid": "2189",
@@ -86,6 +86,12 @@
       {
         "cid": "4691",
         "version": 1791544342,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3022",
+        "version": 1792591388,
         "needRedDot": true,
         "needPopup": false
       },
@@ -181,7 +187,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1793376000,
+    "updatedAt": 1793419200,
     "list": [
       {
         "cid": "2189",
@@ -331,6 +337,17 @@
         "startAt": 1792018800,
         "focus": 0,
         "title": "万物更新\\n特许寻访"
+      },
+      {
+        "cid": "3022",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1793419200,
+        "focus": 0,
+        "title": "予众魂的新光影"
       },
       {
         "cid": "0772",

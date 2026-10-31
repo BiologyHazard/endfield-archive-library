@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "d9df298310e8b53aae1f8b9c4915ea47",
+    "version": "e6c92610ef573aa2cd47abb4f8a9ddb7",
     "onlineList": [
       {
         "cid": "2189",
@@ -74,6 +74,12 @@
       {
         "cid": "4691",
         "version": 1791544342,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3022",
+        "version": 1792591388,
         "needRedDot": true,
         "needPopup": false
       },
@@ -169,7 +175,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1793186994,
+    "updatedAt": 1793419200,
     "list": [
       {
         "cid": "2189",
@@ -297,6 +303,17 @@
         "startAt": 1792018800,
         "focus": 0,
         "title": "万物更新\\n特许寻访"
+      },
+      {
+        "cid": "3022",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1793419200,
+        "focus": 0,
+        "title": "予众魂的新光影"
       },
       {
         "cid": "0772",
