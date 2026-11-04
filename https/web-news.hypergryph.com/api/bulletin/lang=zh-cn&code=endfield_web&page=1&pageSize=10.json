@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "7204",
+        "tab": "notices",
+        "sticky": true,
+        "title": "「烟火邀星河」特许寻访说明",
+        "author": "",
+        "displayTime": 1793786400,
+        "cover": "https://web.hycdn.cn/upload/image/20261027/d992f550c17edbe3b144ca61ba20fd3e.png",
+        "extraCover": "",
+        "brief": "亲爱的管理员：「烟火邀星河」特许寻访开放期间，6星干员【明河】获取概率提升！「星河共我」限时签到活动同步开放，累计签到可获得【星河共我寻访凭证】×5等奖励，还可在【集成配额交易】中进行【星河共我寻访凭"
+      },
+      {
         "cid": "6094",
         "tab": "notices",
         "sticky": true,
@@ -35,6 +46,17 @@
         "cover": "https://web.hycdn.cn/upload/image/20260930/edd8254d71b1feeb662f5eade79e9f84.png",
         "extraCover": "",
         "brief": "「丹青渡」新版本导览专题网页上线，一站式查阅新版本内容，浏览即可领取【嵌晶玉】×1000、【折金票】×10000、【初级认知载体】×8，【武器检查套组】×4。▼//网页入口链接管理员可以通过下方链接、"
+      },
+      {
+        "cid": "5971",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「月映申领」限时特卖说明",
+        "author": "",
+        "displayTime": 1793788200,
+        "cover": "https://web.hycdn.cn/upload/image/20261102/8f8ab35996133973db9301297b05f81b.png",
+        "extraCover": "",
+        "brief": "亲爱的管理员：「月映申领」开放期间，6星武器【唤月（单手剑）】获取概率提升！▼//「月映申领」· 开放时间：2026/11/05 12:00（服务器时间）开启，于3次「特许寻访」后结束（从「烟火邀星河"
       },
       {
         "cid": "3893",
@@ -90,32 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20261012/f291d4fa4b4eee233750c100db6545c3.jpg",
         "extraCover": "",
         "brief": "亲爱的管理员：《明日方舟：终末地》「丹青渡」版本预下载现已开启，管理员可提前下载PC端、移动端及PlayStation®5的部分游戏资源，在版本更新维护结束后，更快地进入游戏。此外，我们计划将于202"
-      },
-      {
-        "cid": "9339",
-        "tab": "notices",
-        "sticky": false,
-        "title": "【2026年10月08日】封禁处理公示",
-        "author": "",
-        "displayTime": 1791464400,
-        "cover": "",
-        "extraCover": "",
-        "brief": "亲爱的管理员：\n感谢您对《明日方舟：终末地》的关注与支持。自游戏正式运营以来，我们一直致力于维护绿色、公平的游戏环境。拒绝容忍使用外挂、第三方工具以及任何不正当方式破坏游戏公平性等行为。对此行为也将进"
-      },
-      {
-        "cid": "3805",
-        "tab": "news",
-        "sticky": false,
-        "title": "「丹青渡」版本研发通讯",
-        "author": "",
-        "displayTime": 1791340200,
-        "cover": "https://web.hycdn.cn/upload/image/20260930/671f07273d5ee166618887f3ce4d9353.png",
-        "extraCover": "",
-        "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。秋景现，丹青垂。《明日方舟：终末地》新版本「丹青渡」将于10月15日开启。通过本期研发通讯，我们将为管理员介绍即将在此版本中上线的一系列优化与调整。「新"
       }
     ],
     "current": 1,
     "pageSize": 10,
-    "total": 108
+    "total": 110
   }
 }

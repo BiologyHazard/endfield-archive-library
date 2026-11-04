@@ -4,6 +4,28 @@
   "data": {
     "list": [
       {
+        "cid": "9339",
+        "tab": "notices",
+        "sticky": false,
+        "title": "【2026年10月08日】封禁处理公示",
+        "author": "",
+        "displayTime": 1791464400,
+        "cover": "",
+        "extraCover": "",
+        "brief": "亲爱的管理员：\n感谢您对《明日方舟：终末地》的关注与支持。自游戏正式运营以来，我们一直致力于维护绿色、公平的游戏环境。拒绝容忍使用外挂、第三方工具以及任何不正当方式破坏游戏公平性等行为。对此行为也将进"
+      },
+      {
+        "cid": "3805",
+        "tab": "news",
+        "sticky": false,
+        "title": "「丹青渡」版本研发通讯",
+        "author": "",
+        "displayTime": 1791340200,
+        "cover": "https://web.hycdn.cn/upload/image/20260930/671f07273d5ee166618887f3ce4d9353.png",
+        "extraCover": "",
+        "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。秋景现，丹青垂。《明日方舟：终末地》新版本「丹青渡」将于10月15日开启。通过本期研发通讯，我们将为管理员介绍即将在此版本中上线的一系列优化与调整。「新"
+      },
+      {
         "cid": "5987",
         "tab": "events",
         "sticky": false,
@@ -90,32 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260820/9b8e1d49415b0d55b54f07e41870be22.jpg",
         "extraCover": "",
         "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。穿过雪与雾，踏入幽暗深林，「雪凇幽梦」版本即将开启。通过本期研发通讯，我们将为管理员介绍此版本中上线的一系列优化与调整。集成工业系统优化· 新增【连续放"
-      },
-      {
-        "cid": "7216",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「明曜申领」限时特卖说明",
-        "author": "",
-        "displayTime": 1786185000,
-        "cover": "https://web.hycdn.cn/upload/image/20260730/582e9e65b618415860f7771e8b439325.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「明曜申领」开放期间，6星武器【曜夜的首演（长柄武器）】获取概率提升！▼//「明曜申领」· 开放时间：2026/08/09 12:00（服务器时间）开启，于3次「特许寻访」后结束（从「晨"
-      },
-      {
-        "cid": "1165",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「晨星于此闪耀」特许寻访说明",
-        "author": "",
-        "displayTime": 1786183200,
-        "cover": "https://web.hycdn.cn/upload/image/20260730/9e816139877ce8a07a30b1d001d7341d.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「晨星于此闪耀」特许寻访开放期间，6星干员【梨诺】获取概率提升！「明耀晨星」限时签到活动同步开放，累计签到可获得【明耀晨星寻访凭证】×5等奖励，还可在【集成配额交易】中进行【明耀晨星寻访"
       }
     ],
     "current": 2,
     "pageSize": 10,
-    "total": 108
+    "total": 110
   }
 }

@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "23080110cc095aadd462692aab646b6d",
+    "version": "0dd1e23c5a46fb58ed9340b67542ea5c",
     "onlineList": [
       {
         "cid": "2189",
@@ -42,6 +42,12 @@
         "needPopup": false
       },
       {
+        "cid": "0688",
+        "version": 1793689987,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "8932",
         "version": 1792723146,
         "needRedDot": true,
@@ -56,6 +62,18 @@
       {
         "cid": "3068",
         "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1254",
+        "version": 1793690537,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "5507",
+        "version": 1793157461,
         "needRedDot": true,
         "needPopup": false
       },
@@ -80,6 +98,12 @@
       {
         "cid": "4691",
         "version": 1791544342,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "8839",
+        "version": 1793689606,
         "needRedDot": true,
         "needPopup": false
       },
@@ -111,6 +135,12 @@
         "cid": "1358",
         "version": 1793155356,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "6413",
+        "version": 1793156594,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -181,7 +211,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1793450357,
+    "updatedAt": 1793790000,
     "list": [
       {
         "cid": "2189",
@@ -241,6 +271,17 @@
         "title": "版本更新说明"
       },
       {
+        "cid": "0688",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1793764800,
+        "focus": 0,
+        "title": "危机合约\\n浸蓝测试作战"
+      },
+      {
         "cid": "8932",
         "type": 0,
         "tab": "updates",
@@ -274,6 +315,28 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "游戏工具指南"
+      },
+      {
+        "cid": "1254",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1793788200,
+        "focus": 0,
+        "title": "月映申领"
+      },
+      {
+        "cid": "5507",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1793786400,
+        "focus": 0,
+        "title": "烟火邀星河\\n特许寻访"
       },
       {
         "cid": "4698",
@@ -320,6 +383,17 @@
         "startAt": 1792018800,
         "focus": 0,
         "title": "万物更新\\n特许寻访"
+      },
+      {
+        "cid": "8839",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1793790000,
+        "focus": 0,
+        "title": "归野"
       },
       {
         "cid": "3022",
@@ -376,6 +450,17 @@
         "focus": 0,
         "extraData": {},
         "title": "丹青渡\\n组合包"
+      },
+      {
+        "cid": "6413",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 4,
+        "displayType": "rich_text",
+        "startAt": 1793764800,
+        "focus": 0,
+        "title": "战争回响\\n狂热赛季"
       },
       {
         "cid": "6414",

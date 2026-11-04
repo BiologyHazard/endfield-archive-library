@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "8839",
+    "type": 0,
+    "tab": "events",
+    "orderType": 1,
+    "orderWeight": 3,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1793790000,
+    "title": "归野",
+    "header": "「归野」明河叙事活动说明",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20261102/cd63858c74fdabf2accfefe8bae44410.jpg\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(0, 0, 0);\">明河发来一串乱码，你决定找他一探究竟，也聊聊那段尚未讲完的往事……</span></p><p></p><p><span style=\"color: rgb(0, 0, 0);\">▼//活动时间</span></p><p><span style=\"color: rgb(0, 0, 0);\">2026/11/05 12:00（服务器时间） - 版本更新维护前</span></p><p></p><p><span style=\"color: rgb(0, 0, 0);\">▼//参与条件</span></p><p><span style=\"color: rgb(0, 0, 0);\">完成主线任务「第二章 - 进程Ⅷ - 着新墨」</span></p><p></p><p><span style=\"color: rgb(0, 0, 0);\">▼//活动说明</span></p><p><span style=\"color: rgb(0, 0, 0);\">· 完成支线任务「归野」，可获得【嵌晶玉】【初级认知载体】【协议棱柱组】【武器检查套组】等奖励。</span></p><p><span style=\"color: rgb(0, 0, 0);\">· 活动页面下线后，若满足任务参与条件，仍可在【任务】中继续体验该支线任务并获得对应奖励。</span></p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1793689606
+  },
+  "msg": ""
+}
