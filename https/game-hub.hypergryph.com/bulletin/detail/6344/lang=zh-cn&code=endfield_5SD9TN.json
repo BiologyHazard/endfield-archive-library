@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "6344",
+    "type": 0,
+    "tab": "news",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1793934000,
+    "title": "「丹青渡」\\n限时任务",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20261105/910deb99e68ae6d0f06989fe0313c617.png",
+      "link": "https://bbs.hycdn.cn/u-link/download.html?schema=skland%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fact.skland.com%252Fendfield%252Fsanctuary-part2%253FactivityId%253Dact_endfield_788423%2526header%253D0%253Fhg_media%253Dendfield%2526hg_link_campaign%253Dannouncement",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1793866782
+  },
+  "msg": ""
+}
