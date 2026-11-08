@@ -1,0 +1,590 @@
+{
+  "code": 0,
+  "data": {
+    "topicCid": "0092",
+    "type": 0,
+    "platform": "Web",
+    "server": "#DEFAULT",
+    "channel": "1",
+    "subChannel": "#DEFAULT",
+    "lang": "zh-cn",
+    "key": "0:Web:#DEFAULT:1:#DEFAULT:zh-cn",
+    "version": "65fecd3069b5336104a46b03dabd0b66",
+    "onlineList": [
+      {
+        "cid": "4597",
+        "version": 1793708723,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "2189",
+        "version": 1793108848,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "8930",
+        "version": 1793108846,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "4699",
+        "version": 1792390841,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1356",
+        "version": 1793849076,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "6415",
+        "version": 1793155346,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "6344",
+        "version": 1793866782,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0688",
+        "version": 1793689987,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7264",
+        "version": 1792722497,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1357",
+        "version": 1792121228,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9848",
+        "version": 1792049728,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "8932",
+        "version": 1793849766,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "2183",
+        "version": 1793155466,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "0770",
+        "version": 1791784505,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1392",
+        "version": 1791784505,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3068",
+        "version": 1769042318,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1254",
+        "version": 1793690537,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "5507",
+        "version": 1793157461,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "4698",
+        "version": 1793186993,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "8933",
+        "version": 1793155356,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "5500",
+        "version": 1793155371,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "8839",
+        "version": 1793689606,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3022",
+        "version": 1792591388,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "0772",
+        "version": 1793157264,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1358",
+        "version": 1793155356,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "6413",
+        "version": 1793156594,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "6432",
+        "version": 1781102579,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "6416",
+        "version": 1793155466,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "8957",
+        "version": 1781103202,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "6431",
+        "version": 1781103202,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "8977",
+        "version": 1769054296,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "7201",
+        "version": 1768817216,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "8976",
+        "version": 1768817224,
+        "needRedDot": false,
+        "needPopup": false
+      }
+    ],
+    "popupVersion": 0,
+    "updatedAt": 1793934000,
+    "list": [
+      {
+        "cid": "4597",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1793851200,
+        "focus": 0,
+        "title": "最会拉线之人\\n现身塔卫二？！"
+      },
+      {
+        "cid": "2189",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1793154600,
+        "focus": 0,
+        "title": "协议通行证·墨卷\\n时间调整说明"
+      },
+      {
+        "cid": "8930",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1793154600,
+        "focus": 0,
+        "title": "部分活动\\n时间调整说明"
+      },
+      {
+        "cid": "4699",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1792497600,
+        "focus": 0,
+        "title": "【精密研测系列\\n助力科研梦想】"
+      },
+      {
+        "cid": "1356",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1792117800,
+        "focus": 1,
+        "extraData": {},
+        "title": "更新修复说明"
+      },
+      {
+        "cid": "6415",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1792026000,
+        "focus": 0,
+        "extraData": {},
+        "title": "版本更新说明"
+      },
+      {
+        "cid": "6344",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1793934000,
+        "focus": 0,
+        "title": "「丹青渡」\\n限时任务"
+      },
+      {
+        "cid": "0688",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1793764800,
+        "focus": 0,
+        "title": "危机合约\\n浸蓝测试作战"
+      },
+      {
+        "cid": "7264",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1792728000,
+        "focus": 0,
+        "title": "「雪凇幽梦」\\n开拓日志"
+      },
+      {
+        "cid": "1357",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1792126800,
+        "focus": 0,
+        "title": "创作征集活动"
+      },
+      {
+        "cid": "9848",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1792123200,
+        "focus": 0,
+        "title": "森空岛丹青渡\\n创作者激励活动"
+      },
+      {
+        "cid": "8932",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1792076400,
+        "focus": 1,
+        "extraData": {},
+        "title": "已知问题说明"
+      },
+      {
+        "cid": "2183",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1791288000,
+        "focus": 1,
+        "extraData": {},
+        "title": "新版本导览"
+      },
+      {
+        "cid": "0770",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1788343200,
+        "focus": 0,
+        "title": "完成高校认证\\n领专属福利"
+      },
+      {
+        "cid": "1392",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1769040000,
+        "focus": 0,
+        "title": "关注社媒领奖励"
+      },
+      {
+        "cid": "3068",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1769036400,
+        "focus": 0,
+        "title": "游戏工具指南"
+      },
+      {
+        "cid": "1254",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1793788200,
+        "focus": 0,
+        "title": "月映申领"
+      },
+      {
+        "cid": "5507",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1793786400,
+        "focus": 0,
+        "title": "烟火邀星河\\n特许寻访"
+      },
+      {
+        "cid": "4698",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1793181600,
+        "focus": 0,
+        "title": "重构寻访\\n重构申领"
+      },
+      {
+        "cid": "8933",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1792018800,
+        "focus": 0,
+        "extraData": {},
+        "title": "丹青渡\\n版本日历"
+      },
+      {
+        "cid": "5500",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1792018800,
+        "focus": 0,
+        "extraData": {},
+        "title": "协议通行证\\n墨卷"
+      },
+      {
+        "cid": "8839",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1793790000,
+        "focus": 0,
+        "title": "归野"
+      },
+      {
+        "cid": "3022",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1793419200,
+        "focus": 0,
+        "title": "予众魂的新光影"
+      },
+      {
+        "cid": "0772",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1793160000,
+        "focus": 0,
+        "title": "百趣演武"
+      },
+      {
+        "cid": "1358",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1792018800,
+        "focus": 0,
+        "extraData": {},
+        "title": "丹青渡\\n组合包"
+      },
+      {
+        "cid": "6413",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 4,
+        "displayType": "rich_text",
+        "startAt": 1793764800,
+        "focus": 0,
+        "title": "战争回响\\n狂热赛季"
+      },
+      {
+        "cid": "6432",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 4,
+        "displayType": "rich_text",
+        "startAt": 1769036400,
+        "focus": 0,
+        "title": "玩家调研问卷"
+      },
+      {
+        "cid": "6416",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 5,
+        "displayType": "rich_text",
+        "startAt": 1792018800,
+        "focus": 0,
+        "extraData": {},
+        "title": "烟火生缘"
+      },
+      {
+        "cid": "8957",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 5,
+        "displayType": "rich_text",
+        "startAt": 1769036400,
+        "focus": 0,
+        "title": "游戏初体验问卷"
+      },
+      {
+        "cid": "6431",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 6,
+        "displayType": "rich_text",
+        "startAt": 1769036400,
+        "focus": 0,
+        "title": "游戏历程\\n体验问卷"
+      },
+      {
+        "cid": "8977",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 2,
+        "orderWeight": 5,
+        "displayType": "rich_text",
+        "startAt": 1769036400,
+        "focus": 0,
+        "title": "公平运营声明"
+      },
+      {
+        "cid": "7201",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 2,
+        "orderWeight": 6,
+        "displayType": "rich_text",
+        "startAt": 1769036400,
+        "focus": 0,
+        "title": "未成年人\\n成长护航指引"
+      },
+      {
+        "cid": "8976",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 2,
+        "orderWeight": 7,
+        "displayType": "rich_text",
+        "startAt": 1769036400,
+        "focus": 0,
+        "title": "集成工业\\n使用说明"
+      }
+    ]
+  },
+  "msg": ""
+}

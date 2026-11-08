@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "4690",
+    "type": 2,
+    "tab": "cloud",
+    "orderType": 1,
+    "orderWeight": 2,
+    "displayType": "rich_text",
+    "focus": 0,
+    "extraData": {},
+    "startAt": 1792026000,
+    "title": "已知问题说明",
+    "header": "《云·终末地》已知问题说明",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20261015/765c7f75970d1f3b0ebf02c5abd3e0d1.png\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：</p><p>为了帮助各位管理员更顺利地体验游戏内容，现将已知问题进行汇总。在游戏过程中，如管理员遇到相同问题，请您参考对应的解决方式进行处理。</p><p></p><p><strong>▼//游戏已知问题</strong></p><p>· 已知macOS设备的用户使用21.1 及以下版本的Safari浏览器打开【云·采购中心】时，有概率出现商品显示异常的问题。遇到该问题时，管理员可以先尝试升级macOS设备系统版本来解决。</p><p>· 已知受浏览器兼容性限制，使用部分浏览器体验《云·终末地》网页版时，可能出现无法进入游戏或连接手柄后无法正常识别的问题。为获得更完整的游戏体验，建议管理员使用下列推荐浏览器进行体验：Windows端或macOS端浏览器推荐使用Safari、Chrome、Edge及Chromium内核的浏览器，移动端浏览器建议使用系统自带浏览器或下载Chrome浏览器进行体验。</p><p>· 已知受部分移动端App内置浏览器的功能限制，通过此类浏览器打开《云·终末地》网页版时，进行App内支付或跳转至其他网页可能出现游戏连接中断的问题，管理员可以尝试使用前述推荐浏览器进行体验。</p><p></p><p>如遇到其他问题，还请管理员通过游戏内客服等方式提供反馈。再次感谢管理员对《明日方舟：终末地》一直以来的关注与支持！</p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1792027418
+  },
+  "msg": ""
+}

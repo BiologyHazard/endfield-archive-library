@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "data": {
+    "topicCid": "0092",
+    "type": 1,
+    "platform": "Web",
+    "server": "#DEFAULT",
+    "channel": "2",
+    "subChannel": "#DEFAULT",
+    "lang": "zh-cn",
+    "key": "1:Web:#DEFAULT:2:#DEFAULT:zh-cn",
+    "version": "861a78c79581d57db5f57f627de31baf",
+    "onlineList": [
+      {
+        "cid": "0774",
+        "version": 1793155226,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "1386",
+        "version": 1773268347,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "8975",
+        "version": 1769053790,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "2124",
+        "version": 1769054188,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "6452",
+        "version": 1768817243,
+        "needRedDot": true,
+        "needPopup": false
+      }
+    ],
+    "popupVersion": 0,
+    "updatedAt": 1793844600,
+    "list": [
+      {
+        "cid": "0774",
+        "type": 1,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1792026000,
+        "focus": 0,
+        "extraData": {},
+        "title": "版本更新说明"
+      },
+      {
+        "cid": "1386",
+        "type": 1,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1773279000,
+        "focus": 1,
+        "title": "风险提示"
+      },
+      {
+        "cid": "8975",
+        "type": 1,
+        "tab": "updates",
+        "orderType": 2,
+        "orderWeight": 5,
+        "displayType": "rich_text",
+        "startAt": 1768838400,
+        "focus": 0,
+        "title": "公平运营声明"
+      },
+      {
+        "cid": "2124",
+        "type": 1,
+        "tab": "updates",
+        "orderType": 2,
+        "orderWeight": 6,
+        "displayType": "rich_text",
+        "startAt": 1768838400,
+        "focus": 0,
+        "title": "未成年人\\n成长护航指引"
+      },
+      {
+        "cid": "6452",
+        "type": 1,
+        "tab": "updates",
+        "orderType": 2,
+        "orderWeight": 7,
+        "displayType": "rich_text",
+        "startAt": 1768838400,
+        "focus": 0,
+        "title": "集成工业\\n使用说明"
+      }
+    ]
+  },
+  "msg": ""
+}

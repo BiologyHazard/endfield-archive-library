@@ -1,0 +1,144 @@
+{
+  "code": 0,
+  "data": {
+    "topicCid": "0092",
+    "type": 2,
+    "platform": "PlayStation",
+    "server": "#DEFAULT",
+    "channel": "2",
+    "subChannel": "#DEFAULT",
+    "lang": "zh-cn",
+    "key": "2:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
+    "version": "7e2e83feded3f23df63946c7d262a14b",
+    "onlineList": [
+      {
+        "cid": "7266",
+        "version": 1792026899,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1360",
+        "version": 1783924245,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "2181",
+        "version": 1792027455,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "5519",
+        "version": 1783924239,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3036",
+        "version": 1792015804,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9851",
+        "version": 1792015846,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "4603",
+        "version": 1792015976,
+        "needRedDot": false,
+        "needPopup": false
+      }
+    ],
+    "popupVersion": 0,
+    "updatedAt": 1792027456,
+    "list": [
+      {
+        "cid": "7266",
+        "type": 2,
+        "tab": "cloud",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1792015200,
+        "focus": 0,
+        "extraData": {},
+        "title": "《云·终末地》正式上线"
+      },
+      {
+        "cid": "1360",
+        "type": 2,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1784156400,
+        "focus": 0,
+        "title": "公平运营声明"
+      },
+      {
+        "cid": "2181",
+        "type": 2,
+        "tab": "cloud",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1792026000,
+        "focus": 0,
+        "extraData": {},
+        "title": "版本更新说明"
+      },
+      {
+        "cid": "5519",
+        "type": 2,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1784156400,
+        "focus": 0,
+        "title": "未成年人\\n成长护航指引"
+      },
+      {
+        "cid": "3036",
+        "type": 2,
+        "tab": "cloud",
+        "orderType": 1,
+        "orderWeight": 2,
+        "displayType": "rich_text",
+        "startAt": 1784156400,
+        "focus": 0,
+        "extraData": {},
+        "title": "计费规则说明"
+      },
+      {
+        "cid": "9851",
+        "type": 2,
+        "tab": "cloud",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1784156400,
+        "focus": 0,
+        "extraData": {},
+        "title": "快速排队通道 权益说明"
+      },
+      {
+        "cid": "4603",
+        "type": 2,
+        "tab": "cloud",
+        "orderType": 2,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1792015200,
+        "focus": 0,
+        "title": "反馈途径说明"
+      }
+    ]
+  },
+  "msg": ""
+}

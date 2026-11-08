@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "4603",
+    "type": 2,
+    "tab": "cloud",
+    "orderType": 2,
+    "orderWeight": 1,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1792015200,
+    "title": "反馈途径说明",
+    "header": "《云·终末地》反馈途径说明",
+    "jumpButton": null,
+    "data": {
+      "html": "<img src=\"https://web.hycdn.cn/upload/image/20260713/52972cffac581490b6fd5a3cb9d90302.png\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：</p><p>为了更好地收集管理员对于《云·终末地》的体验建议，您可通过以下方式联系客服进行反馈。如您在测试过程中遇到问题，也可以通过以下方式联系客服协助处理。</p><p></p><p>1.在《云·终末地》登录界面，点击【客服】按钮。</p><p>2.在《云·终末地》内，点击悬浮球界面，点击【联系客服】按钮。</p><p></p><p>我们将认真对待管理员的反馈，持续优化游戏内容，提升游戏体验。</p><p>再次感谢管理员一直以来对于《明日方舟：终末地》的关注与支持！</p>",
+      "linkType": 1
+    },
+    "needRedDot": false,
+    "needPopup": false,
+    "version": 1792015976
+  },
+  "msg": ""
+}
