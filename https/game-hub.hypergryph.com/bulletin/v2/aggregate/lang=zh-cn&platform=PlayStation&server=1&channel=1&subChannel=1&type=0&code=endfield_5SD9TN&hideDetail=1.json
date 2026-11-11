@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "3d748d007ea154273e9f8fd7dbc8ca1a",
+    "version": "4500a2c3bb92d51296362c8b6c334ada",
     "onlineList": [
       {
         "cid": "4597",
@@ -102,6 +102,12 @@
         "needPopup": false
       },
       {
+        "cid": "7171",
+        "version": 1793187001,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "8839",
         "version": 1793689606,
         "needRedDot": true,
@@ -175,7 +181,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1793851200,
+    "updatedAt": 1794369600,
     "list": [
       {
         "cid": "4597",
@@ -347,6 +353,17 @@
         "focus": 0,
         "extraData": {},
         "title": "协议通行证\\n墨卷"
+      },
+      {
+        "cid": "7171",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1794369600,
+        "focus": 0,
+        "title": "密境行者\\n空间组更新"
       },
       {
         "cid": "8839",

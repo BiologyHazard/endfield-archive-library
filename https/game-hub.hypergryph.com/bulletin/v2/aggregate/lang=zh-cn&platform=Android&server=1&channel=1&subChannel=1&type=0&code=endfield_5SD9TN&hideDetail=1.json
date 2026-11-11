@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "5494798c9711a63e74616a807a03f166",
+    "version": "035368ed4ce1e830e9a821562ced9342",
     "onlineList": [
       {
         "cid": "4597",
@@ -138,6 +138,12 @@
         "needPopup": false
       },
       {
+        "cid": "7171",
+        "version": 1793187001,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "8839",
         "version": 1793689606,
         "needRedDot": true,
@@ -211,7 +217,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1793934000,
+    "updatedAt": 1794369600,
     "list": [
       {
         "cid": "4597",
@@ -449,6 +455,17 @@
         "focus": 0,
         "extraData": {},
         "title": "协议通行证\\n墨卷"
+      },
+      {
+        "cid": "7171",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1794369600,
+        "focus": 0,
+        "title": "密境行者\\n空间组更新"
       },
       {
         "cid": "8839",
