@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "4500a2c3bb92d51296362c8b6c334ada",
+    "version": "b495160146d3e6b882551f0effa44b9e",
     "onlineList": [
       {
         "cid": "4597",
@@ -102,6 +102,12 @@
         "needPopup": false
       },
       {
+        "cid": "9763",
+        "version": 1793689993,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "7171",
         "version": 1793187001,
         "needRedDot": true,
@@ -144,6 +150,12 @@
         "needPopup": false
       },
       {
+        "cid": "7170",
+        "version": 1794227759,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "6416",
         "version": 1793155466,
         "needRedDot": false,
@@ -181,7 +193,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1794369600,
+    "updatedAt": 1794456000,
     "list": [
       {
         "cid": "4597",
@@ -355,6 +367,17 @@
         "title": "协议通行证\\n墨卷"
       },
       {
+        "cid": "9763",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1794456000,
+        "focus": 0,
+        "title": "危机合约\\n内容更新"
+      },
+      {
         "cid": "7171",
         "type": 0,
         "tab": "updates",
@@ -431,6 +454,17 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "玩家调研问卷"
+      },
+      {
+        "cid": "7170",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 5,
+        "displayType": "rich_text",
+        "startAt": 1794452400,
+        "focus": 0,
+        "title": "版本调研问卷"
       },
       {
         "cid": "6416",
