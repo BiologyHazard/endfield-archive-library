@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "3f7b5a9d6d926eedcad201956a5fdaa4",
+    "version": "e0124285f044ec64a2a6f3c6bcc4d499",
     "onlineList": [
       {
         "cid": "4597",
@@ -126,12 +126,6 @@
         "needPopup": false
       },
       {
-        "cid": "3022",
-        "version": 1792591388,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "0772",
         "version": 1793157264,
         "needRedDot": true,
@@ -199,7 +193,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1794456000,
+    "updatedAt": 1794600000,
     "list": [
       {
         "cid": "4597",
@@ -415,17 +409,6 @@
         "startAt": 1793790000,
         "focus": 0,
         "title": "归野"
-      },
-      {
-        "cid": "3022",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1793419200,
-        "focus": 0,
-        "title": "予众魂的新光影"
       },
       {
         "cid": "0772",
