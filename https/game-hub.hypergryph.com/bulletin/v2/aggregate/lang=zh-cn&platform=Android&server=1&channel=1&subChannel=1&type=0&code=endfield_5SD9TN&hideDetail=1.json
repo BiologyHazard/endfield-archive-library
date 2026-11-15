@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "4a617a2bb348f1d1d4d77c6ba435ce6f",
+    "version": "ab25686bb8242ad6094a2a271f51a308",
     "onlineList": [
       {
         "cid": "4597",
@@ -26,12 +26,6 @@
       {
         "cid": "8930",
         "version": 1793108846,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "4699",
-        "version": 1792390841,
         "needRedDot": true,
         "needPopup": false
       },
@@ -223,7 +217,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1794627762,
+    "updatedAt": 1794758340,
     "list": [
       {
         "cid": "4597",
@@ -257,17 +251,6 @@
         "startAt": 1793154600,
         "focus": 0,
         "title": "部分活动\\n时间调整说明"
-      },
-      {
-        "cid": "4699",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1792497600,
-        "focus": 0,
-        "title": "【精密研测系列\\n助力科研梦想】"
       },
       {
         "cid": "1356",
