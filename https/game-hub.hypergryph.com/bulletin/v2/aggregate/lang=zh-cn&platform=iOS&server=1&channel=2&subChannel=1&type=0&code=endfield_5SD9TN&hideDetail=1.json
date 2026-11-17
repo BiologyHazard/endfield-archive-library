@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "b410fcdac5bd13f1c72f6fed22ac3a41",
+    "version": "3b12d1181aad50be78cc93c6978feeba",
     "onlineList": [
       {
         "cid": "4597",
@@ -102,6 +102,12 @@
         "needPopup": false
       },
       {
+        "cid": "6345",
+        "version": 1793772489,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "9763",
         "version": 1793689993,
         "needRedDot": true,
@@ -187,7 +193,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1794758340,
+    "updatedAt": 1794891600,
     "list": [
       {
         "cid": "4597",
@@ -359,6 +365,17 @@
         "focus": 0,
         "extraData": {},
         "title": "协议通行证\\n墨卷"
+      },
+      {
+        "cid": "6345",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1794891600,
+        "focus": 0,
+        "title": "理智补给"
       },
       {
         "cid": "9763",

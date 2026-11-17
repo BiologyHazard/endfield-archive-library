@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "05eeda99614080cfd5a16b029448f892",
+    "version": "0a4e4afd930f6c78c1e6fc1117b160c7",
     "onlineList": [
       {
         "cid": "4597",
@@ -93,6 +93,12 @@
         "cid": "5500",
         "version": 1793155371,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "6345",
+        "version": 1793772489,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -181,7 +187,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1794758340,
+    "updatedAt": 1794891600,
     "list": [
       {
         "cid": "4597",
@@ -342,6 +348,17 @@
         "focus": 0,
         "extraData": {},
         "title": "协议通行证\\n墨卷"
+      },
+      {
+        "cid": "6345",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 3,
+        "displayType": "rich_text",
+        "startAt": 1794891600,
+        "focus": 0,
+        "title": "理智补给"
       },
       {
         "cid": "9763",
