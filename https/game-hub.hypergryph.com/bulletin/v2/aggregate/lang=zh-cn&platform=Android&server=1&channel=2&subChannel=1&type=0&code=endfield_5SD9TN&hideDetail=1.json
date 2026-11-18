@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "3b12d1181aad50be78cc93c6978feeba",
+    "version": "be815a9a4cd36745465b72218e5c6bd1",
     "onlineList": [
+      {
+        "cid": "5404",
+        "version": 1795013470,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "4597",
         "version": 1793708723,
@@ -126,12 +132,6 @@
         "needPopup": false
       },
       {
-        "cid": "0772",
-        "version": 1793157264,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "1358",
         "version": 1793155356,
         "needRedDot": false,
@@ -193,8 +193,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1794891600,
+    "updatedAt": 1795032000,
     "list": [
+      {
+        "cid": "5404",
+        "type": 0,
+        "tab": "events",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1795013400,
+        "focus": 0,
+        "title": "特别答谢\\n致管理员"
+      },
       {
         "cid": "4597",
         "type": 0,
@@ -409,17 +420,6 @@
         "startAt": 1793790000,
         "focus": 0,
         "title": "归野"
-      },
-      {
-        "cid": "0772",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 3,
-        "displayType": "rich_text",
-        "startAt": 1793160000,
-        "focus": 0,
-        "title": "百趣演武"
       },
       {
         "cid": "1358",

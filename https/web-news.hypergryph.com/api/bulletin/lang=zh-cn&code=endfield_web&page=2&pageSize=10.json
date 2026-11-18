@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "2650",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「丹青渡」版本预下载与更新预告",
+        "author": "",
+        "displayTime": 1791864000,
+        "cover": "https://web.hycdn.cn/upload/image/20261012/f291d4fa4b4eee233750c100db6545c3.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：《明日方舟：终末地》「丹青渡」版本预下载现已开启，管理员可提前下载PC端、移动端及PlayStation®5的部分游戏资源，在版本更新维护结束后，更快地进入游戏。此外，我们计划将于202"
+      },
+      {
         "cid": "9339",
         "tab": "notices",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260829/5710c389eb98e003669bf9d6a5406bee.jpg",
         "extraCover": "",
         "brief": "亲爱的管理员：《明日方舟：终末地》「雪凇幽梦」版本预下载现已开启，管理员可提前下载PC端及PlayStation®5的部分游戏资源，在版本更新维护结束后，更快地进入游戏。此外，我们计划将于2026年9"
-      },
-      {
-        "cid": "4776",
-        "tab": "news",
-        "sticky": false,
-        "title": "「雪凇幽梦」版本研发通讯",
-        "author": "",
-        "displayTime": 1787392800,
-        "cover": "https://web.hycdn.cn/upload/image/20260820/9b8e1d49415b0d55b54f07e41870be22.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。穿过雪与雾，踏入幽暗深林，「雪凇幽梦」版本即将开启。通过本期研发通讯，我们将为管理员介绍此版本中上线的一系列优化与调整。集成工业系统优化· 新增【连续放"
       }
     ],
     "current": 2,
     "pageSize": 10,
-    "total": 110
+    "total": 111
   }
 }
