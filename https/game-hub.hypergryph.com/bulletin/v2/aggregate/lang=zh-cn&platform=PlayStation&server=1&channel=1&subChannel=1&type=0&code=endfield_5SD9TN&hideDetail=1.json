@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "8bcc792a81d50eeed82257ec0f874022",
+    "version": "9e6966ba5359541bb2d4eae137a81720",
     "onlineList": [
       {
         "cid": "5404",
@@ -84,12 +84,6 @@
         "needPopup": false
       },
       {
-        "cid": "4698",
-        "version": 1793186993,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "8933",
         "version": 1793155356,
         "needRedDot": false,
@@ -132,6 +126,12 @@
         "needPopup": false
       },
       {
+        "cid": "5406",
+        "version": 1795063246,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "6413",
         "version": 1793156594,
         "needRedDot": true,
@@ -141,12 +141,6 @@
         "cid": "6432",
         "version": 1781102579,
         "needRedDot": false,
-        "needPopup": false
-      },
-      {
-        "cid": "7170",
-        "version": 1794227759,
-        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -187,7 +181,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795032000,
+    "updatedAt": 1795063247,
     "list": [
       {
         "cid": "5404",
@@ -326,17 +320,6 @@
         "title": "烟火邀星河\\n特许寻访"
       },
       {
-        "cid": "4698",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 2,
-        "displayType": "rich_text",
-        "startAt": 1793181600,
-        "focus": 0,
-        "title": "重构寻访\\n重构申领"
-      },
-      {
         "cid": "8933",
         "type": 0,
         "tab": "events",
@@ -417,6 +400,18 @@
         "title": "丹青渡\\n组合包"
       },
       {
+        "cid": "5406",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 4,
+        "displayType": "rich_text",
+        "startAt": 1795060800,
+        "focus": 0,
+        "extraData": {},
+        "title": "提速任务开启"
+      },
+      {
         "cid": "6413",
         "type": 0,
         "tab": "updates",
@@ -437,17 +432,6 @@
         "startAt": 1769036400,
         "focus": 0,
         "title": "玩家调研问卷"
-      },
-      {
-        "cid": "7170",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 5,
-        "displayType": "rich_text",
-        "startAt": 1794452400,
-        "focus": 0,
-        "title": "版本调研问卷"
       },
       {
         "cid": "6416",
