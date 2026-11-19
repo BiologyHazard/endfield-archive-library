@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "1452f813a1dd9258c0d31d6e42e5e5d6",
+    "version": "020aed48a1fdb81785eb4e74c274760f",
     "onlineList": [
       {
         "cid": "5404",
@@ -56,12 +56,6 @@
       {
         "cid": "0688",
         "version": 1793689987,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "7264",
-        "version": 1792722497,
         "needRedDot": true,
         "needPopup": false
       },
@@ -217,7 +211,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795063247,
+    "updatedAt": 1795103940,
     "list": [
       {
         "cid": "5404",
@@ -308,17 +302,6 @@
         "startAt": 1793764800,
         "focus": 0,
         "title": "危机合约\\n浸蓝测试作战"
-      },
-      {
-        "cid": "7264",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1792728000,
-        "focus": 0,
-        "title": "「雪凇幽梦」\\n开拓日志"
       },
       {
         "cid": "8931",
