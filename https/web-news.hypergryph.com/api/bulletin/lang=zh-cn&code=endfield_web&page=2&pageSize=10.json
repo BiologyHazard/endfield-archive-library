@@ -4,17 +4,6 @@
   "data": {
     "list": [
       {
-        "cid": "2650",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「丹青渡」版本预下载与更新预告",
-        "author": "",
-        "displayTime": 1791864000,
-        "cover": "https://web.hycdn.cn/upload/image/20261012/f291d4fa4b4eee233750c100db6545c3.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：《明日方舟：终末地》「丹青渡」版本预下载现已开启，管理员可提前下载PC端、移动端及PlayStation®5的部分游戏资源，在版本更新维护结束后，更快地进入游戏。此外，我们计划将于202"
-      },
-      {
         "cid": "9339",
         "tab": "notices",
         "sticky": false,
@@ -35,6 +24,17 @@
         "cover": "https://web.hycdn.cn/upload/image/20260930/671f07273d5ee166618887f3ce4d9353.png",
         "extraCover": "",
         "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。秋景现，丹青垂。《明日方舟：终末地》新版本「丹青渡」将于10月15日开启。通过本期研发通讯，我们将为管理员介绍即将在此版本中上线的一系列优化与调整。「新"
+      },
+      {
+        "cid": "4774",
+        "tab": "news",
+        "sticky": false,
+        "title": "「丹青渡」新版本导览上线，浏览领嵌晶玉！",
+        "author": "",
+        "displayTime": 1791289380,
+        "cover": "https://web.hycdn.cn/upload/image/20260930/edd8254d71b1feeb662f5eade79e9f84.png",
+        "extraCover": "",
+        "brief": "「丹青渡」新版本导览专题网页上线，一站式查阅新版本内容，浏览即可领取【嵌晶玉】×1000、【折金票】×10000、【初级认知载体】×8，【武器检查套组】×4。▼//网页入口链接管理员可以通过下方链接、"
       },
       {
         "cid": "5987",
