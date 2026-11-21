@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Web:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "6281b9c25ac065ab6642994fee17ffb0",
+    "version": "d6a578c949285fb4de3cdc6cfedc8851",
     "onlineList": [
       {
         "cid": "5404",
@@ -48,6 +48,18 @@
         "needPopup": false
       },
       {
+        "cid": "7178",
+        "version": 1795172975,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9761",
+        "version": 1795162773,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "6344",
         "version": 1793866782,
         "needRedDot": true,
@@ -75,12 +87,6 @@
         "cid": "8932",
         "version": 1793849766,
         "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "2183",
-        "version": 1793155466,
-        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -211,7 +217,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795103940,
+    "updatedAt": 1795262400,
     "list": [
       {
         "cid": "5404",
@@ -282,6 +288,28 @@
         "title": "版本更新说明"
       },
       {
+        "cid": "7178",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1795262400,
+        "focus": 0,
+        "title": "新版本导览"
+      },
+      {
+        "cid": "9761",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1795258800,
+        "focus": 0,
+        "title": "蕈属集群"
+      },
+      {
         "cid": "6344",
         "type": 0,
         "tab": "news",
@@ -336,18 +364,6 @@
         "focus": 1,
         "extraData": {},
         "title": "已知问题说明"
-      },
-      {
-        "cid": "2183",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1791288000,
-        "focus": 1,
-        "extraData": {},
-        "title": "新版本导览"
       },
       {
         "cid": "0770",

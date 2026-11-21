@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "3a02d44fab29cfac66597e45b29b8ef6",
+    "version": "43aa771280b7d96fda6d38018fdeeb39",
     "onlineList": [
       {
         "cid": "5404",
@@ -48,6 +48,18 @@
         "needPopup": false
       },
       {
+        "cid": "7178",
+        "version": 1795172975,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9761",
+        "version": 1795162773,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "0688",
         "version": 1793689987,
         "needRedDot": true,
@@ -57,12 +69,6 @@
         "cid": "8932",
         "version": 1793849766,
         "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "2183",
-        "version": 1793155466,
-        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -175,7 +181,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795063247,
+    "updatedAt": 1795262400,
     "list": [
       {
         "cid": "5404",
@@ -246,6 +252,28 @@
         "title": "版本更新说明"
       },
       {
+        "cid": "7178",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1795262400,
+        "focus": 0,
+        "title": "新版本导览"
+      },
+      {
+        "cid": "9761",
+        "type": 0,
+        "tab": "events",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1795258800,
+        "focus": 0,
+        "title": "蕈属集群"
+      },
+      {
         "cid": "0688",
         "type": 0,
         "tab": "events",
@@ -267,18 +295,6 @@
         "focus": 1,
         "extraData": {},
         "title": "已知问题说明"
-      },
-      {
-        "cid": "2183",
-        "type": 0,
-        "tab": "events",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1791288000,
-        "focus": 1,
-        "extraData": {},
-        "title": "新版本导览"
       },
       {
         "cid": "1254",

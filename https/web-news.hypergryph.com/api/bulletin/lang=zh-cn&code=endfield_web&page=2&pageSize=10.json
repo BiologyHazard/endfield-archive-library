@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "2650",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「丹青渡」版本预下载与更新预告",
+        "author": "",
+        "displayTime": 1791864000,
+        "cover": "https://web.hycdn.cn/upload/image/20261012/f291d4fa4b4eee233750c100db6545c3.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：《明日方舟：终末地》「丹青渡」版本预下载现已开启，管理员可提前下载PC端、移动端及PlayStation®5的部分游戏资源，在版本更新维护结束后，更快地进入游戏。此外，我们计划将于202"
+      },
+      {
         "cid": "9339",
         "tab": "notices",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260824/8added9b9b315ede92db1c92804667fa.jpg",
         "extraCover": "",
         "brief": "亲爱的管理员：「冬猎」特许寻访开放期间，6星干员【提弗洛斯】获取概率提升！「镞砺括羽」限时签到活动同步开放，累计签到可获得【镞砺括羽寻访凭证】×5等奖励，还可在【集成配额交易】中进行【镞砺括羽寻访凭证"
-      },
-      {
-        "cid": "1164",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「雪凇幽梦」版本预下载与更新预告",
-        "author": "",
-        "displayTime": 1788148800,
-        "cover": "https://web.hycdn.cn/upload/image/20260829/5710c389eb98e003669bf9d6a5406bee.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：《明日方舟：终末地》「雪凇幽梦」版本预下载现已开启，管理员可提前下载PC端及PlayStation®5的部分游戏资源，在版本更新维护结束后，更快地进入游戏。此外，我们计划将于2026年9"
       }
     ],
     "current": 2,
     "pageSize": 10,
-    "total": 111
+    "total": 112
   }
 }
