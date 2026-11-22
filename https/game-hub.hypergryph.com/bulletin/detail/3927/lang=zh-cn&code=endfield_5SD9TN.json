@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "3927",
+    "type": 0,
+    "tab": "news",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1795320000,
+    "title": "智能推荐\\n功能上线",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20261120/6f77f7d3a2303c7507a6ba903a5d558c.jpg",
+      "link": "https://game.skland.com/tools/endfield/smart-rec-list?header=0&routeId=0&ctr_orientation=landscape&u8_token={u8_token}&server={server}",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1795178336
+  },
+  "msg": ""
+}

@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "43aa771280b7d96fda6d38018fdeeb39",
+    "version": "b3cdd838d62b1a7244545b347c835bbb",
     "onlineList": [
       {
         "cid": "5404",
@@ -45,6 +45,12 @@
         "cid": "6415",
         "version": 1793155346,
         "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "3927",
+        "version": 1795178336,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -181,7 +187,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795262400,
+    "updatedAt": 1795320000,
     "list": [
       {
         "cid": "5404",
@@ -250,6 +256,17 @@
         "focus": 0,
         "extraData": {},
         "title": "版本更新说明"
+      },
+      {
+        "cid": "3927",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1795320000,
+        "focus": 0,
+        "title": "智能推荐\\n功能上线"
       },
       {
         "cid": "7178",
