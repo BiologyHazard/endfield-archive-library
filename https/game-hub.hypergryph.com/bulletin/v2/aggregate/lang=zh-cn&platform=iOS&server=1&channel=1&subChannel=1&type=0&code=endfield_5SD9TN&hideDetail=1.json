@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "7cf62d208398df6b0c4741835eca1e0c",
+    "version": "2f8603b38edc4678e0a1ce27c7151acd",
     "onlineList": [
+      {
+        "cid": "8836",
+        "version": 1795186685,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "5404",
         "version": 1795013470,
@@ -48,6 +54,12 @@
         "needPopup": false
       },
       {
+        "cid": "6341",
+        "version": 1795402055,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
         "cid": "3927",
         "version": 1795178336,
         "needRedDot": true,
@@ -79,14 +91,14 @@
       },
       {
         "cid": "8931",
-        "version": 1792121198,
-        "needRedDot": true,
+        "version": 1795429086,
+        "needRedDot": false,
         "needPopup": false
       },
       {
         "cid": "9848",
-        "version": 1792049728,
-        "needRedDot": true,
+        "version": 1795429176,
+        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -223,8 +235,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795320000,
+    "updatedAt": 1795429177,
     "list": [
+      {
+        "cid": "8836",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1795406400,
+        "focus": 0,
+        "title": "预下载与\\n更新预告"
+      },
       {
         "cid": "5404",
         "type": 0,
@@ -294,6 +317,17 @@
         "title": "版本更新说明"
       },
       {
+        "cid": "6341",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1795402800,
+        "focus": 0,
+        "title": "「丹青渡」\\n开拓日志"
+      },
+      {
         "cid": "3927",
         "type": 0,
         "tab": "news",
@@ -357,6 +391,7 @@
         "displayType": "rich_text",
         "startAt": 1792126800,
         "focus": 0,
+        "extraData": {},
         "title": "创作征集活动"
       },
       {
@@ -368,6 +403,7 @@
         "displayType": "picture",
         "startAt": 1792123200,
         "focus": 0,
+        "extraData": {},
         "title": "森空岛丹青渡\\n创作者激励活动"
       },
       {

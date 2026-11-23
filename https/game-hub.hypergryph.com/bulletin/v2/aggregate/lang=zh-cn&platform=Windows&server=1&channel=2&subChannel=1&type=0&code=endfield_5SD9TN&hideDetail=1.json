@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "5c95536089a5936f4ad4a2d9e3fc1cf6",
+    "version": "ba9cad3b1e6e7e01345db4d2267657d2",
     "onlineList": [
+      {
+        "cid": "8836",
+        "version": 1795186685,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "5404",
         "version": 1795013470,
@@ -73,8 +79,8 @@
       },
       {
         "cid": "1357",
-        "version": 1792121228,
-        "needRedDot": true,
+        "version": 1795429101,
+        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -199,8 +205,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795320000,
+    "updatedAt": 1795429102,
     "list": [
+      {
+        "cid": "8836",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1795406400,
+        "focus": 0,
+        "title": "预下载与\\n更新预告"
+      },
       {
         "cid": "5404",
         "type": 0,
@@ -322,6 +339,7 @@
         "displayType": "rich_text",
         "startAt": 1792126800,
         "focus": 0,
+        "extraData": {},
         "title": "创作征集活动"
       },
       {

@@ -9,8 +9,14 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "1:Web:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "861a78c79581d57db5f57f627de31baf",
+    "version": "f880588bf61dd42e66df2ccb8ae2a00d",
     "onlineList": [
+      {
+        "cid": "9760",
+        "version": 1795172970,
+        "needRedDot": true,
+        "needPopup": true
+      },
       {
         "cid": "0774",
         "version": 1793155226,
@@ -43,8 +49,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795260600,
+    "updatedAt": 1795406400,
     "list": [
+      {
+        "cid": "9760",
+        "type": 1,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1795406400,
+        "focus": 1,
+        "title": "预下载与\\n更新预告"
+      },
       {
         "cid": "0774",
         "type": 1,
