@@ -59,6 +59,39 @@
         "brief": "秋景现，丹青垂，渡过千般崎岖，万种嶙峋。亲爱的管理员：欢迎来到全新版本「丹青渡」！▼//更新维护及补偿说明■ 更新维护时间2026/10/15 06:00 - 2026/10/15 12:00（UTC"
       },
       {
+        "cid": "7201",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「致每一个飘游之愿」重构寻访1与「飘行申领」重构申领1开放",
+        "author": "",
+        "displayTime": 1795496400,
+        "cover": "https://web.hycdn.cn/upload/image/20261123/b869cef4f3221001cb2d2f922a2c684b.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：「致每一个飘游之愿」重构寻访1开放期间，6星干员【洁尔佩塔】获取概率提升！「飘行申领」重构申领1开放期间，6星武器【使命必达（施术单元）】获取概率提升！▼//开放时间「穿越甚大蘑境与你相"
+      },
+      {
+        "cid": "6083",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「恣游申领」限时特卖说明",
+        "author": "",
+        "displayTime": 1795494600,
+        "cover": "https://web.hycdn.cn/upload/image/20261120/f0c44d447ed43eee3d065ee0db6e44f7.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：「恣游申领」开放期间，6星武器【甜美交易（长柄武器）】获取概率提升！▼//「恣游申领」· 开放时间：「穿越甚大蘑境与你相逢」版本更新后开启，于3次「特许寻访」后结束（从「锻砧、行囊与蜜糖"
+      },
+      {
+        "cid": "8535",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「锻砧、行囊与蜜糖」特许寻访说明",
+        "author": "",
+        "displayTime": 1795492800,
+        "cover": "https://web.hycdn.cn/upload/image/20261120/9adde3baf95bc9e82356706673ae2091.jpg",
+        "extraCover": "",
+        "brief": "亲爱的管理员：「锻砧、行囊与蜜糖」特许寻访开放期间，6星干员【小刻】获取概率提升！「漫野探奇」限时签到活动同步开放，累计签到可获得【漫野探奇寻访凭证】×5等奖励，还可在【集成配额交易】中进行【漫野探奇"
+      },
+      {
         "cid": "1156",
         "tab": "news",
         "sticky": false,
@@ -79,43 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20261119/48dd8da098afc095d285cac709c3fbdb.png",
         "extraCover": "",
         "brief": "「穿越甚大蘑境与你相逢」新版本导览专题网页已上线。一站式查阅新版本内容，浏览即可领取【嵌晶玉】×1000、【折金票】×10000、【初级认知载体】×8、【武器检查套组】×4。领取时间：2026/11/"
-      },
-      {
-        "cid": "5971",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「月映申领」限时特卖说明",
-        "author": "",
-        "displayTime": 1793788200,
-        "cover": "https://web.hycdn.cn/upload/image/20261102/8f8ab35996133973db9301297b05f81b.png",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「月映申领」开放期间，6星武器【唤月（单手剑）】获取概率提升！▼//「月映申领」· 开放时间：2026/11/05 12:00（服务器时间）开启，于3次「特许寻访」后结束（从「烟火邀星河"
-      },
-      {
-        "cid": "3893",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「祖泉的新流」重构寻访1与「细枝申领」重构申领1开放",
-        "author": "",
-        "displayTime": 1793181600,
-        "cover": "https://web.hycdn.cn/upload/image/20261029/584402670a2fd8afd90412ee0bbb4dd9.png",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「祖泉的新流」重构寻访1开放期间，6星干员【汤汤】获取概率提升！「细枝申领」重构申领1开放期间，6星武器【落草（手铳）】获取概率提升！▼//开放时间2026/10/29 12:00 - "
-      },
-      {
-        "cid": "9326",
-        "tab": "news",
-        "sticky": false,
-        "title": "「丹青渡」版本创作征集活动进行中",
-        "author": "",
-        "displayTime": 1792126800,
-        "cover": "https://web.hycdn.cn/upload/image/20261016/79d9bdebd562b2b7421339c40d5c1199.jpg",
-        "extraCover": "",
-        "brief": "管理员，《明日方舟：终末地》「丹青渡」版本创作征集活动正在哔哩哔哩、抖音、小红书、微博、微信游戏圈、TapTap、知乎等多个社区平台进行中。按对应要求进行内容创作与分享，即可参与奖金瓜分、创作评优与互"
       }
     ],
     "current": 1,
     "pageSize": 10,
-    "total": 115
+    "total": 118
   }
 }

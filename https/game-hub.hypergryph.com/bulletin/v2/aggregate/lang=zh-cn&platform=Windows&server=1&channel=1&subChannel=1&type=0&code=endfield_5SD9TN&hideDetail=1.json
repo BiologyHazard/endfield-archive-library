@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "ee2710071f7869551e12e5194b2cef0b",
+    "version": "102683a65ebc042caca9832a57c699d8",
     "onlineList": [
       {
         "cid": "8836",
@@ -92,12 +92,6 @@
       {
         "cid": "1357",
         "version": 1795429101,
-        "needRedDot": false,
-        "needPopup": false
-      },
-      {
-        "cid": "9848",
-        "version": 1795429176,
         "needRedDot": false,
         "needPopup": false
       },
@@ -235,7 +229,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795429177,
+    "updatedAt": 1795492800,
     "list": [
       {
         "cid": "8836",
@@ -393,18 +387,6 @@
         "focus": 0,
         "extraData": {},
         "title": "创作征集活动"
-      },
-      {
-        "cid": "9848",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1792123200,
-        "focus": 0,
-        "extraData": {},
-        "title": "森空岛丹青渡\\n创作者激励活动"
       },
       {
         "cid": "8932",
