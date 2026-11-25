@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "f65e2f24a1ab4532efd22a0d226eb0da",
+    "version": "0bd3b3a2a128bc6f310cb3c60ea8807d",
     "onlineList": [
       {
         "cid": "5404",
@@ -20,6 +20,24 @@
       {
         "cid": "4597",
         "version": 1793708723,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3925",
+        "version": 1795522831,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "6340",
+        "version": 1795573857,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "5402",
+        "version": 1795519994,
         "needRedDot": true,
         "needPopup": false
       },
@@ -55,7 +73,7 @@
       },
       {
         "cid": "3926",
-        "version": 1795519997,
+        "version": 1795572136,
         "needRedDot": true,
         "needPopup": false
       },
@@ -139,7 +157,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795561200,
+    "updatedAt": 1795579200,
     "list": [
       {
         "cid": "5404",
@@ -162,6 +180,40 @@
         "startAt": 1793851200,
         "focus": 0,
         "title": "最会拉线之人\\n现身塔卫二？！"
+      },
+      {
+        "cid": "3925",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1795579200,
+        "focus": 0,
+        "title": "完成高校认证\\n领专属福利"
+      },
+      {
+        "cid": "6340",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1795573800,
+        "focus": 1,
+        "extraData": {},
+        "title": "已知问题说明"
+      },
+      {
+        "cid": "5402",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1795568400,
+        "focus": 0,
+        "title": "版本更新说明"
       },
       {
         "cid": "5401",
@@ -227,6 +279,7 @@
         "displayType": "rich_text",
         "startAt": 1795561200,
         "focus": 0,
+        "extraData": {},
         "title": "锻砧、行囊与蜜糖\\n特许寻访"
       },
       {

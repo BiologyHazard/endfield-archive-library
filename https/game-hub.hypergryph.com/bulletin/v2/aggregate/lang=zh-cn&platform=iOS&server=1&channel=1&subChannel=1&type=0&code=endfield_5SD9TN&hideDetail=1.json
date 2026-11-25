@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:iOS:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "7dfe7c270f54c43facb3686677a54a39",
+    "version": "7df0f2af25e6f0100a88155cc4a2733d",
     "onlineList": [
       {
         "cid": "5404",
@@ -20,6 +20,30 @@
       {
         "cid": "4597",
         "version": 1793708723,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "1259",
+        "version": 1795590583,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "3925",
+        "version": 1795522831,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "6340",
+        "version": 1795573857,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "5402",
+        "version": 1795519994,
         "needRedDot": true,
         "needPopup": false
       },
@@ -48,12 +72,6 @@
         "needPopup": false
       },
       {
-        "cid": "0770",
-        "version": 1791784505,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
         "cid": "1392",
         "version": 1791784505,
         "needRedDot": true,
@@ -73,7 +91,7 @@
       },
       {
         "cid": "3926",
-        "version": 1795519997,
+        "version": 1795572136,
         "needRedDot": true,
         "needPopup": false
       },
@@ -157,7 +175,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795561200,
+    "updatedAt": 1795593600,
     "list": [
       {
         "cid": "5404",
@@ -180,6 +198,51 @@
         "startAt": 1793851200,
         "focus": 0,
         "title": "最会拉线之人\\n现身塔卫二？！"
+      },
+      {
+        "cid": "1259",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1795593600,
+        "focus": 0,
+        "title": "森空岛\\n版本限时任务"
+      },
+      {
+        "cid": "3925",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1795579200,
+        "focus": 0,
+        "title": "完成高校认证\\n领专属福利"
+      },
+      {
+        "cid": "6340",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1795573800,
+        "focus": 1,
+        "extraData": {},
+        "title": "已知问题说明"
+      },
+      {
+        "cid": "5402",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1795568400,
+        "focus": 0,
+        "title": "版本更新说明"
       },
       {
         "cid": "5401",
@@ -226,17 +289,6 @@
         "title": "新版本导览"
       },
       {
-        "cid": "0770",
-        "type": 0,
-        "tab": "news",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1788343200,
-        "focus": 0,
-        "title": "完成高校认证\\n领专属福利"
-      },
-      {
         "cid": "1392",
         "type": 0,
         "tab": "news",
@@ -278,6 +330,7 @@
         "displayType": "rich_text",
         "startAt": 1795561200,
         "focus": 0,
+        "extraData": {},
         "title": "锻砧、行囊与蜜糖\\n特许寻访"
       },
       {

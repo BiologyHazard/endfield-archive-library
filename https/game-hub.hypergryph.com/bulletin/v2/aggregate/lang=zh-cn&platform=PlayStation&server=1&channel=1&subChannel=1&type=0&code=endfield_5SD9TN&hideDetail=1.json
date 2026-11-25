@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "8169c2c78aada52affed9975ba8f0bad",
+    "version": "f0d4483f64e6b3e92dbba9bc2127368a",
     "onlineList": [
       {
         "cid": "5404",
@@ -20,6 +20,18 @@
       {
         "cid": "4597",
         "version": 1793708723,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "6340",
+        "version": 1795573857,
+        "needRedDot": false,
+        "needPopup": false
+      },
+      {
+        "cid": "5402",
+        "version": 1795519994,
         "needRedDot": true,
         "needPopup": false
       },
@@ -55,7 +67,7 @@
       },
       {
         "cid": "3926",
-        "version": 1795519997,
+        "version": 1795572136,
         "needRedDot": true,
         "needPopup": false
       },
@@ -139,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795561200,
+    "updatedAt": 1795573858,
     "list": [
       {
         "cid": "5404",
@@ -162,6 +174,29 @@
         "startAt": 1793851200,
         "focus": 0,
         "title": "最会拉线之人\\n现身塔卫二？！"
+      },
+      {
+        "cid": "6340",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1795573800,
+        "focus": 1,
+        "extraData": {},
+        "title": "已知问题说明"
+      },
+      {
+        "cid": "5402",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1795568400,
+        "focus": 0,
+        "title": "版本更新说明"
       },
       {
         "cid": "5401",
@@ -227,6 +262,7 @@
         "displayType": "rich_text",
         "startAt": 1795561200,
         "focus": 0,
+        "extraData": {},
         "title": "锻砧、行囊与蜜糖\\n特许寻访"
       },
       {
