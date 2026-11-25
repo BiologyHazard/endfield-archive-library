@@ -9,14 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "2:Windows:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "7e2e83feded3f23df63946c7d262a14b",
+    "version": "d5eb67a1f4ef454d3636129b1c9fd8ec",
     "onlineList": [
-      {
-        "cid": "7266",
-        "version": 1792026899,
-        "needRedDot": true,
-        "needPopup": false
-      },
       {
         "cid": "1360",
         "version": 1783924245,
@@ -24,8 +18,8 @@
         "needPopup": false
       },
       {
-        "cid": "2181",
-        "version": 1792027455,
+        "cid": "7266",
+        "version": 1792026899,
         "needRedDot": true,
         "needPopup": false
       },
@@ -55,20 +49,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1792027456,
+    "updatedAt": 1795558080,
     "list": [
-      {
-        "cid": "7266",
-        "type": 2,
-        "tab": "cloud",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1792015200,
-        "focus": 0,
-        "extraData": {},
-        "title": "《云·终末地》正式上线"
-      },
       {
         "cid": "1360",
         "type": 2,
@@ -81,16 +63,16 @@
         "title": "公平运营声明"
       },
       {
-        "cid": "2181",
+        "cid": "7266",
         "type": 2,
         "tab": "cloud",
         "orderType": 1,
         "orderWeight": 1,
         "displayType": "rich_text",
-        "startAt": 1792026000,
+        "startAt": 1792015200,
         "focus": 0,
         "extraData": {},
-        "title": "版本更新说明"
+        "title": "《云·终末地》正式上线"
       },
       {
         "cid": "5519",

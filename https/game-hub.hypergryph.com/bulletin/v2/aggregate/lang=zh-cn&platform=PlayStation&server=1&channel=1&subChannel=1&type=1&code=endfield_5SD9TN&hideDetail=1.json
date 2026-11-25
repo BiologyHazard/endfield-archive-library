@@ -9,26 +9,8 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "1:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "723f0dc5f09ee3d60631279a3d138c9f",
+    "version": "45ec62a1691c64153622d740231ae5ee",
     "onlineList": [
-      {
-        "cid": "9760",
-        "version": 1795172970,
-        "needRedDot": true,
-        "needPopup": true
-      },
-      {
-        "cid": "1362",
-        "version": 1793844853,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "0774",
-        "version": 1793155226,
-        "needRedDot": false,
-        "needPopup": false
-      },
       {
         "cid": "1386",
         "version": 1773268347,
@@ -55,42 +37,8 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795406400,
+    "updatedAt": 1795557600,
     "list": [
-      {
-        "cid": "9760",
-        "type": 1,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1795406400,
-        "focus": 1,
-        "title": "预下载与\\n更新预告"
-      },
-      {
-        "cid": "1362",
-        "type": 1,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1793844000,
-        "focus": 1,
-        "title": "已知问题说明"
-      },
-      {
-        "cid": "0774",
-        "type": 1,
-        "tab": "updates",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1792026000,
-        "focus": 0,
-        "extraData": {},
-        "title": "版本更新说明"
-      },
       {
         "cid": "1386",
         "type": 1,

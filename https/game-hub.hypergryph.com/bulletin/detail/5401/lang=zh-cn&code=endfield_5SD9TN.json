@@ -1,0 +1,24 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "5401",
+    "type": 0,
+    "tab": "events",
+    "orderType": 1,
+    "orderWeight": 1,
+    "displayType": "rich_text",
+    "focus": 0,
+    "startAt": 1795561200,
+    "title": "新版本\\n日历",
+    "header": "「穿越甚大蘑境与你相逢」版本日历",
+    "jumpButton": null,
+    "data": {
+      "html": "<p></p><img src=\"https://web.hycdn.cn/upload/image/20261124/d7adc085a638c01190724641a5389581.png\" data-width=\"1920\" data-height=\"3220\"><p></p>",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1795520044
+  },
+  "msg": ""
+}
