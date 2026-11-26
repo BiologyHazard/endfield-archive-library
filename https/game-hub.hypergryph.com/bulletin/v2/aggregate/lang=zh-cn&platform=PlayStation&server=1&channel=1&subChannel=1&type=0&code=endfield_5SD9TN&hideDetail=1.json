@@ -9,17 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "f0d4483f64e6b3e92dbba9bc2127368a",
+    "version": "3f8ea5e4dd457e00aadd4b191b4707a3",
     "onlineList": [
       {
         "cid": "5404",
         "version": 1795013470,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "4597",
-        "version": 1793708723,
         "needRedDot": true,
         "needPopup": false
       },
@@ -151,7 +145,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795573858,
+    "updatedAt": 1795622340,
     "list": [
       {
         "cid": "5404",
@@ -163,17 +157,6 @@
         "startAt": 1795013400,
         "focus": 0,
         "title": "特别答谢\\n致管理员"
-      },
-      {
-        "cid": "4597",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1793851200,
-        "focus": 0,
-        "title": "最会拉线之人\\n现身塔卫二？！"
       },
       {
         "cid": "6340",

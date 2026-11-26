@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "2:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "52a7e33e5641333957560a2454d70c8a",
+    "version": "1f0f3ca2113f0b02305832077a8f116b",
     "onlineList": [
       {
         "cid": "1360",
@@ -20,12 +20,6 @@
       {
         "cid": "7177",
         "version": 1795557540,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "7266",
-        "version": 1792026899,
         "needRedDot": true,
         "needPopup": false
       },
@@ -55,7 +49,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795568400,
+    "updatedAt": 1795644000,
     "list": [
       {
         "cid": "1360",
@@ -78,18 +72,6 @@
         "startAt": 1795568400,
         "focus": 0,
         "title": "版本更新说明"
-      },
-      {
-        "cid": "7266",
-        "type": 2,
-        "tab": "cloud",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1792015200,
-        "focus": 0,
-        "extraData": {},
-        "title": "《云·终末地》正式上线"
       },
       {
         "cid": "5519",

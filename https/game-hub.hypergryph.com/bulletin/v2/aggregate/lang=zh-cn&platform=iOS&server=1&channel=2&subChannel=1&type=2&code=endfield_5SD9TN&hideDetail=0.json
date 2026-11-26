@@ -9,7 +9,7 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "2:iOS:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "52a7e33e5641333957560a2454d70c8a",
+    "version": "1f0f3ca2113f0b02305832077a8f116b",
     "onlineList": [
       {
         "cid": "1360",
@@ -20,12 +20,6 @@
       {
         "cid": "7177",
         "version": 1795557540,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "7266",
-        "version": 1792026899,
         "needRedDot": true,
         "needPopup": false
       },
@@ -55,7 +49,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795568400,
+    "updatedAt": 1795644000,
     "list": [
       {
         "cid": "1360",
@@ -88,24 +82,6 @@
         "jumpButton": null,
         "data": {
           "html": "<img src=\"https://web.hycdn.cn/upload/image/20261015/bf637cf0251510490df7d4bdcec6a8d5.png\" data-width=\"1650\" data-height=\"300\"><p>亲爱的管理员：</p><p>为了带来更好的游戏体验，《云·终末地》将在2026年11月25日进行版本更新，本次更新说明如下：</p><p></p><h2>▼//更新维护说明</h2><h3>■ 更新维护时间</h3><p>&nbsp;2026/11/25 06:00 - 2026/11/25 12:00（UTC+8）</p><p>※ 维护后的开服时间存在提前或延迟的可能，详情请关注官方公告。</p><h3>■ 更新方式说明</h3><p>本次更新为强制更新，更新结束后，需重新下载并安装游戏客户端。版本更新维护开始后，管理员可依照游戏内指引进行更新。</p><p>· iOS：进入App Store，点击更新。</p><p>· 安卓：进入游戏后，按照游戏内弹窗提示完成更新。</p><p>· 网页版：按照游戏内弹窗提示刷新网页完成更新。</p><p></p><h2>▼//更新内容</h2><h3>■ 问题修复</h3><p>· 修复了在【活动中心】中打开部分【趣味活动】并跳转至网页体验时，有概率出现长时间未操作提示并退出游戏的问题。</p><p>· 修复了使用移动设备操作【协议同步器】时，陀螺仪交互异常的问题。</p><p></p><h2>■ 体验优化</h2><p>· 支持iOS和安卓端设备上的战斗及操作过程中的震动效果（设备需具备震动硬件及相关系统能力）。</p>",
-          "linkType": 1
-        }
-      },
-      {
-        "cid": "7266",
-        "type": 2,
-        "tab": "cloud",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1792015200,
-        "focus": 0,
-        "extraData": {},
-        "title": "《云·终末地》正式上线",
-        "header": "《云·终末地》正式上线",
-        "jumpButton": null,
-        "data": {
-          "html": "<img src=\"https://web.hycdn.cn/upload/image/20261014/9e22026ab446dce48707113d962a65ad.png\" data-width=\"1650\" data-height=\"300\"><p><span style=\"color: rgb(31, 35, 41);\">亲爱的管理员：</span></p><p><span style=\"color: rgb(31, 35, 41);\">《明日方舟：终末地》官方云游戏《云·终末地》正式上线！</span></p><p><span style=\"color: rgb(31, 35, 41);\">云端之上，体验不设限！</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//推荐配置及存储</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">· iOS：iOS 13.0及以上系统，客户端约65MB，建议预留约150MB缓存</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 安卓：Android 7.0及以上系统，客户端约150MB，建议预留约150MB缓存</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 网页版：Windows端或macOS端浏览器推荐使用Safari、Chrome、Edge及Chromium内核的浏览器，移动端浏览器建议使用系统自带浏览器或下载Chrome浏览器进行体验</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//时长福利</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">· 首次登录《云·终末地》即可领取3天体验卡和600分钟免费时长，后续每个版本更新时，管理员登录《云·终末地》均可一次性领取600分钟免费时长。免费时长的累计上限为600分钟，达到600分钟上限后不再累积。</span></p><p><span style=\"color: rgb(31, 35, 41);\">· 管理员在【明日方舟：终末地】【云·终末地】【鹰角支付中心】任一渠道购买【月卡】可免费获得7天【畅玩卡】；购买【协议定制】可获得21天【畅玩卡】。畅玩卡生效期间还可享受加速排队的权益，通过快速通道优先进入游戏。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\"><strong>▼//注意事项</strong></span></p><p><span style=\"color: rgb(31, 35, 41);\">1.通过《云·终末地》体验到的《明日方舟：终末地》游戏版本及游戏进度，与通过其他平台体验的内容会保持同步。</span></p><p><span style=\"color: rgb(31, 35, 41);\">2.在登录高峰期可能会出现排队，请管理员耐心等待或错峰使用《云·终末地》体验游戏。</span></p><p><span style=\"color: rgb(31, 35, 41);\">※ 更多细则请前往对应公告查看。</span></p><p></p><p><span style=\"color: rgb(31, 35, 41);\">再次感谢管理员一直以来对《明日方舟：终末地》的关注与支持！</span></p>",
           "linkType": 1
         }
       },

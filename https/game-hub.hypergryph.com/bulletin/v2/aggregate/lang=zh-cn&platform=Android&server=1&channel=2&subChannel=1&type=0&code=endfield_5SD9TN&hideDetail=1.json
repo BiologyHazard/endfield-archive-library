@@ -9,17 +9,11 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "0bd3b3a2a128bc6f310cb3c60ea8807d",
+    "version": "f156ffaf219efb1b58814f8ccfbb1083",
     "onlineList": [
       {
         "cid": "5404",
         "version": 1795013470,
-        "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "4597",
-        "version": 1793708723,
         "needRedDot": true,
         "needPopup": false
       },
@@ -157,7 +151,7 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795579200,
+    "updatedAt": 1795622340,
     "list": [
       {
         "cid": "5404",
@@ -169,17 +163,6 @@
         "startAt": 1795013400,
         "focus": 0,
         "title": "特别答谢\\n致管理员"
-      },
-      {
-        "cid": "4597",
-        "type": 0,
-        "tab": "news",
-        "orderType": 0,
-        "orderWeight": 1,
-        "displayType": "picture",
-        "startAt": 1793851200,
-        "focus": 0,
-        "title": "最会拉线之人\\n现身塔卫二？！"
       },
       {
         "cid": "3925",
