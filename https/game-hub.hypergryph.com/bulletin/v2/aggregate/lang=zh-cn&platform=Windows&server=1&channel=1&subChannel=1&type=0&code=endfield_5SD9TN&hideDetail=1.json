@@ -9,11 +9,23 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Windows:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "11ea0beefd81959d08ef79a4c40f340b",
+    "version": "19bf9298f6c4a265af24a3bc777ed06d",
     "onlineList": [
+      {
+        "cid": "8834",
+        "version": 1795661647,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "5404",
         "version": 1795013470,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "4592",
+        "version": 1795602208,
         "needRedDot": true,
         "needPopup": false
       },
@@ -27,12 +39,6 @@
         "cid": "3925",
         "version": 1795522831,
         "needRedDot": true,
-        "needPopup": false
-      },
-      {
-        "cid": "6340",
-        "version": 1795573857,
-        "needRedDot": false,
         "needPopup": false
       },
       {
@@ -169,8 +175,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795622340,
+    "updatedAt": 1795669200,
     "list": [
+      {
+        "cid": "8834",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1795662000,
+        "focus": 1,
+        "title": "更新修复说明"
+      },
       {
         "cid": "5404",
         "type": 0,
@@ -181,6 +198,17 @@
         "startAt": 1795013400,
         "focus": 0,
         "title": "特别答谢\\n致管理员"
+      },
+      {
+        "cid": "4592",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1795669200,
+        "focus": 0,
+        "title": "创作征集活动"
       },
       {
         "cid": "1259",
@@ -203,18 +231,6 @@
         "startAt": 1795579200,
         "focus": 0,
         "title": "完成高校认证\\n领专属福利"
-      },
-      {
-        "cid": "6340",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1795573800,
-        "focus": 1,
-        "extraData": {},
-        "title": "已知问题说明"
       },
       {
         "cid": "5402",

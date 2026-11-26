@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "4774",
+        "tab": "news",
+        "sticky": false,
+        "title": "「丹青渡」新版本导览上线，浏览领嵌晶玉！",
+        "author": "",
+        "displayTime": 1791289380,
+        "cover": "https://web.hycdn.cn/upload/image/20260930/edd8254d71b1feeb662f5eade79e9f84.png",
+        "extraCover": "",
+        "brief": "「丹青渡」新版本导览专题网页上线，一站式查阅新版本内容，浏览即可领取【嵌晶玉】×1000、【折金票】×10000、【初级认知载体】×8，【武器检查套组】×4。▼//网页入口链接管理员可以通过下方链接、"
+      },
+      {
         "cid": "5987",
         "tab": "events",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260730/582e9e65b618415860f7771e8b439325.jpg",
         "extraCover": "",
         "brief": "亲爱的管理员：「明曜申领」开放期间，6星武器【曜夜的首演（长柄武器）】获取概率提升！▼//「明曜申领」· 开放时间：2026/08/09 12:00（服务器时间）开启，于3次「特许寻访」后结束（从「晨"
-      },
-      {
-        "cid": "1165",
-        "tab": "notices",
-        "sticky": false,
-        "title": "「晨星于此闪耀」特许寻访说明",
-        "author": "",
-        "displayTime": 1786183200,
-        "cover": "https://web.hycdn.cn/upload/image/20260730/9e816139877ce8a07a30b1d001d7341d.jpg",
-        "extraCover": "",
-        "brief": "亲爱的管理员：「晨星于此闪耀」特许寻访开放期间，6星干员【梨诺】获取概率提升！「明耀晨星」限时签到活动同步开放，累计签到可获得【明耀晨星寻访凭证】×5等奖励，还可在【集成配额交易】中进行【明耀晨星寻访"
       }
     ],
     "current": 3,
     "pageSize": 10,
-    "total": 118
+    "total": 119
   }
 }

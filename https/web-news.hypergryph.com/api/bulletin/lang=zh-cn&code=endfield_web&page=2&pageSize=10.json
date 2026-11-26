@@ -4,6 +4,17 @@
   "data": {
     "list": [
       {
+        "cid": "5971",
+        "tab": "notices",
+        "sticky": false,
+        "title": "「月映申领」限时特卖说明",
+        "author": "",
+        "displayTime": 1793788200,
+        "cover": "https://web.hycdn.cn/upload/image/20261102/8f8ab35996133973db9301297b05f81b.png",
+        "extraCover": "",
+        "brief": "亲爱的管理员：「月映申领」开放期间，6星武器【唤月（单手剑）】获取概率提升！▼//「月映申领」· 开放时间：2026/11/05 12:00（服务器时间）开启，于3次「特许寻访」后结束（从「烟火邀星河"
+      },
+      {
         "cid": "7204",
         "tab": "notices",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20260930/671f07273d5ee166618887f3ce4d9353.png",
         "extraCover": "",
         "brief": "亲爱的管理员：这里是《明日方舟：终末地》项目组。秋景现，丹青垂。《明日方舟：终末地》新版本「丹青渡」将于10月15日开启。通过本期研发通讯，我们将为管理员介绍即将在此版本中上线的一系列优化与调整。「新"
-      },
-      {
-        "cid": "4774",
-        "tab": "news",
-        "sticky": false,
-        "title": "「丹青渡」新版本导览上线，浏览领嵌晶玉！",
-        "author": "",
-        "displayTime": 1791289380,
-        "cover": "https://web.hycdn.cn/upload/image/20260930/edd8254d71b1feeb662f5eade79e9f84.png",
-        "extraCover": "",
-        "brief": "「丹青渡」新版本导览专题网页上线，一站式查阅新版本内容，浏览即可领取【嵌晶玉】×1000、【折金票】×10000、【初级认知载体】×8，【武器检查套组】×4。▼//网页入口链接管理员可以通过下方链接、"
       }
     ],
     "current": 2,
     "pageSize": 10,
-    "total": 118
+    "total": 119
   }
 }

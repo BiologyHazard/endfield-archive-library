@@ -9,18 +9,18 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "f36489920092106d4303ca64d38b7335",
+    "version": "1bb9358cb5cd3a1900435380b4ecdb39",
     "onlineList": [
       {
-        "cid": "5404",
-        "version": 1795013470,
+        "cid": "8834",
+        "version": 1795661647,
         "needRedDot": true,
         "needPopup": false
       },
       {
-        "cid": "6340",
-        "version": 1795573857,
-        "needRedDot": false,
+        "cid": "5404",
+        "version": 1795013470,
+        "needRedDot": true,
         "needPopup": false
       },
       {
@@ -139,8 +139,19 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795622340,
+    "updatedAt": 1795662017,
     "list": [
+      {
+        "cid": "8834",
+        "type": 0,
+        "tab": "updates",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "rich_text",
+        "startAt": 1795662000,
+        "focus": 1,
+        "title": "更新修复说明"
+      },
       {
         "cid": "5404",
         "type": 0,
@@ -151,18 +162,6 @@
         "startAt": 1795013400,
         "focus": 0,
         "title": "特别答谢\\n致管理员"
-      },
-      {
-        "cid": "6340",
-        "type": 0,
-        "tab": "updates",
-        "orderType": 1,
-        "orderWeight": 1,
-        "displayType": "rich_text",
-        "startAt": 1795573800,
-        "focus": 1,
-        "extraData": {},
-        "title": "已知问题说明"
       },
       {
         "cid": "5402",
