@@ -9,8 +9,20 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:PlayStation:#DEFAULT:2:#DEFAULT:zh-cn",
-    "version": "1bb9358cb5cd3a1900435380b4ecdb39",
+    "version": "496caca62fa0f6cc3f2fe5dff9842ae7",
     "onlineList": [
+      {
+        "cid": "3924",
+        "version": 1795692300,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7175",
+        "version": 1795749238,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "8834",
         "version": 1795661647,
@@ -139,8 +151,30 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795662017,
+    "updatedAt": 1795752000,
     "list": [
+      {
+        "cid": "3924",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1795752000,
+        "focus": 0,
+        "title": "终末地？\\n肿么滴！"
+      },
+      {
+        "cid": "7175",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1795752000,
+        "focus": 0,
+        "title": "2027终末回响\\n情报公开"
+      },
       {
         "cid": "8834",
         "type": 0,
@@ -150,6 +184,7 @@
         "displayType": "rich_text",
         "startAt": 1795662000,
         "focus": 1,
+        "extraData": {},
         "title": "更新修复说明"
       },
       {

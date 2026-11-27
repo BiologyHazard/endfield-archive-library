@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "7175",
+    "type": 0,
+    "tab": "news",
+    "orderType": 0,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1795752000,
+    "title": "2027终末回响\\n情报公开",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20261126/28e5e3f512832fc1749fb1a383f7715b.png",
+      "link": "https://www.bilibili.com/video/BV1GF17zKEiP/",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1795749238
+  },
+  "msg": ""
+}

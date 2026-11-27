@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "data": {
+    "cid": "3924",
+    "type": 0,
+    "tab": "news",
+    "orderType": 0,
+    "orderWeight": 1,
+    "displayType": "picture",
+    "focus": 0,
+    "startAt": 1795752000,
+    "title": "终末地？\\n肿么滴！",
+    "header": "",
+    "jumpButton": null,
+    "data": {
+      "url": "https://web.hycdn.cn/upload/image/20261126/5aa418c192c116198d33324ea66a15fc.jpg",
+      "link": "https://market.m.taobao.com/app/tb-shop/shop-page-webapp/pages/custom-page/index.html?shopId=414690138&sellerId=2221386384051&pageId=480743987&pathInfo=shop/activity2&isShopDomain=true",
+      "linkType": 1
+    },
+    "needRedDot": true,
+    "needPopup": false,
+    "version": 1795692300
+  },
+  "msg": ""
+}

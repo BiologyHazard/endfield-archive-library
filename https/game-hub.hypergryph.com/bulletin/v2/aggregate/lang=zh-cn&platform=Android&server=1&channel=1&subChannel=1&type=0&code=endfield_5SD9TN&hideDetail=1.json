@@ -9,8 +9,20 @@
     "subChannel": "#DEFAULT",
     "lang": "zh-cn",
     "key": "0:Android:#DEFAULT:1:#DEFAULT:zh-cn",
-    "version": "40e2f08cfd67eb0f3f212bea180c431c",
+    "version": "965ffd1a6ba659e1aaaaa9ecbcb8f125",
     "onlineList": [
+      {
+        "cid": "3924",
+        "version": 1795692300,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "7175",
+        "version": 1795749238,
+        "needRedDot": true,
+        "needPopup": false
+      },
       {
         "cid": "8834",
         "version": 1795661647,
@@ -20,6 +32,12 @@
       {
         "cid": "5404",
         "version": 1795013470,
+        "needRedDot": true,
+        "needPopup": false
+      },
+      {
+        "cid": "9768",
+        "version": 1795590577,
         "needRedDot": true,
         "needPopup": false
       },
@@ -175,8 +193,30 @@
       }
     ],
     "popupVersion": 0,
-    "updatedAt": 1795669200,
+    "updatedAt": 1795766400,
     "list": [
+      {
+        "cid": "3924",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1795752000,
+        "focus": 0,
+        "title": "终末地？\\n肿么滴！"
+      },
+      {
+        "cid": "7175",
+        "type": 0,
+        "tab": "news",
+        "orderType": 0,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1795752000,
+        "focus": 0,
+        "title": "2027终末回响\\n情报公开"
+      },
       {
         "cid": "8834",
         "type": 0,
@@ -186,6 +226,7 @@
         "displayType": "rich_text",
         "startAt": 1795662000,
         "focus": 1,
+        "extraData": {},
         "title": "更新修复说明"
       },
       {
@@ -198,6 +239,17 @@
         "startAt": 1795013400,
         "focus": 0,
         "title": "特别答谢\\n致管理员"
+      },
+      {
+        "cid": "9768",
+        "type": 0,
+        "tab": "news",
+        "orderType": 1,
+        "orderWeight": 1,
+        "displayType": "picture",
+        "startAt": 1795766400,
+        "focus": 0,
+        "title": "森空岛\\n创作者激励活动"
       },
       {
         "cid": "0683",

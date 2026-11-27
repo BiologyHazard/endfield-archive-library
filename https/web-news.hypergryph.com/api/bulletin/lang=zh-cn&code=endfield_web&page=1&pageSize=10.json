@@ -48,6 +48,17 @@
         "brief": "亲爱的管理员：衷心感谢管理员一直以来的陪伴与支持！《明日方舟：终末地》荣获【Google Play 2026 年度最佳游戏】及【Google Play 2026 年度最佳剧情游戏】奖项。同时，也获得了"
       },
       {
+        "cid": "0418",
+        "tab": "news",
+        "sticky": false,
+        "title": "2027终末回响-镌宇留声 情报公开",
+        "author": "",
+        "displayTime": 1795752000,
+        "cover": "https://web.hycdn.cn/upload/image/20261126/78aea27d67ffafcc9079b2bf3c4dc97e.png",
+        "extraCover": "",
+        "brief": "「2027明日方舟：终末地终末回响专场演出-镌宇留声」先导预告公开最初，人们记录声音，是为了抵抗遗忘。留声机的童谣，深海的鲸歌，废墟上的咏叹……可生命如此短暂，连文明也只是一瞬划过的流星。于是，我们开"
+      },
+      {
         "cid": "3890",
         "tab": "news",
         "sticky": false,
@@ -101,21 +112,10 @@
         "cover": "https://web.hycdn.cn/upload/image/20261120/0f835da8c6ef995b2017c7df5b21a740.jpg",
         "extraCover": "",
         "brief": "【配队推荐&养成建议】工具新增【智能推荐】功能，为管理员量身打造个性配队与养成路线！>>>点击前往《明日方舟：终末地》配队工具<<<"
-      },
-      {
-        "cid": "5970",
-        "tab": "news",
-        "sticky": false,
-        "title": "「穿越甚大蘑境与你相逢」新版本导览 浏览领嵌晶玉",
-        "author": "",
-        "displayTime": 1795262400,
-        "cover": "https://web.hycdn.cn/upload/image/20261119/48dd8da098afc095d285cac709c3fbdb.png",
-        "extraCover": "",
-        "brief": "「穿越甚大蘑境与你相逢」新版本导览专题网页已上线。一站式查阅新版本内容，浏览即可领取【嵌晶玉】×1000、【折金票】×10000、【初级认知载体】×8、【武器检查套组】×4。领取时间：2026/11/"
       }
     ],
     "current": 1,
     "pageSize": 10,
-    "total": 119
+    "total": 120
   }
 }
